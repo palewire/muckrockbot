@@ -2,3 +2,4 @@ Django
 gunicorn
 django-heroku
 psycopg2-binary
+django-feedreader

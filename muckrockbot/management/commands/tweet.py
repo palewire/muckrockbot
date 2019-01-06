@@ -15,5 +15,5 @@ class Command(BaseCommand):
                 print("Created tweet record for {}".format(entry))
             if not tweet.tweet_id:
                 print("Tweeting {}".format(tweet))
-                # tweet.post()
-                # time.sleep(3)
+                tweet.post()
+                time.sleep(3)

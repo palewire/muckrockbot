@@ -6,6 +6,28 @@ from django.conf import settings
 from feedreader.models import Entry
 
 
+class Request(models.Model):
+    """
+    A FOIA request at MuckRock
+    """
+    muckrock_id = models.IntegerField()
+    title = models.CharField(max_length=2000)
+    slug = models.CharField(max_length=2000)
+    status = models.CharField(max_length=50)
+    username = models.CharField(max_length=2000)
+    datetime_submitted = models.DateTimeField(null=True)
+    datetime_done = models.DateTimeField(null=True)
+    absolute_url = models.CharField(max_length=2000)
+    created_at = models.DateTimeField(auto_now_add=True)
+    updated_at = models.DateTimeField(auto_now=True)
+
+    def __str__(self):
+        return self.title
+
+    def get_absolute_url(self):
+        return "https://www.muckrock.com{}".format(self.absolute_url)
+
+
 class Tweet(models.Model):
     """
     Every tweet by @muckrockbot.

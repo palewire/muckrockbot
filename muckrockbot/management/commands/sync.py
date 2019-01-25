@@ -9,7 +9,7 @@ class Command(BaseCommand):
 
     def handle(self, *args, **options):
         client = MuckRock()
-        [self.save(req) for req in client.foia.get(ordering="-datetime_submitted", status="ack")]
+        [self.save(req) for req in client.foia.get(ordering="-datetime_submitted", has_datetime_submitted=True)]
         [self.save(req) for req in client.foia.get(ordering="-datetime_done", status="done")]
 
     def save(self, req):

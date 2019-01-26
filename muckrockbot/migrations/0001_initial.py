@@ -9,7 +9,7 @@ class Migration(migrations.Migration):
     initial = True
 
     dependencies = [
-        ('feedreader', '0001_initial'),
+        # ('feedreader', '0001_initial'),
     ]
 
     operations = [

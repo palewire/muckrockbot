@@ -20,7 +20,8 @@ class Request(models.Model):
     absolute_url = models.CharField(max_length=2000)
     created_at = models.DateTimeField(auto_now_add=True)
     updated_at = models.DateTimeField(auto_now=True)
-    tweet_id = models.CharField(blank=True, default="", max_length=500)
+    submitted_tweet_id = models.CharField(blank=True, default="", max_length=500)
+    completed_tweet_id = models.CharField(blank=True, default="", max_length=500)
     # Managers
     objects = managers.TwitterQuerySet.as_manager()
     completed = managers.CompletedManager()

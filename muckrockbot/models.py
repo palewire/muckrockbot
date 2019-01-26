@@ -23,6 +23,7 @@ class Request(models.Model):
     submitted_tweet_id = models.CharField(blank=True, default="", max_length=500)
     completed_tweet_id = models.CharField(blank=True, default="", max_length=500)
     # Managers
+    objects = models.Manager()
     completed = managers.CompletedManager()
     submitted = managers.SubmittedManager()
 
@@ -51,29 +52,30 @@ class Request(models.Model):
         return 'https://twitter.com/muckrockbot/status/{}/'.format(self.tweet_id)
 
     @property
-    def tweet_prefix(self):
-        if self.datetime_done:
-            return 'Completed'
-        else:
-            return 'Submitted'
-
-    @property
     def tweet_text(self):
-        return '{}: "{}" by {}'.format(
-            self.tweet_prefix,
+        return '"{}" by {}'.format(
             self.title,
             self.username
         )
 
-    def post(self):
-        if self.tweet_id:
+    def post_submission(self):
+        if self.submitted_tweet_id:
             return False
+        self.submitted_tweet_id = self.post("Completed")
+        self.save()
+
+    def post_completion(self):
+        if self.completed_tweet_id:
+            return False
+        self.completed_tweet_id = self.post("Completed")
+        self.save()
+
+    def post(self, prefix):
         api = twitter.Api(
             consumer_key=settings.TWITTER_CONSUMER_KEY,
             consumer_secret=settings.TWITTER_CONSUMER_SECRET,
             access_token_key=settings.TWITTER_ACCESS_TOKEN_KEY,
             access_token_secret=settings.TWITTER_ACCESS_TOKEN_SECRET
         )
-        status = api.PostUpdate(self.tweet_text + "\n\n" + self.get_absolute_url())
-        self.tweet_id = status.id
-        self.save()
+        status = api.PostUpdate(prefix + ": " + self.tweet_text + "\n\n" + self.get_absolute_url())
+        return status.id

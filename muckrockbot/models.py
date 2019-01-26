@@ -3,6 +3,7 @@ from __future__ import unicode_literals
 import twitter
 from django.db import models
 from django.conf import settings
+from muckrockbot import managers
 from feedreader.models import Entry
 
 
@@ -21,6 +22,8 @@ class Request(models.Model):
     created_at = models.DateTimeField(auto_now_add=True)
     updated_at = models.DateTimeField(auto_now=True)
     tweet_id = models.CharField(blank=True, default="", max_length=500)
+    completed = managers.CompletedManager()
+    submitted = managers.SubmittedManager()
 
     def __str__(self):
         return self.title

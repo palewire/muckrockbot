@@ -23,7 +23,6 @@ class Request(models.Model):
     submitted_tweet_id = models.CharField(blank=True, default="", max_length=500)
     completed_tweet_id = models.CharField(blank=True, default="", max_length=500)
     # Managers
-    objects = managers.TwitterQuerySet.as_manager()
     completed = managers.CompletedManager()
     submitted = managers.SubmittedManager()
 

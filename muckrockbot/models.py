@@ -33,12 +33,19 @@ class Request(models.Model):
     def get_absolute_url(self):
         return "https://www.muckrock.com{}".format(self.absolute_url)
 
-    def is_tweeted(self):
-        if self.tweet_id:
+    def submission_tweeted(self):
+        if self.submitted_tweet_id:
             return True
         else:
             return False
-    is_tweeted.boolean = True
+    submission_tweeted.boolean = True
+
+    def completion_tweeted(self):
+        if self.completed_tweet_id:
+            return True
+        else:
+            return False
+    completion_tweeted.boolean = True
 
     @property
     def twitter_url(self):

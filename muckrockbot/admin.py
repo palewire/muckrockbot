@@ -10,7 +10,8 @@ class RequestAdmin(admin.ModelAdmin):
         "title",
         "datetime_submitted",
         "datetime_done",
-        "is_tweeted"
+        "submission_tweeted",
+        "completion_tweeted"
     )
     list_filter = ("status",)
     search_fields = ["username", "title", "slug"]

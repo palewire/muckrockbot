@@ -61,7 +61,7 @@ class Request(models.Model):
     def post_submission(self):
         if self.submitted_tweet_id:
             return False
-        self.submitted_tweet_id = self.post("Completed")
+        self.submitted_tweet_id = self.post("Submitted")
         self.save()
 
     def post_completion(self):

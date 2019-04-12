@@ -31,7 +31,7 @@ class Request(models.Model):
         return self.title
 
     def get_absolute_url(self):
-        return "https://www.muckrock.com{}".format(self.absolute_url)
+        return self.absolute_url
 
     def submission_tweeted(self):
         if self.submitted_tweet_id:

@@ -30,9 +30,6 @@ class Request(models.Model):
     def __str__(self):
         return self.title
 
-    def get_absolute_url(self):
-        return self.absolute_url
-
     def submission_tweeted(self):
         if self.submitted_tweet_id:
             return True
@@ -77,5 +74,5 @@ class Request(models.Model):
             access_token_key=settings.TWITTER_ACCESS_TOKEN_KEY,
             access_token_secret=settings.TWITTER_ACCESS_TOKEN_SECRET
         )
-        status = api.PostUpdate(prefix + ": " + self.tweet_text + "\n\n" + self.get_absolute_url())
+        status = api.PostUpdate(prefix + ": " + self.tweet_text + "\n\n" + self.absolute_url)
         return status.id

@@ -1,0 +1,26 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+python-muckrock = "*"
+python-twitter = "*"
+pytz = "*"
+click = "*"
+rich = "*"
+
+[dev-packages]
+pre-commit = "*"
+mypy = "*"
+types-requests = "*"
+flake8 = "*"
+flake8-bugbear = "*"
+flake8-docstrings = "*"
+pytest = "*"
+pytest-env = "*"
+pytest-cov = "*"
+black = "*"
+
+[requires]
+python_version = "3.9"

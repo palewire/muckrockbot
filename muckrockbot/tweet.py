@@ -1,5 +1,6 @@
 import json
 import os
+import time
 from pathlib import Path
 
 import click
@@ -24,6 +25,7 @@ def cli():
     for obj in data:
         text = f"""{obj['title']} by {obj['username']} \n\n {obj['absolute_url']}"""
         api.PostUpdate(text)
+        time.sleep(5)
 
 
 if __name__ == "__main__":

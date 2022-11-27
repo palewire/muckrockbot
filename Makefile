@@ -82,6 +82,11 @@ transform: ## Transforming data
 	@$(PYTHON) muckrockbot.transform
 
 
+tweet: ## Tweet new data
+	$(call banner,       🐦 Tweeting 🐦)
+	@$(PYTHON) muckrockbot.tweet
+
+
 #
 # Tests
 #

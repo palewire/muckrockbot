@@ -53,3 +53,4 @@ repos:
         additional_dependencies:
           - types-requests
           - types-pytz
+          - types-python-dateutil

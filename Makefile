@@ -72,9 +72,15 @@ endef
 #
 
 
-download: ## Build the site
+download: ## Download data
 	$(call banner,    🔽 Downloading data 🔽)
 	@$(PYTHON) muckrockbot.download
+
+
+transform: ## Transforming data
+	$(call banner,  🪢 Transforming data 🪢)
+	@$(PYTHON) muckrockbot.transform
+
 
 #
 # Tests

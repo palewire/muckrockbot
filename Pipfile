@@ -9,6 +9,7 @@ python-twitter = "*"
 pytz = "*"
 click = "*"
 rich = "*"
+python-dateutil = "*"
 
 [dev-packages]
 pre-commit = "*"
@@ -22,6 +23,7 @@ pytest-env = "*"
 pytest-cov = "*"
 black = "*"
 types-pytz = "*"
+types-python-dateutil = "*"
 
 [requires]
 python_version = "3.9"

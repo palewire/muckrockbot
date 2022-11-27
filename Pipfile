@@ -21,6 +21,7 @@ pytest = "*"
 pytest-env = "*"
 pytest-cov = "*"
 black = "*"
+types-pytz = "*"
 
 [requires]
 python_version = "3.9"

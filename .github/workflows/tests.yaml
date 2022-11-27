@@ -89,5 +89,5 @@ jobs:
 
       - id: tests
         name: Run tests
-        run: pipenv run pytest -sv --cov
+        run: make test
         shell: bash

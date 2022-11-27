@@ -47,7 +47,7 @@ define banner
     @echo "  $(WHITE)__________$(RESET_COLOR)"
     @echo "$(WHITE) |$(DWHITE)PALEWIRE⚡$(RESET_COLOR)$(WHITE)|$(RESET_COLOR)"
     @echo "$(WHITE) |&&& ======|$(RESET_COLOR)"
-    @echo "$(WHITE) |=== ======|$(RESET_COLOR)  $(DWHITE)This is a $(RESET_COLOR)$(DBLACK)$(BG_WHITE)palewire$(RESET_COLOR)$(DWHITE) automation$(RESET_COLOR)"
+    @echo "$(WHITE) |=== ======|$(RESET_COLOR)  $(DWHITE)This is a $(RESET_COLOR)$(DBLACK)$(BG_WHITE)@palewire$(RESET_COLOR)$(DWHITE) automation$(RESET_COLOR)"
     @echo "$(WHITE) |=== == %%%|$(RESET_COLOR)"
     @echo "$(WHITE) |[_] ======|$(RESET_COLOR)  $(1)"
     @echo "$(WHITE) |=== ===!##|$(RESET_COLOR)"

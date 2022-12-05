@@ -2035,7 +2035,7 @@
     "datetime_done": null,
     "datetime_updated": "2022-12-02T15:15:02.222854",
     "date_embargo": null,
-    "tracking_id": "",
+    "tracking_id": "1574222-000",
     "price": "0.00",
     "disable_autofollowups": false,
     "tags": [],
@@ -2099,7 +2099,7 @@
         "thanks": false,
         "full_html": false,
         "communication": "There are eFOIA files available for you to download.",
-        "status": null,
+        "status": "processed",
         "likely_foia": null,
         "files": [
           {

@@ -87,6 +87,10 @@ tweet: ## Tweet new data
 	@$(PYTHON) muckrockbot.tweet
 
 
+toot: ## Toot new data
+	$(call banner,       🐘 Tooting 🐘)
+	@$(PYTHON) muckrockbot.toot
+
 #
 # Tests
 #

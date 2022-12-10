@@ -10,6 +10,7 @@ pytz = "*"
 click = "*"
 rich = "*"
 python-dateutil = "*"
+"mastodon.py" = "*"
 
 [dev-packages]
 pre-commit = "*"

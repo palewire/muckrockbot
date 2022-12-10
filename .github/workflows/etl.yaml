@@ -50,6 +50,15 @@ jobs:
           TWITTER_ACCESS_TOKEN_KEY: ${{ secrets.TWITTER_ACCESS_TOKEN_KEY }}
           TWITTER_ACCESS_TOKEN_SECRET: ${{ secrets.TWITTER_ACCESS_TOKEN_SECRET }}
 
+      - id: toot
+        name: Send toots
+        run: make toot
+        shell: bash
+        env:
+          MASTODON_CLIENT_KEY: ${{ secrets.MASTODON_CLIENT_KEY }}
+          MASTODON_CLIENT_SECRET: ${{ secrets.MASTODON_CLIENT_SECRET }}
+          MASTODON_ACCESS_TOKEN: ${{ secrets.MASTODON_ACCESS_TOKEN }}
+
       - id: commit
         name: Commit
         run: |

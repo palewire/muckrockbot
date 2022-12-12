@@ -44,7 +44,7 @@
     "id": 137722,
     "title": "John Prados",
     "slug": "john-prados",
-    "status": "submitted",
+    "status": "processed",
     "embargo": false,
     "permanent_embargo": false,
     "user": 22884,
@@ -53,7 +53,7 @@
     "datetime_submitted": "2022-12-11T16:19:58.682338",
     "date_due": "2023-01-10",
     "days_until_due": null,
-    "date_followup": null,
+    "date_followup": "2023-03-11",
     "datetime_done": null,
     "datetime_updated": "2022-12-11T16:19:58.800457",
     "date_embargo": null,
@@ -73,10 +73,10 @@
         "thanks": false,
         "full_html": false,
         "communication": "This is a request for records under the Freedom of Information Act. \r\n\r\nRECORDS REQUESTED:\r\n\r\nPlease produce all records related to Dr. John Frederick Prados (born 9 January 1951, New York City, USA \u2013 died 29 November 2022). Dr. Prados was an independent scholar, author, and fellow at the nonprofit National Security Archive. One focus of\u00a0his\u00a0work was the Central Intelligence Agency, on which he had written\u00a0books and many papers. These included The Ghosts of Langley: Into the CIA\u2019s Heart of Darkness; The Family Jewels: The CIA, Secrecy, and Presidential Power; and What the CIA Tells Congress (Or Doesn\u2019t) about Covert Operations: The Barr/Cheney/Bush Turning Point for CIA Notifications to the Senate.\r\n\r\nIn addition to your standard search protocol, please also conduct a cross-reference search of your files on the National Security Archive and on the SI-TK-BYEMAN group for additional records related to Dr. Prados.\r\n\r\nREQUEST FOR FEE WAIVER:\r\n\r\nI respectfully request that all fees related to this request be waived. \r\n\r\nPUBLIC INTEREST FACTORS:\r\n\r\n1. The subject concerns the operations or activities of the US Government. My request satisfies this factor because it requests records related to the operations or activities of the Central Intelligence Agency, an agency of the US Government.\r\n\r\n2-3. The disclosure is informative (i.e. \"likely to contribute\") to the public's understanding of the US Government. My request satisfies this factor because the subject of the request, Dr. John Prados, was an independent scholar of declassified CIA documents and an author of many books and papers about the CIA. Thus, any responsive records will allow the public to understand what kinds of records the US Government keeps on people who research its activities, particularly its national intelligence activities. Moreover, Dr. Prados was a public figure. News obituaries about him appeared in the New York Times and the Washington Post, among other places. Thus, responsive records about Dr. Prados are likely to be of interest to a broad and significant segment of the public, as opposed to the narrow personal interest of the requester. \r\n\r\n4. The disclosure is likely to contribute to the public's understanding significantly, because Dr. Prados has recently died. Therefore, the Agency will likely to be able to disclose significantly more records to the public than could have been released while Dr. Prados was alive, due to privacy restrictions in the FOIA and Privacy Act statutes. Moreover, I am making this request via MuckRock.com, meaning that anyone in the world will be able to view all responsive records online for free.\r\n\r\nNO COMMERCIAL INTEREST\r\n\r\n1. I have no commercial interest in these records. I am seeking them because Dr. Prados was a master at uncovering government secrets. I can think of no greater tribute to him than to request the records that were kept on him by the very agency whose declassified documents occupied so much of his time.\r\n\r\n2. I have no commercial interest in these records. Therefore that (nonexistent) commercial interest does not outweigh the public interest.\r\n\r\nCONCLUSION\r\n\r\nThe Agency should grant a full fee waiver. If you disagree and decide to charge me fees, please inform me of the total charges before fulfilling my request.\r\n\r\nFORM OF PRODUCTION\r\n\r\nI would prefer that this request be filled electronically,  by e-mail attachment if available or on CD-ROM if not.\r\n\r\nThank you very much for your attention to this request, and I await your response.\r\n\r\nSincerely,\r\n\r\nNicholas Marritz",
-        "status": null,
+        "status": "processed",
         "likely_foia": null,
         "files": [],
-        "delivered": "none"
+        "delivered": "portal"
       }
     ],
     "absolute_url": "https://www.muckrock.com/foi/united-states-of-america-10/john-prados-137722/"
@@ -85,7 +85,7 @@
     "id": 137721,
     "title": "SpEd transportation, Cleveland",
     "slug": "sped-transportation-cleveland",
-    "status": "submitted",
+    "status": "ack",
     "embargo": false,
     "permanent_embargo": false,
     "user": 75124,
@@ -94,7 +94,7 @@
     "datetime_submitted": "2022-12-11T11:19:45.287622",
     "date_due": null,
     "days_until_due": null,
-    "date_followup": null,
+    "date_followup": "2022-12-26",
     "datetime_done": null,
     "datetime_updated": "2022-12-11T11:19:46.731864",
     "date_embargo": null,
@@ -107,7 +107,7 @@
         "foia": 137721,
         "from_user": 75124,
         "to_user": 107625,
-        "subject": "",
+        "subject": "Ohio Open Records Law Request: SpEd transportation, Cleveland",
         "datetime": "2022-12-11T11:19:46.731864",
         "response": false,
         "autogenerated": false,
@@ -117,7 +117,7 @@
         "status": null,
         "likely_foia": null,
         "files": [],
-        "delivered": "none"
+        "delivered": "mail"
       }
     ],
     "absolute_url": "https://www.muckrock.com/foi/cleveland-327/sped-transportation-cleveland-137721/"
@@ -126,7 +126,7 @@
     "id": 137720,
     "title": "Elias and Rules Committee communications",
     "slug": "elias-and-rules-committee-communications",
-    "status": "submitted",
+    "status": "processed",
     "embargo": false,
     "permanent_embargo": false,
     "user": 78906,
@@ -135,11 +135,11 @@
     "datetime_submitted": "2022-12-10T13:31:06.218291",
     "date_due": "2022-12-20",
     "days_until_due": null,
-    "date_followup": null,
+    "date_followup": "2023-03-12",
     "datetime_done": null,
-    "datetime_updated": "2022-12-10T13:31:06.403907",
+    "datetime_updated": "2022-12-12T03:52:27.131267",
     "date_embargo": null,
-    "tracking_id": "",
+    "tracking_id": "22-6998",
     "price": "0.00",
     "disable_autofollowups": false,
     "tags": [],
@@ -155,10 +155,42 @@
         "thanks": false,
         "full_html": false,
         "communication": "To Whom It May Concern:\r\n\r\nPursuant to the California Public Records Act, I hereby request the following records:\r\n\r\nBelow are new Immediate Disclosure Requests (SF Admin Code 67.25(a)) directed to your agency and its department head. Your response is required by Tuesday Dec. 13, 2022: \r\n\r\nAll communications between all members of the Board of Supervisors between Nov. 1 and Dec. 12 mentioning any of the following: \r\n\r\nCindy Elias, CE, Cindy, Elias, Police Commission, Commission, PC, President, appointment, reappointment, nomination, Engardio, Joel Engardio.\r\n\r\nThis request is to include ALL  individual supervisors\u2019 communications regarding Rules Committee.\r\n\r\nRolling responses are requested (SFAC 67.25(d)) if you are unable to immediately produce records. You must provide exact copies of every responsive record. Do not: print and scan electronic records, provide only the final message in a thread instead of the entire thread, convert native files to PDFs, combine or merge multiple records together, or provide black and white versions of any color record. Provide only copies of records not requiring fees and in-person inspection of all other records (GC 6253).\r\nYour non-exhaustive obligations:\r\n* All withholding of any information must be justified in writing (SFAC 67.27).\r\n* All withholdings by masking or deletion (aka redactions) must be keyed by footnote or other clear reference to the specific justification for that redaction, and only the minimal exempt portion of any record may be withheld (SFAC 67.26).\r\n* You must respond to emailed requests (SFAC 67.21(b)).\r\n* You must notify us of whether or not responsive records exist and/or were withheld for each request below (Gov Code 6253(c), 6255(b)).\r\n* You must state the name and title of each person responsible for withholding any information (Gov Code 6253(d)).\r\n\r\n* Do not impose any end-user restrictions upon me (Santa Clara Co. vs Superior Ct, 170 Cal.App 4th 1301); so if you use a website to publish records, please make them completely public without any login, sign-in, or agreement to any type of terms of use or acceptable use policies.\r\n\r\nYour agency must do all of the above things in your response, and you cannot wait until we file complaints.\r\nWe have no duty to, and we will not again, remind the City of its obligations. Instead, we will file complaints for each and every Sunshine Ordinance or CPRA violation. We will continue to file complaints until the City\u2019s procedures are modified to fully comply with the Sunshine Ordinance and CPRA, without caveat or exception.\r\n\r\nPRESERVE AND DO NOT DESTROY ANY ORIGINALS OF RESPONSIVE RECORDS UNTIL THE FINAL ADJUDICATION OF ANY APPEALS - we will appeal all withholdings or Sunshine violations.\r\nThank you for your anticipated cooperation in this matter.\r\n\r\nNOTE: Please be certain you have properly redacted all of your responses. Once you send them to us, there is no going back. The email address sending this request is a publicly- viewable mailbox. Nothing herein is legal, IT, or professional advice of any kind. The author disclaims all warranties, express or implied, including but not limited to all warranties of merchantability or fitness. In no event shall the author be liable for any special, direct, indirect, consequential, or any other damages whatsoever. The digital signature, if any, in this email is not an indication of a binding agreement or offer; it merely authenticates the sender. Please do not include any confidential information, as I intend that these communications with the City all be disclosable public records.\r\n\r\nThe requested documents will be made available to the general public, and this request is not being made for commercial purposes.\r\n\r\nIn the event that there are fees, I would be grateful if you would inform me of the total charges in advance of fulfilling my request. I would prefer the request filled electronically, by e-mail attachment if available or CD-ROM if not.\r\n\r\nThank you in advance for your anticipated cooperation in this matter. I look forward to receiving your response to this request within 10 calendar days, as the statute requires.\r\n\r\nSincerely,\r\n\r\nBelle Reve",
-        "status": null,
+        "status": "processed",
         "likely_foia": null,
         "files": [],
-        "delivered": "none"
+        "delivered": "portal"
+      },
+      {
+        "foia": 137720,
+        "from_user": 17510,
+        "to_user": 78906,
+        "subject": "Your City and County of San Francisco public records request #22-6998 has been opened.",
+        "datetime": "2022-12-12T03:52:00.342425",
+        "response": true,
+        "autogenerated": false,
+        "thanks": false,
+        "full_html": false,
+        "communication": "City and County of San Francisco\r\n\r\n************************************************************************\r\n\r\n\r\nYour record request #22-6998 has been submitted. You can see it anytime at the link below.\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n************************************************************************                          \r\n<em>Questions about your request?</em> Reply to this email or sign in to contact staff at City and County of San Francisco.<br></br><em>Technical support:</em> See our <a href='https://help.nextrequest.com/knowledge/requester-resources'>help page</a>",
+        "status": "processed",
+        "likely_foia": null,
+        "files": [],
+        "delivered": "portal"
+      },
+      {
+        "foia": 137720,
+        "from_user": 17510,
+        "to_user": 78906,
+        "subject": "[ACTION REQUIRED] Your City and County of San Francisco public records portal account",
+        "datetime": "2022-12-12T03:52:27.131267",
+        "response": true,
+        "autogenerated": false,
+        "thanks": false,
+        "full_html": false,
+        "communication": "Use this to confirm your account. The link is only valid for 24 hours.\r\n\r\nCity and County of San Francisco\r\n\r\n************************************************************************\r\nHello Belle Reve!\r\n************************************************************************\r\n\r\nYou can confirm your City and County of San Francisco public records portal account by copying and pasting the URL below into your web browser. This link is only valid for the next 24 hours.\r\n\r\nMagic link: https://click.pstmrk.it/2tsm/sanfrancisco.nextrequest.com%2Fusers%2Fconfirmation%3Fconfirmation_token%3D6VtuXK42DgS98FwSko-n/uLKxLzUN/DbEk/bOZPPsazTn/Y29uZmlybWF0aW9u\r\n\r\n\r\n\r\n************************************************************************                          \r\nQuestions? Check out our help page (https://www.nextrequest.com/support) or email us at support@nextrequest.com.\r\n************************************************************************\r\n\r\nPowered by NextRequest (https://www.nextrequest.com).",
+        "status": "processed",
+        "likely_foia": null,
+        "files": [],
+        "delivered": "portal"
       }
     ],
     "absolute_url": "https://www.muckrock.com/foi/san-francisco-141/elias-and-rules-committee-communications-137720/"
@@ -492,7 +524,7 @@
     "id": 137701,
     "title": "FOIA - CIA - Lothrop Stoddard",
     "slug": "foia-cia-lothrop-stoddard",
-    "status": "submitted",
+    "status": "processed",
     "embargo": false,
     "permanent_embargo": false,
     "user": 11321,
@@ -501,7 +533,7 @@
     "datetime_submitted": "2022-12-09T11:09:55.708567",
     "date_due": "2023-01-10",
     "days_until_due": null,
-    "date_followup": null,
+    "date_followup": "2023-03-09",
     "datetime_done": null,
     "datetime_updated": "2022-12-09T11:09:55.788566",
     "date_embargo": null,
@@ -521,10 +553,10 @@
         "thanks": false,
         "full_html": false,
         "communication": "To Whom It May Concern:\r\n\r\nPursuant to the Freedom of Information Act, I hereby request the following records:\r\n\r\nRecords pertaining to or mentioning Theodore Lothrop Stoddard (June 29, 1883 \u2013 May 1, 1950) - American historian, political scientist, and white nationalist/supremacist who's ideas served as somewhat inspiring to key members of Nazi Germany (see https://en.wikipedia.org/wiki/Lothrop_Stoddard ).\r\n\r\nThe requested documents will be made available to the general public, and this request is not being made for commercial purposes.\r\n\r\nIn the event that there are fees, I would be grateful if you would inform me of the total charges in advance of fulfilling my request. I would prefer the request filled electronically, by e-mail attachment if available or CD-ROM if not.\r\n\r\nThank you in advance for your anticipated cooperation in this matter. I look forward to receiving your response to this request within 20 business days, as the statute requires.\r\n\r\nSincerely,\r\n\r\nJ Ader",
-        "status": null,
+        "status": "processed",
         "likely_foia": null,
         "files": [],
-        "delivered": "none"
+        "delivered": "portal"
       }
     ],
     "absolute_url": "https://www.muckrock.com/foi/united-states-of-america-10/foia-cia-lothrop-stoddard-137701/"

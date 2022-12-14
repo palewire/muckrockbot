@@ -260,7 +260,7 @@
     "id": 137741,
     "title": "Case 19-009879 Farrow",
     "slug": "case-19-009879-farrow",
-    "status": "submitted",
+    "status": "processed",
     "embargo": false,
     "permanent_embargo": false,
     "user": 90727,
@@ -269,11 +269,11 @@
     "datetime_submitted": "2022-12-13T09:11:55.124482",
     "date_due": null,
     "days_until_due": null,
-    "date_followup": null,
+    "date_followup": "2023-03-13",
     "datetime_done": null,
     "datetime_updated": "2022-12-13T09:11:55.494073",
     "date_embargo": null,
-    "tracking_id": "",
+    "tracking_id": "PDRR2022-6517",
     "price": "0.00",
     "disable_autofollowups": false,
     "tags": [],
@@ -289,10 +289,10 @@
         "thanks": false,
         "full_html": false,
         "communication": "To Whom It May Concern:\r\n\r\nPursuant to the Florida Sunshine Law, I hereby request the following records:\r\n\r\nReference case 19-009879, victim Khia Farrow.  Report provided Det. Aviles states investigation turned over to Detective Nieves in Counter Crimes.  Please provide supplemental report by Detective Nieves in actions taken in his investigation pertaining to this case.\r\n\r\nThe requested documents will be made available to the general public, and this request is not being made for commercial purposes.\r\n\r\nIn the event that there are fees, I would be grateful if you would inform me of the total charges in advance of fulfilling my request. I would prefer the request filled electronically, by e-mail attachment if available or CD-ROM if not.\r\n\r\nThank you in advance for your anticipated cooperation in this matter. I look forward to receiving your response to this request within 10 business days.\r\n\r\nSincerely,\r\n\r\nJonathan K.",
-        "status": null,
+        "status": "processed",
         "likely_foia": null,
         "files": [],
-        "delivered": "none"
+        "delivered": "portal"
       }
     ],
     "absolute_url": "https://www.muckrock.com/foi/kissimmee-10268/case-19-009879-farrow-137741/"

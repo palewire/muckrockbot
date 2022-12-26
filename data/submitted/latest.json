@@ -1286,7 +1286,7 @@
     "id": 138192,
     "title": "Untitled",
     "slug": "untitled",
-    "status": "submitted",
+    "status": "processed",
     "embargo": false,
     "permanent_embargo": false,
     "user": 34092,
@@ -1295,7 +1295,7 @@
     "datetime_submitted": "2022-12-21T23:37:57.622721",
     "date_due": "2022-12-31",
     "days_until_due": null,
-    "date_followup": null,
+    "date_followup": "2023-03-23",
     "datetime_done": null,
     "datetime_updated": "2022-12-23T12:34:23.336887",
     "date_embargo": null,
@@ -1363,10 +1363,10 @@
         "thanks": false,
         "full_html": false,
         "communication": "Correction to item two: the dates should be Oct 4th, 2022 through Dec 21st 2022 and should also include messages sent to/from Mary Ellen Carroll ",
-        "status": null,
+        "status": "processed",
         "likely_foia": null,
         "files": [],
-        "delivered": "none"
+        "delivered": "portal"
       }
     ],
     "absolute_url": "https://www.muckrock.com/foi/san-francisco-141/untitled-138192/"

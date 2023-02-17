@@ -1022,7 +1022,7 @@
         "thanks": false,
         "full_html": false,
         "communication": "Thank you for contacting the 311 Customer Service Center. We\u2019ve received your email and are routing it to the appropriate city department for response.\r\n\r\nIf you have any further questions or concerns, please email or contact us at 614-645-3111, Monday through Friday between 7:00am and 7:00pm.\r\n\r\nRegards,\r\n311 Service Center/ml\r\n\r\nInformation provided to 311 is subject to Ohio\u2019s public records law and may be subject to release if requested.\n",
-        "status": null,
+        "status": "processed",
         "likely_foia": null,
         "files": [],
         "delivered": "email"
@@ -1429,7 +1429,7 @@
         "thanks": false,
         "full_html": false,
         "communication": "Thank you Kent.  I did receive your email with attachments; however, you will need to sign, and date, the records request and return it to me please.\r\n\r\nThank you so much and hope you have a great day!\r\n\r\nTake care,\r\n\nLiz Pate\r\nHuman Resources Manager\r\nGiles County Government\r\n(931) 363-5300\r\nlpate@gilescountytn.gov<mailto:lpate@gilescountytn.gov>",
-        "status": null,
+        "status": "processed",
         "likely_foia": null,
         "files": [],
         "delivered": "email"

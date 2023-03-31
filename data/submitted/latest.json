@@ -333,7 +333,7 @@
     "id": 143958,
     "title": "Bodycam Footage for CASE 23000511",
     "slug": "bodycam-footage-for-case-23000511",
-    "status": "processed",
+    "status": "payment",
     "embargo": false,
     "permanent_embargo": false,
     "user": 111073,
@@ -342,12 +342,12 @@
     "datetime_submitted": "2023-03-29T19:52:58.287903",
     "date_due": null,
     "days_until_due": null,
-    "date_followup": "2023-04-14",
+    "date_followup": null,
     "datetime_done": null,
     "datetime_updated": "2023-03-30T16:10:43.568978",
     "date_embargo": null,
     "tracking_id": "",
-    "price": "0.00",
+    "price": "86.07",
     "disable_autofollowups": false,
     "tags": [],
     "communications": [
@@ -378,7 +378,7 @@
         "thanks": false,
         "full_html": false,
         "communication": "Good afternoon,\r\n\r\nI have attached the invoice for the requested case below. The total cost is $86.07.  We accept cash, money order or business check only. After we receive payment, we will process your request. This can take up to two weeks, maybe sooner or later as other requests are being processed currently. I will be in touch.\r\n\r\nThank you,\r\nIris\n",
-        "status": null,
+        "status": "payment",
         "likely_foia": null,
         "files": [
           {

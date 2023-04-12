@@ -2471,7 +2471,7 @@
     "id": 144360,
     "title": "Rhode Island Commissary Price Lists- April 2023",
     "slug": "rhode-island-commissary-price-lists-april-2023",
-    "status": "processed",
+    "status": "done",
     "embargo": false,
     "permanent_embargo": false,
     "user": 111301,
@@ -2480,8 +2480,8 @@
     "datetime_submitted": "2023-04-09T20:18:47.693993",
     "date_due": "2023-04-21",
     "days_until_due": null,
-    "date_followup": "2023-04-22",
-    "datetime_done": null,
+    "date_followup": null,
+    "datetime_done": "2023-04-12T11:12:12.249325",
     "datetime_updated": "2023-04-12T11:12:12.249325",
     "date_embargo": null,
     "tracking_id": "",
@@ -2516,7 +2516,7 @@
         "thanks": false,
         "full_html": false,
         "communication": "SENT ON BEHALF OF SENIOR LEGAL COUNSEL, IAN P. ANDERSON, ESQ.\r\n\r\nGood Morning, please see the attached which is being sent to you on behalf of Senior Legal Counsel, Ian P. Anderson, Esq., in response to your recent APRA request (below).\r\n\r\nThank you.\r\n\r\nDiane M. Gill\r\nOffice Manager\r\nRhode Island Department of Corrections\r\nOffice of Legal Counsel\r\n40 Howard Avenue\r\nCranston, RI 02920\r\nPhone:  (401) 462.5168\r\nFax:  (401) 462.2583\r\nEmail:  Diane.Gill@doc.ri.gov<mailto:Diane.Gill@doc.ri.gov>\r\n\r\nNOTE: PLEASE DO NOT FORWARD THIS EMAIL TO OTHERS WITHOUT THE EXPRESS CONSENT OF SENDER.\r\n\r\nUnauthorized interception is prohibited by Federal Law (Electronic Communications Privacy Act of 1986, 18 USC 2701(a) and 2702 (a))\r\n\r\nThis message is being sent by the by the Legal Department of the Rhode Island Department of Corrections (RIDOC).  The message and any and all attachments is intended exclusively for the individuals and entities to which it is addressed.  This communication, including any attachments, may contain information that is proprietary, privileged, confidential or otherwise legally exempt from disclosure.  Moreover, the contents may be protected and/or privilieged by the doctrines of attorney-client privilege or work-product.  If you are not the named addressee, or an employee or agent responsible for the delivery of this message to the intended recipient, you are not authorized and strictly prohibited to read, print, retain, copy, or disseminate this message or any part of it. The taking of any action or the omission to take any action in reliance on the content of this message or any of the attachments by anyone other than the intended recipient is strictly prohibited. If you have received a copy of this message in error, please notify the sender immediately by e-mail and delete all copies of this message.  This message is protected by applicable legal privileges and is confidential.\n",
-        "status": null,
+        "status": "done",
         "likely_foia": null,
         "files": [
           {

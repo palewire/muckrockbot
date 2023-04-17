@@ -2273,7 +2273,7 @@
     "id": 144531,
     "title": "DASD Right to Know Request",
     "slug": "dasd-right-to-know-request",
-    "status": "ack",
+    "status": "done",
     "embargo": false,
     "permanent_embargo": false,
     "user": 113457,
@@ -2282,8 +2282,8 @@
     "datetime_submitted": "2023-04-13T17:54:35.038049",
     "date_due": "2023-04-20",
     "days_until_due": null,
-    "date_followup": "2023-04-20",
-    "datetime_done": null,
+    "date_followup": null,
+    "datetime_done": "2023-04-14T10:06:14.748587",
     "datetime_updated": "2023-04-14T10:06:14.748587",
     "date_embargo": null,
     "tracking_id": "",
@@ -2318,7 +2318,7 @@
         "thanks": false,
         "full_html": false,
         "communication": "(1)         A DESCRIPTION OF THE RECORD REQUESTED\r\n\r\nAs Open Records Officer for the district and pursuant to the Right to Know Act, I am in receipt of the Right to Know request received April 14, 2023\r\n\r\n\r\n\r\n(2)          DISTRICT RESPONSE:\r\n\r\n                2021 2022 Budget - Link to website:\r\n\r\n                                               https://www.dasd.org/departments/business/budget\r\n\r\n                Board Meeting Agendas/Minutes:\r\n\r\n                                               https://go.boarddocs.com/pa/down/Board.nsf/Public\r\n\r\n\r\n\r\n(3)          THE PROCEDURE TO APPEAL THE DENIAL OF ACCESS UNDER THE ACT\r\n\r\nYou have the following appeal rights, if you deem this a denial of your request.  You may file an appeal in writing with the Office of Open Records, Commonwealth Keystone Building, 400 North Street, 4th Floor, Harrisburg, PA   17120 as designated under Section 503 of the Act within 15 days of the mailing date of this response or within 15 business days of the deemed denial.  The appeal shall state the grounds upon which you assert that the record is a public record and shall address any grounds stated by this agency for delaying or denying the request.  You may then have further appeal rights under the Act depending upon the decision of the Office of Open Records.\r\n\r\n\r\n\r\n(4) DATE OF THIS RESPONSE:\r\n\r\n\r\n\r\n             April 14, 2023\r\n\r\n\r\n\r\n(5) NAME, TITLE, BUSINESS ADDRESS, BUSINESS TELEPHONE NUMBER OF OPEN RECORDS OFFICER ON WHOSE AUTHORITY THE RESPONSE IS ISSUED:\r\n\r\n\r\n\r\n\r\n[cid:image001.jpg@01D3AFDD.AD89D180]\r\n\r\nVirginia B. Warihay\r\nExecutive Assistant to the Superintendent\r\nSchool Board Secretary\r\nOpen Records Officer\r\nDowningtown Area School District\r\n540 Trestle Place | Downingtown, PA 19335\r\nP: 610-269-8460 ext. 11105 |  E: vwarihay@dasd.org<mailto:vwarihay@dasd.org> |W: www.dasd.org <../../../../../jblow/AppData/Local/Microsoft/Windows/Temporary%20Internet%20Files/Content.Outlook/9L922WIW/www.dasd.org>\n",
-        "status": null,
+        "status": "done",
         "likely_foia": 144531,
         "files": [
           {

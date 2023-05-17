@@ -53,7 +53,7 @@
     "datetime_submitted": "2023-05-17T01:39:57.101816",
     "date_due": "2023-05-24",
     "days_until_due": null,
-    "date_followup": "2023-05-24",
+    "date_followup": "2023-06-01",
     "datetime_done": null,
     "datetime_updated": "2023-05-17T08:11:07.111786",
     "date_embargo": null,
@@ -89,7 +89,7 @@
         "thanks": false,
         "full_html": false,
         "communication": "Thank you for submitting a request for records to the City of Poughkeepsie, NY.\r\n\r\nYour request reference number is Request Number: PD-2023-64 and your security key is 542877. Please have both numbers available when communicating with our staff. \r\n  \r\n Section 89(3)(a) of the Freedom of Information Law (FOIL) requires that an agency provide written acknowledgement of the receipt of a FOIL request within five (5) days. \r\n  \r\n Please be advised that the City Chamberlain\u2019s office received your FOIL request, which will be sent to the relevant department(s) in possession of the requested record(s) and/or document(s). \r\n  \r\n The request will be granted or denied, in whole or in part, within approximately thirty (30) days. \r\n  \r\n Please have this reference number available when communicating with our staff regarding your request. \r\n  \r\n You will be notified via email when your records are available. \r\n  \r\n Thank you, \r\n  \r\n Office of the City Chamberlain\r\n62 Civic Center Plaza\r\nPoughkeepsie, NY 12601\r\nPhone: 845-451-4276\r\nFax: 845-451-4239\r\nCityChamberlain_Clerks@cityofpoughkeepsie.com\r\n\r\n\r\nNote: This is an automated email notification. Please do not respond to this email.\n",
-        "status": null,
+        "status": "processed",
         "likely_foia": null,
         "files": [],
         "delivered": "email"

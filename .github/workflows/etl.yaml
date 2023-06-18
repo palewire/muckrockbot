@@ -2,8 +2,8 @@ name: "Extract, transform and alert"
 
 on:
   workflow_dispatch:
-#   schedule:
-#     - cron: "30 * * * *"
+  schedule:
+    - cron: "30 * * * *"
 
 jobs:
   run:
@@ -40,15 +40,15 @@ jobs:
         run: make transform
         shell: bash
 
-      - id: twitter
-        name: Send tweets
-        run: make tweet
-        shell: bash
-        env:
-          TWITTER_CONSUMER_KEY: ${{ secrets.TWITTER_CONSUMER_KEY }}
-          TWITTER_CONSUMER_SECRET: ${{ secrets.TWITTER_CONSUMER_SECRET }}
-          TWITTER_ACCESS_TOKEN_KEY: ${{ secrets.TWITTER_ACCESS_TOKEN_KEY }}
-          TWITTER_ACCESS_TOKEN_SECRET: ${{ secrets.TWITTER_ACCESS_TOKEN_SECRET }}
+#       - id: twitter
+#         name: Send tweets
+#         run: make tweet
+#         shell: bash
+#         env:
+#           TWITTER_CONSUMER_KEY: ${{ secrets.TWITTER_CONSUMER_KEY }}
+#           TWITTER_CONSUMER_SECRET: ${{ secrets.TWITTER_CONSUMER_SECRET }}
+#           TWITTER_ACCESS_TOKEN_KEY: ${{ secrets.TWITTER_ACCESS_TOKEN_KEY }}
+#           TWITTER_ACCESS_TOKEN_SECRET: ${{ secrets.TWITTER_ACCESS_TOKEN_SECRET }}
 
       - id: toot
         name: Send toots

@@ -2,8 +2,8 @@ name: "Extract, transform and alert"
 
 on:
   workflow_dispatch:
-  schedule:
-    - cron: "30 * * * *"
+#   schedule:
+#     - cron: "30 * * * *"
 
 jobs:
   run:

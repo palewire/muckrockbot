@@ -1702,7 +1702,7 @@
     "date_embargo": null,
     "tracking_id": "PD-2023-238",
     "price": "0.00",
-    "disable_autofollowups": false,
+    "disable_autofollowups": true,
     "tags": [],
     "communications": [
       {

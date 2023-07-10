@@ -304,7 +304,7 @@
     "id": 148967,
     "title": "Investigative Journalism Request - Unveiling the Truth: Records on Albert Fentress",
     "slug": "investigative-journalism-request-unveiling-the-truth-records-on-albert-fentress",
-    "status": "submitted",
+    "status": "processed",
     "embargo": false,
     "permanent_embargo": false,
     "user": 4164,
@@ -313,11 +313,11 @@
     "datetime_submitted": "2023-07-08T16:03:20.241326",
     "date_due": "2023-07-14",
     "days_until_due": null,
-    "date_followup": null,
+    "date_followup": "2023-10-08",
     "datetime_done": null,
-    "datetime_updated": "2023-07-08T16:03:20.348610",
+    "datetime_updated": "2023-07-10T00:07:36.627147",
     "date_embargo": null,
-    "tracking_id": "",
+    "tracking_id": "PD-2023-92",
     "price": "0.00",
     "disable_autofollowups": false,
     "tags": [],
@@ -333,7 +333,7 @@
         "thanks": false,
         "full_html": false,
         "communication": "MuckRock News\r\nDEPT MR 146407\r\n263 Huntington Ave\r\nBoston, MA 02115\r\n\r\nSubject :Investigative Journalism Request - Unveiling the Truth: Records on Albert Fentress (FOIA)\r\n\r\nCity of Poughkeepsie Police Department\r\n62 Civic Center Plaza\r\nPoughkeepsie, NY 12601\r\nDear FOIA Officer,\r\n\r\nUnder the provisions of the Freedom of Information Act, 5 U.S.C. \u00a7 552, I hereby request access to and copies of all records held by the City of Poughkeepsie Police Department pertaining to Albert Fentress.\r\n\r\nI am an independent investigative journalist associated with TransparencyReport.pw, and I am conducting research on the history and activities of Albert Fentress. Albert Fentress is a convicted criminal who gained notoriety for his involvement in the abduction, rape, and murder of a college student in Poughkeepsie in the late 1980s. Fentress was arrested, tried, and convicted for these heinous crimes, and his case has been a subject of public interest and scrutiny for several years.\r\n\r\nAdditionally, there have been further allegations against Albert Fentress, including suspicions of involvement in other unsolved cases of a similar nature. These allegations have raised concerns within the community and have sparked discussions about the extent of Fentress's criminal activities. Therefore, I believe it is crucial to access the requested records to shed light on these allegations and provide a comprehensive understanding of the investigations conducted by the City of Poughkeepsie Police Department.\r\n\r\nFor the purpose of this request, the records I seek include, but are not limited to:\r\n\r\nArrest records and charging documents related to Albert Fentress.\r\nCourt records, including judgments, verdicts, and sentencing information.\r\nPolice reports, incident reports, and any other investigative documents related to Albert Fentress.\r\nCorrespondence and communications, including emails, letters, memoranda, or any other written exchanges mentioning or involving Albert Fentress.\r\nAny audio or visual recordings, such as interviews, interrogations, or surveillance footage related to Albert Fentress.\r\nAny internal memos, policies, or guidelines concerning the handling of Albert Fentress's case.\r\nGiven the profound impact of Albert Fentress's crimes on the community and the ongoing interest in understanding the scope of his criminal activities, accessing these records will contribute significantly to the public's understanding of the operations and activities of the City of Poughkeepsie Police Department.\r\n\r\nShould any portion of the requested records be deemed exempt from disclosure, I request the release of any reasonably segregable non-exempt portions in accordance with 5 U.S.C. \u00a7 552(b). If an entire document is exempt, I request a justification, citing specific FOIA exemptions, and provision of an exemption log as per Vaughn v. Rosen, 484 F.2d 820 (D.C. Cir. 1973).\r\n\r\nPlease note your obligation under the law not to destroy any records potentially responsive to this request. Any withholding, redaction, or destruction of responsive records without proper justification constitutes a violation of the FOIA and is subject to litigation, as confirmed in Kissinger v. Reporters Committee for Freedom of the Press, 445 U.S. 136, 150 (1980).\r\n\r\nEnclosed is a letter requesting a fee waiver for the processing of this request. As an independent investigative journalist associated with TransparencyReport.pw, I firmly believe that the information I seek is in the public interest, and its disclosure will greatly contribute to public understanding of the operations or activities of the government.\r\n\r\nIf the enclosed waiver is not accepted and there are any potential charges in excess of $200 associated with fulfilling my request, please inform me in advance.\r\n\r\nAs stipulated by the FOIA, I look forward to your response within twenty business days (5 U.S.C. \u00a7 552(a)(6)(A)(i)).\r\n\r\nThank you for your attention to this matter.\r\n\r\nSincerely,\r\nJordan Lassiter\r\nIndependent Investigative Journalist\r\nTransparencyReport.pw\r\nEmail: Jordan@Lassiter.eu\r\nPhone:845 218 0299\r\n\r\nEnclosure: Fee Waiver Request Letter\r\n\r\nPlease be aware: All communications related to this request, including incoming and outgoing communications, will be publicly available on MuckRock.com. Additionally, any correspondence in relation to this request will be instantly published on the platform.\r\n\r\nThe requested documents will be made available to the general public, and this request is not being made for commercial purposes.",
-        "status": null,
+        "status": "processed",
         "likely_foia": null,
         "files": [
           {
@@ -347,7 +347,23 @@
             "pages": 2
           }
         ],
-        "delivered": "none"
+        "delivered": "portal"
+      },
+      {
+        "foia": 148967,
+        "from_user": 27482,
+        "to_user": 4164,
+        "subject": "City of Poughkeepsie, NY - Records Request Confirmation PD-2023-92",
+        "datetime": "2023-07-10T00:07:36.627147",
+        "response": true,
+        "autogenerated": false,
+        "thanks": false,
+        "full_html": false,
+        "communication": "Thank you for submitting a request for records to the City of Poughkeepsie, NY.\r\n\r\nYour request reference number is Request Number: PD-2023-92 and your security key is 784740. Please have both numbers available when communicating with our staff. \r\n  \r\n Section 89(3)(a) of the Freedom of Information Law (FOIL) requires that an agency provide written acknowledgement of the receipt of a FOIL request within five (5) days. \r\n  \r\n Please be advised that the City Chamberlain\u2019s office received your FOIL request, which will be sent to the relevant department(s) in possession of the requested record(s) and/or document(s). \r\n  \r\n The request will be granted or denied, in whole or in part, within approximately thirty (30) days. \r\n  \r\n Please have this reference number available when communicating with our staff regarding your request. \r\n  \r\n You will be notified via email when your records are available. \r\n  \r\n Thank you, \r\n  \r\n Office of the City Chamberlain\r\n62 Civic Center Plaza\r\nPoughkeepsie, NY 12601\r\nPhone: 845-451-4276\r\nFax: 845-451-4239\r\nCityChamberlain_Clerks@cityofpoughkeepsie.com\r\n\r\n\r\nNote: This is an automated email notification. Please do not respond to this email.\n",
+        "status": null,
+        "likely_foia": null,
+        "files": [],
+        "delivered": "email"
       }
     ],
     "absolute_url": "https://www.muckrock.com/foi/poughkeepsie-22419/investigative-journalism-request-unveiling-the-truth-records-on-albert-fentress-148967/"
@@ -602,7 +618,7 @@
     "id": 148930,
     "title": "LAS VEGAS EROTIC DANCE CODE REGULATION CRIME STATISTICS",
     "slug": "las-vegas-erotic-dance-code-regulation-crime-statistics",
-    "status": "submitted",
+    "status": "processed",
     "embargo": false,
     "permanent_embargo": false,
     "user": 118615,
@@ -611,9 +627,9 @@
     "datetime_submitted": "2023-07-07T16:57:32.231596",
     "date_due": "2023-07-14",
     "days_until_due": null,
-    "date_followup": null,
+    "date_followup": "2023-10-05",
     "datetime_done": null,
-    "datetime_updated": "2023-07-07T16:57:32.329901",
+    "datetime_updated": "2023-07-10T00:06:41.361268",
     "date_embargo": null,
     "tracking_id": "",
     "price": "0.00",
@@ -631,10 +647,26 @@
         "thanks": false,
         "full_html": false,
         "communication": "To Whom It May Concern:\r\n\r\nPursuant to the Nevada Public Records Act, I hereby request the following records:\r\n\r\nI am requesting raw crime statistics concerning Las Vegas municipal code (LVMC) 6.35.100 involving Erotic Dance Establishment regulations, specifically raw numerical data including ALL alleged \u201cfondle or caress\u201d violations pursuant to LVMC 6.35.100(I) since the ordinance was enacted in 1995.\r\n\r\nI request the exact number of citations/tickets/charges issued by the Las Vegas Metro Police EACH YEAR for alleged violations of LVMC 6.35.100(I).  I request the number of such alleged violations for EACH YEAR from 1995 to 2022. I am specifically not requesting that any new record(s) be created, but specifically do request raw data (public record crime statistics) in an electronic format be provided by means of an electronic medium. No confidential information is requested.\r\n\r\nThe requested documents will be made available to the general public, and this request is not being made for commercial purposes.\r\n\r\nIn the event that there are fees, I would be grateful if you would inform me of the total charges in advance of fulfilling my request. I would prefer the request filled electronically, by e-mail attachment if available or CD-ROM if not.\r\n\r\nThank you in advance for your anticipated cooperation in this matter. I look forward to receiving your response to this request within 5 business days, as the statute requires.\r\n\r\nSincerely,\r\n\r\nJames Colin",
+        "status": "processed",
+        "likely_foia": null,
+        "files": [],
+        "delivered": "portal"
+      },
+      {
+        "foia": 148930,
+        "from_user": 10274,
+        "to_user": 118615,
+        "subject": "Public Record Request Submitted for Public Record Request - James Colin",
+        "datetime": "2023-07-10T00:06:41.361268",
+        "response": true,
+        "autogenerated": false,
+        "thanks": false,
+        "full_html": false,
+        "communication": "Hello James Colin,\r\n\r\nPublic Record Request Title\r\n\r\n\r\nPublic Record Request - James Colin \u2009\r\n\r\n\r\nPublic Record Request #\r\n\r\n\r\nNPR2023-0042563\u2009\r\n\r\n\r\nName of Requestor\r\n\r\n\r\nJames Colin\u2009\r\n\r\n\r\nStatus\r\n\r\n\r\nSubmitted\u2009\r\n\r\n\r\nRequest Submitted Date\r\n\r\n\r\n7/10/2023 5:00 PM\u2009\r\n\r\n\r\n\r\n\r\n\r\n\r\nYour Public Record Service Request has been successfully submitted. You will be notified by email if more information or payment is required and when your request is completed. The Las Vegas Metropolitan Police Department - Public Records Unit hours of operation are 8 a.m. to 5 p.m., Monday through Friday, excluding holidays, Juneteenth, Nevada Day, the day after Thanksgiving and December 24th.  Any public record requests made outside of normal business hours will be deemed received the next business day. At any time, you may monitor the status of your request by logging into your Public Records portal account.\r\n\r\n***Please note that holidays that fall on a Saturday or Sunday will be observed the preceding Friday or the following Monday. There are 13 holidays that LVMPD observes throughout the year. Based on this information, adjust your request accordingly.\r\n\r\nhttps://lvmpd-portal.dynamics365portals.us/<https://lvmpd.microsoftcrmportals.com>\r\n\nThank you,\r\n\r\nLas Vegas Metropolitan Police Department\r\n400 S. Martin L. King Boulevard\r\nLas Vegas, Nevada  89106\r\n702-828-7489\r\nMonday-Friday 8am to 5pm",
         "status": null,
         "likely_foia": null,
         "files": [],
-        "delivered": "none"
+        "delivered": "email"
       }
     ],
     "absolute_url": "https://www.muckrock.com/foi/las-vegas-317/las-vegas-erotic-dance-code-regulation-crime-statistics-148930/"
@@ -752,8 +784,8 @@
             "title": "affidavit_nos_6_final.pdf",
             "source": "scott huminski",
             "description": "",
-            "doc_id": "",
-            "pages": 0
+            "doc_id": "23869761-affidavit_nos_6_finalpdf",
+            "pages": 7
           }
         ],
         "delivered": "email"
@@ -779,8 +811,8 @@
             "title": "notice_of_foia_requests.pdf",
             "source": "scott huminski",
             "description": "",
-            "doc_id": "",
-            "pages": 0
+            "doc_id": "23869760-notice_of_foia_requestspdf",
+            "pages": 2
           }
         ],
         "delivered": "email"
@@ -876,8 +908,8 @@
             "title": "affidavit_nos_6_final.pdf",
             "source": "scott huminski",
             "description": "",
-            "doc_id": "",
-            "pages": 0
+            "doc_id": "23869759-affidavit_nos_6_finalpdf",
+            "pages": 7
           }
         ],
         "delivered": "none"
@@ -973,8 +1005,8 @@
             "title": "affidavit_nos_6_final.pdf",
             "source": "scott huminski",
             "description": "",
-            "doc_id": "",
-            "pages": 0
+            "doc_id": "23869758-affidavit_nos_6_finalpdf",
+            "pages": 7
           }
         ],
         "delivered": "fax"
@@ -1068,7 +1100,7 @@
     "id": 148914,
     "title": "E-470 Public Highway Authority Contract Staff Names, Titles, and Hourly Rates",
     "slug": "e-470-public-highway-authority-contract-staff-names-titles-and-hourly-rates",
-    "status": "submitted",
+    "status": "processed",
     "embargo": false,
     "permanent_embargo": false,
     "user": 117859,
@@ -1077,9 +1109,9 @@
     "datetime_submitted": "2023-07-07T10:28:43.337802",
     "date_due": "2023-07-12",
     "days_until_due": null,
-    "date_followup": null,
+    "date_followup": "2023-07-22",
     "datetime_done": null,
-    "datetime_updated": "2023-07-07T10:28:43.430452",
+    "datetime_updated": "2023-07-09T23:48:09.183747",
     "date_embargo": null,
     "tracking_id": "",
     "price": "0.00",
@@ -1097,10 +1129,26 @@
         "thanks": false,
         "full_html": false,
         "communication": "To Whom It May Concern:\r\n\r\nPursuant to the Colorado Open Records Act, I hereby request the following records:\r\n\r\nFor each contractor, temporary employee, and/or contingent worker contracted with the E-470 Public Highway Authority, for any time between January 1, 2023, to the date of this requests filing.\r\n       Full legal given name(s) and surname(s) of each individual.\r\n       Title or role held by each individual during their contract period.\r\n       Contract or hourly rate paid to the employee's employer for each individual. Additionally, please provide the rate provided to the employee (if different from the employer's rate).\r\n       The employing agency or business name associated with each individual.\r\n\r\nI understand no single given record may contain all of the above information. Please provide any combination of documents necessary to provide the requested information. I am not requesting the creation of any new records. \r\n\r\nPlease note, Pursuant to the Colorado Open Records Act, C.R.S \u00a7 24-72-203(3.5)(d) : Altering an existing public record, or excising fields of information pursuant to this subsection (3.5) to remove information that the custodian is either required or permitted to withhold, does not constitute the creation of a new public record.\r\n\r\nThis request is not being made for commercial purposes.\r\n\r\nIn the event that there are fees, I would be grateful if you would inform me of the total charges in advance of fulfilling my request. I would prefer the request filled electronically, by e-mail attachment if available or CD-ROM if not.\r\n\r\nThank you in advance for your anticipated cooperation in this matter. I look forward to receiving your response to this request within 3 business days, as the statute requires.\r\n\r\nSincerely,\r\n\r\nAdvocate",
-        "status": null,
+        "status": "processed",
         "likely_foia": null,
         "files": [],
-        "delivered": "none"
+        "delivered": "portal"
+      },
+      {
+        "foia": 148914,
+        "from_user": null,
+        "to_user": null,
+        "subject": "Thank you for your submission",
+        "datetime": "2023-07-09T23:48:09.183747",
+        "response": true,
+        "autogenerated": false,
+        "thanks": false,
+        "full_html": false,
+        "communication": "Thank you for your submission Thank you for submitting a CORA request. We will be in touch shortly. \n  \n   \n   Name \n   Advocate Advocate \n   Email \n    148914-64413759@requests.muckrock.com (mailto:148914-64413759@requests.muckrock.com) \n   Address \n   MuckRock News, DEPT MR148914 \n263 Huntington Ave \nBoston, Massachusetts 02115 \nMap It (https://u2325624.ct.sendgrid.net/ls/click?upn=4mixViP-2Fs4m9XsnGUP4rOe-2Fo2KgpyMJVC-2FBro1MQYx784E86oStNac8FOGPnkctR3atDPTEw9DawX6-2BtjQhOB3mOrldQ0dYG6aPQKysIznhJZ6fitSPeTNsej-2Fm2W243iIYev1NCSXI-2Bn3mFy1t83pqLHto5IMsTKDW1XGO-2BMn0-3DZfpI_zMC6TCoe9TfzBLLvzvpi0e5k7ePhkbqgqCR-2FU2VgXp0WdMQ1hukxefbm9oCN1QOC-2FPEqeBcLBKv-2Bfk0llTwFGMJUKZ-2BaaHHa9bX9jN8ANBBnjw3Zr4zLHS1vsAQZ4JYw5yBk5Kh3RuE4wEUow-2FKkmGdEsSH2LKPGxzRipUDUR-2BXTy-2B9jVMIu5BFMcn08DP4sTEPdG0YZWIWRqebzbe9u5zr-2BZgZFop0h2WA4oyZKXWQ-3D) \n   Phone \n   (617) 299-1832 \n   Please describe your request in as much detail as possible. \n   To Whom It May Concern: \nPursuant to the Colorado Open Records Act, I hereby request the following records: \nFor each contractor, temporary employee, and/or contingent worker contracted with the E-470 Public Highway Authority, for any time between January 1, 2023, to the date of this requests filing. \nFull legal given name(s) and surname(s) of each individual. \nTitle or role held by each individual during their contract period. \nContract or hourly rate paid to the employee's employer for each individual. Additionally, please provide the rate provided to the employee (if different from the employer's rate). \nThe employing agency or business name associated with each individual. \nI understand no single given record may contain all of the above information. Please provide any combination of documents necessary to provide the requested information. I am not requesting the creation of any new records. \nPlease note, Pursuant to the Colorado Open Records Act, C.R.S \u00a7 24-72-203(3.5)(d) : Altering an existing public record, or excising fields of information pursuant to this subsection (3.5) to remove information that the custodian is either required or permitted to withhold, does not constitute the creation of a new public record. \nThis request is not being made for commercial purposes. \nIn the event that there are fees, I would be grateful if you would inform me of the total charges in advance of fulfilling my request. I would prefer the request filled electronically, by e-mail attachment if available or CD-ROM if not. \nThank you in advance for your anticipated cooperation in this matter. I look forward to receiving your response to this request within 3 business days, as the statute requires. \nSincerely, \nAdvocate \nUpload documents directly: https://accounts.muckrock.com/accounts/login/?next=https%3A%2F%2Fwww.muckrock.com%2Faccounts%2Flogin%2F%3Fnext%3D%252Faccounts%252Fagency_login%252Fe-470-public-highway-authority-35645%252Fe-470-public-highway-authority-contract-staff-names-titles-and-hourly-rates-148914%252F%253F&url_auth_token=AAGwgWQcrcML4ynsXs7XU5vQVf8%3A1qIhqs%3Aianm0lroCHgFgTS74DFs9sXJkir_tidPdf9gVQFQCKI\n",
+        "status": null,
+        "likely_foia": 148914,
+        "files": [],
+        "delivered": "email"
       }
     ],
     "absolute_url": "https://www.muckrock.com/foi/aurora-364/e-470-public-highway-authority-contract-staff-names-titles-and-hourly-rates-148914/"
@@ -1109,7 +1157,7 @@
     "id": 148912,
     "title": "Caseworker Contact",
     "slug": "caseworker-contact",
-    "status": "submitted",
+    "status": "processed",
     "embargo": false,
     "permanent_embargo": false,
     "user": 29462,
@@ -1118,11 +1166,11 @@
     "datetime_submitted": "2023-07-07T10:11:08.115451",
     "date_due": "2023-07-12",
     "days_until_due": null,
-    "date_followup": null,
+    "date_followup": "2023-10-08",
     "datetime_done": null,
-    "datetime_updated": "2023-07-07T10:11:08.244855",
+    "datetime_updated": "2023-07-09T23:46:33.142803",
     "date_embargo": null,
-    "tracking_id": "",
+    "tracking_id": "R000668-070923",
     "price": "0.00",
     "disable_autofollowups": false,
     "tags": [],
@@ -1138,10 +1186,42 @@
         "thanks": false,
         "full_html": false,
         "communication": "To Whom It May Concern:\r\n\r\nPursuant to the Georgia Open Records Act, I hereby request the following records:\r\n\r\nA list of all caseworker that work in Housing Choice Voucher Program, and their email addresses.\r\n\r\nThe requested documents will be made available to the general public, and this request is not being made for commercial purposes.\r\n\r\nIn the event that there are fees, I would be grateful if you would inform me of the total charges in advance of fulfilling my request. I would prefer the request filled electronically, by e-mail attachment if available or CD-ROM if not.\r\n\r\nThank you in advance for your anticipated cooperation in this matter. I look forward to receiving your response to this request within 3 business days, as the statute requires.\r\n\r\nSincerely,\r\n\r\nGeorge Johnston",
+        "status": "processed",
+        "likely_foia": null,
+        "files": [],
+        "delivered": "portal"
+      },
+      {
+        "foia": 148912,
+        "from_user": 19833,
+        "to_user": 29462,
+        "subject": "[Records Center] Welcome to the Open Records Center!",
+        "datetime": "2023-07-09T23:43:37.576399",
+        "response": true,
+        "autogenerated": false,
+        "thanks": false,
+        "full_html": false,
+        "communication": "Dear George Johnston, \n \nThank you for registering with the Georgia Department of Community Affairs Open Records Center. (https://u8387778.ct.sendgrid.net/ls/click?upn=6HtRfOYLt5fXvpttM-2FU1HftHLv8SD9KHV1UrY-2BHTBuhKiclnYeFxXzKk-2B7SDyU1-2BkSSCtdv-2B-2FX9giJOFk1YNjA-3D-3D6hXs_VGgxELTe4pS-2B4iarODfECkbgX2aHKtlcIU6fLzJNIjVPukWAl0z5n09I7Avr3dTM-2FnLx1XabI8CWBnzLW0tRjixwqgyp0TiR-2FQQY-2FSM5EFAHXF9OlkLTDb1bypC8-2BVXCEO-2FI9bnjoVPSiHPVn-2BHx2PgprTBwTMdIKkD-2BynXKUHsgA2iSxn6zFSaN5EtRxr5-2Fgv4vWAJ9BxKjrRop4uUx9Bb-2BrRx6ISRwjDOeKMIUyU0-3D) \n \nYour Login ID is: \u00a0148912-09211870@requests.muckrock.com \n \nIf you did not submit your request through the public portal but are receiving this e-mail, an account has been created for you where you can track and monitor the status of your request, and receive any documents in response to your request. \n \n \nIf you have never used this system or cannot remember your password you may request a temporary password here: Request Temporary Password (https://u8387778.ct.sendgrid.net/ls/click?upn=6HtRfOYLt5fXvpttM-2FU1HftHLv8SD9KHV1UrY-2BHTBugRxXpORKGVeWgDNIiF4dIIzFwPBa8LoSsCmZx0Y9lTXQ-3D-3DGyOF_VGgxELTe4pS-2B4iarODfECkbgX2aHKtlcIU6fLzJNIjVPukWAl0z5n09I7Avr3dTM-2FnLx1XabI8CWBnzLW0tRjvqVv9hstLnelkoBCa6WclIQx-2BUi39XdEOymGnnU6UCZ-2FW2DUsYipew8xCpcWcC8gY1Nz5NrYYIOQ3jOU7Z5KhCzX0ASX0gN3xUt-2BSL-2FBv0V1ydj9t-2FVp4q-2BhOkNv-2F4V2FP-2B0A89FbaazAwLq5gDZWw-3D) \n \nPlease login to My Request Center to update your account information, track the status of your request and receive requested records when they become available. (https://u8387778.ct.sendgrid.net/ls/click?upn=6HtRfOYLt5fXvpttM-2FU1HftHLv8SD9KHV1UrY-2BHTBuge39HD53mQFm2icAUBG7l2NICXwn36afScjsSQ4lEEjA-3D-3D5Nh8_VGgxELTe4pS-2B4iarODfECkbgX2aHKtlcIU6fLzJNIjVPukWAl0z5n09I7Avr3dTM-2FnLx1XabI8CWBnzLW0tRjjOkJyoyBwnBlU1QT2od9XdcX557ur-2FE16ovfpPHsdvXbfR6A6FDZiWd0ENmlS1AcJwqcc0OOAius-2Ft-2FdAPLzHVts7LluTRNdudfoLMpv-2FsCjOQaHNjcvnKfAeHt567jYHFIRXQkXNbFMTC-2FLaPuoys-3D) \n This is an auto-generated email and has originated from an unmonitored email account. Please DO NOT REPLY.\n",
         "status": null,
         "likely_foia": null,
         "files": [],
-        "delivered": "none"
+        "delivered": "email"
+      },
+      {
+        "foia": 148912,
+        "from_user": 19833,
+        "to_user": 29462,
+        "subject": "Open Records Request :: R000668-070923",
+        "datetime": "2023-07-09T23:46:33.142803",
+        "response": true,
+        "autogenerated": false,
+        "thanks": false,
+        "full_html": false,
+        "communication": "Dear George Johnston: \nYour request has been received and is being processed. Per GORA law, our response is due three business days after the day we receive the request. Your request was received in this office on 7/9/2023 and given the reference number R000668-070923 for tracking purposes. \n Records Requested: To Whom It May Concern:\n\nPursuant to the Georgia Open Records Act, I hereby request the following records:\n\nA list of all caseworker that work in Housing Choice Voucher Program, and their email addresses.\n\nThe requested documents will be made available to the general public, and this request is not being made for commercial purposes.\n\nIn the event that there are fees, I would be grateful if you would inform me of the total charges in advance of fulfilling my request. I would prefer the request filled electronically, by e-mail attachment if available or CD-ROM if not.\n\nThank you in advance for your anticipated cooperation in this matter. I look forward to receiving your response to this request within 3 business days, as the statute requires.\n\nSincerely,\n\nGeorge Johnston\n\nUpload documents directly: https://accounts.muckrock.com/accounts/login/?next=https%3A%2F%2Fwww.muckrock.com%2Faccounts%2Flogin%2F%3Fnext%3D%252Faccounts%252Fagency_login%252Fgeorgia-department-of-community-affairs-15276%252Fcaseworker-contact-148912%252F%253Femail%253DChristy.Barnes%252540dca.ga.gov&url_auth_token=AABFJPvEN8VxViZyfgf6TXnKjP8%3A1qIhnA%3AUds2vSv-6azp0VFLnNyvdataiN9AeElcs4fFCfRxXMI \nYour request will be forwarded to the relevant department(s) to locate the information you seek and to determine the volume and any costs associated with satisfying your request. You will be contacted about the availability and/or provided with copies of the records in question. \nYou can monitor the progress of your request at the link below and you'll receive an email when your request has been completed. \n \nGeorgia Department of Community Affairs \n \nTo monitor the progress or update this request please log into the Open Records Request Center (https://u8387778.ct.sendgrid.net/ls/click?upn=6HtRfOYLt5fXvpttM-2FU1HftHLv8SD9KHV1UrY-2BHTBuge39HD53mQFm2icAUBG7l2mU-2FDBAToL6-2F-2BQ5EPuymtlw-3D-3DmxRi_VGgxELTe4pS-2B4iarODfECkbgX2aHKtlcIU6fLzJNIjVPukWAl0z5n09I7Avr3dTM19oy0oH4ZveA-2FvgeYpZ29tJmkaR-2B3MQ3eVODwEeGbyMo5u8rSJoYacVyYn8jp6wRWaVYY-2BSctuPTsWMl7fszNGYcx8ZgZzwU3x03VMmzD0AYEXGVLn-2BBQoySGZMr3OEvPNC9Qa7zTp-2BMBq9RZ8wei0fI-2B8NVSFdHaR17gMpTnwUQvm1bfJ2Pcsru8jRJAwOv5BaeLBjMc7JqYk5pGjZ-2BY1wnETCiY0FztJckI-2BOPLBxQGviTyJM634PK6Rvpiw5gkE5JkjtOmyZhwWsr2ea9NlJ6P5fo-2FMEKpVYgYBNHqTBBlyZbm0dD4fFC0yw1uo8u)\n",
+        "status": null,
+        "likely_foia": null,
+        "files": [],
+        "delivered": "email"
       }
     ],
     "absolute_url": "https://www.muckrock.com/foi/atlanta-325/caseworker-contact-148912/"
@@ -1236,6 +1316,74 @@
     "absolute_url": "https://www.muckrock.com/foi/chicago-169/eoco-complaints-148899/"
   },
   {
+    "id": 148891,
+    "title": "Brady List (July 2023) (Klickitat County Prosecuting Attorney)",
+    "slug": "brady-list-july-2023-klickitat-county-prosecuting-attorney",
+    "status": "done",
+    "embargo": false,
+    "permanent_embargo": false,
+    "user": 108519,
+    "username": "rose.terse",
+    "agency": 35781,
+    "datetime_submitted": "2023-07-06T23:52:04.595714",
+    "date_due": "2023-07-13",
+    "days_until_due": null,
+    "date_followup": null,
+    "datetime_done": "2023-07-07T16:22:40.149453",
+    "datetime_updated": "2023-07-07T16:22:40.149453",
+    "date_embargo": null,
+    "tracking_id": "",
+    "price": "0.00",
+    "disable_autofollowups": false,
+    "tags": [],
+    "communications": [
+      {
+        "foia": 148891,
+        "from_user": 108519,
+        "to_user": 118629,
+        "subject": "Washington Public Records Act Request: Brady List (July 2023) (Klickitat County Prosecuting Attorney)",
+        "datetime": "2023-07-06T23:52:05.582918",
+        "response": false,
+        "autogenerated": false,
+        "thanks": false,
+        "full_html": false,
+        "communication": "To Whom It May Concern:\r\n\r\nPursuant to the Washington Public Records Act, I hereby request the following records:\r\n\r\nAll current \"Brady lists\" and \"Giglio lists\" (per Brady v. Maryland/Giglio v. United States) maintained by your office.\r\n\r\nThe requested documents will be made available to the general public, and this request is not being made for commercial purposes.\r\n\r\nIn the event that there are fees, I would be grateful if you would inform me of the total charges in advance of fulfilling my request. I would prefer the request filled electronically, by e-mail attachment if available or CD-ROM if not.\r\n\r\nThank you in advance for your anticipated cooperation in this matter. I look forward to receiving your response to this request within 5 business days, as the statute requires.\r\n\r\nSincerely,\r\n\r\nRose Terse",
+        "status": null,
+        "likely_foia": null,
+        "files": [],
+        "delivered": "email"
+      },
+      {
+        "foia": 148891,
+        "from_user": 118629,
+        "to_user": 108519,
+        "subject": "PRA Request re. Klickitat County Brady List",
+        "datetime": "2023-07-07T16:22:40.149453",
+        "response": true,
+        "autogenerated": false,
+        "thanks": false,
+        "full_html": false,
+        "communication": "Good afternoon Ms. Terse,\r\n\r\nThe Klickitat County Prosecuting Attorney's Office is in receipt of your\r\nemail in which you request \"All current \"Brady lists\" and \"Giglio lists\"\r\n(per Brady v. Maryland/Giglio v. United States) maintained by your office.\"\r\n\r\nPlease find attached a one page responsive document to your request. As we\r\nhave no additional responsive documents your request is considered closed\r\nas of today. Please do not hesitate to contact me if you have any questions.\r\n\r\nThank you,\r\n\r\nRebecca Cranston\r\nDeputy Prosecuting Attorney\r\nKlickitat County Prosecuting Attorney's Office\r\n205 S. Columbus Ave, Room 106\r\nGoldendale, WA  98620\r\nOffice: (509) 773-5838\r\nDirect: (509) 773-2429\r\nFax: (509) 773-6696\r\nrebeccac@klickitatcounty.org\r\n\r\n*Public Records:*  All e-mail sent to this address will be received by the\r\nKlickitat County e-mail system and is subject to Public Disclosure under\r\nChapter 42.56 RCW.  Messages may be viewed by parties other than the\r\nintended recipient.\n",
+        "status": "done",
+        "likely_foia": null,
+        "files": [
+          {
+            "id": 1101223,
+            "ffile": "https://cdn.muckrock.com/foia_files/2023/07/07/KCPA_PID_list.pdf",
+            "datetime": "2023-07-07T16:22:40.225846",
+            "title": "KCPA PID list",
+            "source": "Klickitat County Prosecuting Attorney, Klickitat County, WA",
+            "description": "",
+            "doc_id": "23869056-kcpa-pid-list",
+            "pages": 1
+          }
+        ],
+        "delivered": "email"
+      }
+    ],
+    "absolute_url": "https://www.muckrock.com/foi/klickitat-county-8404/brady-list-july-2023-klickitat-county-prosecuting-attorney-148891/"
+  },
+  {
     "id": 148893,
     "title": "Brady List (July 2023) (Garfield County Prosecuting Attorney)",
     "slug": "brady-list-july-2023-garfield-county-prosecuting-attorney",
@@ -1302,74 +1450,6 @@
       }
     ],
     "absolute_url": "https://www.muckrock.com/foi/garfield-county-8370/brady-list-july-2023-garfield-county-prosecuting-attorney-148893/"
-  },
-  {
-    "id": 148891,
-    "title": "Brady List (July 2023) (Klickitat County Prosecuting Attorney)",
-    "slug": "brady-list-july-2023-klickitat-county-prosecuting-attorney",
-    "status": "processed",
-    "embargo": false,
-    "permanent_embargo": false,
-    "user": 108519,
-    "username": "rose.terse",
-    "agency": 35781,
-    "datetime_submitted": "2023-07-06T23:52:04.595714",
-    "date_due": "2023-07-13",
-    "days_until_due": null,
-    "date_followup": "2023-07-13",
-    "datetime_done": null,
-    "datetime_updated": "2023-07-07T16:22:40.149453",
-    "date_embargo": null,
-    "tracking_id": "",
-    "price": "0.00",
-    "disable_autofollowups": false,
-    "tags": [],
-    "communications": [
-      {
-        "foia": 148891,
-        "from_user": 108519,
-        "to_user": 118629,
-        "subject": "Washington Public Records Act Request: Brady List (July 2023) (Klickitat County Prosecuting Attorney)",
-        "datetime": "2023-07-06T23:52:05.582918",
-        "response": false,
-        "autogenerated": false,
-        "thanks": false,
-        "full_html": false,
-        "communication": "To Whom It May Concern:\r\n\r\nPursuant to the Washington Public Records Act, I hereby request the following records:\r\n\r\nAll current \"Brady lists\" and \"Giglio lists\" (per Brady v. Maryland/Giglio v. United States) maintained by your office.\r\n\r\nThe requested documents will be made available to the general public, and this request is not being made for commercial purposes.\r\n\r\nIn the event that there are fees, I would be grateful if you would inform me of the total charges in advance of fulfilling my request. I would prefer the request filled electronically, by e-mail attachment if available or CD-ROM if not.\r\n\r\nThank you in advance for your anticipated cooperation in this matter. I look forward to receiving your response to this request within 5 business days, as the statute requires.\r\n\r\nSincerely,\r\n\r\nRose Terse",
-        "status": null,
-        "likely_foia": null,
-        "files": [],
-        "delivered": "email"
-      },
-      {
-        "foia": 148891,
-        "from_user": 118629,
-        "to_user": 108519,
-        "subject": "PRA Request re. Klickitat County Brady List",
-        "datetime": "2023-07-07T16:22:40.149453",
-        "response": true,
-        "autogenerated": false,
-        "thanks": false,
-        "full_html": false,
-        "communication": "Good afternoon Ms. Terse,\r\n\r\nThe Klickitat County Prosecuting Attorney's Office is in receipt of your\r\nemail in which you request \"All current \"Brady lists\" and \"Giglio lists\"\r\n(per Brady v. Maryland/Giglio v. United States) maintained by your office.\"\r\n\r\nPlease find attached a one page responsive document to your request. As we\r\nhave no additional responsive documents your request is considered closed\r\nas of today. Please do not hesitate to contact me if you have any questions.\r\n\r\nThank you,\r\n\r\nRebecca Cranston\r\nDeputy Prosecuting Attorney\r\nKlickitat County Prosecuting Attorney's Office\r\n205 S. Columbus Ave, Room 106\r\nGoldendale, WA  98620\r\nOffice: (509) 773-5838\r\nDirect: (509) 773-2429\r\nFax: (509) 773-6696\r\nrebeccac@klickitatcounty.org\r\n\r\n*Public Records:*  All e-mail sent to this address will be received by the\r\nKlickitat County e-mail system and is subject to Public Disclosure under\r\nChapter 42.56 RCW.  Messages may be viewed by parties other than the\r\nintended recipient.\n",
-        "status": null,
-        "likely_foia": null,
-        "files": [
-          {
-            "id": 1101223,
-            "ffile": "https://cdn.muckrock.com/foia_files/2023/07/07/KCPA_PID_list.pdf",
-            "datetime": "2023-07-07T16:22:40.225846",
-            "title": "KCPA PID list",
-            "source": "Klickitat County Prosecuting Attorney, Klickitat County, WA",
-            "description": "",
-            "doc_id": "23869056-kcpa-pid-list",
-            "pages": 1
-          }
-        ],
-        "delivered": "email"
-      }
-    ],
-    "absolute_url": "https://www.muckrock.com/foi/klickitat-county-8404/brady-list-july-2023-klickitat-county-prosecuting-attorney-148891/"
   },
   {
     "id": 148894,
@@ -2426,11 +2506,11 @@
     "datetime_submitted": "2023-07-06T12:55:58.299381",
     "date_due": "2023-07-17",
     "days_until_due": null,
-    "date_followup": "2023-07-17",
+    "date_followup": "2023-09-06",
     "datetime_done": null,
     "datetime_updated": "2023-07-09T07:55:54.468674",
     "date_embargo": null,
-    "tracking_id": "",
+    "tracking_id": "PD-23-1115",
     "price": "0.00",
     "disable_autofollowups": false,
     "tags": [],
@@ -2462,7 +2542,7 @@
         "thanks": false,
         "full_html": false,
         "communication": "Good Morning Sir or Madam:\r\n\r\nThe Office of the Clerk of the City of Newark has assigned your attached request tracking number PD-23-1115 and forwarded it to the Department of Public Safety, Division of Police.\r\n\r\nGovernment agencies properly extend OPRA's initial seven-business day deadline for good cause when the extension comes within the first seven business day deadline and provides a date certain by which the request will be filled. The requestor's consent to the extension is not necessary. Starkey v. Department of Transportation, GRC 2007-315, 2007-316, 2007-317 (2009). Rivera v. Plainfield, GRC 2009-317 (2011). Criscione v. Gutenberg, GRC 2010-68 (2010).\r\n\r\nIn order to gather the documents responsive to your requests, the OPRA unit sends your requests to the respective City Departments, which actually created, received, or retained these documents. Since the State of Emergency, crucial City Staff have retired, become sick, and work a staggered schedule, which makes the time needed to gather responsive documents far longer than usual.\r\n\r\nThis office received your request on July 6, 2023, and anticipates a response on or about September 6, 2023.\r\n\nSincerely,\r\n\r\nShantesia Crawford, MPA\r\nOffice of the City Clerk\r\nDivision of OPRA - Legal\r\n920 Broad Street, Room 415A\r\nNewark, New Jersey  07102\r\n(973)424-4116\r\ncrawfords@ci.newark.nj.us<mailto:crawfords@ci.newark.nj.us>",
-        "status": null,
+        "status": "processed",
         "likely_foia": null,
         "files": [
           {
@@ -2568,7 +2648,7 @@
     "id": 148822,
     "title": "Requesting educational materials from Inter-Agency Working Group (Office Of Climate & Environmental Equity, Chicago Il)",
     "slug": "requesting-educational-materials-from-inter-agency-working-group-office-of-climate-environmental-equity-chicago-il",
-    "status": "submitted",
+    "status": "processed",
     "embargo": false,
     "permanent_embargo": false,
     "user": 68214,
@@ -2577,11 +2657,11 @@
     "datetime_submitted": "2023-07-06T11:05:50.524524",
     "date_due": "2023-08-03",
     "days_until_due": null,
-    "date_followup": null,
+    "date_followup": "2023-10-04",
     "datetime_done": null,
-    "datetime_updated": "2023-07-06T11:05:51.587286",
+    "datetime_updated": "2023-07-09T23:53:35.407497",
     "date_embargo": null,
-    "tracking_id": "",
+    "tracking_id": "Q051406-070923",
     "price": "0.00",
     "disable_autofollowups": false,
     "tags": [],
@@ -2597,10 +2677,42 @@
         "thanks": false,
         "full_html": false,
         "communication": "To Whom It May Concern:\r\n\r\nPursuant to the Illinois Freedom of Information Act., I hereby request the following records:\r\n\r\nAs part of the city's voluntary compliance agreement with the federal Dept of Housing and Urban Development, the city formed an Interagency Working Group (IWG) convened by the Dept of Public Health and the Office of Climate and Environmental Equity tasked with receiving \"education and support to identify actions within the scope of their authority to promote environmental justice and address cumulative impacts\" and producing an environmental justice action plan.\r\n\r\nI am requesting records sufficient to show:\r\n- the dates of meetings of the IWG from its formation to the present\r\n- the agendas and minutes of those meetings\r\n- any of the educational documents, resources, trainings, or other related materials provided to the IWG in support of this process\r\n\r\nThe requested documents will be made available to the general public, and this request is not being made for commercial purposes.\r\n\r\nIn the event that there are fees, I would be grateful if you would inform me of the total charges in advance of fulfilling my request. I would prefer the request filled electronically, by e-mail attachment if available or CD-ROM if not.\r\n\r\nThank you in advance for your anticipated cooperation in this matter. I look forward to receiving your response to this request within 5 business days, as the statute requires.\r\n\r\nSincerely,\r\n\r\nAnthony Moser",
-        "status": null,
+        "status": "processed",
         "likely_foia": null,
         "files": [],
-        "delivered": "none"
+        "delivered": "portal"
+      },
+      {
+        "foia": 148822,
+        "from_user": null,
+        "to_user": null,
+        "subject": "[Records Center] Welcome to the City of Chicago FOIA Request Center!",
+        "datetime": "2023-07-09T23:52:41.880533",
+        "response": true,
+        "autogenerated": false,
+        "thanks": false,
+        "full_html": false,
+        "communication": "Thank you for registering with City of Chicago FOIA Center. \n \nYour Login ID is: \u00a0148822-33857035@requests.muckrock.com \n \nIf you did not submit your request through the public portal but are receiving this e-mail, an account has been created for you where you can track and monitor the status of your request, and receive any documents in response to your request. \n \n \nPlease login to \"My Request Center\" to update your account information, track the status of your request and receive requested records when they become available. [NAMEOFSYSTEM] ([REQUEST_VIEW_HREF]) \n This is an auto-generated email and has originated from an unmonitored email account. Please DO NOT REPLY\n",
+        "status": null,
+        "likely_foia": 148822,
+        "files": [],
+        "delivered": "email"
+      },
+      {
+        "foia": 148822,
+        "from_user": null,
+        "to_user": null,
+        "subject": "Department of Public Health :: Q051406-070923",
+        "datetime": "2023-07-09T23:53:35.407497",
+        "response": true,
+        "autogenerated": false,
+        "thanks": false,
+        "full_html": false,
+        "communication": "Thank you for your FOIA request to the City of Chicago Department of Public Health. Your FOIA request has been received and is being processed. Your reference number for tracking purposes is: Q051406-070923.\u00a0Track and view responses at Public Records Center. (https://u8387778.ct.sendgrid.net/ls/click?upn=6HtRfOYLt5fXvpttM-2FU1HXlc9Qr7-2FBrTp2A6OXN6gdggM9uOgMPUh1dY4lq6zlDGxTBufrAMTAraC6r7hhsQEcOCzjSQ9hzCyuMZxu71Wi4eotf5j1fYaupOkeooFN-2F8cPITMZT7TVyvVdexf85DtQ-3D-3DGLG4_G5g431z-2F4i1YfE-2FW560FVSzMKKDhSBjkuD5hVuDSE2BB-2Fq8rbDjYRiHcum8UKqB-2BOWQlwklL4dmO7ClwBd49XNSOyTIh4KTBAlmZnJSC90JphFDP8sht4wjIjvbmhUbUpnio9R3BcWTkMB-2BFSaSAQJRMDLg-2FVdS-2FoWxmHsR4xkUk2Fy7m1CcEE91fYH93s5oOs5-2FTpbCyoeFEorx3K3iHAjbKm3K5ziamxKyULLRr-2B0-3D) \n \nYou have requested the following records: To Whom It May Concern:\n\nPursuant to the Illinois Freedom of Information Act., I hereby request the following records:\n\nAs part of the city's voluntary compliance agreement with the federal Dept of Housing and Urban Development, the city formed an Interagency Working Group (IWG) convened by the Dept of Public Health and the Office of Climate and Environmental Equity tasked with receiving \"education and support to identify actions within the scope of their authority to promote environmental justice and address cumulative impacts\" and producing an environmental justice action plan.\n\nI am requesting records sufficient to show:\n- the dates of meetings of the IWG from its formation to the present\n- the agendas and minutes of those meetings\n- any of the educational documents, resources, trainings, or other related materials provided to the IWG in support of this process\n\nThe requested documents will be made available to the general public, and this request is not being made for commercial purposes.\n\nIn the event that there are fees, I would be grateful if you would inform me of the total charges in advance of fulfilling my request. I would prefer the request filled electronically, by e-mail attachment if available or CD-ROM if not.\n\nThank you in advance for your anticipated cooperation in this matter. I look forward to receiving your response to this request within 5 business days, as the statute requires.\n\nSincerely,\n\nAnthony Moser\n\nUpload documents directly: https://accounts.muckrock.com/accounts/login/?next=https%3A%2F%2Fwww.muckrock.com%2Faccounts%2Flogin%2F%3Fnext%3D%252Faccounts%252Fagency_login%252Foffice-of-climate-environmental-equity-chicago-il-35728%252Frequesting-educational-materials-from-inter-agency-working-group-office-of-climate-environmental-equity-chicago-il-148822%252F%253Femail%253Dcdphfoia%252540cityofchicago.org&url_auth_token=AAGwF4IMf9IzgfYa4BaR4icE9uM%3A1qIhtB%3AYuKLbZFFXyAxio61An6R7U2SKQu1XtdeqE-sDRERHvY \n \nThe City of Chicago Department of Public Health\u00a0responds to all public records requests in accordance with the Illinois Freedom of Information Act (FOIA), 5 ILCS 140/1 et seq. If further time is needed to assemble and copy all documents responsive to your FOIA request, we will contact you with a time estimate and a request to extend.\n",
+        "status": null,
+        "likely_foia": 148822,
+        "files": [],
+        "delivered": "email"
       }
     ],
     "absolute_url": "https://www.muckrock.com/foi/chicago-169/requesting-educational-materials-from-inter-agency-working-group-office-of-climate-environmental-equity-chicago-il-148822/"
@@ -2609,7 +2721,7 @@
     "id": 148823,
     "title": "Requesting educational materials from Inter-Agency Working Group (Chicago Department of Public Health)",
     "slug": "requesting-educational-materials-from-inter-agency-working-group-chicago-department-of-public-health",
-    "status": "submitted",
+    "status": "processed",
     "embargo": false,
     "permanent_embargo": false,
     "user": 68214,
@@ -2618,11 +2730,11 @@
     "datetime_submitted": "2023-07-06T11:05:50.524524",
     "date_due": "2023-07-13",
     "days_until_due": null,
-    "date_followup": null,
+    "date_followup": "2023-10-04",
     "datetime_done": null,
-    "datetime_updated": "2023-07-06T11:05:51.743387",
+    "datetime_updated": "2023-07-09T23:39:39.615339",
     "date_embargo": null,
-    "tracking_id": "",
+    "tracking_id": "Q051404-070923",
     "price": "0.00",
     "disable_autofollowups": false,
     "tags": [],
@@ -2638,10 +2750,42 @@
         "thanks": false,
         "full_html": false,
         "communication": "To Whom It May Concern:\r\n\r\nPursuant to the Illinois Freedom of Information Act., I hereby request the following records:\r\n\r\nAs part of the city's voluntary compliance agreement with the federal Dept of Housing and Urban Development, the city formed an Interagency Working Group (IWG) convened by the Dept of Public Health and the Office of Climate and Environmental Equity tasked with receiving \"education and support to identify actions within the scope of their authority to promote environmental justice and address cumulative impacts\" and producing an environmental justice action plan.\r\n\r\nI am requesting records sufficient to show:\r\n- the dates of meetings of the IWG from its formation to the present\r\n- the agendas and minutes of those meetings\r\n- any of the educational documents, resources, trainings, or other related materials provided to the IWG in support of this process\r\n\r\nThe requested documents will be made available to the general public, and this request is not being made for commercial purposes.\r\n\r\nIn the event that there are fees, I would be grateful if you would inform me of the total charges in advance of fulfilling my request. I would prefer the request filled electronically, by e-mail attachment if available or CD-ROM if not.\r\n\r\nThank you in advance for your anticipated cooperation in this matter. I look forward to receiving your response to this request within 5 business days, as the statute requires.\r\n\r\nSincerely,\r\n\r\nAnthony Moser",
+        "status": "processed",
+        "likely_foia": null,
+        "files": [],
+        "delivered": "portal"
+      },
+      {
+        "foia": 148823,
+        "from_user": 9742,
+        "to_user": 68214,
+        "subject": "Department of Public Health :: Q051404-070923",
+        "datetime": "2023-07-09T23:39:36.040948",
+        "response": true,
+        "autogenerated": false,
+        "thanks": false,
+        "full_html": false,
+        "communication": "Thank you for your FOIA request to the City of Chicago Department of Public Health. Your FOIA request has been received and is being processed. Your reference number for tracking purposes is: Q051404-070923.\u00a0Track and view responses at Public Records Center. (https://u8387778.ct.sendgrid.net/ls/click?upn=6HtRfOYLt5fXvpttM-2FU1HXlc9Qr7-2FBrTp2A6OXN6gdggM9uOgMPUh1dY4lq6zlDGxTBufrAMTAraC6r7hhsQEcOCzjSQ9hzCyuMZxu71Wi4eotf5j1fYaupOkeooFN-2F8cPITMZT7TVyvVdexf85DtQ-3D-3Dae36_E9-2F6ds8Fj9iEV2rZc9q3jvIlZ7JP3BYGFLwnPWC0Flvp6U20rbPqf5O2eM8A-2Bc51HldMQVkhzxKsu-2BMwcqMCvREVRveJy9c1VmIn0Ou-2BwyRjrl9lLFTcIPHGG6eaWyfkCncRzaW0LkHOXNLlNEEQ0C8dc8y4aL11wRLIHWQ5MAIiuJ-2FCRVUk9QLw8PGSIhCaQm64-2Bmyk7L860Ci8qNJIIBg7AF0BmsJ7LRaFhWZXuNQ-3D) \n \nYou have requested the following records: To Whom It May Concern:\n\nPursuant to the Illinois Freedom of Information Act., I hereby request the following records:\n\nAs part of the city's voluntary compliance agreement with the federal Dept of Housing and Urban Development, the city formed an Interagency Working Group (IWG) convened by the Dept of Public Health and the Office of Climate and Environmental Equity tasked with receiving \"education and support to identify actions within the scope of their authority to promote environmental justice and address cumulative impacts\" and producing an environmental justice action plan.\n\nI am requesting records sufficient to show:\n- the dates of meetings of the IWG from its formation to the present\n- the agendas and minutes of those meetings\n- any of the educational documents, resources, trainings, or other related materials provided to the IWG in support of this process\n\nThe requested documents will be made available to the general public, and this request is not being made for commercial purposes.\n\nIn the event that there are fees, I would be grateful if you would inform me of the total charges in advance of fulfilling my request. I would prefer the request filled electronically, by e-mail attachment if available or CD-ROM if not.\n\nThank you in advance for your anticipated cooperation in this matter. I look forward to receiving your response to this request within 5 business days, as the statute requires.\n\nSincerely,\n\nAnthony Moser\n\nUpload documents directly: https://accounts.muckrock.com/accounts/login/?next=https%3A%2F%2Fwww.muckrock.com%2Faccounts%2Flogin%2F%3Fnext%3D%252Faccounts%252Fagency_login%252Fchicago-department-of-public-health-8530%252Frequesting-educational-materials-from-inter-agency-working-group-chicago-department-of-public-health-148823%252F%253Femail%253DCDPHfoia%252540cityofchicago.org&url_auth_token=AAAL5ay2U_NB0jsKcC6qrL0a1NY%3A1qIhhn%3A9Ej0VmbZRZtHO7s4uDYzx793bUCJa88pYHBds7KOUQU \n \nThe City of Chicago Department of Public Health\u00a0responds to all public records requests in accordance with the Illinois Freedom of Information Act (FOIA), 5 ILCS 140/1 et seq. If further time is needed to assemble and copy all documents responsive to your FOIA request, we will contact you with a time estimate and a request to extend.\n",
         "status": null,
         "likely_foia": null,
         "files": [],
-        "delivered": "none"
+        "delivered": "email"
+      },
+      {
+        "foia": 148823,
+        "from_user": 9742,
+        "to_user": 68214,
+        "subject": "[Records Center] Welcome to the City of Chicago FOIA Request Center!",
+        "datetime": "2023-07-09T23:39:39.615339",
+        "response": true,
+        "autogenerated": false,
+        "thanks": false,
+        "full_html": false,
+        "communication": "Thank you for registering with City of Chicago FOIA Center. \n \nYour Login ID is: \u00a0148823-24206711@requests.muckrock.com \n \nIf you did not submit your request through the public portal but are receiving this e-mail, an account has been created for you where you can track and monitor the status of your request, and receive any documents in response to your request. \n \n \nPlease login to \"My Request Center\" to update your account information, track the status of your request and receive requested records when they become available. [NAMEOFSYSTEM] ([REQUEST_VIEW_HREF]) \n This is an auto-generated email and has originated from an unmonitored email account. Please DO NOT REPLY\n",
+        "status": null,
+        "likely_foia": null,
+        "files": [],
+        "delivered": "email"
       }
     ],
     "absolute_url": "https://www.muckrock.com/foi/chicago-169/requesting-educational-materials-from-inter-agency-working-group-chicago-department-of-public-health-148823/"

@@ -2950,7 +2950,7 @@
         "thanks": false,
         "full_html": false,
         "communication": "The City Clerk\u2019s Office is in receipt of your Public Records Request.  Please note that the City of Palm Springs has up to ten (10) calendar days to respond to your request, or the next business day thereafter. If needed, an extension may be requested as the City works to compile all responsive records. Should our office need further clarification on your request, we will be in contact with you. \r\n  \r\n \r\nYour request security key is 846994.\r\nYour request reference number is Request Number: PD-530-2023.\r\n\r\nPlease have this security key and reference number available when communicating with our staff regarding your request.\r\n\r\nNote: This is an automated email notification. Please do not respond to this email.\n",
-        "status": null,
+        "status": "processed",
         "likely_foia": null,
         "files": [],
         "delivered": "email"
@@ -2966,7 +2966,7 @@
         "thanks": false,
         "full_html": false,
         "communication": ", \r\n  \r\n We have completed your request. If you requested paper copies to be picked up, you may visit us during business hours to retrieve; if you asked for your copies to be mailed, they will be sent on the next business day; if you requested electronic copies, they can be retrieved from the public portal linked below. \r\n  \r\n Link: http://url4102.request.justfoia.com/ls/click?upn=XfJvxk0gd1RbNAoCtqw15vnYeg7VVFzryk9V8SA5oZd0Jd4-2BGK1mIbd5Rx4cr4rLj652ThupBdNOrBFiJ43pDIf990y5BDM1Pw5fE5V6SVQ-3DnY2q_hu2wmpcfiq3c9ejXk5d3CBkMS53pJC53RmbHTIHHRnppdJUQ2Ai0Qf-2F2-2FQe9BaeC-2B-2FlrDhXFr-2BmWIozox6aRbDc-2FvAGtzZisw2sFGuugJhwcq5Y5OCh9qDk0RYw8IGLk4gOiqW4T5ypQmVUiyBkr-2BcwEXMN9J7PwyoNTTzEENpdz9RCToxZ2IplCmtz6nF5EIVBP-2BMKCBswA1iitJ-2FAIgILnwu-2FFMCBx-2BiKzc-2F5zED3GNTQbRPT1fAXVJKuZO6BV1pcK4cD-2BiXfIDn-2B4W3rIA-2FByo0ZnnIWldzjYOlbKAMuj3tbSrXA0LjvWeggJso4wPtGgn4XEux43DcYUWGgNpQ-3D-3D \r\n  \r\n Request No.: PD-530-2023 \r\n  \r\n Security Key: 846994 \r\n  \r\n Thanks, \r\n  \r\n City of Palm Springs Staff \r\n  \r\n \r\n\r\n\r\n*Note: This is an automated email notification. Please do not respond to this email.\n",
-        "status": null,
+        "status": "processed",
         "likely_foia": null,
         "files": [],
         "delivered": "email"

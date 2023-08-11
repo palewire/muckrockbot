@@ -83,8 +83,8 @@
             "title": "Fee_Waiver_Letter_copy_1.pdf",
             "source": "Jordan Lassiter",
             "description": "",
-            "doc_id": "",
-            "pages": 0
+            "doc_id": "23905184-fee_waiver_letter_copy_1pdf",
+            "pages": 2
           }
         ],
         "delivered": "email"
@@ -135,8 +135,8 @@
             "title": "Fee_Waiver_Letter_copy_1.pdf",
             "source": "Jordan Lassiter",
             "description": "",
-            "doc_id": "",
-            "pages": 0
+            "doc_id": "23905186-fee_waiver_letter_copy_1pdf",
+            "pages": 2
           }
         ],
         "delivered": "email"
@@ -1252,7 +1252,7 @@
         "thanks": false,
         "full_html": false,
         "communication": "Good morning,\r\n\r\nPer municipal code the city of Newberg does not accept FOIA requests. FOIA is a federal statute and not relevant to Oregon municipalities as these are state entities covered by other PRR statutes.\r\n\r\nIn order to request a PRR and option the quote for these services please go to this link and follow the relevant instructions:\r\n\r\nhttps://www.newbergoregon.gov/citymanager/page/records-request-and-form\r\n\r\nBest,\r\n\r\n\r\nWill Worthey\r\nCity Manager\r\nCity of Newberg\r\n414 E. First Street\r\nNewberg, OR 97132\r\nDirect: 503-537-1256\r\n\r\nForward Together!\r\n[A picture containing text, clipart  Description automatically generated]\n",
-        "status": null,
+        "status": "fix",
         "likely_foia": null,
         "files": [
           {

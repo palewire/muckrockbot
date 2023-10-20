@@ -983,7 +983,7 @@
         "thanks": false,
         "full_html": false,
         "communication": "Hello,\r\n\r\nWe have received your Public Records Act request. Please see the attached\r\nacknowledgement letter.\r\n\r\nThank you,\r\n\r\nKate Burt\r\n(415) 226-0855\n",
-        "status": null,
+        "status": "processed",
         "likely_foia": null,
         "files": [
           {

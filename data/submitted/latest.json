@@ -1738,7 +1738,7 @@
     "id": 154438,
     "title": "Documents furnished in other FOIL requests",
     "slug": "documents-furnished-in-other-foil-requests",
-    "status": "submitted",
+    "status": "processed",
     "embargo": false,
     "permanent_embargo": false,
     "user": 75268,
@@ -1747,7 +1747,7 @@
     "datetime_submitted": "2023-11-09T19:27:05.197557",
     "date_due": "2023-11-16",
     "days_until_due": null,
-    "date_followup": null,
+    "date_followup": "2024-02-14",
     "datetime_done": null,
     "datetime_updated": "2023-11-13T23:31:16.274339",
     "date_embargo": null,
@@ -1835,10 +1835,10 @@
         "thanks": false,
         "full_html": false,
         "communication": "Ok, I am not that happy about that date, but if the DOB will actually produce documents on that date, I may accept it.\r\n\r\nMy prior experience with the city involves agencies repeatedly declaring that documents will be furnished by a specific date 60 days in the future, only to (on that date) again delay it by 60 days. Will the DOB commit to releasing records by Wednesday, February 14, 2024? I will not hesitate to appeal on basis of constructive denial should that date be missed.",
-        "status": null,
+        "status": "processed",
         "likely_foia": null,
         "files": [],
-        "delivered": "none"
+        "delivered": "portal"
       }
     ],
     "absolute_url": "https://www.muckrock.com/foi/new-york-city-17/documents-furnished-in-other-foil-requests-154438/"
@@ -1847,7 +1847,7 @@
     "id": 154437,
     "title": "Drawings and plans",
     "slug": "drawings-and-plans",
-    "status": "submitted",
+    "status": "processed",
     "embargo": false,
     "permanent_embargo": false,
     "user": 75268,
@@ -1856,7 +1856,7 @@
     "datetime_submitted": "2023-11-09T19:17:12.991070",
     "date_due": "2023-11-16",
     "days_until_due": null,
-    "date_followup": null,
+    "date_followup": "2024-02-14",
     "datetime_done": null,
     "datetime_updated": "2023-11-13T23:30:43.501782",
     "date_embargo": null,
@@ -1940,10 +1940,10 @@
         "thanks": false,
         "full_html": false,
         "communication": "Ok, I am not that happy about that date, but if the DOB will actually produce documents on that date, I will accept it.\r\n\r\nMy prior experience with the city involves agencies repeatedly declaring that documents will be furnished by a specific date 60 days in the future, only to (on that date) again delay it by 60 days. Will the DOB commit to releasing records by Wednesday, February 14, 2024? I will not hesitate to appeal on basis of constructive denial should that date be missed.",
-        "status": null,
+        "status": "processed",
         "likely_foia": null,
         "files": [],
-        "delivered": "none"
+        "delivered": "portal"
       }
     ],
     "absolute_url": "https://www.muckrock.com/foi/new-york-city-17/drawings-and-plans-154437/"

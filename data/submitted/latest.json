@@ -2010,10 +2010,10 @@
         "thanks": false,
         "full_html": false,
         "communication": "City of Los Angeles\r\n\r\n************************************************************************\r\n\r\n\r\nA message was sent to you regarding record request #23-11986:\r\n\r\nDear Requester,\r\n\r\n\r\n\r\nYour California Public Records Act (CPRA) request was received and will be assigned to a CPRA Analyst.\r\n\r\n\r\n\r\nIf you have questions, please respond to this email.\r\n\r\n\r\n\r\nRespectfully,\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nLAPD Public Records &amp; Subpoena Response Section, CPRA Unit\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n************************************************************************                          \r\n<em>Questions about your request?</em> Reply to this email or sign in to contact staff at City of Los Angeles.<br><em>Technical support:</em> See our <a href=\"https://www.nextrequest.civicplus.help/hc/en-us/categories/17720084172567-Requesters\">help page</a>",
-        "status": null,
+        "status": "processed",
         "likely_foia": null,
         "files": [],
-        "delivered": "email"
+        "delivered": "portal"
       }
     ],
     "absolute_url": "https://www.muckrock.com/foi/los-angeles-91/palmer-911-logs-154641/"
@@ -2099,10 +2099,10 @@
         "thanks": false,
         "full_html": false,
         "communication": "City of Los Angeles\r\n\r\n************************************************************************\r\n\r\n\r\nA message was sent to you regarding record request #23-11985:\r\n\r\nDear Requester,\r\n\r\n\r\n\r\nYour California Public Records Act (CPRA) request was received and will be assigned to a CPRA Analyst.\r\n\r\n\r\n\r\nIf you have questions, please respond to this email.\r\n\r\n\r\n\r\nRespectfully,\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nLAPD Public Records &amp; Subpoena Response Section, CPRA Unit\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n************************************************************************                          \r\n<em>Questions about your request?</em> Reply to this email or sign in to contact staff at City of Los Angeles.<br><em>Technical support:</em> See our <a href=\"https://www.nextrequest.civicplus.help/hc/en-us/categories/17720084172567-Requesters\">help page</a>",
-        "status": null,
+        "status": "processed",
         "likely_foia": null,
         "files": [],
-        "delivered": "email"
+        "delivered": "portal"
       }
     ],
     "absolute_url": "https://www.muckrock.com/foi/los-angeles-91/haskell-residence-911-calls-154640/"

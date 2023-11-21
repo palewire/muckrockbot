@@ -19,7 +19,9 @@
     "tracking_id": "",
     "price": "0.00",
     "disable_autofollowups": false,
-    "tags": [],
+    "tags": [
+      "construction"
+    ],
     "communications": [
       {
         "foia": 154797,

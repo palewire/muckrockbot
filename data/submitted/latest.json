@@ -186,7 +186,7 @@
     "date_embargo": null,
     "tracking_id": "",
     "price": "0.00",
-    "disable_autofollowups": false,
+    "disable_autofollowups": true,
     "tags": [],
     "communications": [
       {

@@ -853,7 +853,7 @@
     "id": 155652,
     "title": "List of Individuals: Hinds County Coroners Office",
     "slug": "list-of-individuals-hinds-county-coroners-office",
-    "status": "processed",
+    "status": "no_docs",
     "embargo": false,
     "permanent_embargo": false,
     "user": 112685,
@@ -862,8 +862,8 @@
     "datetime_submitted": "2023-12-07T12:35:17.592268",
     "date_due": "2023-12-18",
     "days_until_due": null,
-    "date_followup": "2024-03-07",
-    "datetime_done": null,
+    "date_followup": null,
+    "datetime_done": "2023-12-08T09:28:08.267522",
     "datetime_updated": "2023-12-08T09:28:08.267522",
     "date_embargo": null,
     "tracking_id": "23-1988",
@@ -930,10 +930,10 @@
         "thanks": false,
         "full_html": false,
         "communication": "City of Jackson, MS\r\n\r\n************************************************************************\r\n\r\n\r\nA message was sent to you regarding record request #23-1988:\r\n\r\nWe do not have any records relative to your request. We suggest that you contact Hinds County as they manage the jail and possibly any individuals buried at said site. This request will be closed as the City of Jackson does not have in its possession requested records.\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n************************************************************************                          \r\n<em>Questions about your request?</em> Reply to this email or sign in to contact staff at City of Jackson, MS.<br><em>Technical support:</em> See our <a href=\"https://www.nextrequest.civicplus.help/hc/en-us/categories/17720084172567-Requesters\">help page</a>",
-        "status": null,
+        "status": "no_docs",
         "likely_foia": null,
         "files": [],
-        "delivered": "email"
+        "delivered": "portal"
       },
       {
         "foia": 155652,
@@ -946,10 +946,10 @@
         "thanks": false,
         "full_html": false,
         "communication": "City of Jackson, MS\r\n\r\n************************************************************************\r\n\r\n\r\nRecord request #23-1988 has been closed. The closure reason supplied was:\r\n\r\nWe do not have the records you requested. We suggest that you contact Hinds County.\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n************************************************************************                          \r\n<em>Questions about your request?</em> Reply to this email or sign in to contact staff at City of Jackson, MS.<br><em>Technical support:</em> See our <a href=\"https://www.nextrequest.civicplus.help/hc/en-us/categories/17720084172567-Requesters\">help page</a>",
-        "status": null,
+        "status": "no_docs",
         "likely_foia": null,
         "files": [],
-        "delivered": "email"
+        "delivered": "portal"
       }
     ],
     "absolute_url": "https://www.muckrock.com/foi/jackson-19622/list-of-individuals-hinds-county-coroners-office-155652/"

@@ -619,7 +619,7 @@
     "id": 156430,
     "title": "CIA support for 2023 film \"Leave the World Behind\"",
     "slug": "cia-support-for-2023-film-leave-the-world-behind",
-    "status": "submitted",
+    "status": "processed",
     "embargo": false,
     "permanent_embargo": false,
     "user": 122968,
@@ -628,7 +628,7 @@
     "datetime_submitted": "2023-12-29T13:46:03.604084",
     "date_due": "2024-01-30",
     "days_until_due": null,
-    "date_followup": null,
+    "date_followup": "2024-03-28",
     "datetime_done": null,
     "datetime_updated": "2023-12-29T13:46:03.701413",
     "date_embargo": null,
@@ -648,7 +648,7 @@
         "thanks": false,
         "full_html": false,
         "communication": "To Whom It May Concern:\r\n\r\nPursuant to the Freedom of Information Act, I hereby request the following records:\r\n\r\nAny documents pertaining to collaboration between the Central Intelligence Agency (CIA) and the production of the 2023 movie \"Leave the World Behind,\" directed by Sam Esmail and starring Julia Roberts and Ethan Hawke. Former President Barack Obama and First Lady Michelle Obama are among the executive producers on the film, which was made through their Higher Ground Productions company. I request any and all documents pertaining to CIA support for \"Leave the World Behind.\" Such documents may include but should not be limited to: script notes; production assistance agreements; and all records of communications between employees of the CIA and members of the cast, crew, and production company of \"Leave the World Behind,\" including memos, notes of meetings and conference calls, emails, and other forms of communication.\r\n\r\nI am the Director of Research Operations at a 501(c)(3) non-profit organization called The Decoding Culture Foundation. These documents will be used for public education and research purposes. I therefore request a waiver of all fees that may otherwise apply. Attached is a document with organization letterhead confirming my position, as well as the organization's 501(c)(3) application and approval form.\r\n\r\nThe requested documents will be made available to the general public, and this request is not being made for commercial purposes.\r\n\r\nIn the event that there are fees, I would be grateful if you would inform me of the total charges in advance of fulfilling my request. I would prefer the request filled electronically, by e-mail attachment if available or CD-ROM if not.\r\n\r\nThank you in advance for your anticipated cooperation in this matter. I look forward to receiving your response to this request within 20 business days, as the statute requires.\r\n\r\nSincerely,\r\n\r\nBrett Carollo",
-        "status": null,
+        "status": "processed",
         "likely_foia": null,
         "files": [
           {
@@ -672,7 +672,7 @@
             "pages": 1
           }
         ],
-        "delivered": "none"
+        "delivered": "portal"
       }
     ],
     "absolute_url": "https://www.muckrock.com/foi/united-states-of-america-10/cia-support-for-2023-film-leave-the-world-behind-156430/"
@@ -2013,7 +2013,7 @@
     "id": 156389,
     "title": "Kenneth John Maidment",
     "slug": "kenneth-john-maidment",
-    "status": "submitted",
+    "status": "processed",
     "embargo": false,
     "permanent_embargo": false,
     "user": 109039,
@@ -2022,7 +2022,7 @@
     "datetime_submitted": "2023-12-28T16:35:11.106311",
     "date_due": "2024-01-29",
     "days_until_due": null,
-    "date_followup": null,
+    "date_followup": "2024-03-27",
     "datetime_done": null,
     "datetime_updated": "2023-12-28T16:35:11.195518",
     "date_embargo": null,
@@ -2042,10 +2042,10 @@
         "thanks": false,
         "full_html": false,
         "communication": "To Whom It May Concern:\r\n\r\nPursuant to the Freedom of Information Act, I hereby request the following records:\r\n\r\nAny and all records pertaining to Kenneth John Maidment (b. 1910, d. 1990).\r\n\r\nThe requested documents will be made available to the general public, and this request is not being made for commercial purposes.\r\n\r\nIn the event that there are fees, I would be grateful if you would inform me of the total charges in advance of fulfilling my request. I would prefer the request filled electronically, by e-mail attachment if available or CD-ROM if not.\r\n\r\nThank you in advance for your anticipated cooperation in this matter. I look forward to receiving your response to this request within 20 business days, as the statute requires.\r\n\r\nSincerely,\r\n\r\nCory Myers",
-        "status": null,
+        "status": "processed",
         "likely_foia": null,
         "files": [],
-        "delivered": "none"
+        "delivered": "portal"
       }
     ],
     "absolute_url": "https://www.muckrock.com/foi/united-states-of-america-10/kenneth-john-maidment-156389/"

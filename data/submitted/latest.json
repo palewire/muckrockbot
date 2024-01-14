@@ -597,11 +597,11 @@
     "datetime_submitted": "2024-01-12T14:57:08.813593",
     "date_due": "2024-01-22",
     "days_until_due": null,
-    "date_followup": "2024-01-22",
+    "date_followup": "2024-01-29",
     "datetime_done": null,
     "datetime_updated": "2024-01-13T19:26:57.374231",
     "date_embargo": null,
-    "tracking_id": "",
+    "tracking_id": "5473",
     "price": "0.00",
     "disable_autofollowups": false,
     "tags": [],
@@ -633,7 +633,7 @@
         "thanks": false,
         "full_html": false,
         "communication": "Dear Requestor,\r\n\r\n\r\nThank you for your interest in obtaining information from the Chicago Park District. Your FOIA request has been received and is being processed.\r\n\r\n\r\n\r\nYour FOIA reference number for tracking purposes is: 5473\r\n\r\n\r\n\r\nYou have requested the following records:\r\n\u201cAny emails to and from Misty Mitchell with the words 'field house' or references to the Touhy Park Field House, from June 1, 2023 to the date this request is processed.\u201d\r\n\r\n\r\nChicago Park District (the \u201cPark District\u201d) responds to all public records requests by the Illinois Freedom of Information Act (FOIA), 5 ILCS 140/1 et seq.  Please note that the Park District is closed for the holiday Monday January 15, 2024.  The due date for your request is Monday January 22, 2024 by close of business.  If additional time is needed to assemble and copy all documents responsive to your FOIA request, we will contact you with a time estimate and a request to extend.\r\n\r\nKind regards,\r\n\r\nKaren Choudhury\r\n--------------------------------\r\nKaren Choudhury\r\nFreedom of Information Act Counsel\r\nCHICAGO PARK DISTRICT\r\n4830 S. Western Avenue | Chicago, IL  60609\r\nFOIA: 312.742.4789 | FAX: 312.742.5328\r\nfoia@chicagoparkdistrict.com<mailto:foia@chicagoparkdistrict.com>\r\nhttps://www.chicagoparkdistrict.com<https://www.chicagoparkdistrict.com/>\r\n\r\n\r\nThis message is intended only for the individual or entity to which it is addressed and may contain information that is protected by the attorney-client or work-product privilege  and/or exempt from disclosure under applicable law. If the reader of this message is not the intended recipient, you are hereby notified that any dissemination, distribution or copying of this communication is strictly prohibited and may be unlawful. If you have received this communication in error, please reply to the sender that you received the message in error and erase or destroy the message and any attachments or copies. Thank you.\r\n[cid:image001.png@01DA464A.B5367460]\n",
-        "status": null,
+        "status": "processed",
         "likely_foia": null,
         "files": [
           {

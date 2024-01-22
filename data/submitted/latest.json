@@ -833,7 +833,9 @@
     "tracking_id": "",
     "price": "0.00",
     "disable_autofollowups": false,
-    "tags": [],
+    "tags": [
+      "background checks"
+    ],
     "communications": [
       {
         "foia": 157492,
@@ -890,7 +892,10 @@
     "tracking_id": "",
     "price": "0.00",
     "disable_autofollowups": false,
-    "tags": [],
+    "tags": [
+      "national reconnaissance office",
+      "background checks"
+    ],
     "communications": [
       {
         "foia": 157491,
@@ -947,7 +952,10 @@
     "tracking_id": "",
     "price": "0.00",
     "disable_autofollowups": false,
-    "tags": [],
+    "tags": [
+      "fraud",
+      "castle bank"
+    ],
     "communications": [
       {
         "foia": 157490,
@@ -1061,7 +1069,9 @@
     "tracking_id": "",
     "price": "0.00",
     "disable_autofollowups": false,
-    "tags": [],
+    "tags": [
+      "fugitive"
+    ],
     "communications": [
       {
         "foia": 157488,

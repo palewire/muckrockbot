@@ -2242,7 +2242,7 @@
     "id": 157777,
     "title": "FOIA Logs (09/01/2023-present)",
     "slug": "foia-logs-09012023-present",
-    "status": "processed",
+    "status": "done",
     "embargo": false,
     "permanent_embargo": false,
     "user": 75693,
@@ -2251,8 +2251,8 @@
     "datetime_submitted": "2024-01-25T13:26:37.696263",
     "date_due": "2024-02-01",
     "days_until_due": null,
-    "date_followup": "2024-04-25",
-    "datetime_done": null,
+    "date_followup": null,
+    "datetime_done": "2024-01-26T14:41:25.525959",
     "datetime_updated": "2024-01-26T14:41:25.525959",
     "date_embargo": null,
     "tracking_id": "24-77",
@@ -2319,10 +2319,21 @@
         "thanks": false,
         "full_html": false,
         "communication": "Village of Niles\r\n\r\n************************************************************************\r\n\r\n\r\nA document has been released for record request #24-77 along with the following message:\r\n\r\nDear Niles Coalition:\r\n\r\n\u00a0\r\n\r\nThank you for writing to Village of Niles with your request for information pursuant to the Illinois Freedom of Information Act, 5 ILCS 140/1 et seq.\u00a0\u00a0\r\n\r\n\u00a0\r\n\r\nOn 01/25/2024, you requested the following documents:\r\n\r\n\r\n\r\nComplete FOIA logs between September 1, 2023 and the date this request is processed (inclusive of those dates).\r\n\r\n\r\n\r\nYour request is granted.\r\n\r\n\r\n\r\nWe have enclosed copies of the documents that you requested.\u00a0\u00a0\r\n\r\n\u00a0\r\n\r\nSincerely,\r\n\r\n\r\n\r\nAndrew Aviles\r\n\r\nHead FOIA Officer\r\n\r\n(847) 588-8021 | aa@vniles.com\r\n\r\n\r\n\r\n* FOIA Log 09-01-2023 - 01-25-2024.pdf\r\n\r\n\r\n\r\nDocument links are valid for one month.\r\n                   After February 26, you will need to sign in to view the document(s).\r\n\r\n\r\n************************************************************************                          \r\n<em>Questions about your request?</em> Reply to this email or sign in to contact staff at Village of Niles.<br><em>Technical support:</em> See our <a href=\"https://www.nextrequest.civicplus.help/hc/en-us/categories/17720084172567-Requesters\">help page</a>",
-        "status": null,
+        "status": "done",
         "likely_foia": null,
-        "files": [],
-        "delivered": "email"
+        "files": [
+          {
+            "id": 1149517,
+            "ffile": "https://cdn.muckrock.com/foia_files/2024/01/28/FOIA_Log_09-01-2023_-_01-25-2024.pdf",
+            "datetime": "2024-01-28T23:38:15.785555",
+            "title": "FOIA_Log_09-01-2023_-_01-25-2024",
+            "source": "Alpha Assistance",
+            "description": "",
+            "doc_id": "24389122-foia_log_09-01-2023_-_01-25-2024",
+            "pages": 187
+          }
+        ],
+        "delivered": "portal"
       },
       {
         "foia": 157777,
@@ -2335,10 +2346,10 @@
         "thanks": false,
         "full_html": false,
         "communication": "Village of Niles\r\n\r\n************************************************************************\r\n\r\n\r\nRecord request #24-77 has been closed. The closure reason supplied was:\r\n\r\nAll\u00a0document have been released\u00a0pursuant to your request.\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n************************************************************************                          \r\n<em>Questions about your request?</em> Reply to this email or sign in to contact staff at Village of Niles.<br><em>Technical support:</em> See our <a href=\"https://www.nextrequest.civicplus.help/hc/en-us/categories/17720084172567-Requesters\">help page</a>",
-        "status": null,
+        "status": "done",
         "likely_foia": null,
         "files": [],
-        "delivered": "email"
+        "delivered": "portal"
       }
     ],
     "absolute_url": "https://www.muckrock.com/foi/niles-8224/foia-logs-09012023-present-157777/"

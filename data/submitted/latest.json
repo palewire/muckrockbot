@@ -2358,7 +2358,7 @@
     "id": 157776,
     "title": "FOIA Logs (09/01/2023-present)",
     "slug": "foia-logs-09012023-present",
-    "status": "processed",
+    "status": "done",
     "embargo": false,
     "permanent_embargo": false,
     "user": 75693,
@@ -2367,8 +2367,8 @@
     "datetime_submitted": "2024-01-25T13:26:03.226332",
     "date_due": "2024-02-01",
     "days_until_due": null,
-    "date_followup": "2024-02-01",
-    "datetime_done": null,
+    "date_followup": null,
+    "datetime_done": "2024-01-26T14:50:25.624831",
     "datetime_updated": "2024-01-26T14:50:25.624831",
     "date_embargo": null,
     "tracking_id": "",
@@ -2403,7 +2403,7 @@
         "thanks": false,
         "full_html": false,
         "communication": "January 26, 2024\r\nVia Email\r\n157776-60507119@requests.muckrock.com\r\nRe: January 25, 2024 FOIA\r\n\r\nDear Niles Coalition:\r\n\r\nThank you for writing to the Niles-Maine District Library with your request for information pursuant to the Illinois Freedom of Information Act, 5 ILCS 140/1 et seq. (\u201cFOIA\u201d). On January 25, 2024 the Library received your FOIA request in which you requested:\r\n\r\nPursuant to the Illinois Freedom of Information Act., I hereby request the following records:\r\ncomplete FOIA logs between September 1, 2023  and the date this request is processed (inclusive of those dates).\r\n\r\n\r\nLibrary Response:\r\nYour request is granted in part and denied in part. Certain information was redacted or withheld pursuant to the below FOIA exemptions. The last names of FOIA requestors (who are not news media but citizens/residents) are redacted pursuant to Section 7(1)(c) of FOIA.\r\n\nSincerely,\r\nVictoria Pichla Luz\r\nFOIA Officer",
-        "status": null,
+        "status": "done",
         "likely_foia": null,
         "files": [
           {

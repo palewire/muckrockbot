@@ -189,7 +189,7 @@
         "thanks": false,
         "full_html": false,
         "communication": "Dear Tristan Ahtone, \n\nOnce you log in please change your password to protect your account details. \n\nLink to change password: https://foiaxpresspal.doi.gov/App/SetPassword.aspx?aun=LORYQi7es+a8l8mF6gudAswoxvI1JCnv1A7k4eqYeMI=\nRegards, \nDOI FOIA Office",
-        "status": null,
+        "status": "processed",
         "likely_foia": null,
         "files": [],
         "delivered": "email"

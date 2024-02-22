@@ -1560,7 +1560,7 @@
     "date_embargo": null,
     "tracking_id": "24-FOI-00231",
     "price": "0.00",
-    "disable_autofollowups": false,
+    "disable_autofollowups": true,
     "tags": [],
     "communications": [
       {
@@ -1681,7 +1681,7 @@
     "date_embargo": null,
     "tracking_id": "24-FOI-00230",
     "price": "0.00",
-    "disable_autofollowups": false,
+    "disable_autofollowups": true,
     "tags": [],
     "communications": [
       {
@@ -1802,7 +1802,7 @@
     "date_embargo": null,
     "tracking_id": "24-FOI-00229",
     "price": "0.00",
-    "disable_autofollowups": false,
+    "disable_autofollowups": true,
     "tags": [],
     "communications": [
       {

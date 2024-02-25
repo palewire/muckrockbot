@@ -1533,7 +1533,7 @@
         "thanks": false,
         "full_html": false,
         "communication": "Thank you for contacting DHSS with your Freedom of Information Act (FOIA) request.  Generally, the deadline for FOIA requests is 15 business days after receipt.  I will contact you with any questions or if the deadline must be extended.\r\n\r\nTERESA RITTER\r\nDirector of Constituent Relations\r\n(She/Her/Hers)\r\n\r\nOffice of the Secretary\r\nDelaware Department of Health and Social Services<http://dhss.delaware.gov/dhss/index.html>\r\n\r\nDisclaimer: This message most likely contains CONFIDENTIAL and/or LEGALLY PRIVILEGED information intended only for the addressee(s). Unauthorized reading, distributing, or copying of this message is prohibited.\n",
-        "status": null,
+        "status": "processed",
         "likely_foia": null,
         "files": [],
         "delivered": "email"

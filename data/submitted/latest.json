@@ -2072,11 +2072,11 @@
     "datetime_submitted": "2024-02-26T16:01:54.705780",
     "date_due": "2024-03-25",
     "days_until_due": null,
-    "date_followup": "2024-03-27",
+    "date_followup": "2024-03-28",
     "datetime_done": null,
     "datetime_updated": "2024-02-27T11:50:46.639145",
     "date_embargo": null,
-    "tracking_id": "1088556",
+    "tracking_id": "FCC-FOIA-2024-309",
     "price": "0.00",
     "disable_autofollowups": false,
     "tags": [],
@@ -2108,7 +2108,7 @@
         "thanks": false,
         "full_html": false,
         "communication": "Attached Document   \n    \n    \n  \n    \n   \n    \n    \n    \n  \n    \n  You have received document(s) for Request: \n  FCC-FOIA-2024-309 \n  \n  \"SNL Complaint\" \n  \n Documents are attached to this email. \n    \n    \n    \n    \n    \n Request Details \n  \n    \n    \n    \n    \n    \n    \n    \n  Title  \nFCC-FOIA-2024-309 - To Whom It May Concern: Pursuant to the Freedom of Information Act, I hereby request the following records: Complaints pertaining to Shane Gillis' appearance as a host in a \"Saturday Night Live\" episode in February of 2024. The requested documents will be made available to the general public, and this request is not being made for commercial purposes. In the event that there are fees, I would be grateful if you would inform me of the total charges in advance of fulfilling my request. I would prefer the request filled electronically, by e-mail attachment if available or CD-ROM if not. Thank you in advance for your anticipated cooperation in this matter. I look forward to receiving your response to this request within 20 business days, as the statute requires. Sincerely, David Kalayanaprapruit Upload documents directly: https://accounts.muckrock.com/accounts/login/?next=https%3A%2F%2Fwww.muckrock.com%2Faccounts%2Flogin%2F%3Fnext%3D%252Faccounts%252Fagency_login%252Ffederal-communications-commission-46%252Fsaturday-night-live-shane-gillis-159363%252F%253F&url_auth_token=AAAkDjvjktNmt-jZL_eGYomHkf4%3A1reom3%3A2TBwF7TwQC5lA3RYd_Nzze5g2Nkn8yKNDdczMEXdmdc \n  Type  \nNew Request  Queue  \nIntake \n  Created\n",
-        "status": null,
+        "status": "processed",
         "likely_foia": 159363,
         "files": [
           {

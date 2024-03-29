@@ -2379,7 +2379,7 @@
     "id": 161261,
     "title": "Public Records Request - NSB PD",
     "slug": "public-records-request-fl-complaints-and-investigations-into-oceanview",
-    "status": "processed",
+    "status": "payment",
     "embargo": false,
     "permanent_embargo": false,
     "user": 118202,
@@ -2388,12 +2388,12 @@
     "datetime_submitted": "2024-03-27T01:07:00.517922",
     "date_due": null,
     "days_until_due": null,
-    "date_followup": "2024-04-11",
+    "date_followup": null,
     "datetime_done": null,
     "datetime_updated": "2024-03-28T11:06:25.635149",
     "date_embargo": null,
     "tracking_id": "PRR-166-2024",
-    "price": "0.00",
+    "price": "92.29",
     "disable_autofollowups": false,
     "tags": [
       "advent",
@@ -2470,7 +2470,7 @@
         "thanks": false,
         "full_html": false,
         "communication": "Good day, \r\n  \r\n Thank you for your Public Records Request. This is a very large request and an estimate is attached requiring an advance deposit of 100% of the estimated costs prior to beginning retrieval. Please make a check or money order payable to the City of New Smyrna Beach. \r\n  \n Best, \r\n  \r\n Sharon Taylor-Harding \r\n  \r\n Deputy City Clerk \r\n  \r\n City of New Smyrna Beach \r\n  \r\n 210 Sams Avenue \r\n  \r\n New Smyrna Beach, FL 32168 \r\n  \r\n Office: (386) 410-2631 \r\n  \r\n Cell: (386) 478-3426 \r\n  \r\n staylor-harding@cityofnsb.com \r\n  \r\n www.cityofnsb.com",
-        "status": null,
+        "status": "payment",
         "likely_foia": 161261,
         "files": [
           {

@@ -48,7 +48,7 @@
     "id": 161489,
     "title": "Riverbend Park emails between Jan 1 2024 and Mar 31 2024",
     "slug": "riverbend-park-emails-between-jan-1-2024-and-mar-31-2024",
-    "status": "submitted",
+    "status": "processed",
     "embargo": false,
     "permanent_embargo": false,
     "user": 120344,
@@ -57,7 +57,7 @@
     "datetime_submitted": "2024-03-31T16:15:25.977191",
     "date_due": "2024-04-12",
     "days_until_due": null,
-    "date_followup": null,
+    "date_followup": "2024-06-29",
     "datetime_done": null,
     "datetime_updated": "2024-03-31T16:15:26.142262",
     "date_embargo": null,
@@ -77,10 +77,10 @@
         "thanks": false,
         "full_html": false,
         "communication": "To Whom It May Concern:\r\n\r\nPursuant to the Massachusetts Public Records Law, I hereby request the following records:\r\n\r\nAll documents (including emails, texts, and any other communications) concerning the scheduling of pedestrian and bicycle access to Riverbend Park in Cambridge between January 1 2024 and March 31 2024, including, but not limited to, documents and communications concerning whether or not to close Memorial Drive/Riverbend Park to vehicular traffic on Saturdays.\r\n\r\nI also request that, if appropriate, fees be waived as we believe this request is in the public interest, as suggested but not stipulated by the recommendations of the Massachusetts Supervisor of Public Records. The requested documents will be made available to the general public free of charge as part of the public information service at MuckRock.com, and is not made for commercial usage.\r\n\r\nI expect the request to be filled in an accessible format, including for screen readers, which provide text-to-speech for persons unable to read print. Files that are not accessible to screen readers include, for example, .pdf image files as well as physical documents.\r\n\r\nIn the event that there are fees, I would be grateful if you would inform me of the total charges in advance of fulfilling my request. I would prefer the request filled electronically, by e-mail attachment if available or CD-ROM if not.\r\n\r\nThank you in advance for your anticipated cooperation in this matter. I look forward to receiving your response to this request within 10 business days, as the statute requires.\r\n\r\nSincerely,\r\n\r\nGeorge Schneeloch",
-        "status": null,
+        "status": "processed",
         "likely_foia": null,
         "files": [],
-        "delivered": "none"
+        "delivered": "portal"
       }
     ],
     "absolute_url": "https://www.muckrock.com/foi/massachusetts-1/riverbend-park-emails-between-jan-1-2024-and-mar-31-2024-161489/"
@@ -1485,7 +1485,7 @@
     "id": 161428,
     "title": "Geese Complaints",
     "slug": "geese-complaints",
-    "status": "submitted",
+    "status": "processed",
     "embargo": false,
     "permanent_embargo": false,
     "user": 122467,
@@ -1494,11 +1494,11 @@
     "datetime_submitted": "2024-03-29T16:34:37.648136",
     "date_due": "2024-04-05",
     "days_until_due": null,
-    "date_followup": null,
+    "date_followup": "2024-06-30",
     "datetime_done": null,
-    "datetime_updated": "2024-03-29T16:34:37.803563",
+    "datetime_updated": "2024-04-01T00:10:12.879249",
     "date_embargo": null,
-    "tracking_id": "",
+    "tracking_id": "FOIL-2024-846-00226",
     "price": "0.00",
     "disable_autofollowups": false,
     "tags": [],
@@ -1514,10 +1514,42 @@
         "thanks": false,
         "full_html": false,
         "communication": "To Whom It May Concern:\r\n\r\nPursuant to the New York Freedom of Information Law, I hereby request the following records:\r\n\r\nAll complaints submitted to the department from 2020 to 2024 containing the terms \"Goose\", \"goose\", \"Geese\", or \"geese\"\r\n\r\nIf this request is too broad, a fulfillment of only complaints about aggressive geese will also suffice.\r\n\r\nThis is in the public interest, as New York lays claim to a population of 200,000 geese (https://dec.ny.gov/nature/animals-fish-plants/canada-goose), and geese are commonly described as annoying, aggressive or loud, resulting in interesting complaints about them.\r\n\r\nThe requested documents will be made available to the general public, and this request is not being made for commercial purposes.\r\n\r\nIn the event that there are fees, I would be grateful if you would inform me of the total charges in advance of fulfilling my request. I would prefer the request filled electronically, by e-mail attachment if available or CD-ROM if not.\r\n\r\nThank you in advance for your anticipated cooperation in this matter. I look forward to receiving your response to this request within 5 business days, as the statute requires.\r\n\r\nSincerely,\r\n\r\nBrianna Cluck",
-        "status": null,
+        "status": "processed",
         "likely_foia": null,
         "files": [],
-        "delivered": "none"
+        "delivered": "portal"
+      },
+      {
+        "foia": 161428,
+        "from_user": 27289,
+        "to_user": 122467,
+        "subject": "NYC.gov - NYC.ID Confirm Your Email Address",
+        "datetime": "2024-04-01T00:08:21.545055",
+        "response": true,
+        "autogenerated": false,
+        "thanks": false,
+        "full_html": false,
+        "communication": "You have just created a user account with City of New York. If it was created in error, deactivate your account. (https://www1.nyc.gov/account/deactivate.htm?guid=d44ca3f739a641e587c3d4f4c0ae1598&token=YQXgAjishoPFqaBAQsXQEzDduxHIhFcqkUwnMxoPXjebgQRBijWrVOeSOeohoLiS&target=aHR0cHM6Ly9hODYwLW9wZW5yZWNvcmRzLm55Yy5nb3Yv) to confirm your email address. (https://www1.nyc.gov/account/validateToken.htm?guid=d44ca3f739a641e587c3d4f4c0ae1598&token=YQXgAjishoPFqaBAQsXQEzDduxHIhFcqkUwnMxoPXjebgQRBijWrVOeSOeohoLiS&target=aHR0cHM6Ly9hODYwLW9wZW5yZWNvcmRzLm55Yy5nb3Yv&spName=OpenRecordsPRD) Click this link \r\nIf the above link does not work, paste the following address into your browser: https://www1.nyc.gov/account/validateToken.htm?guid=d44ca3f739a641e587c3d4f4c0ae1598&token=YQXgAjishoPFqaBAQsXQEzDduxHIhFcqkUwnMxoPXjebgQRBijWrVOeSOeohoLiS&target=aHR0cHM6Ly9hODYwLW9wZW5yZWNvcmRzLm55Yy5nb3Yv&spName=OpenRecordsPRD (https://www1.nyc.gov/account/validateToken.htm?guid=d44ca3f739a641e587c3d4f4c0ae1598&token=YQXgAjishoPFqaBAQsXQEzDduxHIhFcqkUwnMxoPXjebgQRBijWrVOeSOeohoLiS&target=aHR0cHM6Ly9hODYwLW9wZW5yZWNvcmRzLm55Yy5nb3Yv&spName=OpenRecordsPRD) \r\nWe ask you to confirm your email to ensure our emails will be delivered. This is the address you will log in with, and the address to which we will deliver all email messages regarding invitations and requests, and other system mail. \r\nYou can change your email address at any time, but will only be able to log in with it once you have confirmed the email address by clicking the link. \r\nThank you for using NYC.gov. \r\nDo Not Reply - Automatic Email",
+        "status": "processed",
+        "likely_foia": null,
+        "files": [],
+        "delivered": "portal"
+      },
+      {
+        "foia": 161428,
+        "from_user": 27289,
+        "to_user": 122467,
+        "subject": "[OpenRecords] Request FOIL-2024-846-00226 Submitted to Department of Parks and Recreation (DPR)",
+        "datetime": "2024-04-01T00:10:12.879249",
+        "response": true,
+        "autogenerated": false,
+        "thanks": false,
+        "full_html": false,
+        "communication": "Your request FOIL-2024-846-00226 has been successfully submitted to the Department of Parks and Recreation (DPR).\r\n                                The details of your request are shown below. \r\n \r\nRequest Title: Geese Complaints \r\n \r\nRequest Description: To Whom It May Concern:\r\n\r\nPursuant to the New York Freedom of Information Law, I hereby request the following records:\r\n\r\nAll complaints submitted to the department from 2020 to 2024 containing the terms \"Goose\", \"goose\", \"Geese\", or \"geese\"\r\n\r\nIf this request is too broad, a fulfillment of only complaints about aggressive geese will also suffice.\r\n\r\nThis is in the public interest, as New York lays claim to a population of 200,000 geese (https://dec.ny.gov/nature/animals-fish-plants/canada-goose), and geese are commonly described as annoying, aggressive or loud, resulting in interesting complaints about them.\r\n\r\nThe requested documents will be made available to the general public, and this request is not being made for commercial purposes.\r\n\r\nIn the event that there are fees, I would be grateful if you would inform me of the total charges in advance of fulfilling my request. I would prefer the request filled electronically, by e-mail attachment if available or CD-ROM if not.\r\n\r\nThank you in advance for your anticipated cooperation in this matter. I look forward to receiving your response to this request within 5 business days, as the statute requires.\r\n\r\nSincerely,\r\n\r\nBrianna Cluck\r\n\r\nUpload documents directly: https://accounts.muckrock.com/accounts/login/?next=https%3A%2F%2Fwww.muckrock.com%2Faccounts%2Flogin%2F%3Fnext%3D%252Faccounts%252Fagency_login%252Fnyc-department-of-parks-recreation-3514%252Fgeese-complaints-161428%252F%253Femail%253DParksFOIL%252540parks.nyc.gov&url_auth_token=AABhvv5NgHUluvALeBkmEsHZL98%3A1rr8yd%3Ayx5ULLbeb1U0sTbzeKAYnPhN7tWlIWmxzNCR-OAuUpk \r\n \r\n \r\nRequester's Contact Information \r\n \r\n \r\n \r\n Name: \r\n Brianna Cluck \r\n \r\n Title: \r\n Not provided \r\n \r\n Organization: \r\n Not provided \r\n \r\n Email: \r\n  161428-62954526@requests.muckrock.com (mailto:161428-62954526@requests.muckrock.com) \r\n \r\n Phone Number: \r\n Not provided \r\n \r\n Fax Number: \r\n Not provided \r\n \r\n Street Address (line 1): \r\n Not provided \r\n \r\n Street Address (line 2): \r\n Not provided \r\n \r\n City: \r\n Not provided \r\n \r\n State: \r\n Not provided \r\n \r\n Zip Code: \r\n Not provided \r\n \r\nYou can view the request and take any necessary action at the following webpage: https://a860-openrecords.nyc.gov/request/view/FOIL-2024-846-00226. (https://a860-openrecords.nyc.gov/request/view/FOIL-2024-846-00226)",
+        "status": "processed",
+        "likely_foia": null,
+        "files": [],
+        "delivered": "portal"
       }
     ],
     "absolute_url": "https://www.muckrock.com/foi/new-york-city-17/geese-complaints-161428/"
@@ -1662,20 +1694,20 @@
         "foia": 161417,
         "from_user": 132053,
         "to_user": 132451,
-        "subject": "",
+        "subject": "Virginia Freedom of Information Act Request: Kristen Gwilt Court Records",
         "datetime": "2024-03-29T10:55:02.829658",
         "response": false,
         "autogenerated": false,
         "thanks": false,
         "full_html": false,
-        "communication": "To Whom It May Concern:\r\n\r\nPursuant to the Freedom of Information Act, I hereby request the following records:\r\n\r\nI request that a copy of the following documents (or documents containing the following information) be provided to me, inclusive of any related photos:\r\nArlington General District Court Case Number: GC18001603-00\r\nName: GWILT, KRISTEN\r\nDOB: March 26, 1995\r\nGender: FEMALE\r\nRace: WHITE\r\nFiled: April 9, 2018\r\nLocality: Commonwealth of VA\r\nDefense Attorney: MATTHEW CRAWLEY\r\nCharge: PUBLIC SWEARING/INTOXICATION\r\nOffense Tracking/Processing: 013GM1800004874\r\nSummons #: 1800004874\r\nCode Section: 18.2-388\r\nCase Type: Misdemeanor\r\nClass: 4\r\nOffense Date: 04/08/2018\r\nArrest Date: 04/08/2018\r\nComplainant: BUTZER, S\r\n\r\nThank you for your consideration of this request.\r\n\r\nThe requested documents will be made available to the general public, and this request is not being made for commercial purposes.\r\n\r\nIn the event that there are fees, I would be grateful if you would inform me of the total charges in advance of fulfilling my request. I would prefer the request filled electronically, by e-mail attachment if available or CD-ROM if not.\r\n\r\nThank you in advance for your anticipated cooperation in this matter. I look forward to receiving your response to this request within 20 business days, as the statute requires.\r\n\r\nSincerely,\r\n\r\nEliot Bugda",
+        "communication": "To Whom It May Concern:\r\n\r\nPursuant to the Virginia Freedom of Information Act, I hereby request the following records:\r\n\r\nI request that a copy of the following documents (or documents containing the following information) be provided to me, inclusive of any related photos:\r\nArlington General District Court Case Number: GC18001603-00\r\nName: GWILT, KRISTEN\r\nDOB: March 26, 1995\r\nGender: FEMALE\r\nRace: WHITE\r\nFiled: April 9, 2018\r\nLocality: Commonwealth of VA\r\nDefense Attorney: MATTHEW CRAWLEY\r\nCharge: PUBLIC SWEARING/INTOXICATION\r\nOffense Tracking/Processing: 013GM1800004874\r\nSummons #: 1800004874\r\nCode Section: 18.2-388\r\nCase Type: Misdemeanor\r\nClass: 4\r\nOffense Date: 04/08/2018\r\nArrest Date: 04/08/2018\r\nComplainant: BUTZER, S\r\n\r\nThank you for your consideration of this request.\r\n\r\nThe requested documents will be made available to the general public, and this request is not being made for commercial purposes.\r\n\r\nIn the event that there are fees, I would be grateful if you would inform me of the total charges in advance of fulfilling my request. I would prefer the request filled electronically, by e-mail attachment if available or CD-ROM if not.\r\n\r\nThank you in advance for your anticipated cooperation in this matter. I look forward to receiving your response to this request within 5 business days, as the statute requires.\r\n\r\nSincerely,\r\n\r\nTom Nash, a citizen of Virginia, in coordination with Eliot Bugda.",
         "status": null,
         "likely_foia": null,
         "files": [],
         "delivered": "none"
       }
     ],
-    "absolute_url": "https://www.muckrock.com/foi/united-states-of-america-10/kristen-gwilt-court-records-161417/"
+    "absolute_url": "https://www.muckrock.com/foi/arlington-county-415/kristen-gwilt-court-records-161417/"
   },
   {
     "id": 161415,

@@ -2725,7 +2725,7 @@
     "id": 161506,
     "title": "ATL 311 Records Request: 225 Rogers St NE (Pullman Yards)",
     "slug": "atl-311-records-request-225-rogers-st-ne-pullman-yards",
-    "status": "processed",
+    "status": "done",
     "embargo": false,
     "permanent_embargo": false,
     "user": 132545,
@@ -2734,8 +2734,8 @@
     "datetime_submitted": "2024-03-31T22:29:36.404738",
     "date_due": "2024-04-03",
     "days_until_due": null,
-    "date_followup": "2024-04-19",
-    "datetime_done": "2024-04-03T08:20:42.152170",
+    "date_followup": null,
+    "datetime_done": "2024-04-04T07:18:47.881244",
     "datetime_updated": "2024-04-04T07:18:47.881244",
     "date_embargo": null,
     "tracking_id": "",
@@ -3062,7 +3062,7 @@
         "thanks": false,
         "full_html": false,
         "communication": "[\u200bxlsx icon] 225 Rogers St NE - Service Requests.xlsx<https://cityofatlanta.sharepoint.com/:x:/s/ATL311OpenRecordsResearchRequests/EVYRw2ZtQXxCnoJUlc26ASQB_3e0N5NUPGSriGC49epVKA?e=dRTj4Q>\r\n\r\nGood morning,\r\n\r\nYour email, brent.brewington@gmail.com<mailto:brent.brewington@gmail.com>, has now been added to view the Excel spreadsheet.\r\n\r\nKind regards,\r\n\r\nDebra Cummings - Records Manager\r\nCity of Atlanta Department of Customer Service/ATL311\r\nEmail: OpenRecords-311@atlantaga.gov<mailto:OpenRecords-311@atlantaga.gov>\r\n[cid:image001.png@01DA865F.A2808E00]<http://www.atlantaga.gov/> [A close up of a sign  Description generated with very high confidence] <https://www.atl311.com/>  [cid:image003.jpg@01DA865F.A2808E00] <https://www.facebook.com/ATL311>  [cid:image004.jpg@01DA865F.A2808E00] <https://www.instagram.com/atl311/>  [cid:image005.jpg@01DA865F.A2808E00] <https://en.seeclickfix.com/atlanta>  [cid:image006.jpg@01DA865F.A2808E00] <https://nextdoor.com/agency-post/ga/atlanta/city-of-atlanta/atl311-is-now-on-nextdoor-76007376/>  [cid:image007.png@01DA865F.A2808E00] <https://www.youtube.com/channel/UClwjzIKeuBDfTfMuZfsKzpg>  [cid:image008.jpg@01DA865F.A2808E00] <https://member.everbridge.net/index/3091830992273427#/login>\n",
-        "status": null,
+        "status": "done",
         "likely_foia": null,
         "files": [
           {

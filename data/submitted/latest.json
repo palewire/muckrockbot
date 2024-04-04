@@ -1966,7 +1966,7 @@
     "id": 161546,
     "title": "MCS VK 4.1.24",
     "slug": "mcs-vk-4124",
-    "status": "processed",
+    "status": "done",
     "embargo": false,
     "permanent_embargo": false,
     "user": 60252,
@@ -1976,7 +1976,7 @@
     "date_due": null,
     "days_until_due": null,
     "date_followup": "2024-04-17",
-    "datetime_done": null,
+    "datetime_done": "2024-04-02T08:21:25.050568",
     "datetime_updated": "2024-04-02T08:21:25.050568",
     "date_embargo": null,
     "tracking_id": "PRR-1447-2024",
@@ -2027,9 +2027,20 @@
         "thanks": false,
         "full_html": false,
         "communication": "Hello,\r\n\r\nThe request Request Number: PRR-1447-2024 has been completed.\r\n\r\nThank you,\r\nMonroe County Sheriff's Office\r\n\r\n\r\n*Note: This is an automated email notification. Please do not respond to this email.\n",
-        "status": "fix",
+        "status": "done",
         "likely_foia": null,
-        "files": [],
+        "files": [
+          {
+            "id": 1167243,
+            "ffile": "https://cdn.muckrock.com/foia_files/2024/04/04/Records_Request_Download_PRR-1447-2024_2024-04-04--04-03-45.zip",
+            "datetime": "2024-04-04T04:04:35.700464",
+            "title": "Records_Request_Download_PRR-1447-2024_2024-04-04--04-03-45",
+            "source": "Alpha Assistance",
+            "description": "",
+            "doc_id": "",
+            "pages": 0
+          }
+        ],
         "delivered": "email"
       }
     ],

@@ -208,7 +208,7 @@
     "id": 162243,
     "title": "FOIA Request -  Documents pertaining to covert surveillance programs, counterintelligence operations, and domestic intelligence activities (Department of Justice, Community Oriented Policing Services (COPS))",
     "slug": "foia-request-documents-pertaining-to-covert-surveillance-programs-counterintelligence-operations-and-domestic-intelligence-activities-department-of-justice-community-oriented-policing-services-cops",
-    "status": "processed",
+    "status": "rejected",
     "embargo": false,
     "permanent_embargo": false,
     "user": 131141,
@@ -217,11 +217,11 @@
     "datetime_submitted": "2024-04-16T23:14:50.518783",
     "date_due": "2024-05-14",
     "days_until_due": null,
-    "date_followup": "2024-05-14",
-    "datetime_done": null,
+    "date_followup": null,
+    "datetime_done": "2024-04-17T13:19:33.330688",
     "datetime_updated": "2024-04-17T13:19:33.330688",
     "date_embargo": null,
-    "tracking_id": "",
+    "tracking_id": "COPS-2024-FOI-0166",
     "price": "0.00",
     "disable_autofollowups": false,
     "tags": [],
@@ -253,7 +253,7 @@
         "thanks": false,
         "full_html": false,
         "communication": "April 17, 2024\r\n\r\n\r\n\r\nCOPS-2024-FOI-0166\r\n\r\n\r\n\r\nVia Email (162243-50986723@requests.muckrock.com<mailto:162243-50986723@requests.muckrock.com>)\r\n\r\nEvan Reevs\r\n\r\n\r\n\r\n\r\n\r\nDear Mr. Reevs:\r\n\r\n\r\n\r\nThis is in response to your Freedom of Information Act (FOIA) request dated April 17, 2024, to the Office of Community Oriented Policing Services (COPS Office).  You requested the following information:\r\n\r\n\r\n\r\n  *   Internal memoranda, directives, and communications delineating the planning, execution, and objectives of such covert operations, inclusive of any allusions to MK Ultra or analogous programs.\r\n  *   Operational blueprints, strategies, and protocols dictating the conduct of surveillance and intelligence-gathering activities, encompassing any involvement or coordination with community policing endeavors.\r\n  *   Records chronicling surveillance operations, encompassing logs, reports, and warrants procured for monitoring targeted individuals or groups, alongside any watch lists or databases utilized for tracking.\r\n  *   Intelligence reports, evaluations, and analyses engendered as a consequence of surveillance and infiltration efforts, encompassing any evaluations concerning private contractors engaged in intelligence operations.\r\n  *   Educational resources, manuals, and protocols utilized to instruct personnel involved in covert operations, encompassing any materials pertaining to community alerts or coordination with neighborhood watch groups.\r\n  *   Budgetary documents germane to the financing and allocation of resources for covert surveillance and intelligence activities.\r\n  *   Legal opinions, guidelines, and interpretations pertinent to the legality and oversight of covert programs.\r\n  *   Post-operation analyses, appraisals, and evaluations undertaken to scrutinize the efficacy and ramifications of covert operations.\r\n\r\n\r\n\r\nThe COPS Office does not maintain records such as those that you described.  The COPS Office is the grant-making component of the U.S. Department of Justice responsible for advancing the practice of community policing by the nation's state, local, and tribal law enforcement agencies through information and grant resources.  This Office maintains records pertaining to the application for, and award and monitoring of COPS grant funding.  The office also maintains records on its own administrative operations and procedures.\r\n\r\n\r\nThe FOIA operation for both the Department of Justice and the federal government is decentralized and each Department component and federal entity maintains and handles FOIA requests for its own records. Accordingly, you need to direct your letter to the office(s) you believe have records pertaining to the subject of your request. Additional information regarding the federal government\u2019s administration of the FOIA, including a listing of FOIA contact information, is available at www.foia.gov<http://www.foia.gov>.\r\n\r\n\r\n\r\nFor your information, Congress excluded three discrete categories of law enforcement and national security records from the requirements of the FOIA. See 5 U.S.C. \u00a7 552(c).  This response is limited to those records that are subject to the requirements of the FOIA.  This is a standard notification that is given to all our requesters and should not be taken as an indication that excluded records do, or do not, exist.\r\n\r\n\r\n\r\nYou may contact the COPS Office FOIA Public Liaison at 202-514-1873 to discuss any aspect of your request. Additionally, you may contact the Office of Government Information Services (OGIS) at the National Archives and Records Administration to inquire about the FOIA mediation services they offer. The contact information for OGIS is as follows: Office of Government Information Services, National Archives and Records Administration, 8601 Adelphi Road-OGIS, College Park, Maryland 20740-6001, e-mail at ogis@nara.gov<mailto:ogis@nara.gov>; telephone at 202-741-5770; toll free at 1-877-684-6448; or facsimile at 202-741-5769.\r\n\r\n\r\n\r\nIf you are not satisfied with my determination in response to this request, you may administratively appeal by writing to the Director, Office of Information Policy (OIP), United States Department of Justice, 441 G Street, NW, 6th Floor, Washington, D.C. 20530, or you may submit an appeal through OIP's FOIA STAR portal by creating an account following the instructions on OIP\u2019s website: https://www.justice.gov/oip/submit-and-track-request-or-appeal.  Your appeal must be postmarked or electronically transmitted within 90 days of the date of my response to your request. If you submit your appeal by mail, both the letter and the envelope should be clearly marked \"Freedom of Information Act Appeal.\"\r\n\r\n\r\n\r\nIf you would like further information on the COPS Office, please visit our Internet site at https://www.cops.usdoj.gov.\r\n\r\n\r\n\r\n\r\n\r\nSincerely,\r\n\r\n\r\n\r\nNicole Lee\r\n\r\nGovernment Information Specialist\n",
-        "status": null,
+        "status": "rejected",
         "likely_foia": null,
         "files": [],
         "delivered": "email"
@@ -1591,7 +1591,7 @@
     "days_until_due": null,
     "date_followup": "2024-07-15",
     "datetime_done": null,
-    "datetime_updated": "2024-04-16T16:21:49.508547",
+    "datetime_updated": "2024-04-17T14:18:20.858968",
     "date_embargo": null,
     "tracking_id": "24-113",
     "price": "0.00",
@@ -1645,6 +1645,38 @@
         "likely_foia": null,
         "files": [],
         "delivered": "email"
+      },
+      {
+        "foia": 162130,
+        "from_user": 14888,
+        "to_user": 3031,
+        "subject": "[External Message Added] Durham County, NC public records request #24-113",
+        "datetime": "2024-04-17T14:17:25.429520",
+        "response": true,
+        "autogenerated": false,
+        "thanks": false,
+        "full_html": false,
+        "communication": "Durham County, NC\r\n\r\n************************************************************************\r\n\r\n\r\nA message was sent to you regarding record request #24-113:\r\n\r\nGood afternoon,\r\n\r\n\r\n\r\nPlease find listed below the events that took place on January 13, 2024:\r\n\r\n* \u00a0A news station in Charlotte was notified via email of a bomb threat related to Rainbow Storytime scheduled for Durham County Main Library at 11:00am that day.\r\n\r\n* Charlotte Police were notified, who then immediately notified Durham Police. Durham police arrived on site at approximately 10:30 a.m. to notify security and staff of the threat.\r\n\r\n* Staff and security safely and efficiently evacuated staff and customers from the building.\r\n\r\n\r\n\r\nTo answer your specific questions:\r\n\r\n* Durham County Library did not directly receive an email threat on April 13, 2024. We were notified in person by the Durham Police Department.\r\n\r\n* Durham County Library did not directly receive a threatening phone call on April 13, 2024. We were notified in person by the Durham Police Department.\r\n\r\n* Durham County Library is not in possession of the email that was initially sent to the TV station in Charlotte.\r\n\r\n\r\n\r\nBest Regards,\r\n\r\nStephanie K. Bonestell\r\n\r\nPublic Relations Officer\r\n\r\nDurham County Library\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n************************************************************************                          \r\n<em>Questions about your request?</em> Reply to this email or sign in to contact staff at Durham County, NC.<br><em>Technical support:</em> See our <a href=\"https://www.nextrequest.civicplus.help/hc/en-us/categories/17720084172567-Requesters\">help page</a>",
+        "status": null,
+        "likely_foia": null,
+        "files": [],
+        "delivered": "email"
+      },
+      {
+        "foia": 162130,
+        "from_user": 14888,
+        "to_user": 3031,
+        "subject": "Your Durham County, NC public records request #24-113 has been closed.",
+        "datetime": "2024-04-17T14:18:20.858968",
+        "response": true,
+        "autogenerated": false,
+        "thanks": false,
+        "full_html": false,
+        "communication": "Durham County, NC\r\n\r\n************************************************************************\r\n\r\n\r\nRecord request #24-113 has been closed. The closure reason supplied was:\r\n\r\nThank you for contacting Durham County Government. We do not have the records you requested. This request is now closed. We suggest you submit a public records request to the appropriate municipality that is the steward of these records.\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n************************************************************************                          \r\n<em>Questions about your request?</em> Reply to this email or sign in to contact staff at Durham County, NC.<br><em>Technical support:</em> See our <a href=\"https://www.nextrequest.civicplus.help/hc/en-us/categories/17720084172567-Requesters\">help page</a>",
+        "status": null,
+        "likely_foia": null,
+        "files": [],
+        "delivered": "email"
       }
     ],
     "absolute_url": "https://www.muckrock.com/foi/durham-4165/threats-over-rainbow-story-time-162130/"
@@ -1689,6 +1721,114 @@
       }
     ],
     "absolute_url": "https://www.muckrock.com/foi/united-states-of-america-10/malware-nextgen-platform-source-code-162129/"
+  },
+  {
+    "id": 162119,
+    "title": "Survey of New Jersey Open Records Act Resources (Municipal Clerk)",
+    "slug": "survey-of-new-jersey-open-records-act-resources-municipal-clerk",
+    "status": "done",
+    "embargo": false,
+    "permanent_embargo": false,
+    "user": 3031,
+    "username": "adamsteinbaugh",
+    "agency": 16583,
+    "datetime_submitted": "2024-04-14T11:43:56.240719",
+    "date_due": "2024-04-23",
+    "days_until_due": null,
+    "date_followup": null,
+    "datetime_done": "2024-04-17T13:39:05.653025",
+    "datetime_updated": "2024-04-17T13:39:05.653025",
+    "date_embargo": null,
+    "tracking_id": "",
+    "price": "0.00",
+    "disable_autofollowups": false,
+    "tags": [],
+    "communications": [
+      {
+        "foia": 162119,
+        "from_user": 3031,
+        "to_user": 22213,
+        "subject": "New Jersey Open Public Records Act Request: Survey of New Jersey Open Records Act Resources (Municipal Clerk)",
+        "datetime": "2024-04-14T11:43:57.409896",
+        "response": false,
+        "autogenerated": false,
+        "thanks": false,
+        "full_html": false,
+        "communication": "To Whom It May Concern:\r\n\r\nPursuant to the New Jersey Open Public Records Act, I hereby request the following records:\r\n\r\n1. A copy of any budget, accounting, or other records sufficient to show the expenses or resources necessary for the city (including any departments thereof) to respond to public records requests.\r\n\r\n2. A copy of the job description for any person (whether employed by the city or any departments thereof) whose primary responsibilities include responding to or managing public records requests. If a separate record identifies the anticipated or actual amount of time the person spends on their duties (i.e., identifying how much of their time is spent on a given subject), please provide that record, as well.\r\n\r\n3. Any record sufficient to show the salary of any person (whether employed by the city or any departments thereof) whose primary responsibilities include responding to or managing public records requests.\r\n\r\n4. If the city maintains a log of public records requests, please provide a copy of the log dating back to January 1, 2022.\r\n\r\nRequests 1-3 are limited to documents generated during or concerning the last fiscal year.\r\n\r\nThe requested documents will be made available to the general public, and this request is not being made for commercial purposes.\r\n\r\nIn the event that there are fees, I would be grateful if you would inform me of the total charges in advance of fulfilling my request. I would prefer the request filled electronically, by e-mail attachment if available or CD-ROM if not.\r\n\r\nThank you in advance for your anticipated cooperation in this matter. I look forward to receiving your response to this request within 7 business days, as the statute requires.\r\n\r\nSincerely,\r\n\r\nAdam Steinbaugh",
+        "status": null,
+        "likely_foia": null,
+        "files": [],
+        "delivered": "email"
+      },
+      {
+        "foia": 162119,
+        "from_user": 22213,
+        "to_user": 3031,
+        "subject": "OPRA # 595",
+        "datetime": "2024-04-17T13:39:05.653025",
+        "response": true,
+        "autogenerated": false,
+        "thanks": false,
+        "full_html": false,
+        "communication": "The following is our response to your OPRA request. Please note the redactions that were made in accordance with either N.J.S.A. 47:1A-1.1 (Personal identifying information) or N.J.S.A. 47:1A-1 (Privacy Interest).\r\n\r\n\r\n  1.  No record exists.\r\n  2.  Included in attached copies of responsive records.\r\n  3.  Included in attached copies of responsive records.\r\n  4.  Included in attached copies of responsive records.\r\n\r\nSincerely,\r\n\r\n       Heeral Patel\r\nCity Clerk Department\r\n     Clifton City Hall\r\n   900 Clifton Ave\r\n   Clifton,NJ 07013\r\n      973-470-5825\r\n\r\n\r\n[Clifton Seal]\r\n\r\n\r\nThis e-mail (including all attachments) is intended for the exclusive use of the individual to whom it is addressed. This e-mail may be proprietary,confidential, privileged and exempt from disclosure under applicable law. If the reader of this e-mail is not the intended recipient or agent responsible for delivering the message to the intended recipient, the reader is hereby put on notice that any use, dissemination, distribution or copying of this communication or any of its contents is strictly prohibited. If you have received this communication in error, please immediately notify the sender by telephone or e-mail and delete the original e-mail and all copies of it from your computer system.\r\n\r\n\r\nThis e-mail (including all attachments) is intended for the exclusive use of the individual to whom it is addressed. This e-mail may be proprietary,confidential, privileged and exempt from disclosure under applicable law. If the reader of this e-mail is not the intended recipient or agent responsible for delivering the message to the intended recipient, the reader is hereby put on notice that any use, dissemination, distribution or copying of this communication or any of its contents is strictly prohibited. If you have received this communication in error, please immediately notify the sender by telephone or e-mail and delete the original e-mail and all copies of it from your computer system.\n",
+        "status": "done",
+        "likely_foia": null,
+        "files": [
+          {
+            "id": 1169760,
+            "ffile": "https://cdn.muckrock.com/foia_files/2024/04/17/image001_r8TkJum.png",
+            "datetime": "2024-04-17T13:39:05.800253",
+            "title": "image001",
+            "source": "Municipal Clerk, Clifton, NJ",
+            "description": "",
+            "doc_id": "",
+            "pages": 0
+          },
+          {
+            "id": 1169761,
+            "ffile": "https://cdn.muckrock.com/foia_files/2024/04/17/OPRA_595-1.pdf",
+            "datetime": "2024-04-17T13:39:06.285850",
+            "title": "OPRA 595-1",
+            "source": "Municipal Clerk, Clifton, NJ",
+            "description": "",
+            "doc_id": "24554155-opra-595-1",
+            "pages": 199
+          },
+          {
+            "id": 1169762,
+            "ffile": "https://cdn.muckrock.com/foia_files/2024/04/17/OPRA_595-2.pdf",
+            "datetime": "2024-04-17T13:39:06.571239",
+            "title": "OPRA 595-2",
+            "source": "Municipal Clerk, Clifton, NJ",
+            "description": "",
+            "doc_id": "24554157-opra-595-2",
+            "pages": 199
+          },
+          {
+            "id": 1169763,
+            "ffile": "https://cdn.muckrock.com/foia_files/2024/04/17/OPRA_595-3.pdf",
+            "datetime": "2024-04-17T13:39:06.731239",
+            "title": "OPRA 595-3",
+            "source": "Municipal Clerk, Clifton, NJ",
+            "description": "",
+            "doc_id": "24554156-opra-595-3",
+            "pages": 135
+          },
+          {
+            "id": 1169764,
+            "ffile": "https://cdn.muckrock.com/foia_files/2024/04/17/OPRA_595-4.pdf",
+            "datetime": "2024-04-17T13:39:06.832125",
+            "title": "OPRA 595-4",
+            "source": "Municipal Clerk, Clifton, NJ",
+            "description": "",
+            "doc_id": "24554154-opra-595-4",
+            "pages": 7
+          }
+        ],
+        "delivered": "email"
+      }
+    ],
+    "absolute_url": "https://www.muckrock.com/foi/clifton-6861/survey-of-new-jersey-open-records-act-resources-municipal-clerk-162119/"
   },
   {
     "id": 162118,
@@ -2030,10 +2170,10 @@
         "likely_foia": null,
         "files": [
           {
-            "id": 1169589,
-            "ffile": "https://cdn.muckrock.com/inbound_request_attachments/BrickCityClerk/162117/00_-_OPRA_Log_-_2022.xlsx",
+            "id": 1169587,
+            "ffile": "https://cdn.muckrock.com/inbound_request_attachments/BrickCityClerk/162117/00_-_OPRA_Log_-_2024.xlsx",
             "datetime": "2024-04-16T14:49:23.626649",
-            "title": "00_-_OPRA_Log_-_2022.xlsx",
+            "title": "00_-_OPRA_Log_-_2024.xlsx",
             "source": "",
             "description": "",
             "doc_id": "",
@@ -2060,20 +2200,20 @@
             "pages": 35
           },
           {
-            "id": 1169588,
-            "ffile": "https://cdn.muckrock.com/inbound_request_attachments/BrickCityClerk/162117/00_-_OPRA_Log_-_2023.xlsx",
+            "id": 1169589,
+            "ffile": "https://cdn.muckrock.com/inbound_request_attachments/BrickCityClerk/162117/00_-_OPRA_Log_-_2022.xlsx",
             "datetime": "2024-04-16T14:49:23.626649",
-            "title": "00_-_OPRA_Log_-_2023.xlsx",
+            "title": "00_-_OPRA_Log_-_2022.xlsx",
             "source": "",
             "description": "",
             "doc_id": "",
             "pages": 0
           },
           {
-            "id": 1169587,
-            "ffile": "https://cdn.muckrock.com/inbound_request_attachments/BrickCityClerk/162117/00_-_OPRA_Log_-_2024.xlsx",
+            "id": 1169588,
+            "ffile": "https://cdn.muckrock.com/inbound_request_attachments/BrickCityClerk/162117/00_-_OPRA_Log_-_2023.xlsx",
             "datetime": "2024-04-16T14:49:23.626649",
-            "title": "00_-_OPRA_Log_-_2024.xlsx",
+            "title": "00_-_OPRA_Log_-_2023.xlsx",
             "source": "",
             "description": "",
             "doc_id": "",
@@ -2562,46 +2702,5 @@
       }
     ],
     "absolute_url": "https://www.muckrock.com/foi/newark-335/survey-of-new-jersey-open-records-act-resources-city-clerk-162128/"
-  },
-  {
-    "id": 162111,
-    "title": "Survey of New Jersey Open Records Act Resources (City of Gloucester)",
-    "slug": "survey-of-new-jersey-open-records-act-resources-city-of-gloucester",
-    "status": "ack",
-    "embargo": false,
-    "permanent_embargo": false,
-    "user": 3031,
-    "username": "adamsteinbaugh",
-    "agency": 21424,
-    "datetime_submitted": "2024-04-14T11:43:56.240719",
-    "date_due": "2024-04-23",
-    "days_until_due": null,
-    "date_followup": "2024-04-23",
-    "datetime_done": null,
-    "datetime_updated": "2024-04-14T11:43:56.636223",
-    "date_embargo": null,
-    "tracking_id": "",
-    "price": "0.00",
-    "disable_autofollowups": false,
-    "tags": [],
-    "communications": [
-      {
-        "foia": 162111,
-        "from_user": 3031,
-        "to_user": 34565,
-        "subject": "New Jersey Open Public Records Act Request: Survey of New Jersey Open Records Act Resources (City of Gloucester)",
-        "datetime": "2024-04-14T11:43:56.636223",
-        "response": false,
-        "autogenerated": false,
-        "thanks": false,
-        "full_html": false,
-        "communication": "To Whom It May Concern:\r\n\r\nPursuant to the New Jersey Open Public Records Act, I hereby request the following records:\r\n\r\n1. A copy of any budget, accounting, or other records sufficient to show the expenses or resources necessary for the city (including any departments thereof) to respond to public records requests.\r\n\r\n2. A copy of the job description for any person (whether employed by the city or any departments thereof) whose primary responsibilities include responding to or managing public records requests. If a separate record identifies the anticipated or actual amount of time the person spends on their duties (i.e., identifying how much of their time is spent on a given subject), please provide that record, as well.\r\n\r\n3. Any record sufficient to show the salary of any person (whether employed by the city or any departments thereof) whose primary responsibilities include responding to or managing public records requests.\r\n\r\n4. If the city maintains a log of public records requests, please provide a copy of the log dating back to January 1, 2022.\r\n\r\nRequests 1-3 are limited to documents generated during or concerning the last fiscal year.\r\n\r\nThe requested documents will be made available to the general public, and this request is not being made for commercial purposes.\r\n\r\nIn the event that there are fees, I would be grateful if you would inform me of the total charges in advance of fulfilling my request. I would prefer the request filled electronically, by e-mail attachment if available or CD-ROM if not.\r\n\r\nThank you in advance for your anticipated cooperation in this matter. I look forward to receiving your response to this request within 7 business days, as the statute requires.\r\n\r\nSincerely,\r\n\r\nAdam Steinbaugh",
-        "status": null,
-        "likely_foia": null,
-        "files": [],
-        "delivered": "email"
-      }
-    ],
-    "absolute_url": "https://www.muckrock.com/foi/gloucester-22081/survey-of-new-jersey-open-records-act-resources-city-of-gloucester-162111/"
   }
 ]

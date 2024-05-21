@@ -53,11 +53,11 @@
     "datetime_submitted": "2024-05-20T19:31:36.770769",
     "date_due": "2024-05-28",
     "days_until_due": null,
-    "date_followup": "2024-05-28",
+    "date_followup": "2024-06-05",
     "datetime_done": null,
     "datetime_updated": "2024-05-21T09:37:56.766278",
     "date_embargo": null,
-    "tracking_id": "",
+    "tracking_id": "5619",
     "price": "0.00",
     "disable_autofollowups": false,
     "tags": [],
@@ -89,7 +89,7 @@
         "thanks": false,
         "full_html": false,
         "communication": "Dear Alexandra,\r\n\r\n\r\n\r\nGood morning.\r\n\r\n\r\n\r\nThank you for your interest in obtaining information from the Chicago Park District.\r\n\r\n\r\n\r\nYour FOIA reference number for tracking purposes is: 5619\r\n\r\n\r\n\r\nYou have requested the following records:\r\n\r\n\r\n\r\nAlexandra Gelzin\r\n\r\nMuckRock News\r\n\r\nDEPT MR 164051\r\n\r\n263 Huntington Ave\r\n\r\nBoston, MA 02115\r\n\r\n\r\n\r\n\u201cRecords sufficient to show the following email logs: A log of all emails to/from Anastasia Anti from May 13, 2024 through May 20, 2024. The logs should include but not be limited to: sender, recipient(s), date, time, subject line, and attachment name. Please include emails where Anastasia is cc'ed and bcc'ed and provide this log in an .xls format.\u201d\r\n\r\n\r\n\r\nThe Chicago Park District (the \u201cPark District\u201d) responds to all public records requests by the Illinois Freedom of Information Act (FOIA), 5 ILCS 140/1 et seq.  Please expect a response by Wednesday May 29, 2024 by close of business. If additional time is needed to assemble and copy all documents responsive to your FOIA request, we will contact you with a time estimate and a request to extend.\r\n\r\nPlease note, the Park District is closed in observance of the Memorial Day holiday on Monday May 27, 2024.\r\n\r\n\r\n\r\nKind regards,\r\n\r\nKaren Choudhury\r\n\r\n--------------------------------\r\nKaren Choudhury\r\nFreedom of Information Act Counsel\r\nCHICAGO PARK DISTRICT\r\nFOIA: 312.742.4789 | FAX: 312.742.5328\r\nfoia@chicagoparkdistrict.com<mailto:foia@chicagoparkdistrict.com>\r\nFreedom of Information Act | Chicago Park District<https://www.chicagoparkdistrict.com/departments/administration/communications/foia>\r\n\r\n\r\nThis message is intended only for the individual or entity to which it is addressed and may contain information that is protected by the attorney-client or work-product privilege  and/or exempt from disclosure under applicable law. If the reader of this message is not the intended recipient, you are hereby notified that any dissemination, distribution or copying of this communication is strictly prohibited and may be unlawful. If you have received this communication in error, please reply to the sender that you received the message in error and erase or destroy the message and any attachments or copies. Thank you.\r\n[cid:image001.png@01DAAB59.F943CC60]\n",
-        "status": null,
+        "status": "processed",
         "likely_foia": null,
         "files": [
           {

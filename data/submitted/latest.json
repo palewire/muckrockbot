@@ -2525,11 +2525,11 @@
     "datetime_submitted": "2024-05-18T09:37:26.340615",
     "date_due": "2024-06-17",
     "days_until_due": null,
-    "date_followup": "2024-06-17",
+    "date_followup": "2024-06-23",
     "datetime_done": null,
     "datetime_updated": "2024-05-24T05:05:16.304039",
     "date_embargo": null,
-    "tracking_id": "",
+    "tracking_id": "FOIA-00199-2024",
     "price": "0.00",
     "disable_autofollowups": false,
     "tags": [
@@ -2575,7 +2575,7 @@
         "thanks": false,
         "full_html": false,
         "communication": "Classification: UNCLASSIFIED\r\n======================================================\r\n\r\nGreetings Ms. North-Best,\r\n\r\nThank you for submitting your FOIA Request to the Defense Intelligence Agency.  This email confirms the receipt of your request.\r\n\nWith Warm Regards,\r\nDIA FOIA Service Center\r\nwww.dia.mil/FOIA.aspx<http://www.dia.mil/FOIA.aspx>\r\n(301) 394-6253",
-        "status": null,
+        "status": "processed",
         "likely_foia": null,
         "files": [
           {

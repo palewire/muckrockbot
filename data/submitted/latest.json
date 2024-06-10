@@ -1166,7 +1166,7 @@
     "id": 164772,
     "title": "Documents concerning Ethan Smith",
     "slug": "documents-concerning-ethan-smith",
-    "status": "processed",
+    "status": "payment",
     "embargo": false,
     "permanent_embargo": false,
     "user": 135564,
@@ -1175,7 +1175,7 @@
     "datetime_submitted": "2024-06-07T04:29:26.783763",
     "date_due": null,
     "days_until_due": null,
-    "date_followup": "2024-06-25",
+    "date_followup": null,
     "datetime_done": null,
     "datetime_updated": "2024-06-10T08:42:51.899135",
     "date_embargo": null,
@@ -1211,7 +1211,7 @@
         "thanks": false,
         "full_html": false,
         "communication": "Good morning,\r\n\r\nAttached is the invoice amount for your request.\r\n\r\nOnce we receive payment then we will start processing your request.\r\n\r\nPlease keep in mind, payment for postage will be required if you're needing the records shipped. You also have the option to mail your own return label or provide one via email.\r\n\nThank you,\r\n\r\n\r\nNicole Bennett\r\n\r\nPutnam County Sheriff\u2019s Office\r\n\r\nOffice of Professional Standards\r\n\r\nAdministrative Assistant\r\n\r\nPhone (386) 329-0828\r\n\r\n\r\n\r\n[cid:27e906f4-4956-4274-b11f-353047daab03]",
-        "status": null,
+        "status": "payment",
         "likely_foia": null,
         "files": [
           {

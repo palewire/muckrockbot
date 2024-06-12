@@ -1133,7 +1133,7 @@
     "id": 164905,
     "title": "Beverage Agreements",
     "slug": "beverage-agreements",
-    "status": "processed",
+    "status": "partial",
     "embargo": false,
     "permanent_embargo": false,
     "user": 127078,
@@ -1142,7 +1142,7 @@
     "datetime_submitted": "2024-06-10T16:50:43.952164",
     "date_due": "2024-06-20",
     "days_until_due": null,
-    "date_followup": "2024-06-22",
+    "date_followup": null,
     "datetime_done": null,
     "datetime_updated": "2024-06-12T11:34:17.482542",
     "date_embargo": null,
@@ -1178,7 +1178,7 @@
         "thanks": false,
         "full_html": false,
         "communication": "Good Morning,\r\n\r\nHere is the response for your PRA Request sent to us on 6/10/2024.  Thank you!\r\n\nStacey Gross-Schneider\r\n\r\nPRA Assistant\r\n\r\n209-667-3383\r\n\r\nCSU Stanislaus",
-        "status": null,
+        "status": "partial",
         "likely_foia": null,
         "files": [
           {
@@ -1189,7 +1189,7 @@
             "source": "California State University, Stanislaus, California",
             "description": "",
             "doc_id": "24742457-muckrock-pra-intial-response-6102024",
-            "pages": 0
+            "pages": 1
           }
         ],
         "delivered": "email"

@@ -124,8 +124,8 @@
             "title": "Fee_Waiver_Letter_copy.pdf",
             "source": "Jordan Lassiter",
             "description": "",
-            "doc_id": "",
-            "pages": 0
+            "doc_id": "24762517-fee_waiver_letter_copypdf",
+            "pages": 2
           }
         ],
         "delivered": "none"
@@ -176,8 +176,8 @@
             "title": "Fee_Waiver_Letter_copy.pdf",
             "source": "Jordan Lassiter",
             "description": "",
-            "doc_id": "",
-            "pages": 0
+            "doc_id": "24762515-fee_waiver_letter_copypdf",
+            "pages": 2
           }
         ],
         "delivered": "none"
@@ -2418,7 +2418,7 @@
         "status": null,
         "likely_foia": null,
         "files": [],
-        "delivered": "fax"
+        "delivered": "mail"
       }
     ],
     "absolute_url": "https://www.muckrock.com/foi/south-carolina-302/tdy-lodging-sc-south-carolina-army-national-guard-164915/"

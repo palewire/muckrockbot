@@ -1553,7 +1553,7 @@
     "id": 165043,
     "title": "Untitled",
     "slug": "untitled",
-    "status": "done",
+    "status": "processed",
     "embargo": false,
     "permanent_embargo": false,
     "user": 27422,
@@ -1562,7 +1562,7 @@
     "datetime_submitted": "2024-06-12T22:37:14.721792",
     "date_due": "2024-06-22",
     "days_until_due": null,
-    "date_followup": null,
+    "date_followup": "2024-09-12",
     "datetime_done": "2024-06-13T13:59:24.803662",
     "datetime_updated": "2024-06-14T07:53:49.096668",
     "date_embargo": null,
@@ -1646,10 +1646,10 @@
         "thanks": true,
         "full_html": false,
         "communication": "Hi,\r\n\r\nThanks so much for your help with this request and the quick response. Just a clarification. Is that the number of times a CSS was used in 2024 until todays date, or is it the number used since such a device was purchased\r\n\r\nSincerely,\r\nDhruv Mehrotra\r\n                ",
-        "status": null,
+        "status": "processed",
         "likely_foia": null,
         "files": [],
-        "delivered": "none"
+        "delivered": "portal"
       }
     ],
     "absolute_url": "https://www.muckrock.com/foi/san-bernardino-county-3060/untitled-165043/"

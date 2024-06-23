@@ -118,24 +118,24 @@
         "likely_foia": null,
         "files": [
           {
-            "id": 1188666,
-            "ffile": "https://cdn.muckrock.com/outbound_composer_attachments/Alice_Borne/139003/ECMC_-_GUPPENBERGER_LAWSUIT.pdf",
-            "datetime": "2024-06-22T18:54:05.922303",
-            "title": "ECMC_-_GUPPENBERGER_LAWSUIT.pdf",
-            "source": "Alice Borne",
-            "description": "",
-            "doc_id": "",
-            "pages": 0
-          },
-          {
             "id": 1188665,
             "ffile": "https://cdn.muckrock.com/outbound_composer_attachments/Alice_Borne/139003/6.20.24_Letter_Re._Christina_C._Little.pdf",
             "datetime": "2024-06-22T18:54:05.922303",
             "title": "6.20.24_Letter_Re._Christina_C._Little.pdf",
             "source": "Alice Borne",
             "description": "",
-            "doc_id": "",
-            "pages": 0
+            "doc_id": "24775394-62024_letter_re_christina_c_littlepdf",
+            "pages": 5
+          },
+          {
+            "id": 1188666,
+            "ffile": "https://cdn.muckrock.com/outbound_composer_attachments/Alice_Borne/139003/ECMC_-_GUPPENBERGER_LAWSUIT.pdf",
+            "datetime": "2024-06-22T18:54:05.922303",
+            "title": "ECMC_-_GUPPENBERGER_LAWSUIT.pdf",
+            "source": "Alice Borne",
+            "description": "",
+            "doc_id": "24775395-ecmc_-_guppenberger_lawsuitpdf",
+            "pages": 16
           },
           {
             "id": 1188664,
@@ -144,8 +144,8 @@
             "title": "Letter_to_Katie_Hartman.pdf",
             "source": "Alice Borne",
             "description": "",
-            "doc_id": "",
-            "pages": 0
+            "doc_id": "24775393-letter_to_katie_hartmanpdf",
+            "pages": 2
           }
         ],
         "delivered": "none"

@@ -191,7 +191,7 @@
     "datetime_submitted": "2024-08-01T15:50:52.804546",
     "date_due": "2024-08-08",
     "days_until_due": null,
-    "date_followup": "2024-08-08",
+    "date_followup": "2024-08-23",
     "datetime_done": null,
     "datetime_updated": "2024-08-02T09:35:16.318703",
     "date_embargo": null,
@@ -227,7 +227,7 @@
         "thanks": false,
         "full_html": false,
         "communication": "This email serves as the City of Detroit\u2019s response to the above-referenced matter. Your request was received at the City of Detroit Law Department Freedom of Information Act Section via facsimile or email, on August 1, 2024. Because your request was received by electronic transmission, pursuant to Section 5(1) of the Michigan Freedom of Information Act (the \u201cAct\u201d), MCL 15.235(1); it is deemed to have been received at the Law Department on the next business day, August 2, 2024.\r\n\r\nPursuant to Section 5(2) of the Act, MCL 15.235(2), the City\u2019s response is due within five (5) business days. However, due to the nature and the scope of your request and the volume of the requests received by the City, we are extending the City\u2019s response deadline by ten (10) additional business days in accordance with Section 5(2) (d) of the Act, MCL 15.235(2) (d). Therefore, your request will be granted, denied, or granted in part and denied in part on or before August 23, 2024.\r\n\r\nYour request is being handled by Amanda Kelly. If you have questions regarding your request, or if you did not provide an email address in your request, please forward it to Amanda Kelly at kellya@detroitmi.gov<mailto:kellya@detroitmi.gov> to provide you a response more readily than by regular mail or fax. Mail and fax are not preferred at this time since they both require in-office support. We thank you in advance for your understanding.\n",
-        "status": null,
+        "status": "processed",
         "likely_foia": null,
         "files": [],
         "delivered": "email"

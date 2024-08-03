@@ -77,24 +77,24 @@
         "likely_foia": null,
         "files": [
           {
-            "id": 1205173,
-            "ffile": "https://cdn.muckrock.com/outbound_composer_attachments/Brett-DCF/143107/501c3_application_and_approval.pdf",
-            "datetime": "2024-08-02T14:41:11.210903",
-            "title": "501c3_application_and_approval.pdf",
-            "source": "Brett Carollo",
-            "description": "",
-            "doc_id": "",
-            "pages": 0
-          },
-          {
             "id": 1205172,
             "ffile": "https://cdn.muckrock.com/outbound_composer_attachments/Brett-DCF/143107/FOIA_waiver_letter_7-2-24.pdf",
             "datetime": "2024-08-02T14:41:11.210903",
             "title": "FOIA_waiver_letter_7-2-24.pdf",
             "source": "Brett Carollo",
             "description": "",
-            "doc_id": "",
-            "pages": 0
+            "doc_id": "25030706-foia_waiver_letter_7-2-24pdf",
+            "pages": 1
+          },
+          {
+            "id": 1205173,
+            "ffile": "https://cdn.muckrock.com/outbound_composer_attachments/Brett-DCF/143107/501c3_application_and_approval.pdf",
+            "datetime": "2024-08-02T14:41:11.210903",
+            "title": "501c3_application_and_approval.pdf",
+            "source": "Brett Carollo",
+            "description": "",
+            "doc_id": "25030702-501c3_application_and_approvalpdf",
+            "pages": 43
           }
         ],
         "delivered": "none"

@@ -481,7 +481,7 @@
     "datetime_done": null,
     "datetime_updated": "2024-08-19T08:51:04.808405",
     "date_embargo": null,
-    "tracking_id": "",
+    "tracking_id": "24-626",
     "price": "0.00",
     "disable_autofollowups": false,
     "tags": [],
@@ -513,7 +513,7 @@
         "thanks": false,
         "full_html": false,
         "communication": "Brevard County - Clerk of Court, FL\r\n\r\n************************************************************************\r\n\r\n\r\nYour record request #24-626 has been submitted successfully.\r\n\r\nThank you for your request.\u00a0A member of our Public Records Request panel will respond at their earliest convenience to provide you with details regarding your request.\u00a0\r\n\r\n\r\n\r\n\r\n\r\nAs the requester, you can always see the status of your\r\n                  request by signing into the Brevard County - Clerk of Court, FL\r\n                  portal.\r\n                  \r\n\r\n\r\n\r\n\r\n                  If you haven't already signed in, you may need to\r\n                  activate or setup your account to get started.\r\n                  Once your account is activated, you can communicate directly with the Brevard County - Clerk of Court, FL through NextRequest.\r\n\r\n\r\n************************************************************************                          \r\nReply to this email or sign in to contact Brevard County - Clerk of Court, FL.<br><br>\r\n             <a href=\"https://brevardcountyclerkfl.nextrequest.com/settings?id=1547270\">Change your email settings</a> | <a href=\"https://www.nextrequest.civicplus.help/hc/en-us/categories/17720084172567-Requesters\">Visit our help center</a>\n",
-        "status": null,
+        "status": "processed",
         "likely_foia": null,
         "files": [],
         "delivered": "email"

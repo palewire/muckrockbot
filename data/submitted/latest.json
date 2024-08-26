@@ -2704,7 +2704,7 @@
     "id": 172198,
     "title": "SHERIFF'S PRIMARY VEHICLE (Mclennan County Administrator Dustin Chapman)",
     "slug": "sheriffs-primary-vehicle-mclennan-county-administrator-dustin-chapman",
-    "status": "processed",
+    "status": "done",
     "embargo": false,
     "permanent_embargo": false,
     "user": 74011,
@@ -2713,8 +2713,8 @@
     "datetime_submitted": "2024-08-21T17:08:05.256237",
     "date_due": "2024-09-05",
     "days_until_due": null,
-    "date_followup": "2024-09-10",
-    "datetime_done": null,
+    "date_followup": null,
+    "datetime_done": "2024-08-26T15:30:10.119386",
     "datetime_updated": "2024-08-26T15:30:10.119386",
     "date_embargo": null,
     "tracking_id": "",
@@ -2776,7 +2776,7 @@
         "thanks": false,
         "full_html": false,
         "communication": "Please see the attached info from the Auditor\u2019s Office.\r\nThank you\n",
-        "status": null,
+        "status": "done",
         "likely_foia": null,
         "files": [
           {

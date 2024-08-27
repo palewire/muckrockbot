@@ -548,20 +548,20 @@
             "pages": 3
           },
           {
-            "id": 1213532,
-            "ffile": "https://cdn.muckrock.com/outbound_request_attachments/PatrickMockridge/172491/-Frdpos1Wb9SAAXvl0aQ6Gk7zUACJoEior2rXno82Fo.png",
+            "id": 1213531,
+            "ffile": "https://cdn.muckrock.com/outbound_request_attachments/PatrickMockridge/172491/NZJpiAI-_r7I040hTvJwD8s-jat0FGEjx3H4OIH3wIs.png",
             "datetime": "2024-08-27T09:51:33.822051",
-            "title": "-Frdpos1Wb9SAAXvl0aQ6Gk7zUACJoEior2rXno82Fo.png",
+            "title": "NZJpiAI-_r7I040hTvJwD8s-jat0FGEjx3H4OIH3wIs.png",
             "source": "Patrick Mockridge",
             "description": "",
             "doc_id": "",
             "pages": 0
           },
           {
-            "id": 1213531,
-            "ffile": "https://cdn.muckrock.com/outbound_request_attachments/PatrickMockridge/172491/NZJpiAI-_r7I040hTvJwD8s-jat0FGEjx3H4OIH3wIs.png",
+            "id": 1213532,
+            "ffile": "https://cdn.muckrock.com/outbound_request_attachments/PatrickMockridge/172491/-Frdpos1Wb9SAAXvl0aQ6Gk7zUACJoEior2rXno82Fo.png",
             "datetime": "2024-08-27T09:51:33.822051",
-            "title": "NZJpiAI-_r7I040hTvJwD8s-jat0FGEjx3H4OIH3wIs.png",
+            "title": "-Frdpos1Wb9SAAXvl0aQ6Gk7zUACJoEior2rXno82Fo.png",
             "source": "Patrick Mockridge",
             "description": "",
             "doc_id": "",
@@ -1804,16 +1804,6 @@
         "likely_foia": null,
         "files": [
           {
-            "id": 1212303,
-            "ffile": "https://cdn.muckrock.com/outbound_composer_attachments/Brett-DCF/144497/501c3_application_and_approval.pdf",
-            "datetime": "2024-08-22T11:49:59.470962",
-            "title": "501c3_application_and_approval.pdf",
-            "source": "Brett Carollo",
-            "description": "",
-            "doc_id": "25059812-501c3_application_and_approvalpdf",
-            "pages": 43
-          },
-          {
             "id": 1212304,
             "ffile": "https://cdn.muckrock.com/outbound_composer_attachments/Brett-DCF/144497/FOIA_waiver_letter_7-2-24.pdf",
             "datetime": "2024-08-22T11:49:59.470962",
@@ -1822,6 +1812,16 @@
             "description": "",
             "doc_id": "25059793-foia_waiver_letter_7-2-24pdf",
             "pages": 1
+          },
+          {
+            "id": 1212303,
+            "ffile": "https://cdn.muckrock.com/outbound_composer_attachments/Brett-DCF/144497/501c3_application_and_approval.pdf",
+            "datetime": "2024-08-22T11:49:59.470962",
+            "title": "501c3_application_and_approval.pdf",
+            "source": "Brett Carollo",
+            "description": "",
+            "doc_id": "25059812-501c3_application_and_approvalpdf",
+            "pages": 43
           }
         ],
         "delivered": "portal"
@@ -1930,16 +1930,6 @@
         "likely_foia": null,
         "files": [
           {
-            "id": 1212301,
-            "ffile": "https://cdn.muckrock.com/outbound_composer_attachments/Brett-DCF/144496/FOIA_waiver_letter_7-2-24.pdf",
-            "datetime": "2024-08-22T11:47:30.782644",
-            "title": "FOIA_waiver_letter_7-2-24.pdf",
-            "source": "Brett Carollo",
-            "description": "",
-            "doc_id": "25059806-foia_waiver_letter_7-2-24pdf",
-            "pages": 1
-          },
-          {
             "id": 1212302,
             "ffile": "https://cdn.muckrock.com/outbound_composer_attachments/Brett-DCF/144496/501c3_application_and_approval.pdf",
             "datetime": "2024-08-22T11:47:30.782644",
@@ -1948,6 +1938,16 @@
             "description": "",
             "doc_id": "25059790-501c3_application_and_approvalpdf",
             "pages": 43
+          },
+          {
+            "id": 1212301,
+            "ffile": "https://cdn.muckrock.com/outbound_composer_attachments/Brett-DCF/144496/FOIA_waiver_letter_7-2-24.pdf",
+            "datetime": "2024-08-22T11:47:30.782644",
+            "title": "FOIA_waiver_letter_7-2-24.pdf",
+            "source": "Brett Carollo",
+            "description": "",
+            "doc_id": "25059806-foia_waiver_letter_7-2-24pdf",
+            "pages": 1
           }
         ],
         "delivered": "portal"
@@ -2021,7 +2021,7 @@
     "id": 172278,
     "title": "Request to NASA for list of 2018 film and TV collaborations",
     "slug": "request-to-nasa-for-list-of-2018-film-and-tv-collaborations",
-    "status": "fix",
+    "status": "submitted",
     "embargo": false,
     "permanent_embargo": false,
     "user": 122968,
@@ -2032,7 +2032,7 @@
     "days_until_due": 19,
     "date_followup": null,
     "datetime_done": null,
-    "datetime_updated": "2024-08-23T12:53:13.076673",
+    "datetime_updated": "2024-08-27T14:50:25.828638",
     "date_embargo": null,
     "tracking_id": "24-01184-F-HQ",
     "price": "0.00",
@@ -2102,6 +2102,33 @@
           }
         ],
         "delivered": "email"
+      },
+      {
+        "foia": 172278,
+        "from_user": 122968,
+        "to_user": 10298,
+        "subject": "RE: Freedom of Information Act Request #24-01184-F-HQ",
+        "datetime": "2024-08-27T14:50:25.828638",
+        "response": false,
+        "autogenerated": false,
+        "thanks": false,
+        "full_html": false,
+        "communication": "This message concerns FOIA request 24-01184-F-HQ.\r\n\r\nI am writing to appeal the rejection of my request for a fee waiver. This request was rejected on the grounds that I could not demonstrate that disclosure of the requested records to me would constitute a \"significant\" benefit to public knowledge of NASA'a activities. Specifically, my claim was characterized as \"speculative.\" In considering my appeal, I ask whomever it may concern to consider that, in addition to my qualifications as stated in the original request, I am the editor-in-chief of a magazine (currently digital but soon to be in print) called \"Cultural Engineering Studies,\" and I personally contributed an article to this magazine on NASA's relationship to Hollywood--an almost unexplored topic. So it seems arbitrary to conclude that this information will not benefit public awareness in a \"significant\" way. \r\n\r\nThank you in advance for considering my appeal,\r\n\r\nBrett Carollo",
+        "status": null,
+        "likely_foia": null,
+        "files": [
+          {
+            "id": 1213660,
+            "ffile": "https://cdn.muckrock.com/foia_files/2024/08/27/24-01184-F-HQ_Acknowledgement_Letter_nVp824H.pdf",
+            "datetime": "2024-08-23T12:53:13.213299",
+            "title": "24-01184-F-HQ Acknowledgement Letter",
+            "source": "National Aeronautics and Space Administration, United States of America",
+            "description": "",
+            "doc_id": "25060702-24-01184-f-hq-acknowledgement-letter",
+            "pages": 3
+          }
+        ],
+        "delivered": "mail"
       }
     ],
     "absolute_url": "https://www.muckrock.com/foi/united-states-of-america-10/request-to-nasa-for-list-of-2018-film-and-tv-collaborations-172278/"
@@ -2531,16 +2558,6 @@
         "likely_foia": null,
         "files": [
           {
-            "id": 1212269,
-            "ffile": "https://cdn.muckrock.com/outbound_composer_attachments/Brett-DCF/144487/501c3_application_and_approval.pdf",
-            "datetime": "2024-08-22T11:18:07.239653",
-            "title": "501c3_application_and_approval.pdf",
-            "source": "Brett Carollo",
-            "description": "",
-            "doc_id": "25059797-501c3_application_and_approvalpdf",
-            "pages": 43
-          },
-          {
             "id": 1212268,
             "ffile": "https://cdn.muckrock.com/outbound_composer_attachments/Brett-DCF/144487/FOIA_waiver_letter_7-2-24.pdf",
             "datetime": "2024-08-22T11:18:07.239653",
@@ -2549,6 +2566,16 @@
             "description": "",
             "doc_id": "25059796-foia_waiver_letter_7-2-24pdf",
             "pages": 1
+          },
+          {
+            "id": 1212269,
+            "ffile": "https://cdn.muckrock.com/outbound_composer_attachments/Brett-DCF/144487/501c3_application_and_approval.pdf",
+            "datetime": "2024-08-22T11:18:07.239653",
+            "title": "501c3_application_and_approval.pdf",
+            "source": "Brett Carollo",
+            "description": "",
+            "doc_id": "25059797-501c3_application_and_approvalpdf",
+            "pages": 43
           }
         ],
         "delivered": "email"

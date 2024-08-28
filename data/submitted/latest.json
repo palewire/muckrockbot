@@ -496,16 +496,16 @@
     "id": 172491,
     "title": "Michael Gill Sr's Evidence to Attorney Andrew Lelling (United States Attorney's Office for the District of Massachusetts)",
     "slug": "michael-gill-srs-evidence-to-attorney-andrew-lelling-united-states-attorneys-office-for-the-district-of-massachusetts",
-    "status": "submitted",
+    "status": "processed",
     "embargo": false,
     "permanent_embargo": false,
     "user": 86103,
     "username": "PatrickMockridge",
     "agency": 764,
     "datetime_submitted": "2024-08-25T14:18:44.187152",
-    "date_due": null,
-    "days_until_due": 18,
-    "date_followup": null,
+    "date_due": "2024-09-23",
+    "days_until_due": null,
+    "date_followup": "2024-09-26",
     "datetime_done": null,
     "datetime_updated": "2024-08-27T11:40:00.955277",
     "date_embargo": null,
@@ -663,7 +663,7 @@
         "thanks": false,
         "full_html": false,
         "communication": "Dear Mr Krebs,\r\n\r\nPlease find your form request completed below, with annotations pertaining to my previous communication, mainly that three folders that arrived to you in one piece should still be in one piece if you are storing evidence as your are legally required to, and that three folders do not take two hours to find if you are storing and indexing evidence as you are legally required to.\r\n\r\nIf you disagree you are free to explain why, otherwise I am happy to allow an additional $100 for duplication costs of said three folders of evidence that should each be marked on a shelf with a reference ID according to general best practices, as I am sure they are under your wise and learned supervision.\r\n\r\nYour Sincerely\r\n\r\nPatrick Mockridge",
-        "status": null,
+        "status": "processed",
         "likely_foia": null,
         "files": [
           {
@@ -677,7 +677,7 @@
             "pages": 0
           }
         ],
-        "delivered": "none"
+        "delivered": "portal"
       }
     ],
     "absolute_url": "https://www.muckrock.com/foi/united-states-of-america-10/michael-gill-srs-evidence-to-attorney-andrew-lelling-united-states-attorneys-office-for-the-district-of-massachusetts-172491/"

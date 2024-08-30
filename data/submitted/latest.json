@@ -3,7 +3,7 @@
     "id": 172687,
     "title": "Oklahoma State Department of Education - \"Patriotic Displays\" guidance",
     "slug": "oklahoma-state-department-of-education-patriotic-displays-guidance",
-    "status": "submitted",
+    "status": "processed",
     "embargo": false,
     "permanent_embargo": false,
     "user": 3031,
@@ -12,7 +12,7 @@
     "datetime_submitted": "2024-08-29T18:40:31.553449",
     "date_due": null,
     "days_until_due": null,
-    "date_followup": null,
+    "date_followup": "2024-09-13",
     "datetime_done": null,
     "datetime_updated": "2024-08-29T18:40:31.664448",
     "date_embargo": null,
@@ -32,10 +32,10 @@
         "thanks": false,
         "full_html": false,
         "communication": "To Whom It May Concern:\r\n\r\nPursuant to the Oklahoma Open Records Act, I hereby request the following records:\r\n\r\n1. A copy of the guidance issued to school districts concerning \"Patriotic Displays,\" as referenced in the August 29, 2024 press release by Ryan Walters and/or the Oklahoma State Department of Education.\r\n\r\n2. A copy of any report submitted by any district detailing their policies regarding the display of the U.S. flag and the weekly recitation of the Pledge of Allegiance.\r\n\r\nThe requested documents will be made available to the general public, and this request is not being made for commercial purposes.\r\n\r\nIn the event that there are fees, I would be grateful if you would inform me of the total charges in advance of fulfilling my request. I would prefer the request filled electronically, by e-mail attachment if available or CD-ROM if not.\r\n\r\nThank you in advance for your anticipated cooperation in this matter. I look forward to receiving your response to this request within 10 business days.\r\n\r\nSincerely,\r\n\r\nAdam Steinbaugh",
-        "status": null,
+        "status": "processed",
         "likely_foia": null,
         "files": [],
-        "delivered": "none"
+        "delivered": "portal"
       }
     ],
     "absolute_url": "https://www.muckrock.com/foi/oklahoma-248/oklahoma-state-department-of-education-patriotic-displays-guidance-172687/"
@@ -2241,7 +2241,7 @@
     "id": 172342,
     "title": "Diddy December 27, 1999, Shooting Incident at Club New York (Federal Bureau of Investigation)",
     "slug": "diddy-december-27-1999-shooting-incident-at-club-new-york-federal-bureau-of-investigation",
-    "status": "processed",
+    "status": "rejected",
     "embargo": false,
     "permanent_embargo": false,
     "user": 139885,
@@ -2250,11 +2250,11 @@
     "datetime_submitted": "2024-08-23T10:21:09.027970",
     "date_due": "2024-09-23",
     "days_until_due": null,
-    "date_followup": "2024-11-27",
-    "datetime_done": null,
+    "date_followup": null,
+    "datetime_done": "2024-08-29T14:26:31.232709",
     "datetime_updated": "2024-08-29T14:26:31.232709",
     "date_embargo": null,
-    "tracking_id": "",
+    "tracking_id": "1645139-000",
     "price": "0.00",
     "disable_autofollowups": false,
     "tags": [],
@@ -2318,7 +2318,7 @@
         "thanks": false,
         "full_html": false,
         "communication": "There are eFOIA files available for you to download.",
-        "status": null,
+        "status": "rejected",
         "likely_foia": null,
         "files": [
           {

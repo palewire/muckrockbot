@@ -2322,14 +2322,14 @@
         "likely_foia": null,
         "files": [
           {
-            "id": 1214430,
+            "id": 1214576,
             "ffile": "https://cdn.muckrock.com/foia_files/2024/08/29/E5e71062d31458116e62c94aa6923798113b3f0dc8e0484a4a6_Q229709_D165307953.pdf",
-            "datetime": "2024-08-29T14:26:32.150160",
+            "datetime": "2024-08-29T22:15:37.162059",
             "title": "E5e71062d31458116e62c94aa6923798113b3f0dc8e0484a4a6_Q229709_D165307953",
-            "source": "FBI FOIA Portal",
+            "source": "Alpha Assistance",
             "description": "",
-            "doc_id": "25080519-e5e71062d31458116e62c94aa6923798113b3f0dc8e0484a4a6_q229709_d165307953",
-            "pages": 0
+            "doc_id": "25081887-e5e71062d31458116e62c94aa6923798113b3f0dc8e0484a4a6_q229709_d165307953",
+            "pages": 4
           }
         ],
         "delivered": "portal"

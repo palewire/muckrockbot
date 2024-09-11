@@ -1616,7 +1616,7 @@
     "id": 173043,
     "title": "Inspection Reports for In-N-Out Burger on S. Virginia St.",
     "slug": "inspection-reports-for-in-n-out-burger-on-s-virginia-st",
-    "status": "processed",
+    "status": "done",
     "embargo": false,
     "permanent_embargo": false,
     "user": 141026,
@@ -1625,8 +1625,8 @@
     "datetime_submitted": "2024-09-09T16:51:45.042836",
     "date_due": "2024-09-16",
     "days_until_due": null,
-    "date_followup": "2024-09-26",
-    "datetime_done": null,
+    "date_followup": null,
+    "datetime_done": "2024-09-11T17:05:51.839081",
     "datetime_updated": "2024-09-11T17:05:51.839081",
     "date_embargo": null,
     "tracking_id": "171247",
@@ -1693,7 +1693,7 @@
         "thanks": false,
         "full_html": false,
         "communication": "Ariel,\r\n\r\nSee attached.\r\n\r\n[cid:image001.png@01DB0453.A92284D0]<https://www.nnph.org/>\r\nJessi Salim\r\nOffice Specialist\r\nEnvironmental Health Services\r\nO: 775-328-2434<tel:+17753282434>\r\n1001 E Ninth St. Bldg. B Reno, NV 89512\r\nNNPH.org<https://www.nnph.org/>\r\n[cid:image002.png@01DB0453.A92284D0]<https://www.facebook.com/NorthernNevadaPublicHealth>\r\n[cid:image002.png@01DB0453.A92284D0]<https://www.facebook.com/NNPHenEspanol/>\r\n[cid:image003.png@01DB0453.A92284D0]<https://www.instagram.com/nnph_org/>\r\n[cid:image004.png@01DB0453.A92284D0]<https://x.com/NNPH_Org>\r\n[cid:image005.png@01DB0453.A92284D0]<https://www.linkedin.com/company/nnph/>\r\n[click here]<https://forms.office.com/pages/responsepage.aspx?id=YBuioiVW_kOlWlL14RHXHD5qU2Zzy-BLkpJghDqHLUtUNDNFNk9aVDc1UVlIQU1NSEtDWDQzMVRGWi4u>\r\n\r\nConfidentiality Statement: This e-mail and any attachments are intended only for those to which it is addressed and may contain information which is privileged, confidential and prohibited from disclosure and unauthorized use under applicable law. If you are not the intended recipient of this e-mail, you are hereby notified that any use, dissemination, or copying of this e-mail or the information contained in this e-mail is strictly prohibited by the sender. If you have received this transmission in error, please return the material received to the sender and delete all copies from your system.\n",
-        "status": null,
+        "status": "done",
         "likely_foia": null,
         "files": [
           {

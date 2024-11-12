@@ -516,7 +516,7 @@
         "thanks": false,
         "full_html": false,
         "communication": "Hi,\r\n\r\n \r\n\r\nThere is no need to resend your FOIA request. I have already forwarded it to the Wytheville Police Department.\nThanks!\r\n\r\n \r\n\r\nSherry Corvin, CMC \r\n\r\nTown Clerk \r\n\r\nTown of Wytheville \r\n\r\nP.O. Box 533, 150 East Monroe Street \r\n\r\nWytheville, VA 24382 \r\n\r\n(276) 223-3349 \r\n\r\n <mailto:sherryc@wytheville.org> sherryc@wytheville.org",
-        "status": null,
+        "status": "processed",
         "likely_foia": null,
         "files": [],
         "delivered": "email"

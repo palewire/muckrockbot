@@ -75,7 +75,7 @@
     "id": 176837,
     "title": "The Saigon Military Mission",
     "slug": "the-saigon-military-mission",
-    "status": "submitted",
+    "status": "processed",
     "embargo_status": "public",
     "user": 13328,
     "username": "vale",
@@ -83,7 +83,7 @@
     "datetime_submitted": "2024-11-24T12:36:49.635507",
     "date_due": "2024-12-23",
     "days_until_due": null,
-    "date_followup": null,
+    "date_followup": "2025-02-22",
     "datetime_done": null,
     "datetime_updated": "2024-11-24T12:36:49.715673",
     "date_embargo": null,
@@ -103,10 +103,10 @@
         "thanks": false,
         "full_html": false,
         "communication": "To Whom It May Concern:\r\n\r\nPursuant to the Freedom of Information Act, I hereby request the following records:\r\n\r\nCIA history CSHP 113, titled \"The Saigon Military Mission: June 1954-December 1956\", October 1970, Vols. I-II\r\n\r\nThe requested documents will be made available to the general public, and this request is not being made for commercial purposes.\r\n\r\nIn the event that there are fees, I would be grateful if you would inform me of the total charges in advance of fulfilling my request. I would prefer the request filled electronically, by e-mail attachment if available or CD-ROM if not.\r\n\r\nThank you in advance for your anticipated cooperation in this matter. I look forward to receiving your response to this request within 20 business days, as the statute requires.\r\n\r\nSincerely,\r\n\r\nPaul Galante",
-        "status": null,
+        "status": "processed",
         "likely_foia": null,
         "files": [],
-        "delivered": "none"
+        "delivered": "portal"
       }
     ],
     "absolute_url": "https://www.muckrock.com/foi/united-states-of-america-10/the-saigon-military-mission-176837/"

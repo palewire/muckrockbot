@@ -1835,7 +1835,7 @@
     "date_embargo": null,
     "tracking_id": "",
     "price": "0.00",
-    "disable_autofollowups": false,
+    "disable_autofollowups": true,
     "tags": [],
     "communications": [
       {
@@ -2007,10 +2007,10 @@
         "thanks": true,
         "full_html": false,
         "communication": "Hi,\r\n\r\nThanks so much for your help with this request! I really appreciate it. If the search results came up negative, I don't think there's much else I can ask of you guys. \r\n\r\nP.S. Didn't realize the online system I'm using to submit my requests would tell you guys the other law enforcement agencies I'm requesting for info (FBI, Philadelphia PD, etc). Sorry about that... Will see if I can amend my requests to those places. Thank you again!\r\n\r\nCheers,\r\nMaks Bondarenko\r\n                ",
-        "status": null,
+        "status": "no_docs",
         "likely_foia": null,
         "files": [],
-        "delivered": "none"
+        "delivered": "portal"
       }
     ],
     "absolute_url": "https://www.muckrock.com/foi/chicago-169/noel-ignatin-file-request-chicago-police-department-177376/"
@@ -2105,7 +2105,7 @@
     "date_embargo": null,
     "tracking_id": "",
     "price": "0.00",
-    "disable_autofollowups": false,
+    "disable_autofollowups": true,
     "tags": [],
     "communications": [
       {
@@ -2145,7 +2145,7 @@
     "date_embargo": null,
     "tracking_id": "",
     "price": "0.00",
-    "disable_autofollowups": false,
+    "disable_autofollowups": true,
     "tags": [],
     "communications": [
       {

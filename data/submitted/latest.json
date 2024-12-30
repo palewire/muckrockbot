@@ -11,7 +11,7 @@
     "datetime_submitted": "2024-12-30T15:03:06.907380",
     "date_due": "2025-01-09",
     "days_until_due": null,
-    "date_followup": "2025-01-09",
+    "date_followup": "2025-01-14",
     "datetime_done": null,
     "datetime_updated": "2024-12-30T16:13:30.219513",
     "date_embargo": null,
@@ -47,7 +47,7 @@
         "thanks": false,
         "full_html": false,
         "communication": "Good afternoon,\r\n\r\nI have forwarded your email to our Public Records Act account (PRA@da.lacounty.gov) for processing. In the future, please send all PRA requests to that email address to ensure tracking and accuracy.\r\n\r\nThank you,\r\n\r\n[cid:image001.png@01DB5ABC.95D07620]\r\n\r\n********** Privilege and Confidentiality Notice ************\r\nThis electronic message transmission and any documents attached hereto contain information from the Los Angeles County District Attorney's Office, which may contain confidential information and/or information legally protected by the attorney-client privilege and/or the work product doctrine.  This electronic transmission and any documents attached hereto are protected by the Electronic Communications Privacy Act (18 USC \u00a7\u00a7 2510-2521) and are for the sole use of the intended recipient named above.  If you have received this electronic message in error, please notify the sender immediately and delete the original message and any  attachments without reading or saving in any manner.  Any disclosure, copying, distribution, or use of the contents of the information received in error is strictly prohibited.\r\n******************************************\n",
-        "status": null,
+        "status": "processed",
         "likely_foia": null,
         "files": [
           {

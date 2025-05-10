@@ -259,12 +259,16 @@
     "price": "0.00",
     "disable_autofollowups": false,
     "tags": [
-      "@samantha_swartz",
       "@muckrock",
       "@aclu_or",
-      "@ndrnadvocates",
       "@dredf",
-      "@insidehighered"
+      "#disabledjournalistsassociation",
+      "#disabilityrights",
+      "#institutionalaccountability",
+      "#retaliation",
+      "#disabilityrightsoregon",
+      "#disabilityjustice",
+      "#disabilityrightseducationfund"
     ],
     "communications": [
       {
@@ -307,11 +311,16 @@
     "disable_autofollowups": false,
     "tags": [
       "@mssociety",
-      "@samantha_swartz",
       "@muckrock",
       "@aclu_or",
       "@ndrnadvocates",
-      "@dredf"
+      "@dredf",
+      "#disabledjournalistsassociation",
+      "#adacompliance",
+      "#disabilityrights",
+      "#institutionalaccountability",
+      "#retaliation",
+      "#discrimination"
     ],
     "communications": [
       {
@@ -714,12 +723,17 @@
     "disable_autofollowups": false,
     "tags": [
       "@mssociety",
-      "@samantha_swartz",
       "@muckrock",
       "@aclu_or",
       "@dredf",
       "@insidehighered",
-      "@chronicle"
+      "@chronicle",
+      "#disabledjournalistsassociation",
+      "#adacompliance",
+      "#disabilityrights",
+      "#institutionalaccountability",
+      "#retaliation",
+      "#discrimination"
     ],
     "communications": [
       {

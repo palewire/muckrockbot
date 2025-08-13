@@ -1361,7 +1361,7 @@
     "id": 191081,
     "title": "DCI Records",
     "slug": "dci-records",
-    "status": "submitted",
+    "status": "processed",
     "embargo_status": "public",
     "user": 25665,
     "username": "DetentionKills",
@@ -1369,7 +1369,7 @@
     "datetime_submitted": "2025-08-11T12:50:04.888132",
     "date_due": "2025-09-09",
     "days_until_due": null,
-    "date_followup": null,
+    "date_followup": "2025-09-12",
     "datetime_done": null,
     "datetime_updated": "2025-08-13T12:01:54.351327",
     "date_embargo": null,
@@ -1456,7 +1456,7 @@
         "status": null,
         "likely_foia": null,
         "files": [],
-        "delivered": "none"
+        "delivered": "email"
       }
     ],
     "absolute_url": "https://www.muckrock.com/foi/united-states-of-america-10/dci-records-191081/"

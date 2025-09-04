@@ -235,20 +235,20 @@
         "likely_foia": null,
         "files": [
           {
-            "id": 1314025,
-            "ffile": "https://cdn.muckrock.com/outbound_composer_attachments/Buffalo/162011/Screenshot_2025-09-03_at_11.34.32AM.png",
-            "datetime": "2025-09-03T12:50:23.005240",
-            "title": "Screenshot_2025-09-03_at_11.34.32AM.png",
-            "source": "Mob",
-            "description": "",
-            "doc_id": "",
-            "pages": 0
-          },
-          {
             "id": 1314024,
             "ffile": "https://cdn.muckrock.com/outbound_composer_attachments/Buffalo/162011/Vacanti_Arrest_Report_for_Murder_of_Massimi.pdf",
             "datetime": "2025-09-03T12:50:23.005240",
             "title": "Vacanti_Arrest_Report_for_Murder_of_Massimi.pdf",
+            "source": "Mob",
+            "description": "",
+            "doc_id": "26082968-vacanti_arrest_report_for_murder_of_massimipdf",
+            "pages": 1
+          },
+          {
+            "id": 1314025,
+            "ffile": "https://cdn.muckrock.com/outbound_composer_attachments/Buffalo/162011/Screenshot_2025-09-03_at_11.34.32AM.png",
+            "datetime": "2025-09-03T12:50:23.005240",
+            "title": "Screenshot_2025-09-03_at_11.34.32AM.png",
             "source": "Mob",
             "description": "",
             "doc_id": "",

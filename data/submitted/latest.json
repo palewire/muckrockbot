@@ -267,7 +267,7 @@
     "id": 192692,
     "title": "USS Liberty: Still Classified USS Liberty Documents Seen by X User @mdvtfan",
     "slug": "uss-liberty-still-classified-uss-liberty-documents-seen-by-x-user-mdvtfan",
-    "status": "submitted",
+    "status": "processed",
     "embargo_status": "public",
     "user": 256,
     "username": "USSLiberty",
@@ -275,7 +275,7 @@
     "datetime_submitted": "2025-09-05T22:52:14.384857",
     "date_due": "2025-10-03",
     "days_until_due": null,
-    "date_followup": null,
+    "date_followup": "2025-10-06",
     "datetime_done": null,
     "datetime_updated": "2025-09-05T22:52:14.619983",
     "date_embargo": null,
@@ -298,7 +298,7 @@
         "thanks": false,
         "full_html": false,
         "communication": "To Whom It May Concern:\r\n\r\nPursuant to the Freedom of Information Act, I hereby request the following records:\r\n\r\nI was aboard the USS Liberty when the Israel Defense Force attacked our ship on June 8, 1967, and serve my shipmates as Historian of the USS Liberty Veterans Association.[https://ussliberty.org]\r\n\r\nA user on X (formerly Twitter) is a DoD Contractor at Ft. Meade. He posted a comment telling us he saw still classified documents related to the attack on our ship.\r\n\r\nHis X id is @mdvtfan.\r\n\r\nI\u2019ve included screenshots of the relevant comments he made on X.\r\n\r\nThe URLs of his comments are https://x.com/mdvtfan/status/1964101066837946589 and https://x.com/mdvtfan/status/1964130923789664600\r\n\r\nWe ask that the still-classified documents related to the attack on our ship be declassified and released to us.\r\n\r\nThe requested documents will be made available to the general public, and this request is not being made for commercial purposes.\r\n\r\nIn the event that there are fees, I would be grateful if you would inform me of the total charges in advance of fulfilling my request. I would prefer the request filled electronically, by e-mail attachment if available or CD-ROM if not.\r\n\r\nThank you in advance for your anticipated cooperation in this matter. I look forward to receiving your response to this request within 20 business days, as the statute requires.\r\n\r\nSincerely,\r\n\r\nJoe Meadors",
-        "status": null,
+        "status": "processed",
         "likely_foia": null,
         "files": [
           {
@@ -322,7 +322,7 @@
             "pages": 0
           }
         ],
-        "delivered": "none"
+        "delivered": "portal"
       }
     ],
     "absolute_url": "https://www.muckrock.com/foi/united-states-of-america-10/uss-liberty-still-classified-uss-liberty-documents-seen-by-x-user-mdvtfan-192692/"
@@ -371,7 +371,7 @@
     "id": 192686,
     "title": "2025-09-05 \u2013 911 Call Records from Bus Emergency",
     "slug": "2025-09-05-911-call-records-from-bus-emergency",
-    "status": "submitted",
+    "status": "processed",
     "embargo_status": "public",
     "user": 127147,
     "username": "JoseMoran",
@@ -379,9 +379,9 @@
     "datetime_submitted": "2025-09-05T17:47:50.511136",
     "date_due": "2025-09-12",
     "days_until_due": null,
-    "date_followup": null,
+    "date_followup": "2025-09-20",
     "datetime_done": null,
-    "datetime_updated": "2025-09-05T17:47:50.602046",
+    "datetime_updated": "2025-09-08T01:09:51.216008",
     "date_embargo": null,
     "tracking_id": "",
     "price": "0.00",
@@ -399,10 +399,26 @@
         "thanks": false,
         "full_html": false,
         "communication": "To Whom It May Concern:\r\n\r\nPursuant to the New York Freedom of Information Law, I hereby request the following records:\r\n\r\n- The CAD (Computer Aided Dispatch) log and any incident reports associated with a 911 call from (914) 233-7373 on September 5, 2025, between approximately 15:38 and 15:41 (local time), regarding a bus displaying an emergency message on Ashburton Ave in Yonkers.\r\n- The audio recording of the 911 call, which was received via transfer from New York State Police or Bergen County Sheriff\u2019s Office and handled by the Yonkers Police Department Communications Division.\r\n- Any related records showing the transfer of this call into the Yonkers 911 system (e.g., transfer metadata, ALI/ANI, timestamps).\r\n\r\nThe requested documents will be made available to the general public, and this request is not being made for commercial purposes.\r\n\r\nIn the event that there are fees, I would be grateful if you would inform me of the total charges in advance of fulfilling my request. I would prefer the request filled electronically, by e-mail attachment if available or CD-ROM if not.\r\n\r\nThank you in advance for your anticipated cooperation in this matter. I look forward to receiving your response to this request within 5 business days, as the statute requires.\r\n\r\nSincerely,\r\n\r\nJose Moran",
-        "status": null,
+        "status": "processed",
         "likely_foia": null,
         "files": [],
-        "delivered": "none"
+        "delivered": "portal"
+      },
+      {
+        "foia": 192686,
+        "from_user": 11268,
+        "to_user": null,
+        "subject": "Online Form Submittal: Freedom of Information Law (FOIL) Request Form",
+        "datetime": "2025-09-08T01:09:51.216008",
+        "response": true,
+        "autogenerated": false,
+        "thanks": false,
+        "full_html": false,
+        "communication": "The following form was submitted via your website: Freedom of Information Law (FOIL) Request Form\r\n\r\n\r\nDepartment to send FOIL Request to: Police Department\r\n\r\nName: Jose Moran\r\n\r\nMailing Address: MuckRock News DEPT MR 192686, 263 Huntington Ave\r\n\r\nCity: Boston\r\n\r\nState: Massachusetts\r\n\r\nZip Code: 02115\r\n\r\nWork Phone: 617-299-1832\r\n\r\nEmail Address: 192686-44174020@requests.muckrock.com\r\n\r\nPlease describe the documents you seek in as thorough and detailed a manner as possible.  All requests are subject to State and Federal Law.: To Whom It May Concern:\r\n\r\nPursuant to the New York Freedom of Information Law, I hereby request the following records:\r\n\r\n- The CAD (Computer Aided Dispatch) log and any incident reports associated with a 911 call from (914) 233-7373 on September 5, 2025, between approximately 15:38 and 15:41 (local time), regarding a bus displaying an emergency message on Ashburton Ave in Yonkers.\r\n- The audio recording of the 911 call, which was received via transfer from New York State Police or Bergen County Sheriff\u2019s Office and handled by the Yonkers Police Department Communications Division.\r\n- Any related records showing the transfer of this call into the Yonkers 911 system (e.g., transfer metadata, ALI/ANI, timestamps).\r\n\r\nThe requested documents will be made available to the general public, and this request is not being made for commercial purposes.\r\n\r\nIn the event that there are fees, I would be grateful if you would inform me of the total charges in advance of fulfilling my request. I would prefer the request filled electronically, by e-mail attachment if available or CD-ROM if not.\r\n\r\nThank you in advance for your anticipated cooperation in this matter. I look forward to receiving your response to this request within 5 business days, as the statute requires.\r\n\r\nSincerely,\r\n\r\nJose Moran\r\n\r\nUpload documents directly: https://accounts.muckrock.com/accounts/login/?next=https%3A%2F%2Fwww.muckrock.com%2Faccounts%2Flogin%2F%3Fnext%3D%252Faccounts%252Fagency_login%252Fyonkers-police-department-4166%252F2025-09-05-911-call-records-from-bus-emergency-192686%252F%253Femail%253Dpolice%252540ypd.yonkersny.gov&url_auth_token=AAAiQAlKMF3F5ewPT9g9AHXPfrU%3A1uvU7T%3AZg8kV6eOYWVPuuE7TzYvqFE4RA591SnDg3w0WuseHAU\r\n\r\n\r\n\r\nAdditional Information:\r\nForm Submitted on: 9/8/2025 2:09:47 AM\r\nReferrer Page: https://www.yonkersny.gov/formcenter/corporation-counsel-7/freedom-of-information-law-foil-request--48\r\nForm Address: https://www.yonkersny.gov/FormCenter/Corporation-Counsel-7/Freedom-of-Information-Law-FOIL-Request--48\n",
+        "status": null,
+        "likely_foia": 192686,
+        "files": [],
+        "delivered": "email"
       }
     ],
     "absolute_url": "https://www.muckrock.com/foi/yonkers-22902/2025-09-05-911-call-records-from-bus-emergency-192686/"
@@ -1131,7 +1147,7 @@
     "id": 192586,
     "title": "Adverse effects synthetic hair",
     "slug": "adverse-effects-synthetic-hair",
-    "status": "submitted",
+    "status": "processed",
     "embargo_status": "public",
     "user": 157372,
     "username": "MegDuff_EQwaUzrP",
@@ -1139,11 +1155,11 @@
     "datetime_submitted": "2025-09-05T15:25:35.642364",
     "date_due": "2025-10-03",
     "days_until_due": null,
-    "date_followup": null,
+    "date_followup": "2025-12-07",
     "datetime_done": null,
-    "datetime_updated": "2025-09-05T15:25:35.750441",
+    "datetime_updated": "2025-09-08T01:12:55.563607",
     "date_embargo": null,
-    "tracking_id": "",
+    "tracking_id": "FDA25117159",
     "price": "0.00",
     "disable_autofollowups": false,
     "tags": [],
@@ -1159,10 +1175,42 @@
         "thanks": false,
         "full_html": false,
         "communication": "To Whom It May Concern:\r\n\r\nPursuant to the Freedom of Information Act, I hereby request the following records:\r\n\r\n- Any voluntary adverse event reports in the FDA's Adverse Event Reporting System (FAERS) concerning hair extensions, synthetic braiding hair (including the search terms \"braid\" and \"braids\"), or wigs. \r\n- Any voluntary adverse event reports in the FDA's Adverse Event Reporting System (FAERS) that mention \"hair\", \"braid\" or \"braids\" and that mention any of the following brand or model names: Kanekalon, Hair Zone, Ruwa, Sensationnel, Magic Fingers, Sassy Collection, Shake-N-Go, Hbegant, Debut, or Darling.\r\n\r\nThe requested documents will be made available to the general public, and this request is not being made for commercial purposes.\r\n\r\nIn the event that there are fees, I would be grateful if you would inform me of the total charges in advance of fulfilling my request. I would prefer the request filled electronically, by e-mail attachment if available or CD-ROM if not.\r\n\r\nThank you in advance for your anticipated cooperation in this matter. I look forward to receiving your response to this request within 20 business days, as the statute requires.\r\n\r\nSincerely,\r\n\r\nMeg Duff",
+        "status": "processed",
+        "likely_foia": null,
+        "files": [],
+        "delivered": "portal"
+      },
+      {
+        "foia": 192586,
+        "from_user": 9582,
+        "to_user": 157372,
+        "subject": "FOI Request Received",
+        "datetime": "2025-09-08T01:07:56.376842",
+        "response": true,
+        "autogenerated": false,
+        "thanks": false,
+        "full_html": false,
+        "communication": "*** This is an automated message. Please do not reply to this email. *** \nReference: FDA25117159 \nDear Requester, \nThis is to confirm that you submitted a request for record(s) from the Food and Drug Administration\npursuant to the Freedom of Information Act. \nFOIA staff will review your request to determine whether it has sufficient information to be processed;\nif so, you will receive another email as a formal acknowledgement of your request, with a control number for your request. \nIf your request is not sufficiently described,\nor if there are any other deficiencies with your submission, FOIA staff will contact you via telephone or email.\n",
         "status": null,
         "likely_foia": null,
         "files": [],
-        "delivered": "none"
+        "delivered": "email"
+      },
+      {
+        "foia": 192586,
+        "from_user": 9582,
+        "to_user": 157372,
+        "subject": "FOIA Request Submitted",
+        "datetime": "2025-09-08T01:12:55.563607",
+        "response": true,
+        "autogenerated": false,
+        "thanks": false,
+        "full_html": false,
+        "communication": "Hello  ,\r\nThis is to confirm that you submitted a request for record(s) from FDA pursuant to the Freedom of Information Act.\r\nFOIA staff will review your request to determine whether it has sufficient information to be processed; if so, you will receive another email as a formal acknowledgement of your request.\r\nIf your request is not sufficiently described, or if there are any other deficiencies with your submission, FOIA staff will contact you via telephone or email.\r\nYour reference number for this request is FDA-FOIA-2025-10657.\n",
+        "status": null,
+        "likely_foia": null,
+        "files": [],
+        "delivered": "email"
       }
     ],
     "absolute_url": "https://www.muckrock.com/foi/united-states-of-america-10/adverse-effects-synthetic-hair-192586/"
@@ -1346,7 +1394,7 @@
     "id": 192576,
     "title": "SUU - Tom Higbee",
     "slug": "suu-tom-higbee",
-    "status": "submitted",
+    "status": "processed",
     "embargo_status": "public",
     "user": 36140,
     "username": "Woods",
@@ -1354,7 +1402,7 @@
     "datetime_submitted": "2025-09-05T12:27:25.607365",
     "date_due": "2025-09-19",
     "days_until_due": null,
-    "date_followup": null,
+    "date_followup": "2025-09-20",
     "datetime_done": null,
     "datetime_updated": "2025-09-05T12:27:25.705311",
     "date_embargo": null,
@@ -1374,10 +1422,10 @@
         "thanks": false,
         "full_html": false,
         "communication": "To Whom It May Concern:\r\n\r\nPursuant to the Government Records Access and Management Act, I hereby request the following records:\r\n\r\nAny signed and/or executed employment contract/agreement/offer letter/memorandum of understanding between Southern Utah University and Tom Higbee.\r\n\r\nThe requested documents will be made available to the general public, and this request is not being made for commercial purposes.\r\n\r\nIn the event that there are fees, I would be grateful if you would inform me of the total charges in advance of fulfilling my request. I would prefer the request filled electronically, by e-mail attachment if available or CD-ROM if not.\r\n\r\nThank you in advance for your anticipated cooperation in this matter. I look forward to receiving your response to this request within 10 business days, as the statute requires.\r\n\r\nSincerely,\r\n\r\nEllen",
-        "status": null,
+        "status": "processed",
         "likely_foia": null,
         "files": [],
-        "delivered": "none"
+        "delivered": "portal"
       }
     ],
     "absolute_url": "https://www.muckrock.com/foi/utah-234/suu-tom-higbee-192576/"
@@ -1538,7 +1586,7 @@
     "id": 192566,
     "title": "BOR Doering Supervisor 2",
     "slug": "bor-doering-supervisor-2",
-    "status": "submitted",
+    "status": "processed",
     "embargo_status": "public",
     "user": 13018,
     "username": "jtoby87@gmail.com",
@@ -1546,9 +1594,9 @@
     "datetime_submitted": "2025-09-05T10:26:46.704589",
     "date_due": "2025-10-03",
     "days_until_due": null,
-    "date_followup": null,
+    "date_followup": "2025-12-07",
     "datetime_done": null,
-    "datetime_updated": "2025-09-05T10:26:46.814947",
+    "datetime_updated": "2025-09-08T00:49:09.864857",
     "date_embargo": null,
     "tracking_id": "",
     "price": "0.00",
@@ -1566,7 +1614,7 @@
         "thanks": false,
         "full_html": false,
         "communication": "To Whom It May Concern:\r\n\r\nPursuant to the Freedom of Information Act, I hereby request the following records:\r\n\r\nI seek all records referenced in the attached email, which was sent by a BOR FOIA officer on May 9 2025. \r\n\r\nI am a reporter for Public Domain, a news outlet, and seek a fee waiver. If that fee waiver is denied I am willing to pay $25.\r\n\r\nThe requested documents will be made available to the general public, and this request is not being made for commercial purposes.\r\n\r\nIn the event that there are fees, I would be grateful if you would inform me of the total charges in advance of fulfilling my request. I would prefer the request filled electronically, by e-mail attachment if available or CD-ROM if not.\r\n\r\nThank you in advance for your anticipated cooperation in this matter. I look forward to receiving your response to this request within 20 business days, as the statute requires.\r\n\r\nSincerely,\r\n\r\nJimmy Tobias",
-        "status": null,
+        "status": "processed",
         "likely_foia": null,
         "files": [
           {
@@ -1580,7 +1628,71 @@
             "pages": 0
           }
         ],
-        "delivered": "none"
+        "delivered": "portal"
+      },
+      {
+        "foia": 192566,
+        "from_user": 12998,
+        "to_user": 13018,
+        "subject": "Your PAL account is ready",
+        "datetime": "2025-09-08T00:41:07.234341",
+        "response": true,
+        "autogenerated": false,
+        "thanks": false,
+        "full_html": false,
+        "communication": "Dear Jimmy  Tobias, \r\n\r\nYou've successfully created a PAL account. You will receive another email with a link to create your password. \r\n\r\nUsername:\u00a0192566-24341509@requests.muckrock.com \r\n\r\nAny previously submitted requests to DOI FOIA Office have been saved to your profile.\r\nRegards, \r\nDOI FOIA Office",
+        "status": "done",
+        "likely_foia": null,
+        "files": [],
+        "delivered": "portal"
+      },
+      {
+        "foia": 192566,
+        "from_user": 12998,
+        "to_user": 13018,
+        "subject": "Here's your recovery link",
+        "datetime": "2025-09-08T00:41:07.472346",
+        "response": true,
+        "autogenerated": false,
+        "thanks": false,
+        "full_html": false,
+        "communication": "Dear Jimmy  Tobias, \r\n\r\nPlease find your password recovery link below: \r\nPassword Recovery Link: https://foiaxpresspal.doi.gov/App/SetPassword.aspx?aun=NRmybOjByBCK8TMG5IuaeHx5fxBxG46UcaDpl3gZBiU= \r\n\r\nClick the link above to return to DOI FOIA Office PAL and create a new password. \r\n\r\nIf you have any questions or need further assistance, please contact the bureau at https://www.doi.gov/foia/contacts.. \r\n\r\nThank you.\r\nRegards, \r\nDOI FOIA Office",
+        "status": "done",
+        "likely_foia": null,
+        "files": [],
+        "delivered": "portal"
+      },
+      {
+        "foia": 192566,
+        "from_user": 12998,
+        "to_user": 13018,
+        "subject": "Your OTP for Login",
+        "datetime": "2025-09-08T00:44:47.403255",
+        "response": true,
+        "autogenerated": false,
+        "thanks": false,
+        "full_html": false,
+        "communication": "Dear Jimmy  Tobias, \r\nYour one-time password for DOI FOIA Office is as follows: \r\nOne-Time Password: 064573 \r\n\r\nThank you.\r\nRegards, \r\nDOI FOIA Office",
+        "status": "done",
+        "likely_foia": null,
+        "files": [],
+        "delivered": "portal"
+      },
+      {
+        "foia": 192566,
+        "from_user": 12998,
+        "to_user": 13018,
+        "subject": "Request Received by DOI FOIA Office",
+        "datetime": "2025-09-08T00:49:09.864857",
+        "response": true,
+        "autogenerated": false,
+        "thanks": false,
+        "full_html": false,
+        "communication": "Dear Jimmy  Tobias, \nWe would like to inform you that the Department of the Interior has received your Freedom of Information Act (FOIA) request and assigned it the control number DOI-2025-009296. Please reference this number in any future communications regarding your request. \n\nThis message has been sent from an unattended email inbox. For any further correspondence, please contact the bureau at https://www.doi.gov/foia/contacts. \n\nThank you for your attention to this matter.\nRegards, \nDOI FOIA Office",
+        "status": null,
+        "likely_foia": null,
+        "files": [],
+        "delivered": "email"
       }
     ],
     "absolute_url": "https://www.muckrock.com/foi/united-states-of-america-10/bor-doering-supervisor-2-192566/"

@@ -178,7 +178,11 @@
     "tracking_id": "",
     "price": "0.00",
     "disable_autofollowups": false,
-    "tags": [],
+    "tags": [
+      "alpr",
+      "flock",
+      "flock safety"
+    ],
     "communications": [
       {
         "foia": 206296,
@@ -218,7 +222,11 @@
     "tracking_id": "",
     "price": "0.00",
     "disable_autofollowups": false,
-    "tags": [],
+    "tags": [
+      "alpr",
+      "flock",
+      "flock safety"
+    ],
     "communications": [
       {
         "foia": 206299,
@@ -258,7 +266,11 @@
     "tracking_id": "",
     "price": "0.00",
     "disable_autofollowups": false,
-    "tags": [],
+    "tags": [
+      "alpr",
+      "flock",
+      "flock safety"
+    ],
     "communications": [
       {
         "foia": 206298,
@@ -298,7 +310,11 @@
     "tracking_id": "",
     "price": "0.00",
     "disable_autofollowups": false,
-    "tags": [],
+    "tags": [
+      "alpr",
+      "flock",
+      "flock safety"
+    ],
     "communications": [
       {
         "foia": 206297,
@@ -338,7 +354,11 @@
     "tracking_id": "",
     "price": "0.00",
     "disable_autofollowups": false,
-    "tags": [],
+    "tags": [
+      "alpr",
+      "flock",
+      "flock safety"
+    ],
     "communications": [
       {
         "foia": 206295,

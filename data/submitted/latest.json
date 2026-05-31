@@ -1789,7 +1789,7 @@
     "id": 212251,
     "title": "ALPR audit",
     "slug": "alpr-audit",
-    "status": "payment",
+    "status": "submitted",
     "embargo_status": "public",
     "user": 185638,
     "username": "A_H",

@@ -34,6 +34,9 @@ jobs:
         name: Download
         run: make download
         shell: bash
+        env:
+          MUCKROCK_USERNAME: ${{ secrets.MUCKROCK_USERNAME }}
+          MUCKROCK_PASSWORD: ${{ secrets.MUCKROCK_PASSWORD }}
 
       - id: transform
         name: Identify new requests

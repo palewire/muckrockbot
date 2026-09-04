@@ -23,7 +23,7 @@ def cli():
         api_base_url="https://mastodon.palewi.re",
     )
     for obj in data:
-        text = f"""{obj['title']} by {obj['username']} \n\n {obj['absolute_url']}"""
+        text = f"""{obj['title']}\n\n{obj['absolute_url']}"""
         api.status_post(text)
         time.sleep(2)
 

@@ -4,7 +4,7 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-python-muckrock = "*"
+python-muckrock = "==2.3.0"
 python-twitter = "*"
 pytz = "*"
 click = "*"

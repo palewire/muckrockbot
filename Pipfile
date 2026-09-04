@@ -4,13 +4,13 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-python-muckrock = "==2.3.0"
 python-twitter = "*"
 pytz = "*"
 click = "*"
 rich = "*"
 python-dateutil = "*"
 "mastodon.py" = "*"
+python-muckrock = "*"
 
 [dev-packages]
 pre-commit = "*"

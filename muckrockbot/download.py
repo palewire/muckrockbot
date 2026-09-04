@@ -26,24 +26,53 @@ def cli():
     )
 
     # Pull the submitted
-    submitted_list = client.requests.list(ordering="-datetime_submitted", page_size=100)
+    submitted_params = {
+        "ordering": "-datetime_submitted",
+        "page_size": 100,
+        "embargo_status": "public",
+    }
+    add_watermark(
+        submitted_params,
+        DATA_DIR / "submitted" / "latest.json",
+        "datetime_submitted",
+    )
+    submitted_list = client.requests.list(**submitted_params)
 
     # Pull the completed
-    completed_list = client.requests.list(
-        ordering="-datetime_done", page_size=100, status="done"
+    completed_params = {
+        "ordering": "-datetime_done",
+        "page_size": 100,
+        "status": "done",
+        "embargo_status": "public",
+    }
+    add_watermark(
+        completed_params,
+        DATA_DIR / "completed" / "latest.json",
+        "datetime_done",
     )
+    completed_list = client.requests.list(**completed_params)
 
     # Get the current time
     tz = pytz.timezone("America/Los_Angeles")
     now = datetime.now(tz=tz)
 
     # Write them out
-    submitted_data = serialize_requests(submitted_list.results)
-    completed_data = serialize_requests(completed_list.results)
+    submitted_data = serialize_requests(submitted_list)
+    completed_data = serialize_requests(completed_list)
     write_json(submitted_data, DATA_DIR / "submitted" / f"{now}.json")
     write_json(submitted_data, DATA_DIR / "submitted" / "latest.json")
     write_json(completed_data, DATA_DIR / "completed" / f"{now}.json")
     write_json(completed_data, DATA_DIR / "completed" / "latest.json")
+
+
+def add_watermark(params: dict, path: Path, field: str):
+    """Limit a query to records at or after the latest saved timestamp."""
+    if not path.exists():
+        return
+    values = [record.get(field) for record in json.loads(path.read_text())]
+    timestamps = [value for value in values if value]
+    if timestamps:
+        params[f"{field}__gte"] = max(timestamps)
 
 
 def serialize_requests(requests: typing.Iterable[typing.Any]) -> typing.List[dict]:

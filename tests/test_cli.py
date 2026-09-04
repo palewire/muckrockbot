@@ -23,6 +23,10 @@ class FakeResults:
         """Initialize the results."""
         self.results = results
 
+    def __iter__(self):
+        """Iterate over every paginated result."""
+        return iter(self.results)
+
 
 class FakeRequestClient:
     """Record API v2 request queries and return fixture data."""
@@ -55,6 +59,14 @@ def test_download_cli(tmp_path, monkeypatch):
     monkeypatch.setattr(download, "MuckRock", FakeMuckRock)
     monkeypatch.setenv("MUCKROCK_USERNAME", "test-user")
     monkeypatch.setenv("MUCKROCK_PASSWORD", "test-password")
+    (tmp_path / "submitted").mkdir()
+    (tmp_path / "submitted" / "latest.json").write_text(
+        json.dumps([{"datetime_submitted": "2026-01-01T00:00:00Z"}])
+    )
+    (tmp_path / "completed").mkdir()
+    (tmp_path / "completed" / "latest.json").write_text(
+        json.dumps([{"datetime_done": "2026-01-02T00:00:00Z"}])
+    )
 
     runner = CliRunner()
     result = runner.invoke(download.cli, [])
@@ -62,8 +74,19 @@ def test_download_cli(tmp_path, monkeypatch):
     assert result.exit_code == 0
     assert FakeMuckRock.instance.credentials == ("test-user", "test-password")
     assert FakeMuckRock.instance.requests.calls == [
-        {"ordering": "-datetime_submitted", "page_size": 100},
-        {"ordering": "-datetime_done", "page_size": 100, "status": "done"},
+        {
+            "ordering": "-datetime_submitted",
+            "page_size": 100,
+            "embargo_status": "public",
+            "datetime_submitted__gte": "2026-01-01T00:00:00Z",
+        },
+        {
+            "ordering": "-datetime_done",
+            "page_size": 100,
+            "status": "done",
+            "embargo_status": "public",
+            "datetime_done__gte": "2026-01-02T00:00:00Z",
+        },
     ]
     data = json.loads((tmp_path / "submitted" / "latest.json").read_text())
     assert data == [

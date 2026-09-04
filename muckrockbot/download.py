@@ -21,14 +21,12 @@ def cli():
 
     # Create the MuckRock client
     client = MuckRock(
-        username=os.environ["MUCKROCK_USERNAME"],
-        ******"MUCKROCK_PASSWORD"],
+        os.environ["MUCKROCK_USERNAME"],
+        os.environ["MUCKROCK_PASSWORD"],
     )
 
     # Pull the submitted
-    submitted_list = client.requests.list(
-        ordering="-datetime_submitted", page_size=100
-    )
+    submitted_list = client.requests.list(ordering="-datetime_submitted", page_size=100)
 
     # Pull the completed
     completed_list = client.requests.list(

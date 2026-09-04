@@ -14,7 +14,7 @@ DATA_DIR = THIS_DIR.parent / "data" / "submitted"
 def cli():
     """Integrate files and identify any additions."""
     # Pluck out the last two scrapes for comparison
-    json_list = _get_sorted_json_list()
+    json_list = _get_sorted_json_list(DATA_DIR)
     latest_json = json_list[0]
     previous_json = json_list[1]
     latest_data = json.load(open(latest_json))

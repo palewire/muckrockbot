@@ -1,17 +1,114 @@
+import json
+
 from click.testing import CliRunner
 
 from muckrockbot import download, transform
 
 
-def test_download_cli(tmp_path):
+class FakeRequest:
+    """A request returned by the API v2 client."""
+
+    def __init__(self, request_id, title):
+        """Initialize the request."""
+        self.id = request_id
+        self.title = title
+        self.user = 123
+        self._client = object()
+
+
+class FakeResults:
+    """The first page of an API v2 list response."""
+
+    def __init__(self, results):
+        """Initialize the results."""
+        self.results = results
+
+    def __iter__(self):
+        """Iterate over every paginated result."""
+        return iter(self.results)
+
+
+class FakeRequestClient:
+    """Record API v2 request queries and return fixture data."""
+
+    def __init__(self):
+        """Initialize the recorded calls."""
+        self.calls = []
+
+    def list(self, **params):
+        """Return fixture data for a request list query."""
+        self.calls.append(params)
+        return FakeResults([FakeRequest(456, "Test request")])
+
+
+class FakeMuckRock:
+    """An authenticated API v2 client."""
+
+    instance = None
+
+    def __init__(self, username, password):
+        """Initialize the fake authenticated client."""
+        self.credentials = (username, password)
+        self.requests = FakeRequestClient()
+        FakeMuckRock.instance = self
+
+
+def test_download_cli(tmp_path, monkeypatch):
     """Test a single download run."""
+    monkeypatch.setattr(download, "DATA_DIR", tmp_path)
+    monkeypatch.setattr(download, "MuckRock", FakeMuckRock)
+    monkeypatch.setenv("MUCKROCK_USERNAME", "test-user")
+    monkeypatch.setenv("MUCKROCK_PASSWORD", "test-password")
+    (tmp_path / "submitted").mkdir()
+    (tmp_path / "submitted" / "latest.json").write_text(
+        json.dumps([{"datetime_submitted": "2026-01-01T00:00:00Z"}])
+    )
+    (tmp_path / "completed").mkdir()
+    (tmp_path / "completed" / "latest.json").write_text(
+        json.dumps([{"datetime_done": "2026-01-02T00:00:00Z"}])
+    )
+
     runner = CliRunner()
     result = runner.invoke(download.cli, [])
+
     assert result.exit_code == 0
+    assert FakeMuckRock.instance.credentials == ("test-user", "test-password")
+    assert FakeMuckRock.instance.requests.calls == [
+        {
+            "ordering": "-datetime_submitted",
+            "page_size": 100,
+            "embargo_status": "public",
+            "datetime_submitted__gte": "2026-01-01T00:00:00Z",
+        },
+        {
+            "ordering": "-datetime_done",
+            "page_size": 100,
+            "status": "done",
+            "embargo_status": "public",
+            "datetime_done__gte": "2026-01-02T00:00:00Z",
+        },
+    ]
+    data = json.loads((tmp_path / "submitted" / "latest.json").read_text())
+    assert data == [
+        {
+            "id": 456,
+            "title": "Test request",
+            "user": 123,
+            "absolute_url": "https://www.muckrock.com/foi/request/456/",
+        }
+    ]
 
 
-def test_transform_cli(tmp_path):
+def test_transform_cli(tmp_path, monkeypatch):
     """Test a single transform run."""
+    monkeypatch.setattr(transform, "DATA_DIR", tmp_path)
+    (tmp_path / "2026-01-01 00:00:00+00:00.json").write_text(json.dumps([{"id": 1}]))
+    (tmp_path / "2026-01-02 00:00:00+00:00.json").write_text(
+        json.dumps([{"id": 1}, {"id": 2}])
+    )
+
     runner = CliRunner()
     result = runner.invoke(transform.cli, [])
+
     assert result.exit_code == 0
+    assert json.loads((tmp_path / "additions.json").read_text()) == [{"id": 2}]

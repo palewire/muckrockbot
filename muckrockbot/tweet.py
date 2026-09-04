@@ -23,7 +23,7 @@ def cli():
         access_token_secret=os.getenv("TWITTER_ACCESS_TOKEN_SECRET"),
     )
     for obj in data:
-        text = f"""{obj['title']} by {obj['username']} \n\n {obj['absolute_url']}"""
+        text = f"""{obj['title']}\n\n{obj['absolute_url']}"""
         api.PostUpdate(text)
         time.sleep(5)
 

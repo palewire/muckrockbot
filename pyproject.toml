@@ -16,6 +16,7 @@ dependencies = [
     "python-muckrock==0.1.1",
     "python-twitter>=3.5",
     "pytz>=2022.6",
+    "requests>=2.32",
     "rich>=12.6",
 ]
 classifiers = [

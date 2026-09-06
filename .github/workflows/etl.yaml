@@ -2,13 +2,23 @@ name: "Extract, transform and alert"
 
 on:
   workflow_dispatch:
+    inputs:
+      baseline:
+        description: "Save all public requests without posting; acknowledges anonymous-feed exclusions may differ"
+        type: boolean
+        default: false
   schedule:
     - cron: "30 * * * *"
+
+concurrency:
+  group: muckrockbot-etl
+  cancel-in-progress: false
 
 jobs:
   run:
     name: Run
     runs-on: ubuntu-latest
+    timeout-minutes: 15
     permissions:
       contents: write
     steps:
@@ -24,13 +34,25 @@ jobs:
       - name: Install dependencies
         run: uv sync --locked
 
+      - id: check
+        name: Check authenticated access without saving or posting
+        if: vars.MUCKROCK_PUBLIC_FEED_APPROVED != 'true' && !inputs.baseline
+        run: uv run python -m muckrockbot.download --check
+        env:
+          MUCKROCK_API_TOKEN: ${{ secrets.MUCKROCK_API_TOKEN }}
+
       - id: download
         name: Download
+        if: vars.MUCKROCK_PUBLIC_FEED_APPROVED == 'true' || inputs.baseline
         run: make download
         shell: bash
+        env:
+          MUCKROCK_API_TOKEN: ${{ secrets.MUCKROCK_API_TOKEN }}
+          MUCKROCK_PUBLIC_FEED_APPROVED: "true"
 
       - id: transform
         name: Identify new requests
+        if: vars.MUCKROCK_PUBLIC_FEED_APPROVED == 'true' && !inputs.baseline
         run: make transform
         shell: bash
 
@@ -46,6 +68,7 @@ jobs:
 
       - id: toot
         name: Send toots
+        if: vars.MUCKROCK_PUBLIC_FEED_APPROVED == 'true' && !inputs.baseline
         run: make toot
         shell: bash
         env:
@@ -55,12 +78,13 @@ jobs:
 
       - id: commit
         name: Commit
+        if: vars.MUCKROCK_PUBLIC_FEED_APPROVED == 'true' || inputs.baseline
         run: |
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"
           git config pull.rebase false
-          git pull --rebase origin "$GITHUB_REF_NAME"
-          git add ./
+          git add data/submitted data/completed
           git diff --cached --quiet || git commit -m "Added latest ETL" --author="palewire <palewire@users.noreply.github.com>"
+          git pull --rebase origin "$GITHUB_REF_NAME"
           git push
         shell: bash

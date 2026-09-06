@@ -59,8 +59,9 @@ endef
 # Python helpers
 #
 
-PIPENV := pipenv run
-PYTHON := $(PIPENV) python -W ignore -m
+UV ?= env -u UV_ENV_FILE uv
+UV_RUN := $(UV) run
+PYTHON := $(UV_RUN) python -W ignore -m
 
 define python
     @echo "🐍🤖 $(OBJ_COLOR)Executing Python script $(1)$(NO_COLOR)\r";
@@ -95,27 +96,51 @@ toot: ## Toot new data
 # Tests
 #
 
+install-dev: ## install locked development dependencies
+	$(call banner,     📦 Installing development tools 📦)
+	@$(UV) sync --locked --group dev
+
+
 lint: ## run the linter
 	$(call banner,        💅 Linting code 💅)
-	@$(PIPENV) flake8 -v ./
+	@$(UV_RUN) ruff check .
 
 
-mypy: ## run mypy type checks
-	$(call banner,        🔩 Running mypy 🔩)
-	@$(PIPENV) mypy ./ --ignore-missing-imports
+format-check: ## check code formatting
+	$(call banner,      🪥 Checking code formatting 🪥)
+	@$(UV_RUN) ruff format --check .
+
+
+type-check: ## run static type checks
+	$(call banner,        🔩 Running type checks 🔩)
+	@$(UV_RUN) ty check
+
+
+check: lint format-check type-check ## run all quality checks
 
 
 test: ## run all tests
 	$(call banner,       🤖 Running tests 🤖)
-	@$(PIPENV) pytest -sv --cov
+	@$(UV_RUN) pytest -sv --cov=muckrockbot
 
 #
 # Extras
 #
 
-format: ## automatically format Python code with black
+format: ## automatically format Python code
 	$(call banner,       🪥 Cleaning code 🪥)
-	@$(PIPENV) black .
+	@$(UV_RUN) ruff format .
+
+
+fix: ## automatically fix lint and formatting issues
+	$(call banner,       🪥 Fixing code issues 🪥)
+	@$(UV_RUN) ruff check --fix .
+	@$(UV_RUN) ruff format .
+
+
+hooks: ## install git hooks
+	@$(UV_RUN) pre-commit install --install-hooks
+	@$(UV_RUN) pre-commit install --hook-type pre-push
 
 
 help: ## Show this help. Example: make help
@@ -125,8 +150,13 @@ help: ## Show this help. Example: make help
 # Mark all the commands that don't have a target
 .PHONY: all \
         download \
+        check \
+        fix \
+        format-check \
         help \
+        hooks \
+        install-dev \
         format \
         lint \
-        mypy \
         test \
+        type-check

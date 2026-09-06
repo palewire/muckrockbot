@@ -8,16 +8,23 @@ import pytz
 from muckrock import MuckRock
 from rich import print
 
+DATA_DIR = Path(__file__).parent.parent / "data"
+
 
 @click.command()
-def cli():
-    """Download requests from the MuckRock API."""
-    # Set the download directory
-    this_dir = Path(__file__).parent.absolute()
-    data_dir = this_dir.parent / "data"
+def cli() -> None:
+    """Download request snapshots from the MuckRock API.
 
-    # Create it, if it doesn't already exist
-    data_dir.mkdir(exist_ok=True)
+    Args:
+        None.
+
+    Returns:
+        None. JSON snapshots are written to the project's data directory.
+
+    Example:
+        Run ``python -m muckrockbot.download``.
+    """
+    DATA_DIR.mkdir(exist_ok=True)
 
     # Create the MuckRock client
     client = MuckRock()
@@ -37,17 +44,29 @@ def cli():
     now = datetime.now(tz=tz)
 
     # Write them out
-    write_json(submitted_list, data_dir / "submitted" / f"{now}.json")
-    write_json(submitted_list, data_dir / "submitted" / "latest.json")
-    write_json(completed_list, data_dir / "completed" / f"{now}.json")
-    write_json(completed_list, data_dir / "completed" / "latest.json")
+    write_json(submitted_list, DATA_DIR / "submitted" / f"{now}.json")
+    write_json(submitted_list, DATA_DIR / "submitted" / "latest.json")
+    write_json(completed_list, DATA_DIR / "completed" / f"{now}.json")
+    write_json(completed_list, DATA_DIR / "completed" / "latest.json")
 
 
-def write_json(data: typing.Any, path: Path, indent: int = 2):
-    """Write JSON data to the provided path."""
+def write_json(data: typing.Any, path: Path, indent: int = 2) -> None:
+    """Write JSON-compatible data to a path.
+
+    Args:
+        data: The JSON-compatible value to serialize.
+        path: Destination file path.
+        indent: Number of spaces used to indent JSON output.
+
+    Returns:
+        None. The serialized data is written to ``path``.
+
+    Example:
+        ``write_json([{"id": 1}], Path("requests.json"))``.
+    """
     path.parent.mkdir(parents=True, exist_ok=True)
     print(f"📥 Writing JSON to {path}")
-    with open(path, "w") as fh:
+    with path.open("w", encoding="utf-8") as fh:
         json.dump(data, fh, indent=2)
 
 

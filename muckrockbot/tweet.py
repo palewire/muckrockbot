@@ -12,9 +12,20 @@ DATA_DIR = THIS_DIR.parent / "data" / "submitted"
 
 
 @click.command()
-def cli():
-    """Post latest requests to Twitter."""
-    data = json.load(open(DATA_DIR / "additions.json"))
+def cli() -> None:
+    """Post the latest request additions to Twitter.
+
+    Args:
+        None.
+
+    Returns:
+        None. Each addition is posted to the configured Twitter account.
+
+    Example:
+        Run ``python -m muckrockbot.tweet``.
+    """
+    with (DATA_DIR / "additions.json").open(encoding="utf-8") as file:
+        data = json.load(file)
     print(f"Tweeting {len(data)} requests")
     api = twitter.Api(
         consumer_key=os.getenv("TWITTER_CONSUMER_KEY"),
@@ -23,7 +34,7 @@ def cli():
         access_token_secret=os.getenv("TWITTER_ACCESS_TOKEN_SECRET"),
     )
     for obj in data:
-        text = f"""{obj['title']} by {obj['username']} \n\n {obj['absolute_url']}"""
+        text = f"""{obj["title"]} by {obj["username"]} \n\n {obj["absolute_url"]}"""
         api.PostUpdate(text)
         time.sleep(5)
 

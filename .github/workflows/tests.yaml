@@ -1,93 +1,58 @@
 name: Tests
+
 on:
+  pull_request:
   push:
   workflow_dispatch:
 
+permissions:
+  contents: read
+
+concurrency:
+  group: tests-${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
 jobs:
-  lint-python:
-    name: Lint Python code
-    runs-on: ubuntu-latest
-    steps:
-      - id: checkout
-        name: Checkout
-        uses: actions/checkout@v3
-
-      - id: setup-python
-        name: Setup Python
-        uses: actions/setup-python@v4
-        with:
-          python-version: '3.9'
-          cache: 'pipenv'
-
-      - id: install-pipenv
-        name: Install pipenv
-        run: curl https://raw.githubusercontent.com/pypa/pipenv/master/get-pipenv.py | python
-        shell: bash
-
-      - id: install-python-dependencies
-        name: Install Python dependencies
-        run: pipenv install --dev --python=`which python`
-        shell: bash
-
-      - id: lint
-        name: Lint Python code
-        run: pipenv run flake8 ./muckrockbot --verbose
-        shell: bash
-
-  mypy-python:
-    name: Static type check
+  check:
+    name: Check Python code
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v3
-
-      - id: setup-python
-        name: Setup Python
-        uses: actions/setup-python@v4
+        uses: actions/checkout@v7
+      - name: Install uv
+        uses: astral-sh/setup-uv@v10.0.1
         with:
-          python-version: '3.9'
-          cache: 'pipenv'
+          version: "0.10.7"
+          enable-cache: true
+      - name: Install Python
+        run: uv python install 3.11
+      - name: Install dependencies
+        run: make install-dev
+      - name: Check
+        run: make check
 
-      - id: install-pipenv
-        name: Install pipenv
-        run: curl https://raw.githubusercontent.com/pypa/pipenv/master/get-pipenv.py | python
-        shell: bash
-
-      - id: install-python-dependencies
-        name: Install Python dependencies
-        run: pipenv install --dev --python=`which python`
-        shell: bash
-
-      - id: mypy
-        name: Run mypy
-        run: pipenv run mypy ./muckrockbot --ignore-missing-imports --verbose
-        shell: bash
-
-  test-python:
-    name: Test
+  test:
+    name: Test Python ${{ matrix.python-version }}
     runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        python-version: ["3.11", "3.12", "3.13"]
     steps:
       - name: Checkout
-        uses: actions/checkout@v3
-
-      - id: setup-python
-        name: Setup Python
-        uses: actions/setup-python@v4
+        uses: actions/checkout@v7
+      - name: Install uv
+        uses: astral-sh/setup-uv@v10.0.1
         with:
-          python-version: '3.9'
-          cache: 'pipenv'
-
-      - id: install-pipenv
-        name: Install pipenv
-        run: curl https://raw.githubusercontent.com/pypa/pipenv/master/get-pipenv.py | python
-        shell: bash
-
-      - id: install-python-dependencies
-        name: Install Python dependencies
-        run: pipenv install --dev --python=`which python`
-        shell: bash
-
-      - id: tests
-        name: Run tests
+          version: "0.10.7"
+          enable-cache: true
+      - name: Install Python
+        run: uv python install ${{ matrix.python-version }}
+      - name: Install dependencies
+        run: make install-dev
+        env:
+          UV_PYTHON: ${{ matrix.python-version }}
+      - name: Test
         run: make test
-        shell: bash
+        env:
+          UV_PYTHON: ${{ matrix.python-version }}

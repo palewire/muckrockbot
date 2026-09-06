@@ -1,5 +1,4 @@
 import json
-import typing
 from pathlib import Path
 
 import click
@@ -11,14 +10,28 @@ DATA_DIR = THIS_DIR.parent / "data" / "submitted"
 
 
 @click.command()
-def cli():
-    """Integrate files and identify any additions."""
+def cli() -> None:
+    """Compare submitted snapshots and save newly added requests.
+
+    Args:
+        None.
+
+    Returns:
+        None. New requests are written to ``additions.json``.
+
+    Example:
+        Run ``python -m muckrockbot.transform``.
+    """
     # Pluck out the last two scrapes for comparison
-    json_list = _get_sorted_json_list()
+    json_list = _get_sorted_json_list(DATA_DIR)
+    if len(json_list) < 2:
+        raise click.ClickException("At least two submitted snapshots are required.")
     latest_json = json_list[0]
     previous_json = json_list[1]
-    latest_data = json.load(open(latest_json))
-    previous_data = json.load(open(previous_json))
+    with latest_json.open(encoding="utf-8") as latest_file:
+        latest_data = json.load(latest_file)
+    with previous_json.open(encoding="utf-8") as previous_file:
+        previous_data = json.load(previous_file)
     print(f"🕵️ Comparing {latest_json.stem}.json against {previous_json.stem}.json")
 
     # Find the new filing ids that are not in the previous file
@@ -42,17 +55,26 @@ def cli():
         p.unlink()
 
 
-def _get_sorted_json_list(data_dir: Path = DATA_DIR) -> typing.List[Path]:
-    """Return the JSON files from our data directory in reverse chronological order."""
+def _get_sorted_json_list(data_dir: Path = DATA_DIR) -> list[Path]:
+    """Return timestamped JSON snapshots in reverse chronological order.
+
+    Args:
+        data_dir: Directory containing submitted-request snapshots.
+
+    Returns:
+        Timestamped JSON file paths ordered newest first. ``latest.json`` and
+        ``additions.json`` are excluded.
+
+    Example:
+        ``_get_sorted_json_list(Path("data/submitted"))``.
+    """
     # Get all the JSON files
     json_list = list(data_dir.glob("*.json"))
 
     # Parse them
     json_tuples = []
     for j in json_list:
-        if j.stem == "additions":
-            continue
-        elif j.stem == "latest":
+        if j.stem == "additions" or j.stem == "latest":
             continue
         json_tuples.append((dateparse(j.stem), j))
 

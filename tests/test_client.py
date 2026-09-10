@@ -44,7 +44,7 @@ def test_legacy_filter_encodes_public_feed_queries(
         monkeypatch: Pytest helper for replacing the request seam.
 
     Returns:
-        None. Assertions confirm query, headers, and timeout values.
+        None. Assertions confirm query, authentication, and timeout values.
 
     Example:
         Run with ``pytest tests/test_client.py::test_legacy_filter_encodes_public_feed_queries``.
@@ -63,7 +63,7 @@ def test_legacy_filter_encodes_public_feed_queries(
             A synthetic one-record response.
 
         Example:
-            ``capture_get("https://www.muckrock.com/api_v1/foia")``.
+            ``capture_get("https://www.muckrock.com/api_v1/foia/")``.
         """
         calls.append((url, kwargs))
         return make_response({"results": [request_row(1, completed=completed)]})
@@ -75,12 +75,11 @@ def test_legacy_filter_encodes_public_feed_queries(
     assert records[0]["id"] == 1
     assert calls == [
         (
-            "https://www.muckrock.com/api_v1/foia",
+            "https://www.muckrock.com/api_v1/foia/",
             {
                 "params": expected_params,
                 "headers": {
                     "Authorization": "Token test-token",
-                    "User-Agent": client.PublicFoiaClient.USER_AGENT,
                     "Accept": "application/json",
                 },
                 "timeout": 20,
@@ -142,13 +141,13 @@ def test_client_ignores_next_page_link(
             A synthetic response containing a ``next`` link.
 
         Example:
-            ``page_with_next("https://www.muckrock.com/api_v1/foia")``.
+            ``page_with_next("https://www.muckrock.com/api_v1/foia/")``.
         """
         nonlocal calls
         calls += 1
         return make_response(
             {
-                "next": "https://www.muckrock.com/api_v1/foia?page=2",
+                "next": "https://www.muckrock.com/api_v1/foia/?page=2",
                 "results": rows,
             }
         )

@@ -17,7 +17,7 @@ class DownloadError(ValueError):
 class PublicFoiaClient(FoiaEndpoint):
     """Keep legacy query encoding while validating HTTP responses and records."""
 
-    USER_AGENT = "muckrockbot (https://github.com/palewire/muckrockbot)"
+    endpoint = "foia/"
     SNAPSHOT_FIELDS: ClassVar[tuple[str, ...]] = (
         "id",
         "title",
@@ -123,7 +123,6 @@ class PublicFoiaClient(FoiaEndpoint):
         request_headers = {
             **(headers or {}),
             "Authorization": f"Token {self.token}",
-            "User-Agent": self.USER_AGENT,
             "Accept": "application/json",
         }
         try:

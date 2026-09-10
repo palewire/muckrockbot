@@ -77,9 +77,9 @@ def test_download_cli_writes_four_consistent_json_snapshots(
             The next queued synthetic response.
 
         Example:
-            ``queued_get("https://www.muckrock.com/api_v1/foia")``.
+            ``queued_get("https://www.muckrock.com/api_v1/foia/")``.
         """
-        assert url == "https://www.muckrock.com/api_v1/foia"
+        assert url == "https://www.muckrock.com/api_v1/foia/"
         assert kwargs["timeout"] == 20
         return responses.pop(0)
 
@@ -176,7 +176,7 @@ def test_check_download_does_not_create_the_requested_directory(
             The next queued synthetic response.
 
         Example:
-            ``queued_get("https://www.muckrock.com/api_v1/foia")``.
+            ``queued_get("https://www.muckrock.com/api_v1/foia/")``.
         """
         return responses.pop(0)
 
@@ -232,7 +232,7 @@ def test_failure_after_submitted_preserves_existing_snapshots(
             requests.Timeout: Always on the second invocation.
 
         Example:
-            ``submitted_then_timeout("https://www.muckrock.com/api_v1/foia")``.
+            ``submitted_then_timeout("https://www.muckrock.com/api_v1/foia/")``.
         """
         nonlocal calls
         calls += 1

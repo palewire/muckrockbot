@@ -34,6 +34,25 @@ jobs:
       - name: Install dependencies
         run: uv sync --locked
 
+      - id: preflight
+        name: Check API v1 access with requests
+        run: |
+          uv run python - <<'PY'
+          import os
+
+          import requests
+
+          response = requests.get(
+              "https://www.muckrock.com/api_v1/foia/",
+              headers={"Authorization": f"Token {os.environ['MUCKROCK_API_TOKEN']}"},
+              timeout=30,
+          )
+          response.raise_for_status()
+          print(f"Authenticated MuckRock API v1 access succeeded ({response.status_code}).")
+          PY
+        env:
+          MUCKROCK_API_TOKEN: ${{ secrets.MUCKROCK_API_TOKEN }}
+
       - id: check
         name: Check authenticated access without saving or posting
         if: vars.MUCKROCK_PUBLIC_FEED_APPROVED != 'true' && !inputs.baseline

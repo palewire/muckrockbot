@@ -1496,18 +1496,18 @@
     "user": 174647,
     "agency": 5765,
     "slug": "foia-request-ncis-linxd-dex-program-and-contract-records-peraton-idv-n0018922dz036-and-related-orders",
-    "status": "submitted",
+    "status": "processed",
     "embargo_status": "public",
     "datetime_submitted": "2026-10-16T19:10:10.690398",
     "datetime_done": null,
-    "datetime_updated": "2026-10-19T04:52:56.247663",
+    "datetime_updated": "2026-10-19T04:55:40.114349",
     "date_due": "2026-11-16",
     "date_embargo": null,
-    "date_followup": null,
+    "date_followup": "2027-01-17",
     "days_until_due": null,
     "disable_autofollowups": false,
     "price": "0.00",
-    "tracking_id": "",
+    "tracking_id": "2027-NavyFOIA-000556",
     "tags": [],
     "communications": [
       {
@@ -1521,10 +1521,10 @@
         "thanks": false,
         "full_html": false,
         "communication": "To Whom It May Concern:\r\n\r\nPursuant to the Freedom of Information Act, I hereby request the following records:\r\n\r\nPursuant to the Freedom of Information Act, 5 U.S.C. \u00a7 552, I request the following records.\r\n\r\nNCIS is the requiring activity and program office for the Law Enforcement Information Exchange (LInX) and Law Enforcement Defense Data Exchange (D-DEx). I have filed an identical request with NAVSUP Fleet Logistics Center Norfolk, which awarded the contracts below, so the offices can coordinate; please do not refer this request in a way that delays production. NCIS is expected to hold the contractor deliverables and program records described below.\r\n\r\n1. Contract file, IDV N0018922DZ036 (Peraton Inc., LInX/D-DEx System Support, awarded Sept. 7, 2022). The base contract with all sections, attachments, and exhibits, including the Performance Work Statement or Statement of Work, the Contract Data Requirements List (DD Form 1423), the Quality Assurance Surveillance Plan, and all modifications.\r\n\r\n2. Task and delivery orders. For each order below, the order document, its PWS/SOW or task description, and all modifications:\r\n- N0018926FW149 (FY26 LInX Data Integration Task Order \u2013 TO 29)\r\n- N0018924FZ543 (LInX/D-DEx Integration Fees and Software)\r\n- N0018922FZ649, N0018924FZ095, N0018924FZ299 (LInX/D-DEx System Support \u2013 Data Integration)\r\n- Order 0017 under IDV N0018911DZ041 (Data Integration & Consolidation Support, 2014)\r\n- Order 0001 under IDV N0018916DZ051 (NCIS Data Feeds, 2016)\r\n\r\n3. Deliverables. For IDV N0018922DZ036 and the orders in Item 2, from Sept. 7, 2022 to the date of search: all monthly and periodic status reports; data source inventories; interface control documents; data feed lists; and agency onboarding or integration trackers.\r\n\r\n4. Data sources. Records sufficient to identify every data source integrated or proposed for integration into LInX or D-DEx, by region, from January 1, 2012 to the date of search, including any automated license plate reader (ALPR/LPR) data source and any feed from Flock Safety, Motorola Solutions/Vigilant, Axon, ELSAG/Leonardo, Rekor, or any High Intensity Drug Trafficking Area (HIDTA) program.\r\n\r\n5. Privacy compliance. Any Privacy Impact Assessment for LInX or D-DEx, and any draft, revised, or proposed System of Records Notice for those systems prepared after May 6, 2010 (the date of SORN N05520-6 DoD, 75 FR 24931).\r\n\r\n6. Invoices. Invoices with line-item (CLIN) detail for orders N0018926FW149 and N0018924FZ543.\r\n\r\nSearch terms. For Items 3 and 4, at minimum: \"LPR,\" \"ALPR,\" \"license plate,\" \"plate reader,\" \"Flock,\" \"Vigilant,\" \"HIDTA,\" \"Southeast,\" \"LEAP,\" and \"Dunwoody.\"\r\n\r\nSegregability. I do not seek contractor unit pricing. If any portion of a record is withheld under any exemption, release all reasonably segregable non-exempt portions as required by 5 U.S.C. \u00a7 552(b), and identify the specific exemption for each withholding. A list of the data sources feeding a system is not a law enforcement technique or procedure under Exemption 7(E). Contract documents and contractor deliverables are agency records regardless of the status of the underlying law enforcement data.\r\n\r\n\r\nFormat. Produce records electronically, in native format where available, on a rolling basis as they are processed.\r\n\r\nThe requested documents will be made available to the general public, and this request is not being made for commercial purposes.\r\n\r\nIn the event that there are fees, I would be grateful if you would inform me of the total charges in advance of fulfilling my request. I would prefer the request filled electronically, by e-mail attachment if available or CD-ROM if not.\r\n\r\nThank you in advance for your anticipated cooperation in this matter. I look forward to receiving your response to this request within 20 business days, as the statute requires.\r\n\r\nSincerely,\r\n\r\nJason Hunyar",
-        "status": null,
+        "status": "processed",
         "likely_foia": null,
         "files": [],
-        "delivered": "none"
+        "delivered": "portal"
       },
       {
         "foia": 224064,
@@ -1537,7 +1537,7 @@
         "thanks": false,
         "full_html": false,
         "communication": "USNHQ\r\n[cid:13c99095-a1bd-4161-9d93-7034141c3e03]\r\nU.S. Navy Headquarters\r\nHi, Jason Hunyar!\r\nWe are excited to welcome you to the FOIA Requester Services! By registering with us, you will have access to our online platform where you can submit and track your Freedom of Information ACT (FOIA) requests all in one place.\r\nTo Log in to your account and start using our services, please click below button\r\nActivate Your Account<https://foiaportal.casepointgov.com/dltnavy/Requester/Activation/61F9CBAD31862CA6E35C8DDF9639534664C78C939201F3A8BABC97963B77316E72E2603576843472/DF20A05E0529CC24/B2437C5C5EA0AD7A>\r\nPlease note that this Link is only valid for 72 hours after it is sent.\r\nRegards,\r\nNAVY\r\nPowered By Casepoint\r\nCONFIDENTIALITY NOTICE:\r\n\r\nThis message contains confidential information, which may also be privileged. It is intended only for the person(s) named above. Use, distribution, copying, or disclosure of this communication by any other person is strictly prohibited. If you receive this email in error, please delete this message and notify the sender immediately. Please advise if you or your employer does not consent to email messages of this kind.\n",
-        "status": null,
+        "status": "done",
         "likely_foia": 224064,
         "files": [
           {
@@ -1563,8 +1563,8 @@
         "autogenerated": false,
         "thanks": false,
         "full_html": false,
-        "communication": "USNHQ\r\n[cid:a35a66e9-2e1d-4f1c-b05b-169112bde787]\r\nU.S. Navy Headquarters\r\nTwo Factor Authentication\r\nOne-time use security code\r\nSECURITY CODE   293939\r\nNote: The security code will expire in 5 minutes.\r\nIf you have any questions or trouble logging in, please contact to site administrator.\r\nSincerely,\r\nNAVY\r\nPowered By Casepoint\r\nCONFIDENTIALITY NOTICE:\r\n\r\nThis message contains confidential information, which may also be privileged. It is intended only for the person(s) named above. Use, distribution, copying, or disclosure of this communication by any other person is strictly prohibited. If you receive this email in error, please delete this message and notify the sender immediately. Please advise if you or your employer does not consent to email messages of this kind.\n",
-        "status": null,
+        "communication": "USNHQ\r\n[cid:a35a66e9-2e1d-4f1c-b05b-169112bde787]\r\nU.S. Navy Headquarters\r\nTwo Factor Authentication\r\nOne-time use security code\r\nSECURITY CODE   293939\r\nNote: The security code will expire in 5 minutes.\r\nIf you have any questions or trouble logging in, please contact to site administrator.\r\nSincerely,\r\nNAVY\r\nPowered By Casepoint\r\nCONFIDENTIALITY NOTICE:\r\n\r\nThis message contains confidential information, which may also be privileged. It is intended only for the person(s) named above. Use, distribution, copying, or disclosure of this communication by any other person is strictly prohibited. If you receive this email in error, please delete this message and notify the sender immediately. Please advise if you or your employer does not consent to email messages of this kind.",
+        "status": "done",
         "likely_foia": null,
         "files": [
           {
@@ -1572,6 +1572,33 @@
             "ffile": "https://cdn.muckrock.com/foia_files/2026/10/19/a35a66e9-2e1d-4f1c-b05b-169112bde787",
             "datetime": "2026-10-19T04:52:56.338347",
             "title": "a35a66e9-2e1d-4f1c-b05b-169112bde787",
+            "source": "United States Navy Criminal Investigative Services, United States of America",
+            "description": "",
+            "doc_id": "",
+            "pages": 0
+          }
+        ],
+        "delivered": "portal"
+      },
+      {
+        "foia": 224064,
+        "from_user": 28504,
+        "to_user": null,
+        "subject": "FOIA Request #2027-NavyFOIA-000556 : Request Received",
+        "datetime": "2026-10-19T04:55:40.114349",
+        "response": true,
+        "autogenerated": false,
+        "thanks": false,
+        "full_html": false,
+        "communication": "NCIS\r\n[cid:cmp_logo.23dd708cba12469581791f55a9d95a65@b7f2a9c4d1e8.invalid]\r\nNaval Criminal Investigative Service\r\n\r\nIn Reply Refer To:\r\n\r\n2027-NavyFOIA-000556\r\n\r\n10/19/2026\r\n\r\nDear Jason Hunyar:\r\n\r\nThe U.S. Navy Headquarters FOIA office received your Freedom of Information Act (FOIA) request, dated 10/19/2026 , on 10/19/2026 and assigned it control number 2027-NavyFOIA-000556. Please cite this number in any future communications with our office regarding your request.\r\n\nSincerely,\r\n\r\nU.S. Navy Headquarters, , ,\r\n\r\nPowered By Casepoint",
+        "status": "processed",
+        "likely_foia": 224064,
+        "files": [
+          {
+            "id": 1436970,
+            "ffile": "https://cdn.muckrock.com/foia_files/2026/10/19/cmp_logo_H9w1mko.png",
+            "datetime": "2026-10-19T04:55:40.167523",
+            "title": "cmp_logo",
             "source": "United States Navy Criminal Investigative Services, United States of America",
             "description": "",
             "doc_id": "",

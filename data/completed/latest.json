@@ -644,6 +644,16 @@
             "description": "",
             "doc_id": "",
             "pages": 0
+          },
+          {
+            "id": 1438168,
+            "ffile": "https://cdn.muckrock.com/foia_files/2026/10/21/Muckrock_-_ALPR_Records_Request.zip",
+            "datetime": "2026-10-21T22:55:52.130734",
+            "title": "Muckrock_-_ALPR_Records_Request",
+            "source": "Alpha Assistance",
+            "description": "",
+            "doc_id": "",
+            "pages": 0
           }
         ],
         "delivered": "email"

@@ -766,24 +766,24 @@
         "likely_foia": null,
         "files": [
           {
-            "id": 1440955,
-            "ffile": "https://cdn.muckrock.com/outbound_composer_attachments/Brett-DCF/189384/501c3_application_and_approval.pdf",
-            "datetime": "2026-10-29T13:38:01.368554",
-            "title": "501c3_application_and_approval.pdf",
-            "source": "Brett Carollo",
-            "description": "",
-            "doc_id": "",
-            "pages": 0
-          },
-          {
             "id": 1440954,
             "ffile": "https://cdn.muckrock.com/outbound_composer_attachments/Brett-DCF/189384/FOIA_waiver_letter_9_25_24.pdf",
             "datetime": "2026-10-29T13:38:01.368554",
             "title": "FOIA_waiver_letter_9_25_24.pdf",
             "source": "Brett Carollo",
             "description": "",
-            "doc_id": "",
-            "pages": 0
+            "doc_id": "28858875-foia_waiver_letter_9_25_24pdf",
+            "pages": 1
+          },
+          {
+            "id": 1440955,
+            "ffile": "https://cdn.muckrock.com/outbound_composer_attachments/Brett-DCF/189384/501c3_application_and_approval.pdf",
+            "datetime": "2026-10-29T13:38:01.368554",
+            "title": "501c3_application_and_approval.pdf",
+            "source": "Brett Carollo",
+            "description": "",
+            "doc_id": "28858873-501c3_application_and_approvalpdf",
+            "pages": 43
           }
         ],
         "delivered": "portal"
@@ -833,8 +833,8 @@
             "title": "FOIA_waiver_letter_9_25_24.pdf",
             "source": "Brett Carollo",
             "description": "",
-            "doc_id": "",
-            "pages": 0
+            "doc_id": "28858880-foia_waiver_letter_9_25_24pdf",
+            "pages": 1
           },
           {
             "id": 1440949,
@@ -843,8 +843,8 @@
             "title": "501c3_application_and_approval.pdf",
             "source": "Brett Carollo",
             "description": "",
-            "doc_id": "",
-            "pages": 0
+            "doc_id": "28858871-501c3_application_and_approvalpdf",
+            "pages": 43
           }
         ],
         "delivered": "portal"
@@ -888,24 +888,24 @@
         "likely_foia": null,
         "files": [
           {
-            "id": 1440923,
-            "ffile": "https://cdn.muckrock.com/outbound_composer_attachments/Brett-DCF/189374/501c3_application_and_approval.pdf",
-            "datetime": "2026-10-29T12:08:23.025472",
-            "title": "501c3_application_and_approval.pdf",
-            "source": "Brett Carollo",
-            "description": "",
-            "doc_id": "",
-            "pages": 0
-          },
-          {
             "id": 1440922,
             "ffile": "https://cdn.muckrock.com/outbound_composer_attachments/Brett-DCF/189374/FOIA_waiver_letter_9_25_24.pdf",
             "datetime": "2026-10-29T12:08:23.025472",
             "title": "FOIA_waiver_letter_9_25_24.pdf",
             "source": "Brett Carollo",
             "description": "",
-            "doc_id": "",
-            "pages": 0
+            "doc_id": "28858877-foia_waiver_letter_9_25_24pdf",
+            "pages": 1
+          },
+          {
+            "id": 1440923,
+            "ffile": "https://cdn.muckrock.com/outbound_composer_attachments/Brett-DCF/189374/501c3_application_and_approval.pdf",
+            "datetime": "2026-10-29T12:08:23.025472",
+            "title": "501c3_application_and_approval.pdf",
+            "source": "Brett Carollo",
+            "description": "",
+            "doc_id": "28858867-501c3_application_and_approvalpdf",
+            "pages": 43
           }
         ],
         "delivered": "portal"
@@ -949,24 +949,24 @@
         "likely_foia": null,
         "files": [
           {
-            "id": 1440911,
-            "ffile": "https://cdn.muckrock.com/outbound_composer_attachments/Brett-DCF/189373/501c3_application_and_approval.pdf",
-            "datetime": "2026-10-29T11:56:38.451824",
-            "title": "501c3_application_and_approval.pdf",
-            "source": "Brett Carollo",
-            "description": "",
-            "doc_id": "",
-            "pages": 0
-          },
-          {
             "id": 1440910,
             "ffile": "https://cdn.muckrock.com/outbound_composer_attachments/Brett-DCF/189373/FOIA_waiver_letter_9_25_24.pdf",
             "datetime": "2026-10-29T11:56:38.451824",
             "title": "FOIA_waiver_letter_9_25_24.pdf",
             "source": "Brett Carollo",
             "description": "",
-            "doc_id": "",
-            "pages": 0
+            "doc_id": "28858876-foia_waiver_letter_9_25_24pdf",
+            "pages": 1
+          },
+          {
+            "id": 1440911,
+            "ffile": "https://cdn.muckrock.com/outbound_composer_attachments/Brett-DCF/189373/501c3_application_and_approval.pdf",
+            "datetime": "2026-10-29T11:56:38.451824",
+            "title": "501c3_application_and_approval.pdf",
+            "source": "Brett Carollo",
+            "description": "",
+            "doc_id": "28858866-501c3_application_and_approvalpdf",
+            "pages": 43
           }
         ],
         "delivered": "portal"
@@ -1021,11 +1021,11 @@
         "autogenerated": false,
         "thanks": false,
         "full_html": false,
-        "communication": "Request Temporary Password\n\nPlease login to \"My Records Center\" to update your account information, track the status of your request and receive requested records when they become available.\n\nThis is an auto-generated email and has originated from an unmonitored email account. Please DO NOT REPLY.",
-        "status": null,
+        "communication": "Request Temporary Password\r\n\r\nPlease login to \"My Records Center\" to update your account information, track the status of your request and receive requested records when they become available.\r\n\r\nThis is an auto-generated email and has originated from an unmonitored email account. Please DO NOT REPLY.",
+        "status": "processed",
         "likely_foia": null,
         "files": [],
-        "delivered": "email"
+        "delivered": "portal"
       },
       {
         "foia": 225391,
@@ -1037,11 +1037,11 @@
         "autogenerated": false,
         "thanks": false,
         "full_html": false,
-        "communication": "Dear Tracy Siska: \nThank you for your interest in public records of District of Columbia. Your request has been received and is being processed. Your request was received in this office on 10/29/2026 and given the reference number R001560-102926 for tracking purposes. \nIn all future correspondence regarding this request, please reference request number R001560-102926. You can monitor the progress of your request in the \" My Records Center\". (https://u8387778.ct.sendgrid.net/ls/click?upn=u001.VEsWrlMiJDg0mXafq1mEXcOhwwBPGHifqhO6OQOqgdwS-2FNpGxLbyeC-2FXmT4cIxy2uJUw_wSNcubhGki95EtW-2BoLJ6GAcss2CWUzMolr-2FJIRXlYaDGUOxn789JKbvcS157dYVTHlZAhnuDxOTpqPnuKJPysxJZblRi7YRNm95ArhGh70hXoIjWhvl3UvO-2BicfknezlRvMs7JSWWaYb34QTNGBmXL24Au0jMx7UC0pvbO7gv6g-2Bky8QBDTELNXLNvKnEqqTFRne-2BRusglPu5W-2B4nneMIxZ42ZGIAnZBnWZhrp3zRi1GMkr9HDV7IjKxP8jRKj5o92yMtnQI5V5vaSYL34vjvy-2Fd2Zo7LXOoLe06YZRG9VFkmWJrB42arReOhZBtgYyKnWLhpsIzQk1pQMiy51g-2BTVI-2B-2Bk-2BzCEzeuc5l-2BXl5pK6vWr8xX0L3TOF0ENQx7u-2FK) \n \nThe District of Columbia is required to respond to your FOIA request within fifteen (15) business days of its receipt.\u00a0 See D.C. Official Code \u00a7 2-532(c)(2011).\u00a0 However, under certain circumstances, D.C. Official Code \u00a7 2-532(d)(2011) authorizes the District to extend, by ten (10) additional days, the deadline by which it must respond to a FOIA request.\u00a0 One of the circumstances provided by that statute is a case in which the District needs additional time to search for, collect and examine voluminous amounts of records and/or consult with an additional D.C. agency. \nFor any questions regarding your request, please contact the FOIA office directly. Find the list of agency Open Government and FOIA contact information by visiting FOIA Contact Information. For ease of reference, we ask that you have your FOIA Reference Number available when you contact the FOIA office. \nRegards, \nDistrict of Columbia \nTo monitor the progress or update this request please log into the DC FOIA Center (https://u8387778.ct.sendgrid.net/ls/click?upn=u001.VEsWrlMiJDg0mXafq1mEXcOhwwBPGHifqhO6OQOqgdxw4Mq-2FzcQk7O8GiIWvvoHaFe7dwUbT3XILFbXayco3OHANGC-2BQPP9LKzK-2FS0mkS98-3D8xK4_wSNcubhGki95EtW-2BoLJ6GAcss2CWUzMolr-2FJIRXlYaDGUOxn789JKbvcS157dYVTHlZAhnuDxOTpqPnuKJPysxJZblRi7YRNm95ArhGh70hXoIjWhvl3UvO-2BicfknezlRvMs7JSWWaYb34QTNGBmXL24Au0jMx7UC0pvbO7gv6g-2Bky8QBDTELNXLNvKnEqqTFRne-2BRusglPu5W-2B4nneMIxZ42ZGIAnZBnWZhrp3zRi1GMkr9HDV7IjKxP8jRKj5oPfUcv2omjb19xr4WDCTGENtcvcKrl-2Bc2J-2FQBwYqjnNXJDK4m94ZicGXdJJlyDwpyjNjuHdI5AQYy5NbffPAP-2B5AHLNICqc297TKZaMe05z27SjV0Jyiy6c64lf8j9ejp)\n",
-        "status": null,
+        "communication": "Dear Tracy Siska: \r\nThank you for your interest in public records of District of Columbia. Your request has been received and is being processed. Your request was received in this office on 10/29/2026 and given the reference number R001560-102926 for tracking purposes. \r\nIn all future correspondence regarding this request, please reference request number R001560-102926. You can monitor the progress of your request in the \" My Records Center\". \r\n \r\nThe District of Columbia is required to respond to your FOIA request within fifteen (15) business days of its receipt.\u00a0 See D.C. Official Code \u00a7 2-532(c)(2011).\u00a0 However, under certain circumstances, D.C. Official Code \u00a7 2-532(d)(2011) authorizes the District to extend, by ten (10) additional days, the deadline by which it must respond to a FOIA request.\u00a0 One of the circumstances provided by that statute is a case in which the District needs additional time to search for, collect and examine voluminous amounts of records and/or consult with an additional D.C. agency. \r\nFor any questions regarding your request, please contact the FOIA office directly. Find the list of agency Open Government and FOIA contact information by visiting FOIA Contact Information. For ease of reference, we ask that you have your FOIA Reference Number available when you contact the FOIA office. \r\nRegards, \r\nDistrict of Columbia",
+        "status": "processed",
         "likely_foia": null,
         "files": [],
-        "delivered": "email"
+        "delivered": "portal"
       }
     ]
   },
@@ -1057,7 +1057,7 @@
     "embargo_status": "public",
     "datetime_submitted": "2026-10-29T11:38:37.933326",
     "datetime_done": null,
-    "datetime_updated": "2026-10-29T11:38:38.086464",
+    "datetime_updated": "2026-10-29T23:13:13.904859",
     "date_due": "2026-11-20",
     "date_embargo": null,
     "date_followup": "2027-01-27",
@@ -1082,6 +1082,38 @@
         "likely_foia": null,
         "files": [],
         "delivered": "portal"
+      },
+      {
+        "foia": 225390,
+        "from_user": null,
+        "to_user": null,
+        "subject": "Welcome to My FOIA DC!",
+        "datetime": "2026-10-29T21:07:12.053270",
+        "response": true,
+        "autogenerated": false,
+        "thanks": false,
+        "full_html": false,
+        "communication": "Request Temporary Password\n\nPlease login to \"My Records Center\" to update your account information, track the status of your request and receive requested records when they become available.\n\nThis is an auto-generated email and has originated from an unmonitored email account. Please DO NOT REPLY.",
+        "status": null,
+        "likely_foia": 225390,
+        "files": [],
+        "delivered": "email"
+      },
+      {
+        "foia": 225390,
+        "from_user": null,
+        "to_user": null,
+        "subject": "Public Records Request :: R001563-102926",
+        "datetime": "2026-10-29T23:13:13.904859",
+        "response": true,
+        "autogenerated": false,
+        "thanks": false,
+        "full_html": false,
+        "communication": "Dear Tracy Siska: \nThank you for your interest in public records of District of Columbia. Your request has been received and is being processed. Your request was received in this office on 10/29/2026 and given the reference number R001563-102926 for tracking purposes. \nIn all future correspondence regarding this request, please reference request number R001563-102926. You can monitor the progress of your request in the \" My Records Center\". (https://u8387778.ct.sendgrid.net/ls/click?upn=u001.VEsWrlMiJDg0mXafq1mEXcOhwwBPGHifqhO6OQOqgdwS-2FNpGxLbyeC-2FXmT4cIxy2uqQJ_tAZ4ng78Ik7LQmPqgWN4eCjBmXqgzJ2iDd9CYpELadO7uZw9IfxaL3Rjn4YlQyT-2FpSm-2FPbZvOawAVc4WLIAzUYLuusaJ9Jb4L9-2BcFy-2BxJr1ZSAP-2F7H-2FpPjMZnCdz5ckyyEjT9auau5LGOLLxcpRAr-2BKSmAa8u94lJUeOm-2B4-2Bfgkq-2FkabcNSQJMYSkJBE13rirzyjJnnQYRj-2FFQsDeqfFdrXYWDjFtT2R1WFqx-2FWMLUus1ubKJCpINFm8zGuKc1wMMtb3cziBxrxCHNJLbaNlzXQkiKAPIRQlB1HKpAXnNBOLMIfATtx56MY59R2ynb2SSkQyO8UVz097GbaqOO7lV29ebzzcSlnjbOkcryJlAPkLljimM8nb6e9MtmH8pGHu) \n \nThe District of Columbia is required to respond to your FOIA request within fifteen (15) business days of its receipt.\u00a0 See D.C. Official Code \u00a7 2-532(c)(2011).\u00a0 However, under certain circumstances, D.C. Official Code \u00a7 2-532(d)(2011) authorizes the District to extend, by ten (10) additional days, the deadline by which it must respond to a FOIA request.\u00a0 One of the circumstances provided by that statute is a case in which the District needs additional time to search for, collect and examine voluminous amounts of records and/or consult with an additional D.C. agency. \nFor any questions regarding your request, please contact the FOIA office directly. Find the list of agency Open Government and FOIA contact information by visiting FOIA Contact Information. For ease of reference, we ask that you have your FOIA Reference Number available when you contact the FOIA office. \nRegards, \nDistrict of Columbia \nTo monitor the progress or update this request please log into the DC FOIA Center (https://u8387778.ct.sendgrid.net/ls/click?upn=u001.VEsWrlMiJDg0mXafq1mEXcOhwwBPGHifqhO6OQOqgdxw4Mq-2FzcQk7O8GiIWvvoHaFe7dwUbT3XILFbXayco3OHANGC-2BQPP9LKzK-2FS0mkS98-3DBpxX_tAZ4ng78Ik7LQmPqgWN4eCjBmXqgzJ2iDd9CYpELadO7uZw9IfxaL3Rjn4YlQyT-2FpSm-2FPbZvOawAVc4WLIAzUYLuusaJ9Jb4L9-2BcFy-2BxJr1ZSAP-2F7H-2FpPjMZnCdz5ckyyEjT9auau5LGOLLxcpRAr-2BKSmAa8u94lJUeOm-2B4-2Bfgkq-2FkabcNSQJMYSkJBE13rirzyjJnnQYRj-2FFQsDeqfFdrXYWDjFtT2R1WFqx-2FWMLUus1ubKJCpINFm8zGuKc1wM-2FYsVLK07ZKLN7tsnpM31tJRS8L-2FZzlPse07jVVje6lMFYIALCI4PPDvNsqco9PXkE5Etj-2B4XLCbITOEr8yHfClrxAaNV2nrIxofVHk9-2F0TdnY5iOi2vbbfN8-2FOU732K9)\n",
+        "status": null,
+        "likely_foia": 225390,
+        "files": [],
+        "delivered": "email"
       }
     ]
   },
@@ -1133,11 +1165,11 @@
         "autogenerated": false,
         "thanks": false,
         "full_html": false,
-        "communication": "Request Temporary Password\n\nPlease login to \"My Records Center\" to update your account information, track the status of your request and receive requested records when they become available.\n\nThis is an auto-generated email and has originated from an unmonitored email account. Please DO NOT REPLY.",
-        "status": null,
+        "communication": "Request Temporary Password\r\n\r\nPlease login to \"My Records Center\" to update your account information, track the status of your request and receive requested records when they become available.\r\n\r\nThis is an auto-generated email and has originated from an unmonitored email account. Please DO NOT REPLY.",
+        "status": "processed",
         "likely_foia": null,
         "files": [],
-        "delivered": "email"
+        "delivered": "portal"
       },
       {
         "foia": 225389,
@@ -1149,11 +1181,11 @@
         "autogenerated": false,
         "thanks": false,
         "full_html": false,
-        "communication": "Dear Tracy Siska: \nThank you for your interest in public records of District of Columbia. Your request has been received and is being processed. Your request was received in this office on 10/29/2026 and given the reference number R001559-102926 for tracking purposes. \nIn all future correspondence regarding this request, please reference request number R001559-102926. You can monitor the progress of your request in the \" My Records Center\". (https://u8387778.ct.sendgrid.net/ls/click?upn=u001.VEsWrlMiJDg0mXafq1mEXcOhwwBPGHifqhO6OQOqgdwS-2FNpGxLbyeC-2FXmT4cIxy2BE74_8K3xEjsS4dkoXdPRzG2rI4f7atsjA8upo48lIS59-2BgYjjbu44MefY4F0bMc1FRvkVSakKhbsMfNZhNLHmY4X3wARTasLPo1XHFHG7s0Bi2-2BXLQYNPdKmjyzMd-2FPBGOM5m63oMUs3saw-2FdEPaYDRkFz-2FAgurkvxVG-2FS0c-2BwImBTZFfafh-2FbMNxrOhkcGQjAPQ0V-2FbEjVq7m5FE9TAK6WJ4-2B9Tepmob57RVPMVN1DNoVl41ySJ1vFRQdqd-2F4Wdh0N5tDueL-2BMUPqDw4T86Fj8VMvIxNblG9nvOem0XE7Gy-2Fi88VE6pMxEFHlzSo-2BcMLLwBCpVHUXALt-2BZ7RnpYCYkvhPIG-2BcUKDpmBoT1B1CTPiCJUsr22-2BspZTmDWoWS32SC-2B) \n \nThe District of Columbia is required to respond to your FOIA request within fifteen (15) business days of its receipt.\u00a0 See D.C. Official Code \u00a7 2-532(c)(2011).\u00a0 However, under certain circumstances, D.C. Official Code \u00a7 2-532(d)(2011) authorizes the District to extend, by ten (10) additional days, the deadline by which it must respond to a FOIA request.\u00a0 One of the circumstances provided by that statute is a case in which the District needs additional time to search for, collect and examine voluminous amounts of records and/or consult with an additional D.C. agency. \nFor any questions regarding your request, please contact the FOIA office directly. Find the list of agency Open Government and FOIA contact information by visiting FOIA Contact Information. For ease of reference, we ask that you have your FOIA Reference Number available when you contact the FOIA office. \nRegards, \nDistrict of Columbia \nTo monitor the progress or update this request please log into the DC FOIA Center (https://u8387778.ct.sendgrid.net/ls/click?upn=u001.VEsWrlMiJDg0mXafq1mEXcOhwwBPGHifqhO6OQOqgdxw4Mq-2FzcQk7O8GiIWvvoHaFe7dwUbT3XILFbXayco3OHANGC-2BQPP9LKzK-2FS0mkS98-3Dy65c_8K3xEjsS4dkoXdPRzG2rI4f7atsjA8upo48lIS59-2BgYjjbu44MefY4F0bMc1FRvkVSakKhbsMfNZhNLHmY4X3wARTasLPo1XHFHG7s0Bi2-2BXLQYNPdKmjyzMd-2FPBGOM5m63oMUs3saw-2FdEPaYDRkFz-2FAgurkvxVG-2FS0c-2BwImBTZFfafh-2FbMNxrOhkcGQjAPQ0V-2FbEjVq7m5FE9TAK6WJ4-2B9Tepmob57RVPMVN1DNoVl41ySJ1vFRQdqd-2F4Wdh0N5mtwI9IJvjexG6u4NlfSpRdY-2B0TTbheCl8zd9xNS5Q6cJWYllZnwrzzRfRJOS0quZeDERBMB4pqsMkaFj-2BPfI8w7meZVvOxOU-2FlMHUhKRws04FXZoh1mB2uH6bF0Z-2Bmvl)\n",
-        "status": null,
+        "communication": "Dear Tracy Siska: \r\nThank you for your interest in public records of District of Columbia. Your request has been received and is being processed. Your request was received in this office on 10/29/2026 and given the reference number R001559-102926 for tracking purposes. \r\nIn all future correspondence regarding this request, please reference request number R001559-102926. You can monitor the progress of your request in the \" My Records Center\". \r\n \r\nThe District of Columbia is required to respond to your FOIA request within fifteen (15) business days of its receipt.\u00a0 See D.C. Official Code \u00a7 2-532(c)(2011).\u00a0 However, under certain circumstances, D.C. Official Code \u00a7 2-532(d)(2011) authorizes the District to extend, by ten (10) additional days, the deadline by which it must respond to a FOIA request.\u00a0 One of the circumstances provided by that statute is a case in which the District needs additional time to search for, collect and examine voluminous amounts of records and/or consult with an additional D.C. agency. \r\nFor any questions regarding your request, please contact the FOIA office directly. Find the list of agency Open Government and FOIA contact information by visiting FOIA Contact Information. For ease of reference, we ask that you have your FOIA Reference Number available when you contact the FOIA office. \r\nRegards, \r\nDistrict of Columbia",
+        "status": "processed",
         "likely_foia": null,
         "files": [],
-        "delivered": "email"
+        "delivered": "portal"
       }
     ]
   },
@@ -1165,11 +1197,11 @@
     "user": 122968,
     "agency": 15767,
     "slug": "nara-request-for-all-records-of-atf-support-for-2000-movie-militia",
-    "status": "ack",
+    "status": "processed",
     "embargo_status": "public",
     "datetime_submitted": "2026-10-29T09:40:36.327905",
     "datetime_done": null,
-    "datetime_updated": "2026-10-29T09:40:36.489846",
+    "datetime_updated": "2026-10-29T10:18:22.134466",
     "date_due": "2026-11-30",
     "date_embargo": null,
     "date_followup": "2026-11-30",
@@ -1194,26 +1226,42 @@
         "likely_foia": null,
         "files": [
           {
-            "id": 1440861,
-            "ffile": "https://cdn.muckrock.com/outbound_composer_attachments/Brett-DCF/189366/501c3_application_and_approval.pdf",
-            "datetime": "2026-10-29T09:40:36.489846",
-            "title": "501c3_application_and_approval.pdf",
-            "source": "Brett Carollo",
-            "description": "",
-            "doc_id": "",
-            "pages": 0
-          },
-          {
             "id": 1440860,
             "ffile": "https://cdn.muckrock.com/outbound_composer_attachments/Brett-DCF/189366/FOIA_waiver_letter_9_25_24.pdf",
             "datetime": "2026-10-29T09:40:36.489846",
             "title": "FOIA_waiver_letter_9_25_24.pdf",
             "source": "Brett Carollo",
             "description": "",
-            "doc_id": "",
-            "pages": 0
+            "doc_id": "28858874-foia_waiver_letter_9_25_24pdf",
+            "pages": 1
+          },
+          {
+            "id": 1440861,
+            "ffile": "https://cdn.muckrock.com/outbound_composer_attachments/Brett-DCF/189366/501c3_application_and_approval.pdf",
+            "datetime": "2026-10-29T09:40:36.489846",
+            "title": "501c3_application_and_approval.pdf",
+            "source": "Brett Carollo",
+            "description": "",
+            "doc_id": "28858865-501c3_application_and_approvalpdf",
+            "pages": 43
           }
         ],
+        "delivered": "email"
+      },
+      {
+        "foia": 225385,
+        "from_user": null,
+        "to_user": null,
+        "subject": "Re: Freedom of Information Act Request: NARA request for all records of ATF support for 2000 movie \"Militia\"",
+        "datetime": "2026-10-29T10:18:22.134466",
+        "response": true,
+        "autogenerated": false,
+        "thanks": false,
+        "full_html": false,
+        "communication": "This is an automated reply to inform you that the National Archives and Records Administration, Transparency and Access Program (FOIA Program Area) has received your email.\r\nWe will respond within 20 working days. Please note that submitting duplicate requests may increase wait times. If you have any questions, you may call our office at 301-837-3190.\r\n\r\nYou can also visit our web page at www.archives.gov/research/foia.\n",
+        "status": "processed",
+        "likely_foia": 225385,
+        "files": [],
         "delivered": "email"
       }
     ]
@@ -1226,11 +1274,11 @@
     "user": 122968,
     "agency": 15767,
     "slug": "nara-request-for-all-records-of-customs-and-border-patrol-support-for-2000-tv-movie-cutaway",
-    "status": "ack",
+    "status": "processed",
     "embargo_status": "public",
     "datetime_submitted": "2026-10-29T09:35:44.477304",
     "datetime_done": null,
-    "datetime_updated": "2026-10-29T09:35:44.616386",
+    "datetime_updated": "2026-10-29T10:14:36.672482",
     "date_due": "2026-11-30",
     "date_embargo": null,
     "date_followup": "2026-11-30",
@@ -1255,26 +1303,42 @@
         "likely_foia": null,
         "files": [
           {
-            "id": 1440859,
-            "ffile": "https://cdn.muckrock.com/outbound_composer_attachments/Brett-DCF/189364/501c3_application_and_approval.pdf",
-            "datetime": "2026-10-29T09:35:44.616386",
-            "title": "501c3_application_and_approval.pdf",
-            "source": "Brett Carollo",
-            "description": "",
-            "doc_id": "",
-            "pages": 0
-          },
-          {
             "id": 1440858,
             "ffile": "https://cdn.muckrock.com/outbound_composer_attachments/Brett-DCF/189364/FOIA_waiver_letter_9_25_24.pdf",
             "datetime": "2026-10-29T09:35:44.616386",
             "title": "FOIA_waiver_letter_9_25_24.pdf",
             "source": "Brett Carollo",
             "description": "",
-            "doc_id": "",
-            "pages": 0
+            "doc_id": "28858872-foia_waiver_letter_9_25_24pdf",
+            "pages": 1
+          },
+          {
+            "id": 1440859,
+            "ffile": "https://cdn.muckrock.com/outbound_composer_attachments/Brett-DCF/189364/501c3_application_and_approval.pdf",
+            "datetime": "2026-10-29T09:35:44.616386",
+            "title": "501c3_application_and_approval.pdf",
+            "source": "Brett Carollo",
+            "description": "",
+            "doc_id": "28858862-501c3_application_and_approvalpdf",
+            "pages": 43
           }
         ],
+        "delivered": "email"
+      },
+      {
+        "foia": 225384,
+        "from_user": null,
+        "to_user": null,
+        "subject": "Re: Freedom of Information Act Request: NARA request for all records of Customs and Border Patrol support for 2000 TV movie \"Cutaway\"",
+        "datetime": "2026-10-29T10:14:36.672482",
+        "response": true,
+        "autogenerated": false,
+        "thanks": false,
+        "full_html": false,
+        "communication": "This is an automated reply to inform you that the National Archives and Records Administration, Transparency and Access Program (FOIA Program Area) has received your email.\r\nWe will respond within 20 working days. Please note that submitting duplicate requests may increase wait times. If you have any questions, you may call our office at 301-837-3190.\r\n\r\nYou can also visit our web page at www.archives.gov/research/foia.\n",
+        "status": "processed",
+        "likely_foia": 225384,
+        "files": [],
         "delivered": "email"
       }
     ]
@@ -1287,11 +1351,11 @@
     "user": 122968,
     "agency": 15767,
     "slug": "nara-request-for-all-records-of-dea-support-for-2000-tv-movie-cutaway",
-    "status": "ack",
+    "status": "processed",
     "embargo_status": "public",
     "datetime_submitted": "2026-10-29T09:34:12.079122",
     "datetime_done": null,
-    "datetime_updated": "2026-10-29T09:34:12.210401",
+    "datetime_updated": "2026-10-29T10:12:39.797729",
     "date_due": "2026-11-30",
     "date_embargo": null,
     "date_followup": "2026-11-30",
@@ -1322,8 +1386,8 @@
             "title": "501c3_application_and_approval.pdf",
             "source": "Brett Carollo",
             "description": "",
-            "doc_id": "",
-            "pages": 0
+            "doc_id": "28858878-501c3_application_and_approvalpdf",
+            "pages": 43
           },
           {
             "id": 1440856,
@@ -1332,10 +1396,26 @@
             "title": "FOIA_waiver_letter_9_25_24.pdf",
             "source": "Brett Carollo",
             "description": "",
-            "doc_id": "",
-            "pages": 0
+            "doc_id": "28858869-foia_waiver_letter_9_25_24pdf",
+            "pages": 1
           }
         ],
+        "delivered": "email"
+      },
+      {
+        "foia": 225383,
+        "from_user": null,
+        "to_user": null,
+        "subject": "Re: Freedom of Information Act Request: NARA request for all records of DEA support for 2000 TV movie \"Cutaway\"",
+        "datetime": "2026-10-29T10:12:39.797729",
+        "response": true,
+        "autogenerated": false,
+        "thanks": false,
+        "full_html": false,
+        "communication": "This is an automated reply to inform you that the National Archives and Records Administration, Transparency and Access Program (FOIA Program Area) has received your email.\r\nWe will respond within 20 working days. Please note that submitting duplicate requests may increase wait times. If you have any questions, you may call our office at 301-837-3190.\r\n\r\nYou can also visit our web page at www.archives.gov/research/foia.\n",
+        "status": "processed",
+        "likely_foia": 225383,
+        "files": [],
         "delivered": "email"
       }
     ]
@@ -1383,8 +1463,8 @@
             "title": "501c3_application_and_approval.pdf",
             "source": "Brett Carollo",
             "description": "",
-            "doc_id": "",
-            "pages": 0
+            "doc_id": "28858863-501c3_application_and_approvalpdf",
+            "pages": 43
           },
           {
             "id": 1440854,
@@ -1393,10 +1473,26 @@
             "title": "FOIA_waiver_letter_9_25_24.pdf",
             "source": "Brett Carollo",
             "description": "",
-            "doc_id": "",
-            "pages": 0
+            "doc_id": "28858861-foia_waiver_letter_9_25_24pdf",
+            "pages": 1
           }
         ],
+        "delivered": "email"
+      },
+      {
+        "foia": 225382,
+        "from_user": null,
+        "to_user": null,
+        "subject": "Re: Freedom of Information Act Request: NARA request for all records of FBI support for 2000 TV movie \"Cutaway\"",
+        "datetime": "2026-10-29T10:09:12.427047",
+        "response": true,
+        "autogenerated": false,
+        "thanks": false,
+        "full_html": false,
+        "communication": "This is an automated reply to inform you that the National Archives and Records Administration, Transparency and Access Program (FOIA Program Area) has received your email.\r\nWe will respond within 20 working days. Please note that submitting duplicate requests may increase wait times. If you have any questions, you may call our office at 301-837-3190.\r\n\r\nYou can also visit our web page at www.archives.gov/research/foia.\n",
+        "status": "processed",
+        "likely_foia": 225382,
+        "files": [],
         "delivered": "email"
       },
       {
@@ -1425,11 +1521,11 @@
     "user": 122968,
     "agency": 15767,
     "slug": "nara-request-for-all-records-of-dod-support-for-2000-tv-movie-cutaway",
-    "status": "ack",
+    "status": "processed",
     "embargo_status": "public",
     "datetime_submitted": "2026-10-29T09:31:08.780284",
     "datetime_done": null,
-    "datetime_updated": "2026-10-29T09:31:09.031076",
+    "datetime_updated": "2026-10-29T10:08:42.360336",
     "date_due": "2026-11-30",
     "date_embargo": null,
     "date_followup": "2026-11-30",
@@ -1460,8 +1556,8 @@
             "title": "501c3_application_and_approval.pdf",
             "source": "Brett Carollo",
             "description": "",
-            "doc_id": "",
-            "pages": 0
+            "doc_id": "28858868-501c3_application_and_approvalpdf",
+            "pages": 43
           },
           {
             "id": 1440852,
@@ -1470,10 +1566,26 @@
             "title": "FOIA_waiver_letter_9_25_24.pdf",
             "source": "Brett Carollo",
             "description": "",
-            "doc_id": "",
-            "pages": 0
+            "doc_id": "28858864-foia_waiver_letter_9_25_24pdf",
+            "pages": 1
           }
         ],
+        "delivered": "email"
+      },
+      {
+        "foia": 225381,
+        "from_user": null,
+        "to_user": null,
+        "subject": "Re: Freedom of Information Act Request: NARA request for all records of DoD support for 2000 TV movie \"Cutaway\"",
+        "datetime": "2026-10-29T10:08:42.360336",
+        "response": true,
+        "autogenerated": false,
+        "thanks": false,
+        "full_html": false,
+        "communication": "This is an automated reply to inform you that the National Archives and Records Administration, Transparency and Access Program (FOIA Program Area) has received your email.\r\nWe will respond within 20 working days. Please note that submitting duplicate requests may increase wait times. If you have any questions, you may call our office at 301-837-3190.\r\n\r\nYou can also visit our web page at www.archives.gov/research/foia.\n",
+        "status": "processed",
+        "likely_foia": 225381,
+        "files": [],
         "delivered": "email"
       }
     ]
@@ -1515,24 +1627,24 @@
         "likely_foia": null,
         "files": [
           {
-            "id": 1440848,
-            "ffile": "https://cdn.muckrock.com/outbound_composer_attachments/Brett-DCF/189360/501c3_application_and_approval.pdf",
-            "datetime": "2026-10-29T09:20:03.636744",
-            "title": "501c3_application_and_approval.pdf",
-            "source": "Brett Carollo",
-            "description": "",
-            "doc_id": "",
-            "pages": 0
-          },
-          {
             "id": 1440847,
             "ffile": "https://cdn.muckrock.com/outbound_composer_attachments/Brett-DCF/189360/FOIA_waiver_letter_9_25_24.pdf",
             "datetime": "2026-10-29T09:20:03.636744",
             "title": "FOIA_waiver_letter_9_25_24.pdf",
             "source": "Brett Carollo",
             "description": "",
-            "doc_id": "",
-            "pages": 0
+            "doc_id": "28858859-foia_waiver_letter_9_25_24pdf",
+            "pages": 1
+          },
+          {
+            "id": 1440848,
+            "ffile": "https://cdn.muckrock.com/outbound_composer_attachments/Brett-DCF/189360/501c3_application_and_approval.pdf",
+            "datetime": "2026-10-29T09:20:03.636744",
+            "title": "501c3_application_and_approval.pdf",
+            "source": "Brett Carollo",
+            "description": "",
+            "doc_id": "28858860-501c3_application_and_approvalpdf",
+            "pages": 43
           }
         ],
         "delivered": "none"
@@ -1598,8 +1710,8 @@
             "title": "501c3_application_and_approval.pdf",
             "source": "Brett Carollo",
             "description": "",
-            "doc_id": "",
-            "pages": 0
+            "doc_id": "28858858-501c3_application_and_approvalpdf",
+            "pages": 43
           },
           {
             "id": 1440845,
@@ -1608,8 +1720,8 @@
             "title": "FOIA_waiver_letter_9_25_24.pdf",
             "source": "Brett Carollo",
             "description": "",
-            "doc_id": "",
-            "pages": 0
+            "doc_id": "28858856-foia_waiver_letter_9_25_24pdf",
+            "pages": 1
           }
         ],
         "delivered": "portal"
@@ -1859,8 +1971,8 @@
             "title": "Proof_of_death_Daily_Oklahoman_2002-10-15.pdf",
             "source": "Matthew Petti",
             "description": "",
-            "doc_id": "",
-            "pages": 0
+            "doc_id": "28858855-proof_of_death_daily_oklahoman_2002-10-15pdf",
+            "pages": 2
           },
           {
             "id": 1440818,
@@ -2077,18 +2189,18 @@
     "user": 187942,
     "agency": 656,
     "slug": "public-records-request-duplicate-of-prr-24-5241-gaines-homicide-report-210012415",
-    "status": "ack",
+    "status": "fix",
     "embargo_status": "public",
     "datetime_submitted": "2026-10-28T19:13:45.793333",
     "datetime_done": null,
-    "datetime_updated": "2026-10-28T19:13:45.966747",
+    "datetime_updated": "2026-10-29T11:14:34.210990",
     "date_due": null,
     "date_embargo": null,
-    "date_followup": "2026-11-12",
+    "date_followup": null,
     "days_until_due": null,
     "disable_autofollowups": false,
     "price": "0.00",
-    "tracking_id": "",
+    "tracking_id": "26-9321",
     "tags": [],
     "communications": [
       {
@@ -2105,6 +2217,83 @@
         "status": null,
         "likely_foia": null,
         "files": [],
+        "delivered": "email"
+      },
+      {
+        "foia": 225362,
+        "from_user": null,
+        "to_user": null,
+        "subject": "CPD PR Request #26-9321",
+        "datetime": "2026-10-29T11:14:34.210990",
+        "response": true,
+        "autogenerated": false,
+        "thanks": false,
+        "full_html": false,
+        "communication": "Good morning,\r\n\r\nAttached are the records that were produced as responsive to PRR #24-5241. The requestor never paid for the video.\r\n\r\nIf you wish to obtain footage, it will come at a cost of $37/hour of video production, and you\u2019ll need to provide more specifics on what is being sought.\r\n\nK. Hartshorne\r\nPublic Records Manager\r\nCity of Columbus\r\n120 Marconi Blvd.\r\nColumbus, Ohio 43215",
+        "status": "fix",
+        "likely_foia": 225362,
+        "files": [
+          {
+            "id": 1440890,
+            "ffile": "https://cdn.muckrock.com/foia_files/2026/10/29/WRD2643.jpg",
+            "datetime": "2026-10-29T11:14:34.274045",
+            "title": "~WRD2643",
+            "source": "Columbus Division of Police, Columbus, OH",
+            "description": "",
+            "doc_id": "",
+            "pages": 0
+          },
+          {
+            "id": 1440891,
+            "ffile": "https://cdn.muckrock.com/foia_files/2026/10/29/2021-01-06_03.17.50_Ch107.WAV",
+            "datetime": "2026-10-29T11:14:34.729401",
+            "title": "2021-01-06_03.17.50_Ch107",
+            "source": "Columbus Division of Police, Columbus, OH",
+            "description": "",
+            "doc_id": "",
+            "pages": 0
+          },
+          {
+            "id": 1440892,
+            "ffile": "https://cdn.muckrock.com/foia_files/2026/10/29/2021-01-06_03.19.46_Ch94.WAV",
+            "datetime": "2026-10-29T11:14:34.838786",
+            "title": "2021-01-06_03.19.46_Ch94",
+            "source": "Columbus Division of Police, Columbus, OH",
+            "description": "",
+            "doc_id": "",
+            "pages": 0
+          },
+          {
+            "id": 1440893,
+            "ffile": "https://cdn.muckrock.com/foia_files/2026/10/29/210012415.pdf",
+            "datetime": "2026-10-29T11:14:34.904679",
+            "title": "210012415",
+            "source": "Columbus Division of Police, Columbus, OH",
+            "description": "",
+            "doc_id": "28858739-210012415",
+            "pages": 4
+          },
+          {
+            "id": 1440894,
+            "ffile": "https://cdn.muckrock.com/foia_files/2026/10/29/Report_210012415.pdf",
+            "datetime": "2026-10-29T11:14:34.971709",
+            "title": "Report #210012415",
+            "source": "Columbus Division of Police, Columbus, OH",
+            "description": "",
+            "doc_id": "28858740-report-210012415",
+            "pages": 4
+          },
+          {
+            "id": 1440895,
+            "ffile": "https://cdn.muckrock.com/foia_files/2026/10/29/Victim_Redaction_Letter.doc",
+            "datetime": "2026-10-29T11:14:35.045936",
+            "title": "Victim Redaction Letter",
+            "source": "Columbus Division of Police, Columbus, OH",
+            "description": "",
+            "doc_id": "28858738-victim-redaction-letter",
+            "pages": 1
+          }
+        ],
         "delivered": "email"
       }
     ]
@@ -2364,6 +2553,22 @@
         "communication": "Hello,\r\n\r\nneed you to check again. The vendor at question, Future Horizons, 100% absolutely did send in service reports. Additionally, their invoices state treatment dates. Maybe our last manager has these? \r\n\r\nwould like the invoices (not the check register) as there is a data point of treatment date on those. Next, would like the service reports, because these say what was treated on those dates. There also is a waterway map, which lists the ponds by numbers. For example, Pond 7 is Rincon Dr and Ensenada Drive. While the districts website has a location map and a plat map, but not this pond identifier map. \r\n\r\nThank you ",
         "status": null,
         "likely_foia": null,
+        "files": [],
+        "delivered": "email"
+      },
+      {
+        "foia": 225347,
+        "from_user": 194395,
+        "to_user": null,
+        "subject": "Out of Office RE: Florida Sunshine Law Request: Aquatics Reports",
+        "datetime": "2026-10-29T08:38:59.980231",
+        "response": true,
+        "autogenerated": false,
+        "thanks": false,
+        "full_html": false,
+        "communication": "Thank you for your message. I will be in meetings all Day Thursday and Friday. If it is an emergency, please call my cell phone, otherwise, I will respond as quickly as possible. \nThank you. \n\n-- \nV/R Mac \nHoward \"Mac\" McGaffney District Manager (904)\u00a0386-0186 Howard@ (mailto:Howard@flcspec.com) cddmanagers.com (http://cddmanagers.com) \n\nCONFIDENTIALITY NOTICE: This email, and any attachment(s) to it, is intended only for the use of the individual/entity addressed herein and may contain information that is privileged, confidential, and exempt from disclosure under applicable law. Be advised that any dissemination, distribution, or copying of this information (including any attachments) is strictly prohibited (without prior consent). If you have received this e-mail in error, please immediately return it to the sender and delete it from your system.\n",
+        "status": "processed",
+        "likely_foia": 225347,
         "files": [],
         "delivered": "email"
       },
@@ -2904,7 +3109,7 @@
     "days_until_due": null,
     "disable_autofollowups": false,
     "price": "0.00",
-    "tracking_id": "",
+    "tracking_id": "FOIA-2027-00068",
     "tags": [],
     "communications": [
       {
@@ -2965,11 +3170,11 @@
         "autogenerated": false,
         "thanks": false,
         "full_html": false,
-        "communication": "NONCONFIDENTIAL // EXTERNAL \nDear Zachary Zachary: \n\nYour request has been assigned number\u00a0FOIA-2027-00068. Please reference this number in all future correspondence. \nRequest description: \nTo Whom It May Concern:\n\nPursuant to the Freedom of Information Act, I hereby request the following records:\n\nI request existing agency records dated January 1, 2024, through the date the search is conducted.\n\nPlease search for the following existing record types that contain at least one Entity below AND at least one Search Term below:\n\nRECORD TYPES\nemails (including attachments); calendars; briefing memoranda; decision memoranda; options papers; talking points; slide decks; meeting notes and readouts; applications; funding opportunity announcements / NOFOs / solicitations; term sheets; letters of intent; MOUs; NDAs; commitment letters; agreements; approvals; credit or risk assessments; scorekeeping memoranda; guidance, FAQs, and technical advice; NEPA, permitting, and environmental review records; congressional correspondence; and inspector general audit or evaluation records.\n\nENTITIES\nOpenAI\n@openai.com\n\"Sam Altman\"\nStargate\n\nSEARCH TERMS\n\"data center\"\nhyperscale\n\"AI infrastructure\"\n\"artificial intelligence\"\n\"AI Action Plan\"\n\"America's AI Action Plan\"\n\"EO 14179\"\n\"Executive Order 14179\"\nsuperintelligence\n\"super intelligence\"\nASI\n\"loan guarantee\"\nLPO\n\"Title 17\"\n\"Loan Programs Office\"\n\"credit support\"\n\"credit subsidy\"\nindemnification\n\"loss sharing\"\nbackstop\n\"contingent liability\"\n\"private credit\"\n\"tax credit\"\n\"tax expenditure\"\n\"accelerated depreciation\"\n\"bonus depreciation\"\n\"investment tax credit\"\nITC\n\"Section 48\"\n\"Section 45\"\n\"Section 174\"\ngrant\nsubsidy\n\"financial assistance\"\ninterconnection\n\"power purchase\"\nPPA\ngrid\n\"federal land\"\npermitting\nFAST-41\nNEPA\n\nThis request seeks existing records locatable by ordinary electronic search. It does not ask the agency to investigate, analyze, answer questions, identify unknown parties, decide whether any record \"benefits\" a company, or create new records. I do not seek third-party tax return information under 26 U.S.C. \u00a7 6103. Please provide records electronically.\n\nThe requested documents will be made available to the general public, and this request is not being made for commercial purposes.\n\nIn the event that there are fees, I would be grateful if you would inform me of the total charges in advance of fulfilling my request. I would prefer the request filled electronically, by e-mail attachment if available or CD-ROM if not.\n\nThank you in advance for your anticipated cooperation in this matter. I look forward to receiving your response to this request within 20 business days, as the statute requires.\n\nSincerely,\n\nZachary\n\nUpload documents directly: https://www.muckrock.com/respond/2442961/ (Date Range for Record Search: From 01/01/2024 To 10/30/2026)\nRegards, \n\nInformation Disclosure Section \nFederal Reserve Board",
-        "status": null,
+        "communication": "NONCONFIDENTIAL // EXTERNAL \r\nDear Zachary Zachary: \r\n\r\nYour request has been assigned number\u00a0FOIA-2027-00068. Please reference this number in all future correspondence. \r\nRequest description: \r\nTo Whom It May Concern:\r\n\r\nPursuant to the Freedom of Information Act, I hereby request the following records:\r\n\r\nI request existing agency records dated January 1, 2024, through the date the search is conducted.\r\n\r\nPlease search for the following existing record types that contain at least one Entity below AND at least one Search Term below:\r\n\r\nRECORD TYPES\r\nemails (including attachments); calendars; briefing memoranda; decision memoranda; options papers; talking points; slide decks; meeting notes and readouts; applications; funding opportunity announcements / NOFOs / solicitations; term sheets; letters of intent; MOUs; NDAs; commitment letters; agreements; approvals; credit or risk assessments; scorekeeping memoranda; guidance, FAQs, and technical advice; NEPA, permitting, and environmental review records; congressional correspondence; and inspector general audit or evaluation records.\r\n\r\nENTITIES\r\nOpenAI\r\n@openai.com\r\n\"Sam Altman\"\r\nStargate\r\n\r\nSEARCH TERMS\r\n\"data center\"\r\nhyperscale\r\n\"AI infrastructure\"\r\n\"artificial intelligence\"\r\n\"AI Action Plan\"\r\n\"America's AI Action Plan\"\r\n\"EO 14179\"\r\n\"Executive Order 14179\"\r\nsuperintelligence\r\n\"super intelligence\"\r\nASI\r\n\"loan guarantee\"\r\nLPO\r\n\"Title 17\"\r\n\"Loan Programs Office\"\r\n\"credit support\"\r\n\"credit subsidy\"\r\nindemnification\r\n\"loss sharing\"\r\nbackstop\r\n\"contingent liability\"\r\n\"private credit\"\r\n\"tax credit\"\r\n\"tax expenditure\"\r\n\"accelerated depreciation\"\r\n\"bonus depreciation\"\r\n\"investment tax credit\"\r\nITC\r\n\"Section 48\"\r\n\"Section 45\"\r\n\"Section 174\"\r\ngrant\r\nsubsidy\r\n\"financial assistance\"\r\ninterconnection\r\n\"power purchase\"\r\nPPA\r\ngrid\r\n\"federal land\"\r\npermitting\r\nFAST-41\r\nNEPA\r\n\r\nThis request seeks existing records locatable by ordinary electronic search. It does not ask the agency to investigate, analyze, answer questions, identify unknown parties, decide whether any record \"benefits\" a company, or create new records. I do not seek third-party tax return information under 26 U.S.C. \u00a7 6103. Please provide records electronically.\r\n\r\nThe requested documents will be made available to the general public, and this request is not being made for commercial purposes.\r\n\r\nIn the event that there are fees, I would be grateful if you would inform me of the total charges in advance of fulfilling my request. I would prefer the request filled electronically, by e-mail attachment if available or CD-ROM if not.\r\n\r\nThank you in advance for your anticipated cooperation in this matter. I look forward to receiving your response to this request within 20 business days, as the statute requires.\r\n\r\nSincerely,\r\n\r\nZachary\r\n\r\nUpload documents directly: https://www.muckrock.com/respond/2442961/ (Date Range for Record Search: From 01/01/2024 To 10/30/2026)\r\nRegards, \r\n\r\nInformation Disclosure Section \r\nFederal Reserve Board",
+        "status": "processed",
         "likely_foia": null,
         "files": [],
-        "delivered": "email"
+        "delivered": "portal"
       },
       {
         "foia": 225326,
@@ -2981,11 +3186,11 @@
         "autogenerated": false,
         "thanks": false,
         "full_html": false,
-        "communication": "NONCONFIDENTIAL // EXTERNAL \nDear Zachary Zachary: \n\nYour FOIA request number\u00a0FOIA-2027-00068 has been updated to the following status: \"Received\". Click on the link below to\u00a0log into the Board's FOIA Portal. \n\nhttps://frb.secureocp.com\nRegards, \nInformation Disclosure Section \nFederal Reserve Board",
-        "status": null,
+        "communication": "NONCONFIDENTIAL // EXTERNAL \r\nDear Zachary Zachary: \r\n\r\nYour FOIA request number\u00a0FOIA-2027-00068 has been updated to the following status: \"Received\". Click on the link below to\u00a0log into the Board's FOIA Portal. \r\n\r\nhttps://frb.secureocp.com\r\nRegards, \r\nInformation Disclosure Section \r\nFederal Reserve Board",
+        "status": "processed",
         "likely_foia": null,
         "files": [],
-        "delivered": "email"
+        "delivered": "portal"
       }
     ]
   },
@@ -3004,11 +3209,11 @@
     "datetime_updated": "2026-10-29T22:31:59.463454",
     "date_due": "2026-11-27",
     "date_embargo": null,
-    "date_followup": "2027-01-26",
+    "date_followup": "2027-01-28",
     "days_until_due": null,
     "disable_autofollowups": false,
     "price": "0.00",
-    "tracking_id": "",
+    "tracking_id": "2027-FOIA-00119",
     "tags": [],
     "communications": [
       {
@@ -3037,11 +3242,11 @@
         "autogenerated": false,
         "thanks": false,
         "full_html": false,
-        "communication": "Dear Zachary Zachary, \n\nCase Number 2027-FOIA-00119 has been assigned to the request you submitted. In all future correspondence regarding this request please reference case number 2027-FOIA-00119.\nRegards, \nDepartment of Treasury",
-        "status": null,
+        "communication": "Dear Zachary Zachary, \r\n\r\nCase Number 2027-FOIA-00119 has been assigned to the request you submitted. In all future correspondence regarding this request please reference case number 2027-FOIA-00119.\r\nRegards, \r\nDepartment of Treasury",
+        "status": "processed",
         "likely_foia": null,
         "files": [],
-        "delivered": "email"
+        "delivered": "portal"
       },
       {
         "foia": 225323,
@@ -3053,11 +3258,11 @@
         "autogenerated": false,
         "thanks": false,
         "full_html": false,
-        "communication": "Dear Zachary Zachary, \n\nThe status of your DO FOIA request #2027-FOIA-00119 has been updated to the following status 'Received'. To log into the Treasury FOIA Public Access Link click on the Application URL below. \n\nhttps://foia.treasury.gov/ \n\nSincerely, \nDepartment of Treasury",
-        "status": null,
+        "communication": "Dear Zachary Zachary, \r\n\r\nThe status of your DO FOIA request #2027-FOIA-00119 has been updated to the following status 'Received'. To log into the Treasury FOIA Public Access Link click on the Application URL below. \r\n\r\nhttps://foia.treasury.gov/ \r\n\r\nSincerely, \r\nDepartment of Treasury",
+        "status": "processed",
         "likely_foia": null,
         "files": [],
-        "delivered": "email"
+        "delivered": "portal"
       }
     ]
   },
@@ -3080,7 +3285,7 @@
     "days_until_due": null,
     "disable_autofollowups": false,
     "price": "0.00",
-    "tracking_id": "",
+    "tracking_id": "DOI-2027-001387",
     "tags": [],
     "communications": [
       {
@@ -3136,8 +3341,8 @@
         "autogenerated": false,
         "thanks": false,
         "full_html": false,
-        "communication": "Login.gov logo\r\n\r\n***************************************************\r\nBackup codes were added as an authentication method\r\n***************************************************\r\n\r\nA new authentication method was added to your Login.gov account\r\n\r\nIf this wasn\u2019t you, change your password \r\n( https://secure.login.gov/en/events/disavow?disavowal_token=EMaowfXIMU0oV_Qq79jhRLfU9v5GRc8Ot9fIls5Jdn0 )\r\n and change your authentication methods \r\n( https://www.login.gov/help/manage-your-account/add-or-change-your-authentication-method/ )\r\n immediately.\r\n\r\nPlease do not reply\r\nto this message.\r\nIf you need help,\r\nvisit login.gov/help/ ( https://www.login.gov/help/ )\r\n\r\nAbout Login.gov \r\n( https://www.login.gov/ )\r\n|\r\nPrivacy policy \r\n( https://www.login.gov/policy/ )\r\n\r\nSent at\n2026-10-30T02:26:24.496002Z",
-        "status": null,
+        "communication": "Login.gov logo\r\n\r\n***************************************************\r\nBackup codes were added as an authentication method\r\n***************************************************\r\n\r\nA new authentication method was added to your Login.gov account\r\n\r\nIf this wasn\u2019t you, change your password \r\n( https://secure.login.gov/en/events/disavow?disavowal_token=EMaowfXIMU0oV_Qq79jhRLfU9v5GRc8Ot9fIls5Jdn0 )\r\n and change your authentication methods \r\n( https://www.login.gov/help/manage-your-account/add-or-change-your-authentication-method/ )\r\n immediately.\r\n\r\nPlease do not reply\r\nto this message.\r\nIf you need help,\r\nvisit login.gov/help/ ( https://www.login.gov/help/ )\r\n\r\nAbout Login.gov \r\n( https://www.login.gov/ )\r\n|\r\nPrivacy policy \r\n( https://www.login.gov/policy/ )\r\n\r\nSent at\r\n2026-10-30T02:26:24.496002Z",
+        "status": "processed",
         "likely_foia": null,
         "files": [
           {
@@ -3151,7 +3356,7 @@
             "pages": 0
           }
         ],
-        "delivered": "email"
+        "delivered": "portal"
       },
       {
         "foia": 225320,
@@ -3163,8 +3368,8 @@
         "autogenerated": false,
         "thanks": false,
         "full_html": false,
-        "communication": "Login.gov logo\r\n\r\nDOI Freedom of Information\r\nAct Request\r\n\r\n*****************************************************************\r\nYou connected your account to DOI Freedom of Information Act\r\nRequest\r\n*****************************************************************\r\n\r\nTo disconnect your account from DOI Freedom of Information Act\r\nRequest, sign in to your account ( https://secure.login.gov/en ),\r\ngo to \u201cYour connected services\u201d in the sidebar and click\r\n\u201cDisconnect\u201d underneath the service.\r\n\r\nIf this wasn\u2019t you, reset your password \r\n( https://secure.login.gov/en/events/disavow?disavowal_token=uffyMn5tJu_6RPO_cD5AP7gB_NiEPlXFQUxjEskA0Lg )\r\n and change your authentication methods \r\n( https://secure.login.gov/en/account/two_factor_authentication )\r\n immediately.\r\n\r\nPlease do not reply\r\nto this message.\r\nIf you need help,\r\nvisit login.gov/help/ ( https://www.login.gov/help/ )\r\n\r\nAbout Login.gov \r\n( https://www.login.gov/ )\r\n|\r\nPrivacy policy \r\n( https://www.login.gov/policy/ )\r\n\r\nSent at\n2026-10-30T02:26:30.056832Z",
-        "status": null,
+        "communication": "Login.gov logo\r\n\r\nDOI Freedom of Information\r\nAct Request\r\n\r\n*****************************************************************\r\nYou connected your account to DOI Freedom of Information Act\r\nRequest\r\n*****************************************************************\r\n\r\nTo disconnect your account from DOI Freedom of Information Act\r\nRequest, sign in to your account ( https://secure.login.gov/en ),\r\ngo to \u201cYour connected services\u201d in the sidebar and click\r\n\u201cDisconnect\u201d underneath the service.\r\n\r\nIf this wasn\u2019t you, reset your password \r\n( https://secure.login.gov/en/events/disavow?disavowal_token=uffyMn5tJu_6RPO_cD5AP7gB_NiEPlXFQUxjEskA0Lg )\r\n and change your authentication methods \r\n( https://secure.login.gov/en/account/two_factor_authentication )\r\n immediately.\r\n\r\nPlease do not reply\r\nto this message.\r\nIf you need help,\r\nvisit login.gov/help/ ( https://www.login.gov/help/ )\r\n\r\nAbout Login.gov \r\n( https://www.login.gov/ )\r\n|\r\nPrivacy policy \r\n( https://www.login.gov/policy/ )\r\n\r\nSent at\r\n2026-10-30T02:26:30.056832Z",
+        "status": "processed",
         "likely_foia": null,
         "files": [
           {
@@ -3178,7 +3383,7 @@
             "pages": 0
           }
         ],
-        "delivered": "email"
+        "delivered": "portal"
       },
       {
         "foia": 225320,
@@ -3190,11 +3395,11 @@
         "autogenerated": false,
         "thanks": false,
         "full_html": false,
-        "communication": "Dear Zachary Zachary,\r\n\r\nYou've successfully created an account in PAL to login to https://securefoia.doi.gov.\r\n\r\nPlease use 225320-07548203@requests.muckrock.com as your email address when creating a Login.Gov profile if you have not already done so.\nRegards,\r\nDOI FOIA Office\u201d",
-        "status": null,
+        "communication": "Dear Zachary Zachary,\r\n\r\nYou've successfully created an account in PAL to login to https://securefoia.doi.gov.\r\n\r\nPlease use 225320-07548203@requests.muckrock.com as your email address when creating a Login.Gov profile if you have not already done so.\r\nRegards,\r\nDOI FOIA Office\u201d",
+        "status": "done",
         "likely_foia": null,
         "files": [],
-        "delivered": "email"
+        "delivered": "portal"
       },
       {
         "foia": 225320,
@@ -3206,11 +3411,11 @@
         "autogenerated": false,
         "thanks": false,
         "full_html": false,
-        "communication": "Dear Zachary Zachary,\r\n\r\nYou've successfully created a PAL account. You will receive another email with a link to create your password.\r\n\r\nUsername: 225320-07548203@requests.muckrock.com\r\n\r\nAny previously submitted requests to DOI FOIA Office have been saved to your profile.\nRegards,\r\nDOI FOIA Office",
-        "status": null,
+        "communication": "Dear Zachary Zachary,\r\n\r\nYou've successfully created a PAL account. You will receive another email with a link to create your password.\r\n\r\nUsername: 225320-07548203@requests.muckrock.com\r\n\r\nAny previously submitted requests to DOI FOIA Office have been saved to your profile.\r\nRegards,\r\nDOI FOIA Office",
+        "status": "processed",
         "likely_foia": null,
         "files": [],
-        "delivered": "email"
+        "delivered": "portal"
       },
       {
         "foia": 225320,
@@ -3222,11 +3427,11 @@
         "autogenerated": false,
         "thanks": false,
         "full_html": false,
-        "communication": "Dear Zachary Zachary,\r\n\r\nWe would like to inform you that the Department of the Interior has received your OS FOIA request and assigned it the control number DOI-2027-001387. Please reference this number in any future communications regarding your request.\r\n\r\nThis message has been sent from an unattended email inbox. For any further correspondence, please contact the bureau at https://www.doi.gov/foia/contacts.\r\n\r\nBelow is a copy of the Request Description:\r\n\r\nTo Whom It May Concern: Pursuant to the Freedom of Information Act, I hereby request the following records: I request existing agency records dated January 1, 2024, through the date the search is conducted. Please search for the following existing record types that contain at least one Entity below AND at least one Search Term below: RECORD TYPES emails (including attachments); calendars; briefing memoranda; decision memoranda; options papers; talking points; slide decks; meeting notes and readouts; applications; funding opportunity announcements / NOFOs / solicitations; term sheets; letters of intent; MOUs; NDAs; commitment letters; agreements; approvals; credit or risk assessments; scorekeeping memoranda; guidance, FAQs, and technical advice; NEPA, permitting, and environmental review records; congressional correspondence; and inspector general audit or evaluation records. ENTITIES OpenAI @openai.com \"Sam Altman\" Stargate SEARCH TERMS \"data center\" hyperscale \"AI infrastructure\" \"artificial intelligence\" \"AI Action Plan\" \"America's AI Action Plan\" \"EO 14179\" \"Executive Order 14179\" superintelligence \"super intelligence\" ASI \"loan guarantee\" LPO \"Title 17\" \"Loan Programs Office\" \"credit support\" \"credit subsidy\" indemnification \"loss sharing\" backstop \"contingent liability\" \"private credit\" \"tax credit\" \"tax expenditure\" \"accelerated depreciation\" \"bonus depreciation\" \"investment tax credit\" ITC \"Section 48\" \"Section 45\" \"Section 174\" grant subsidy \"financial assistance\" interconnection \"power purchase\" PPA grid \"federal land\" permitting FAST-41 NEPA This request seeks existing records locatable by ordinary electronic search. It does not ask the agency to investigate, analyze, answer questions, identify unknown parties, decide whether any record \"benefits\" a company, or create new records. I do not seek third-party tax return information under 26 U.S.C. \u00a7 6103. Please provide records electronically. The requested documents will be made available to the general public, and this request is not being made for commercial purposes. In the event that there are fees, I would be grateful if you would inform me of the total charges in advance of fulfilling my request. I would prefer the request filled electronically, by e-mail attachment if available or CD-ROM if not. Thank you in advance for your anticipated cooperation in this matter. I look forward to receiving your response to this request within 20 business days, as the statute requires. Sincerely, Zachary Upload documents directly: https://www.muckrock.com/respond/2442955/\r\n\r\nThank you for your attention to this matter.\nRegards,\r\nDOI FOIA Office",
-        "status": null,
+        "communication": "Dear Zachary Zachary,\r\n\r\nWe would like to inform you that the Department of the Interior has received your OS FOIA request and assigned it the control number DOI-2027-001387. Please reference this number in any future communications regarding your request.\r\n\r\nThis message has been sent from an unattended email inbox. For any further correspondence, please contact the bureau at https://www.doi.gov/foia/contacts.\r\n\r\nBelow is a copy of the Request Description:\r\n\r\nTo Whom It May Concern: Pursuant to the Freedom of Information Act, I hereby request the following records: I request existing agency records dated January 1, 2024, through the date the search is conducted. Please search for the following existing record types that contain at least one Entity below AND at least one Search Term below: RECORD TYPES emails (including attachments); calendars; briefing memoranda; decision memoranda; options papers; talking points; slide decks; meeting notes and readouts; applications; funding opportunity announcements / NOFOs / solicitations; term sheets; letters of intent; MOUs; NDAs; commitment letters; agreements; approvals; credit or risk assessments; scorekeeping memoranda; guidance, FAQs, and technical advice; NEPA, permitting, and environmental review records; congressional correspondence; and inspector general audit or evaluation records. ENTITIES OpenAI @openai.com \"Sam Altman\" Stargate SEARCH TERMS \"data center\" hyperscale \"AI infrastructure\" \"artificial intelligence\" \"AI Action Plan\" \"America's AI Action Plan\" \"EO 14179\" \"Executive Order 14179\" superintelligence \"super intelligence\" ASI \"loan guarantee\" LPO \"Title 17\" \"Loan Programs Office\" \"credit support\" \"credit subsidy\" indemnification \"loss sharing\" backstop \"contingent liability\" \"private credit\" \"tax credit\" \"tax expenditure\" \"accelerated depreciation\" \"bonus depreciation\" \"investment tax credit\" ITC \"Section 48\" \"Section 45\" \"Section 174\" grant subsidy \"financial assistance\" interconnection \"power purchase\" PPA grid \"federal land\" permitting FAST-41 NEPA This request seeks existing records locatable by ordinary electronic search. It does not ask the agency to investigate, analyze, answer questions, identify unknown parties, decide whether any record \"benefits\" a company, or create new records. I do not seek third-party tax return information under 26 U.S.C. \u00a7 6103. Please provide records electronically. The requested documents will be made available to the general public, and this request is not being made for commercial purposes. In the event that there are fees, I would be grateful if you would inform me of the total charges in advance of fulfilling my request. I would prefer the request filled electronically, by e-mail attachment if available or CD-ROM if not. Thank you in advance for your anticipated cooperation in this matter. I look forward to receiving your response to this request within 20 business days, as the statute requires. Sincerely, Zachary Upload documents directly: https://www.muckrock.com/respond/2442955/\r\n\r\nThank you for your attention to this matter.\r\nRegards,\r\nDOI FOIA Office",
+        "status": "processed",
         "likely_foia": null,
         "files": [],
-        "delivered": "email"
+        "delivered": "portal"
       }
     ]
   }

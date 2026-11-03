@@ -167,14 +167,14 @@
     "user": 99237,
     "agency": 38,
     "slug": "us-entry-restrictions-and-interagency-communications-concerning-mexican-government-officials-and-morena-affiliated-political-figures-20252026",
-    "status": "submitted",
+    "status": "processed",
     "embargo_status": "public",
     "datetime_submitted": "2026-11-02T19:11:39.850963",
     "datetime_done": null,
-    "datetime_updated": "2026-11-02T19:11:39.950808",
+    "datetime_updated": "2026-11-02T21:53:32.089457",
     "date_due": "2026-12-02",
     "date_embargo": null,
-    "date_followup": null,
+    "date_followup": "2027-02-01",
     "days_until_due": null,
     "disable_autofollowups": false,
     "price": "0.00",
@@ -192,10 +192,26 @@
         "thanks": false,
         "full_html": false,
         "communication": "To Whom It May Concern:\r\n\r\nPursuant to the Freedom of Information Act, I hereby request the following records:\r\n\r\nDear FOIA Officer:\r\n\r\nPursuant to the Freedom of Information Act (FOIA), 5 U.S.C. \u00a7 552, I respectfully request access to records maintained by U.S. Customs and Border Protection (CBP), a component of the Department of Homeland Security (DHS), concerning U.S. entry restrictions, admissibility reviews, and interagency communications involving Mexican government officials, elected representatives, and political figures, including individuals affiliated with Mexico's National Regeneration Movement (Morena).\r\n\r\nThis request concerns official U.S. government actions and institutional coordination regarding restrictions affecting Mexican public officials.\r\n\r\nI request records created or received between January 1, 2025, and November 2, 2026, including:\r\n\r\nExisting administrative reports, statistical summaries, briefing documents, or internal assessments concerning restrictions on admission to the United States involving Mexican public officials, including governors, mayors, legislators, senior government officials, and political party leaders.\r\n\r\nOfficial correspondence, memoranda, and interagency communications between CBP, the Department of State, and other DHS components concerning the implementation or coordination of entry restrictions affecting Mexican government officials.\r\n\r\nFinal policy guidance, administrative instructions, and memoranda concerning procedures used by CBP to implement visa-related restrictions, inadmissibility determinations, or entry limitations communicated by the Department of State or other federal agencies.\r\n\r\nExisting aggregate statistical reports showing the number of Mexican nationals identified in official records as government officials or elected representatives who were subject to entry restrictions, inadmissibility determinations, or other relevant administrative measures, where such information is already compiled and can lawfully be disclosed.\r\n\r\nFinal internal briefing memoranda, official meeting summaries, and interagency coordination documents concerning restrictions affecting Mexican public officials in connection with corruption, organized crime, national security, or other statutory grounds of inadmissibility.\r\n\r\nRecords of official communications between CBP headquarters and U.S. government personnel assigned to Mexico concerning the implementation of entry restrictions affecting Mexican public officials.\r\n\r\nFinal or approved public affairs guidance, prepared questions and answers, and communications materials regarding public reporting about U.S. entry restrictions or visa cancellations involving Mexican political figures, including Morena-affiliated officials.\r\n\r\nPlease search, as appropriate, records maintained by:\r\n\r\nCBP Office of Field Operations (OFO), including headquarters units responsible for admissibility and passenger programs.\r\n\r\nCBP headquarters offices responsible for policy implementation and interagency coordination.\r\n\r\nOther CBP offices reasonably likely to maintain responsive policy or administrative records.\r\n\r\nRelevant search terms may include:\r\n\r\n\"Mexico,\" \"Mexican government officials,\" \"Mexican politicians,\" \"Morena,\" \"Mexican governors,\" \"entry restrictions,\" \"inadmissibility,\" \"visa revocation,\" \"visa cancellation,\" \"admissibility review,\" \"Department of State,\" \"corruption,\" and \"organized crime.\"\r\n\r\nScope and Privacy Limitations\r\n\r\nThis request does not seek individual immigration files, passport numbers, biometric records, personal travel histories, confidential visa applications, or sensitive law enforcement information.\r\n\r\nI recognize that certain records may be protected under applicable privacy, immigration, national security, or law enforcement exemptions.\r\n\r\nI am requesting existing institutional records concerning U.S. government policies, procedures, administrative decisions, statistical summaries, and interagency coordination.\r\n\r\nWhere responsive documents contain protected personal information, I request the release of all reasonably segregable non-exempt portions.\r\n\r\nThis request does not require CBP to create a new list, statistical report, or analysis.\r\n\r\nFee Classification and Public Interest Waiver\r\n\r\nI am a journalist conducting research for public-interest reporting concerning U.S.\u2013Mexico relations, immigration policy, and government accountability.\r\n\r\nI respectfully request classification under the news media fee category and a waiver of applicable fees because disclosure of the requested information would contribute to public understanding of the activities and decisions of the United States government.\r\n\r\nThe requested information is not intended primarily for commercial use.\r\n\r\nPlease provide responsive records electronically, preferably in searchable PDF format or their original electronic format where available.\r\n\r\nIf any records are withheld, please identify the applicable FOIA exemptions and release all reasonably segregable non-exempt information.\r\n\r\nThank you for your consideration.\r\n\r\nSincerely,\r\n\r\nHiroshi Takahashi\r\n\r\nThe requested documents will be made available to the general public, and this request is not being made for commercial purposes.\r\n\r\nIn the event that there are fees, I would be grateful if you would inform me of the total charges in advance of fulfilling my request. I would prefer the request filled electronically, by e-mail attachment if available or CD-ROM if not.\r\n\r\nThank you in advance for your anticipated cooperation in this matter. I look forward to receiving your response to this request within 20 business days, as the statute requires.\r\n\r\nSincerely,\r\n\r\nHiroshi Takahashi",
-        "status": null,
+        "status": "processed",
         "likely_foia": null,
         "files": [],
-        "delivered": "none"
+        "delivered": "portal"
+      },
+      {
+        "foia": 225978,
+        "from_user": 9575,
+        "to_user": 99237,
+        "subject": "Your verification code",
+        "datetime": "2026-11-02T21:53:32.089457",
+        "response": true,
+        "autogenerated": false,
+        "thanks": false,
+        "full_html": false,
+        "communication": "Your confirmation code is 496840",
+        "status": "done",
+        "likely_foia": null,
+        "files": [],
+        "delivered": "portal"
       }
     ]
   },
@@ -707,7 +723,7 @@
     "embargo_status": "public",
     "datetime_submitted": "2026-11-02T17:42:30.679657",
     "datetime_done": null,
-    "datetime_updated": "2026-11-02T17:42:30.762420",
+    "datetime_updated": "2026-11-02T21:19:14.066214",
     "date_due": "2026-11-05",
     "date_embargo": null,
     "date_followup": "2027-01-31",
@@ -732,6 +748,22 @@
         "likely_foia": null,
         "files": [],
         "delivered": "portal"
+      },
+      {
+        "foia": 225959,
+        "from_user": null,
+        "to_user": null,
+        "subject": "Chatham County - ORR-2205-2026: Confirmation",
+        "datetime": "2026-11-02T21:19:14.066214",
+        "response": true,
+        "autogenerated": false,
+        "thanks": false,
+        "full_html": false,
+        "communication": "Dear Glen Wasserstein, \r\n  \r\n We are in receipt of your open records request you submitted on 11/02/2026.  Please consider this our initial response.  \r\n  \r\n Our office is in the process of retrieving responsive records with regards to your request. \r\n  \r\n However, we need additional time to produce the documents. We anticipate providing you with copies of the documents responsive to your request no later than 30 days from the date of your request. Please be aware that we are not required to answer any questions under the Open Records Act. \r\n  \r\n Pursuant to O.C.G.A. \u00a7 50-18-71(d), the County is authorized to collect a \u201creasonable charge\u201d for producing the records. Once we have gathered these records, we will advise you of any costs before they are incurred. \r\n  \r\n Your request reference number is Request Number: ORR-2205-2026 and your security key is CE6E79FF.\r\n\r\nPlease have the security key and reference number available when communicating with our staff regarding your request.\r\n\r\nThank you,\r\n\r\nChatham County\r\nP.O. Box 8161\r\nSavannah, GA 31412\r\n\r\nhttps://url4102.request.justfoia.com/ls/click?upn=u001.nrfdmL-2B1UhWpB4V2ArB2scr-2B0z-2FGfFV67zAlAeNVjPBd80WdMB7O-2FRNJIYzAv6qq1kR1_7zH08zk2qdWJ1wfBFIu4hji-2FdKpPQSojxpXxEQ3BgIYdolyBG9NEiKJKDlm47YKyADA7LByFFeZ3-2Fb8-2FOy1Mh3GsOzmDTN6-2Bto-2F2iosgBLO7oLe4gIsvbTP-2BFHQ0dNr0WGMcIJedgAxvcjNQmrkFcmYpZzYPkJqPIB2fAEuFy-2BcN62AWI4Y7aRGdDHw7iu9T7bBaOYdjkekZU8CRGToRyScYyM9xvtPJxojztafApNb1-2BxeCeIFoF1gPEMGpR5eGQZy-2F6xLGNYhDwvR-2B7aOd51MwWspRONmgTsu4Ty3TR-2B6BO9ojBlbUZtE04ESo2ozF\r\n\r\nFull Request Details:\r\nField NameResponse \r\n RequesterNameGlen Wasserstein \r\n BusinessAgencyNameN/A \r\n RequesterPhone844-682-5762 \r\n RequesterEmail225959-44729686@requests.muckrock.com \r\n RequesterAddressMuckRock News DEPT MR 225959, 263 Huntington Ave \r\n RequesterCityBoston \r\n RequesterStateMA \r\n RequesterZip02115 \r\n MediaRequestNotMediaRequest \r\n DepartmentOfficeNameGeneralInquiries \r\n CountyRequestDescriptionTo Whom It May Concern: Pursuant to the Georgia Open Records Act, I hereby request the following records: To the Custodian of Records, Chatham County Sheriff's Office: Under the Georgia Open Records Act, O.C.G.A. Section 50-18-70 et seq., I request the following existing records, in the public interest and not for any commercial purpose. I request the facility's daily jail booking log (booking register / arrest blotter) for every individual booked into the Chatham County Detention Center from January 1, 2025 to the present. For each booking, I request the existing fields your jail-management system already records: 1. Booking or system number; 2. Name; 3. Date and time of booking; 4. Date of release; 5. The charge(s) or hold(s) associated with the booking, as recorded in the charges field; 6. Arresting or committing agency; 7. Warrant or reference number. This is the facility's routine booking log -- ordinary public booking information -- and I request it in the existing electronic format your jail-management system exports (a spreadsheet, CSV, or delimited file is preferred; I do not require a formatted report). O.C.G.A. Section 50-18-71(f) requires electronic records to be produced in the electronic format in which they are maintained. Producing an export or query of data already maintained in your system is retrieval of an existing record, not the creation of a new one. As a public-interest, non-commercial request, I ask for a fee waiver or reduction; if a fee applies, please provide an itemized written estimate before incurring any cost, and I will respond promptly, including by narrowing the date range if that helps. If any portion is withheld, please state in writing the specific legal basis as O.C.G.A. Section 50-18-71(d) requires, and please preserve all responsive records pending resolution. Thank you. Glen Wasserstein (929) 786-1863 The requested documents will be made available to the general public, and this request is not being made for commercial purposes. In the event that there are fees, I would be grateful if you would inform me of the total charges in advance of fulfilling my request. I would prefer the request filled electronically, by e-mail attachment if available or CD-ROM if not. Thank you in advance for your anticipated cooperation in this matter. I look forward to receiving your response to this request within 3 business days, as the statute requires. Sincerely, Glen Wasserstein Upload documents directly: https://url4102.request.justfoia.com/ls/click?upn=u001.nrfdmL-2B1UhWpB4V2ArB2sX-2FUeO8LEWs7vXOgof-2Bk4pASrB1zzVHfAZM2BXdYTayPj1Xt-2Bm06015NcZ6K-2Fw6YEA-3D-3DBjfR_7zH08zk2qdWJ1wfBFIu4hji-2FdKpPQSojxpXxEQ3BgIYdolyBG9NEiKJKDlm47YKyADA7LByFFeZ3-2Fb8-2FOy1Mh3GsOzmDTN6-2Bto-2F2iosgBLO7oLe4gIsvbTP-2BFHQ0dNr0WGMcIJedgAxvcjNQmrkFcmYpZzYPkJqPIB2fAEuFy-2BclvoIugbso-2FCIBjLmILaqhowV-2FcafkyE6rgezUoFSR4rJhh-2B2fy0wZG5PaNjzHSqOkx5pmVvqUTFK8AGTxgPsEP627Exo34hCAydFDnE8S50EmqxAgMDfKhuz714TdYX8pYEiRSv-2BHYjqp4PuPT3Yt \r\n DeliveryMethodElectronic\n",
+        "status": null,
+        "likely_foia": 225959,
+        "files": [],
+        "delivered": "email"
       }
     ]
   },
@@ -1071,14 +1103,14 @@
     "user": 169807,
     "agency": 116,
     "slug": "hydroxyprogesterone-faers-files",
-    "status": "submitted",
+    "status": "ack",
     "embargo_status": "public",
     "datetime_submitted": "2026-11-02T16:12:07.251808",
     "datetime_done": null,
     "datetime_updated": "2026-11-02T16:12:07.336501",
     "date_due": "2026-12-02",
     "date_embargo": null,
-    "date_followup": null,
+    "date_followup": "2026-12-02",
     "days_until_due": null,
     "disable_autofollowups": false,
     "price": "0.00",
@@ -1110,7 +1142,7 @@
             "pages": 0
           }
         ],
-        "delivered": "none"
+        "delivered": "email"
       }
     ]
   },
@@ -1126,7 +1158,7 @@
     "embargo_status": "public",
     "datetime_submitted": "2026-11-02T15:31:49.319774",
     "datetime_done": null,
-    "datetime_updated": "2026-11-02T15:31:49.596322",
+    "datetime_updated": "2026-11-02T21:17:12.045693",
     "date_due": "2026-11-10",
     "date_embargo": null,
     "date_followup": "2027-01-31",
@@ -1151,6 +1183,22 @@
         "likely_foia": null,
         "files": [],
         "delivered": "portal"
+      },
+      {
+        "foia": 225918,
+        "from_user": 28519,
+        "to_user": null,
+        "subject": "University of Nevada, Reno - Public Records Request PRR-2026-476: Confirmation",
+        "datetime": "2026-11-02T21:17:12.045693",
+        "response": true,
+        "autogenerated": false,
+        "thanks": false,
+        "full_html": false,
+        "communication": "Dear Requestor,\r\n\r\nThank you for submitting a request for records on 11/02/2026.\r\n\r\nYour request reference number is: Request Number: PRR-2026-476 \r\n  \r\n Your security key is: EA5B78DE\r\n\r\nPlease have the security key and reference number available when communicating with our staff regarding your request.\r\n\r\nThank you, \r\n  \r\n  \r\nUniversity of Nevada, Reno\r\n1664 N. Virginia Street, MS 0208\r\nReno, NV 89557\n",
+        "status": null,
+        "likely_foia": 225918,
+        "files": [],
+        "delivered": "email"
       }
     ]
   },
@@ -1510,14 +1558,14 @@
     "user": 87355,
     "agency": 14,
     "slug": "us-embassy-london-renunciation-appointment-demand-and-waitlist-statistics-whole-2024-october-2026",
-    "status": "submitted",
+    "status": "processed",
     "embargo_status": "public",
     "datetime_submitted": "2026-11-02T10:57:54.852239",
     "datetime_done": null,
-    "datetime_updated": "2026-11-02T21:33:06.133753",
+    "datetime_updated": "2026-11-02T21:43:18.225324",
     "date_due": "2026-12-02",
     "date_embargo": null,
-    "date_followup": null,
+    "date_followup": "2027-02-01",
     "days_until_due": null,
     "disable_autofollowups": false,
     "price": "0.00",
@@ -1535,10 +1583,10 @@
         "thanks": false,
         "full_html": false,
         "communication": "Dear FOIA Officer:\r\n\r\nPursuant to the Freedom of Information Act, 5 U.S.C. \u00a7 552, I request records maintained by the U.S. Department of State, including the Bureau of Consular Affairs and the American Citizen Services section of the U.S. Embassy in London, concerning demand for services relating to formal renunciation of U.S. nationality under INA \u00a7 349(a)(5), 8 U.S.C. \u00a7 1481(a)(5).\r\n\r\n**Date range:** January 1, 2024, through October 31, 2026.\r\n\r\nI request existing reports, spreadsheets, databases, dashboards, statistical summaries, appointment-management records, and routinely generated exports containing any of the following information:\r\n\r\n1. **Initial requests:** The number of individuals newly requesting renunciation appointments or joining a renunciation appointment waitlist, preferably broken down by calendar month.\r\n\r\n2. **Waitlist size:** The number of individuals awaiting renunciation appointments, including any existing monthly or periodic snapshots of the waiting list.\r\n\r\n3. **Appointment offers and scheduling:** The number of renunciation appointments offered, scheduled, cancelled, or rescheduled, preferably broken down by calendar month.\r\n\r\n4. **Completed appointments:** The number of completed in-person renunciation appointments or oaths of renunciation, preferably broken down by calendar month.\r\n\r\n5. **Waiting times:** Existing reports or summaries showing the time between an individual's initial appointment request or waitlist registration and the date an appointment was offered or held.\r\n\r\n6. **Appointment capacity:** Existing statistical reports showing the number of renunciation appointment slots allocated or made available during the requested period.\r\n\r\nThe purpose of this request is to examine changes in demand and appointment processing before and after April 13, 2026, when the administrative processing fee for a Certificate of Loss of Nationality decreased from $2,350 to $450.\r\n\r\n**Scope and format**\r\n\r\nI seek existing records, not newly prepared statistical analyses. Where monthly aggregates are unavailable, please provide the closest available periodic reports or existing electronic tabular records containing the requested information.\r\n\r\nI do not seek individuals' names, contact information, identification numbers, individual case files, or the contents of individual correspondence. If records contain personally identifiable information, please release reasonably segregable aggregate data or non-identifying fields.\r\n\r\nWhere available, please distinguish formal renunciations under INA \u00a7 349(a)(5) from other relinquishment requests under INA \u00a7 349(a)(1)\u2013(4).\r\n\r\nPlease provide responsive records electronically, preferably in their native formats, including CSV or XLSX for tabular records.\r\n\r\nIf some requested categories are not maintained, please process the remaining categories independently rather than treating the request as indivisible. If clarification or narrowing would materially facilitate processing, please contact me before making an adverse determination.\r\n\r\n**Fees and public interest**\r\n\r\nThis request is noncommercial. The information concerns public access to a federal consular service and the effects of a substantial change in government fees. I intend to make responsive records publicly available through MuckRock.\r\n\r\nI request a waiver of applicable processing fees on public-interest grounds. If a waiver is denied, I agree to pay up to $25 in applicable fees and request advance notification before incurring any greater amount.\r\n\r\nPlease acknowledge receipt, assign a tracking number, and provide any records available for release on a rolling basis.\r\n\r\nThank you for your consideration,\r\nNicholas Lee",
-        "status": null,
+        "status": "processed",
         "likely_foia": null,
         "files": [],
-        "delivered": "none"
+        "delivered": "portal"
       },
       {
         "foia": 225907,
@@ -1550,11 +1598,11 @@
         "autogenerated": false,
         "thanks": false,
         "full_html": false,
-        "communication": "Dear Nicholas  Lee, \n\nYou've successfully created a PAL account. You will receive another email with a link to create your password. \n\nUsername:\u00a0225907-43561388@requests.muckrock.com \n\nAny previously submitted requests to U.S. Department of State have been saved to your profile.\nRegards, \nU.S. Department of State",
-        "status": null,
+        "communication": "Dear Nicholas  Lee, \r\n\r\nYou've successfully created a PAL account. You will receive another email with a link to create your password. \r\n\r\nUsername:\u00a0225907-43561388@requests.muckrock.com \r\n\r\nAny previously submitted requests to U.S. Department of State have been saved to your profile.\r\nRegards, \r\nU.S. Department of State",
+        "status": "done",
         "likely_foia": null,
         "files": [],
-        "delivered": "email"
+        "delivered": "portal"
       },
       {
         "foia": 225907,
@@ -1566,7 +1614,23 @@
         "autogenerated": false,
         "thanks": false,
         "full_html": false,
-        "communication": "Your password recovery link: \nhttps://pal.foia.state.gov/App/SetPassword.aspx?aun=dbY77GB4eFcjLVwQMaRWbPaXlaqLSLBACHDlMgdq9xc= (https://pal.foia.state.gov/App/SetPassword.aspx?aun=dbY77GB4eFcjLVwQMaRWbPaXlaqLSLBACHDlMgdq9xc=) \n\nClick the link above to return to\u00a0U.S. Department of State PAL and create your new password.\n",
+        "communication": "Your password recovery link: \r\nhttps://pal.foia.state.gov/App/SetPassword.aspx?aun=dbY77GB4eFcjLVwQMaRWbPaXlaqLSLBACHDlMgdq9xc= (https://pal.foia.state.gov/App/SetPassword.aspx?aun=dbY77GB4eFcjLVwQMaRWbPaXlaqLSLBACHDlMgdq9xc=) \r\n\r\nClick the link above to return to\u00a0U.S. Department of State PAL and create your new password.",
+        "status": "done",
+        "likely_foia": null,
+        "files": [],
+        "delivered": "portal"
+      },
+      {
+        "foia": 225907,
+        "from_user": 9615,
+        "to_user": 87355,
+        "subject": "Ref: F-2027-02878",
+        "datetime": "2026-11-02T21:43:18.225324",
+        "response": true,
+        "autogenerated": false,
+        "thanks": false,
+        "full_html": false,
+        "communication": "Dear Nicholas Lee: \n\nThis acknowledges you information access request to the U.S. Department of State.\u00a0 Your request number\u00a0is\u00a0F-2027-02878.\u00a0You will find additional information such as the date your request was received and your request status in your electronic portal page under this case number. \n\nIf you requested expedited processing, a fee waiver, or if unusual circumstances apply, you will receive additional correspondence from us. \nFor further assistance or to discuss any aspect of your request, you may contact our FOIA Requester Service Center or our FOIA Public Liaison via email to FOIAStatus@state.gov or by telephone at (202) 261-8484.\nRegards, \nFOIA Case Processing Office \nInformation Access Programs Directorate \nU.S. Department of State",
         "status": null,
         "likely_foia": null,
         "files": [],
@@ -1586,7 +1650,7 @@
     "embargo_status": "public",
     "datetime_submitted": "2026-11-02T10:56:34.153962",
     "datetime_done": null,
-    "datetime_updated": "2026-11-02T21:31:27",
+    "datetime_updated": "2026-11-02T21:39:12.232040",
     "date_due": "2026-12-02",
     "date_embargo": null,
     "date_followup": "2027-02-01",
@@ -1643,6 +1707,22 @@
         "likely_foia": null,
         "files": [],
         "delivered": "portal"
+      },
+      {
+        "foia": 225906,
+        "from_user": 9615,
+        "to_user": 87355,
+        "subject": "Ref: F-2027-02877",
+        "datetime": "2026-11-02T21:39:12.232040",
+        "response": true,
+        "autogenerated": false,
+        "thanks": false,
+        "full_html": false,
+        "communication": "Dear Nicholas Lee: \n\nThis acknowledges you information access request to the U.S. Department of State.\u00a0 Your request number\u00a0is\u00a0F-2027-02877.\u00a0You will find additional information such as the date your request was received and your request status in your electronic portal page under this case number. \n\nIf you requested expedited processing, a fee waiver, or if unusual circumstances apply, you will receive additional correspondence from us. \nFor further assistance or to discuss any aspect of your request, you may contact our FOIA Requester Service Center or our FOIA Public Liaison via email to FOIAStatus@state.gov or by telephone at (202) 261-8484.\nRegards, \nFOIA Case Processing Office \nInformation Access Programs Directorate \nU.S. Department of State",
+        "status": null,
+        "likely_foia": null,
+        "files": [],
+        "delivered": "email"
       }
     ]
   },

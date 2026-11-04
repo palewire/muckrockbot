@@ -4983,7 +4983,7 @@
         "thanks": false,
         "full_html": false,
         "communication": "Login.gov logo\r\n\r\n*****************************\r\nDelete your Login.gov account\r\n*****************************\r\n\r\nYour waiting period of 24 hours has ended. Please complete step\r\n2 of the process.\r\n\r\nIf you\u2019ve been unable to locate your authentication methods,\r\nselect \u201cconfirm account deletion\u201d to delete your Login.gov \r\n( https://secure.login.gov ) account.\r\n\r\nIn the future, if you need to access participating government\r\nwebsites who use Login.gov ( https://secure.login.gov ), you can\r\ncreate a new Login.gov ( https://secure.login.gov ) account using\r\nthe same email address after your account is deleted.\r\n\r\nConfirm account deletion \r\n( https://secure.login.gov/en/account_reset/delete_account?token=6321ef10-ff33-4f5e-89fa-0f3a41058283 )\r\n\r\n\r\nhttps://secure.login.gov/en/account_reset/delete_account?token=6321ef10-ff33-4f5e-89fa-0f3a41058283\r\n\r\nThis link will expire in 24 hours.\r\n\r\nIf you don\u2019t want to delete your account, please cancel \r\n( https://secure.login.gov/en/account_reset/cancel?token=4f13bd17-ae8c-4153-9eb2-52e35202e0e9 )\r\n.\r\n\r\nPlease do not reply\r\nto this message.\r\nIf you need help,\r\nvisit login.gov/help/ ( https://www.login.gov/help/ )\r\n\r\nAbout Login.gov \r\n( https://www.login.gov/ )\r\n|\r\nPrivacy policy \r\n( https://www.login.gov/policy/ )\r\n\r\nSent at\n2026-11-04T02:55:00.484551Z",
-        "status": null,
+        "status": "done",
         "likely_foia": null,
         "files": [
           {

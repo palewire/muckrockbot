@@ -1256,7 +1256,7 @@
         "thanks": false,
         "full_html": false,
         "communication": "Good morning, \nAs submitted, your FOIA request does not contain sufficient information for us to determine your proper fee category. Although you indicated you are a journalism student with the University of Nevada, Reno (UNR), you did not use a @unr.edu email address when submitting your request.  As such we have no way to verify that you are affiliated with UNR.  We therefore are unable to begin processing your request at this time. \nIf you wish to pursue your request, please provide documentation verifying that you are a journalism student with UNR.  For example, a copy of your student ID copy or a letter from your professor on university letterhead confirming enrollment and explaining how the release of the requested records will further the scholarly research goals of UNR. \nIn accordance with 45 CFR \u00a7 5.24(c), if  we do not receive your written response clarifying these points within 20 workdays we will presume that you are no longer interested in pursuing your request and will close our file on this matter. \nSincerely,\n",
-        "status": null,
+        "status": "fix",
         "likely_foia": null,
         "files": [],
         "delivered": "email"
@@ -1272,7 +1272,7 @@
         "thanks": false,
         "full_html": false,
         "communication": "Please find attached your request acknowledgement letter for Case # FDA-FOIA-2026-10714.\n",
-        "status": null,
+        "status": "processed",
         "likely_foia": null,
         "files": [
           {

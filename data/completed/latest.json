@@ -3515,7 +3515,7 @@
     "status": "done",
     "embargo_status": "public",
     "datetime_submitted": "2026-10-23T08:19:50.816142",
-    "datetime_done": "2026-11-04T07:24:13.539650",
+    "datetime_done": "2026-11-04T07:15:10.168569",
     "datetime_updated": "2026-11-04T07:24:13.539650",
     "date_due": "2026-11-06",
     "date_embargo": null,
@@ -3569,7 +3569,7 @@
         "thanks": false,
         "full_html": false,
         "communication": "Hello,\r\n\r\nThe request Request Number: NPD-1188-2026 has been completed.\r\n\nThank you,\r\nJustFOIA",
-        "status": null,
+        "status": "done",
         "likely_foia": null,
         "files": [],
         "delivered": "email"

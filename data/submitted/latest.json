@@ -247,18 +247,18 @@
     "user": 180528,
     "agency": 174,
     "slug": "bpd-basic-data-request-122022",
-    "status": "submitted",
+    "status": "processed",
     "embargo_status": "public",
     "datetime_submitted": "2026-11-04T15:23:51.510169",
     "datetime_done": null,
-    "datetime_updated": "2026-11-04T15:23:51.599768",
+    "datetime_updated": "2026-11-04T21:40:18.132791",
     "date_due": "2026-11-19",
     "date_embargo": null,
-    "date_followup": null,
+    "date_followup": "2027-02-03",
     "days_until_due": null,
     "disable_autofollowups": false,
     "price": "0.00",
-    "tracking_id": "",
+    "tracking_id": "B-2026-3286",
     "tags": [],
     "communications": [
       {
@@ -272,10 +272,26 @@
         "thanks": false,
         "full_html": false,
         "communication": "To Whom It May Concern:\r\n\r\nPursuant to the Massachusetts Public Records Law, I hereby request the following records:\r\n\r\nTo Whom It May Concern:\r\n\r\nPursuant to the Massachusetts Public Records Law, I hereby request the following records:\r\n\r\n11/1/2026\r\nDear Records Custodian:\r\n\r\nThis is a public records request pursuant to Mass. Gen. Laws ch. 66, \u00a7 10A. I hereby request the following records.\r\n\r\nI hereby request an excel/CSV extraction containing records of the following fields of information for all Boston Police Department employees from 12/1/2022 to 1/1/2023. Please include the following fields of information:\r\n \r\nEmployee first name\r\nEmployee last name\r\nEmployee middle name\r\nBadge Number\r\n\r\nI understand that you are not required to create a new public record to comply with my request, see, e.g., ch. 66, \u00a76A(d), however, extraction of data from a database or electronic record system does not constitute creating a new record. See Att\u2019y Gen. v. Dist. Att\u2019y for Plymouth Dist., 484 Mass. 260, 275 (2021) (\u201c[W]here public records are in electronic form, . . . a public records request that requires a government entity to search its electronic database to extract requested data does not mean that the extracted data constitute the creation of a new record under the public records law.\u201d); see also 950 Mass. Code Regs. 32.07(1)(f).\r\n\r\nPlease produce the records in an electronically-accessible format, including for screen readers, excel, or CSV. See 950 Mass. Code. Regs. 32.04(5)(d). Files that are not accessible to screen readers include, for example, .pdf files or physical documents.\r\n\r\nI request fees be waived as my request is in the public interest. See ch. 66, \u00a7 10(d)(v); 950 Mass. Code Regs. 32.07(k). \u201cAll agencies and municipalities are strongly urged to waive fees associated with access to public records.\u201d This request will contribute to the public\u2019s understanding of the Boston Police Department and is not in my commercial interest. Namely, these records will be made available to the public on Muckrock.com and will be used to update the Boston Police Index, a long-term community collaboration aimed to enhance transparency and accountability of the Boston Police Department through meticulous data collection and analysis. Thus, disclosure of these records will significantly contribute to the public\u2019s understanding of the Boston Police Department\u2019s operations.\r\n\r\nIf you do not waive the fees associated with my request, please provide a written, itemized, good faith estimate and explanation of the fees prior to fulfilling my request. See 950 Mass. Code Regs. 32.0792)(b); see also ch. 66, \u00a7 10(e) (\u201cA records access officer shall not charge a fee for a public record unless the records access officer responded to the requestor within 10 business days.\u201d).\r\n\r\nIf you believe any of the records I have requested are exempt from disclosure, please identify both: (1) the records, categories of records, or portions of the records you intend to withhold; and (2) the specific reasons for such withholding, including the specific exemption you are relying on. See ch. 66, \u00a7 10(b)(iv).\r\n\r\nIf necessary to comply with my request, I welcome your suggested modifications pursuant to ch. 66, \u00a7 10(b)(vii) and 950 Mass. Code Regs. 32.06(2)(g). I am available to discuss any proposed modifications at (475)-243-3786 and mchristi@bu.edu\r\n\r\nThank you in advance for your time and attention to this matter. I look forward to receiving your response within 10 calendar days. See ch. 66, \u00a7 10(a).\r\n\r\nSincerely,\r\nMichael Christie\r\nBU SPARK!\r\n\r\nI also request that, if appropriate, fees be waived as we believe this request is in the public interest, as suggested but not stipulated by the recommendations of the Massachusetts Supervisor of Public Records. The requested documents will be made available to the general public free of charge as part of the public information service at MuckRock.com, and is not made for commercial usage.\r\n\r\nI expect the request to be filled in an accessible format, including for screen readers, which provide text-to-speech for persons unable to read print. Files that are not accessible to screen readers include, for example, .pdf image files as well as physical documents.\r\n\r\nIn the event that there are fees, I would be grateful if you would inform me of the total charges in advance of fulfilling my request. I would prefer the request filled electronically, by e-mail attachment if available or CD-ROM if not.\r\n\r\nThank you in advance for your anticipated cooperation in this matter. I look forward to receiving your response to this request within 10 business days, as the statute requires.\r\n\r\nSincerely,\r\n\r\nada sussman",
-        "status": null,
+        "status": "processed",
         "likely_foia": null,
         "files": [],
-        "delivered": "none"
+        "delivered": "portal"
+      },
+      {
+        "foia": 226110,
+        "from_user": 9560,
+        "to_user": 180528,
+        "subject": "Boston Police Department - Police Department Requests B-2026-3286: Confirmation",
+        "datetime": "2026-11-04T21:40:18.132791",
+        "response": true,
+        "autogenerated": false,
+        "thanks": false,
+        "full_html": false,
+        "communication": "Dear Requester, \r\n  \r\n Thank you for submitting a Police Department Requests on 11/05/2026. \r\n  \r\n Your Request Reference Number is: Request Number: B-2026-3286 and your Security Key is: 6BB3D98A. \r\n  \r\n Please have this information available when communicating with our staff regarding your request. \r\n  \r\n  \r\n Thank you,  \r\n  \r\n \r\nBoston Police Department \r\n  \r\n 1 Schroeder Plaza\r\nBoston, MA 02120 \r\n  \r\n (617) 343 - 6660",
+        "status": "processed",
+        "likely_foia": null,
+        "files": [],
+        "delivered": "portal"
       }
     ]
   },
@@ -287,18 +303,18 @@
     "user": 180528,
     "agency": 174,
     "slug": "bpd-basic-data-request-112022",
-    "status": "submitted",
+    "status": "processed",
     "embargo_status": "public",
     "datetime_submitted": "2026-11-04T15:23:07.929832",
     "datetime_done": null,
-    "datetime_updated": "2026-11-04T15:23:08.083933",
+    "datetime_updated": "2026-11-04T21:39:16.060724",
     "date_due": "2026-11-19",
     "date_embargo": null,
-    "date_followup": null,
+    "date_followup": "2027-02-03",
     "days_until_due": null,
     "disable_autofollowups": false,
     "price": "0.00",
-    "tracking_id": "",
+    "tracking_id": "B-2026-3285",
     "tags": [],
     "communications": [
       {
@@ -312,10 +328,26 @@
         "thanks": false,
         "full_html": false,
         "communication": "To Whom It May Concern:\r\n\r\nPursuant to the Massachusetts Public Records Law, I hereby request the following records:\r\n\r\nTo Whom It May Concern:\r\n\r\nPursuant to the Massachusetts Public Records Law, I hereby request the following records:\r\n\r\n11/1/2026\r\nDear Records Custodian:\r\n\r\nThis is a public records request pursuant to Mass. Gen. Laws ch. 66, \u00a7 10A. I hereby request the following records.\r\n\r\nI hereby request an excel/CSV extraction containing records of the following fields of information for all Boston Police Department employees from 11/1/2022 to 12/1/2022. Please include the following fields of information:\r\n \r\nEmployee first name\r\nEmployee last name\r\nEmployee middle name\r\nBadge Number\r\n\r\nI understand that you are not required to create a new public record to comply with my request, see, e.g., ch. 66, \u00a76A(d), however, extraction of data from a database or electronic record system does not constitute creating a new record. See Att\u2019y Gen. v. Dist. Att\u2019y for Plymouth Dist., 484 Mass. 260, 275 (2021) (\u201c[W]here public records are in electronic form, . . . a public records request that requires a government entity to search its electronic database to extract requested data does not mean that the extracted data constitute the creation of a new record under the public records law.\u201d); see also 950 Mass. Code Regs. 32.07(1)(f).\r\n\r\nPlease produce the records in an electronically-accessible format, including for screen readers, excel, or CSV. See 950 Mass. Code. Regs. 32.04(5)(d). Files that are not accessible to screen readers include, for example, .pdf files or physical documents.\r\n\r\nI request fees be waived as my request is in the public interest. See ch. 66, \u00a7 10(d)(v); 950 Mass. Code Regs. 32.07(k). \u201cAll agencies and municipalities are strongly urged to waive fees associated with access to public records.\u201d This request will contribute to the public\u2019s understanding of the Boston Police Department and is not in my commercial interest. Namely, these records will be made available to the public on Muckrock.com and will be used to update the Boston Police Index, a long-term community collaboration aimed to enhance transparency and accountability of the Boston Police Department through meticulous data collection and analysis. Thus, disclosure of these records will significantly contribute to the public\u2019s understanding of the Boston Police Department\u2019s operations.\r\n\r\nIf you do not waive the fees associated with my request, please provide a written, itemized, good faith estimate and explanation of the fees prior to fulfilling my request. See 950 Mass. Code Regs. 32.0792)(b); see also ch. 66, \u00a7 10(e) (\u201cA records access officer shall not charge a fee for a public record unless the records access officer responded to the requestor within 10 business days.\u201d).\r\n\r\nIf you believe any of the records I have requested are exempt from disclosure, please identify both: (1) the records, categories of records, or portions of the records you intend to withhold; and (2) the specific reasons for such withholding, including the specific exemption you are relying on. See ch. 66, \u00a7 10(b)(iv).\r\n\r\nIf necessary to comply with my request, I welcome your suggested modifications pursuant to ch. 66, \u00a7 10(b)(vii) and 950 Mass. Code Regs. 32.06(2)(g). I am available to discuss any proposed modifications at (475)-243-3786 and mchristi@bu.edu\r\n\r\nThank you in advance for your time and attention to this matter. I look forward to receiving your response within 10 calendar days. See ch. 66, \u00a7 10(a).\r\n\r\nSincerely,\r\nMichael Christie\r\nBU SPARK!\r\n\r\nI also request that, if appropriate, fees be waived as we believe this request is in the public interest, as suggested but not stipulated by the recommendations of the Massachusetts Supervisor of Public Records. The requested documents will be made available to the general public free of charge as part of the public information service at MuckRock.com, and is not made for commercial usage.\r\n\r\nI expect the request to be filled in an accessible format, including for screen readers, which provide text-to-speech for persons unable to read print. Files that are not accessible to screen readers include, for example, .pdf image files as well as physical documents.\r\n\r\nIn the event that there are fees, I would be grateful if you would inform me of the total charges in advance of fulfilling my request. I would prefer the request filled electronically, by e-mail attachment if available or CD-ROM if not.\r\n\r\nThank you in advance for your anticipated cooperation in this matter. I look forward to receiving your response to this request within 10 business days, as the statute requires.\r\n\r\nSincerely,\r\n\r\nada sussman",
-        "status": null,
+        "status": "processed",
         "likely_foia": null,
         "files": [],
-        "delivered": "none"
+        "delivered": "portal"
+      },
+      {
+        "foia": 226109,
+        "from_user": 9560,
+        "to_user": 180528,
+        "subject": "Boston Police Department - Police Department Requests B-2026-3285: Confirmation",
+        "datetime": "2026-11-04T21:39:16.060724",
+        "response": true,
+        "autogenerated": false,
+        "thanks": false,
+        "full_html": false,
+        "communication": "Dear Requester, \r\n  \r\n Thank you for submitting a Police Department Requests on 11/05/2026. \r\n  \r\n Your Request Reference Number is: Request Number: B-2026-3285 and your Security Key is: 90E9D044. \r\n  \r\n Please have this information available when communicating with our staff regarding your request. \r\n  \r\n  \r\n Thank you,  \r\n  \r\n \r\nBoston Police Department \r\n  \r\n 1 Schroeder Plaza\r\nBoston, MA 02120 \r\n  \r\n (617) 343 - 6660",
+        "status": "processed",
+        "likely_foia": null,
+        "files": [],
+        "delivered": "portal"
       }
     ]
   },
@@ -334,7 +366,7 @@
     "datetime_updated": "2026-11-04T21:38:13.214930",
     "date_due": "2026-11-19",
     "date_embargo": null,
-    "date_followup": "2027-02-02",
+    "date_followup": "2027-02-03",
     "days_until_due": null,
     "disable_autofollowups": false,
     "price": "0.00",
@@ -367,11 +399,11 @@
         "autogenerated": false,
         "thanks": false,
         "full_html": false,
-        "communication": "Dear Requester, \r\n  \r\n Thank you for submitting a Police Department Requests on 11/05/2026. \r\n  \r\n Your Request Reference Number is: Request Number: B-2026-3284 and your Security Key is: B87B23C8. \r\n  \r\n Please have this information available when communicating with our staff regarding your request. \r\n  \r\n  \n Thank you,  \r\n  \r\n \r\nBoston Police Department \r\n  \r\n 1 Schroeder Plaza\r\nBoston, MA 02120 \r\n  \r\n (617) 343 - 6660",
-        "status": null,
+        "communication": "Dear Requester, \r\n  \r\n Thank you for submitting a Police Department Requests on 11/05/2026. \r\n  \r\n Your Request Reference Number is: Request Number: B-2026-3284 and your Security Key is: B87B23C8. \r\n  \r\n Please have this information available when communicating with our staff regarding your request. \r\n  \r\n  \r\n Thank you,  \r\n  \r\n \r\nBoston Police Department \r\n  \r\n 1 Schroeder Plaza\r\nBoston, MA 02120 \r\n  \r\n (617) 343 - 6660",
+        "status": "processed",
         "likely_foia": null,
         "files": [],
-        "delivered": "email"
+        "delivered": "portal"
       }
     ]
   },
@@ -390,7 +422,7 @@
     "datetime_updated": "2026-11-04T21:36:20.903398",
     "date_due": "2026-11-19",
     "date_embargo": null,
-    "date_followup": "2027-02-02",
+    "date_followup": "2027-02-03",
     "days_until_due": null,
     "disable_autofollowups": false,
     "price": "0.00",
@@ -423,11 +455,11 @@
         "autogenerated": false,
         "thanks": false,
         "full_html": false,
-        "communication": "Dear Requester, \r\n  \r\n Thank you for submitting a Police Department Requests on 11/05/2026. \r\n  \r\n Your Request Reference Number is: Request Number: B-2026-3283 and your Security Key is: 10108D35. \r\n  \r\n Please have this information available when communicating with our staff regarding your request. \r\n  \r\n  \n Thank you,  \r\n  \r\n \r\nBoston Police Department \r\n  \r\n 1 Schroeder Plaza\r\nBoston, MA 02120 \r\n  \r\n (617) 343 - 6660",
-        "status": null,
+        "communication": "Dear Requester, \r\n  \r\n Thank you for submitting a Police Department Requests on 11/05/2026. \r\n  \r\n Your Request Reference Number is: Request Number: B-2026-3283 and your Security Key is: 10108D35. \r\n  \r\n Please have this information available when communicating with our staff regarding your request. \r\n  \r\n  \r\n Thank you,  \r\n  \r\n \r\nBoston Police Department \r\n  \r\n 1 Schroeder Plaza\r\nBoston, MA 02120 \r\n  \r\n (617) 343 - 6660",
+        "status": "processed",
         "likely_foia": null,
         "files": [],
-        "delivered": "email"
+        "delivered": "portal"
       }
     ]
   },
@@ -446,7 +478,7 @@
     "datetime_updated": "2026-11-04T21:34:11.930730",
     "date_due": "2026-11-19",
     "date_embargo": null,
-    "date_followup": "2027-02-02",
+    "date_followup": "2027-02-03",
     "days_until_due": null,
     "disable_autofollowups": false,
     "price": "0.00",
@@ -479,11 +511,11 @@
         "autogenerated": false,
         "thanks": false,
         "full_html": false,
-        "communication": "Dear Requester, \r\n  \r\n Thank you for submitting a Police Department Requests on 11/05/2026. \r\n  \r\n Your Request Reference Number is: Request Number: B-2026-3281 and your Security Key is: 1FB980E2. \r\n  \r\n Please have this information available when communicating with our staff regarding your request. \r\n  \r\n  \n Thank you,  \r\n  \r\n \r\nBoston Police Department \r\n  \r\n 1 Schroeder Plaza\r\nBoston, MA 02120 \r\n  \r\n (617) 343 - 6660",
-        "status": null,
+        "communication": "Dear Requester, \r\n  \r\n Thank you for submitting a Police Department Requests on 11/05/2026. \r\n  \r\n Your Request Reference Number is: Request Number: B-2026-3281 and your Security Key is: 1FB980E2. \r\n  \r\n Please have this information available when communicating with our staff regarding your request. \r\n  \r\n  \r\n Thank you,  \r\n  \r\n \r\nBoston Police Department \r\n  \r\n 1 Schroeder Plaza\r\nBoston, MA 02120 \r\n  \r\n (617) 343 - 6660",
+        "status": "processed",
         "likely_foia": null,
         "files": [],
-        "delivered": "email"
+        "delivered": "portal"
       }
     ]
   },
@@ -502,7 +534,7 @@
     "datetime_updated": "2026-11-04T21:35:23.975217",
     "date_due": "2026-11-19",
     "date_embargo": null,
-    "date_followup": "2027-02-02",
+    "date_followup": "2027-02-03",
     "days_until_due": null,
     "disable_autofollowups": false,
     "price": "0.00",
@@ -535,11 +567,11 @@
         "autogenerated": false,
         "thanks": false,
         "full_html": false,
-        "communication": "Dear Requester, \r\n  \r\n Thank you for submitting a Police Department Requests on 11/05/2026. \r\n  \r\n Your Request Reference Number is: Request Number: B-2026-3282 and your Security Key is: 847E07B2. \r\n  \r\n Please have this information available when communicating with our staff regarding your request. \r\n  \r\n  \n Thank you,  \r\n  \r\n \r\nBoston Police Department \r\n  \r\n 1 Schroeder Plaza\r\nBoston, MA 02120 \r\n  \r\n (617) 343 - 6660",
-        "status": null,
+        "communication": "Dear Requester, \r\n  \r\n Thank you for submitting a Police Department Requests on 11/05/2026. \r\n  \r\n Your Request Reference Number is: Request Number: B-2026-3282 and your Security Key is: 847E07B2. \r\n  \r\n Please have this information available when communicating with our staff regarding your request. \r\n  \r\n  \r\n Thank you,  \r\n  \r\n \r\nBoston Police Department \r\n  \r\n 1 Schroeder Plaza\r\nBoston, MA 02120 \r\n  \r\n (617) 343 - 6660",
+        "status": "processed",
         "likely_foia": null,
         "files": [],
-        "delivered": "email"
+        "delivered": "portal"
       }
     ]
   },
@@ -558,7 +590,7 @@
     "datetime_updated": "2026-11-04T21:32:16.032886",
     "date_due": "2026-11-19",
     "date_embargo": null,
-    "date_followup": "2027-02-02",
+    "date_followup": "2027-02-03",
     "days_until_due": null,
     "disable_autofollowups": false,
     "price": "0.00",
@@ -591,11 +623,11 @@
         "autogenerated": false,
         "thanks": false,
         "full_html": false,
-        "communication": "Dear Requester, \r\n  \r\n Thank you for submitting a Police Department Requests on 11/05/2026. \r\n  \r\n Your Request Reference Number is: Request Number: B-2026-3280 and your Security Key is: 43C5188E. \r\n  \r\n Please have this information available when communicating with our staff regarding your request. \r\n  \r\n  \n Thank you,  \r\n  \r\n \r\nBoston Police Department \r\n  \r\n 1 Schroeder Plaza\r\nBoston, MA 02120 \r\n  \r\n (617) 343 - 6660",
-        "status": null,
+        "communication": "Dear Requester, \r\n  \r\n Thank you for submitting a Police Department Requests on 11/05/2026. \r\n  \r\n Your Request Reference Number is: Request Number: B-2026-3280 and your Security Key is: 43C5188E. \r\n  \r\n Please have this information available when communicating with our staff regarding your request. \r\n  \r\n  \r\n Thank you,  \r\n  \r\n \r\nBoston Police Department \r\n  \r\n 1 Schroeder Plaza\r\nBoston, MA 02120 \r\n  \r\n (617) 343 - 6660",
+        "status": "processed",
         "likely_foia": null,
         "files": [],
-        "delivered": "email"
+        "delivered": "portal"
       }
     ]
   },
@@ -614,7 +646,7 @@
     "datetime_updated": "2026-11-04T21:29:12.148167",
     "date_due": "2026-11-19",
     "date_embargo": null,
-    "date_followup": "2027-02-02",
+    "date_followup": "2027-02-03",
     "days_until_due": null,
     "disable_autofollowups": false,
     "price": "0.00",
@@ -647,11 +679,11 @@
         "autogenerated": false,
         "thanks": false,
         "full_html": false,
-        "communication": "Dear Requester, \r\n  \r\n Thank you for submitting a Police Department Requests on 11/05/2026. \r\n  \r\n Your Request Reference Number is: Request Number: B-2026-3279 and your Security Key is: F3388C1B. \r\n  \r\n Please have this information available when communicating with our staff regarding your request. \r\n  \r\n  \n Thank you,  \r\n  \r\n \r\nBoston Police Department \r\n  \r\n 1 Schroeder Plaza\r\nBoston, MA 02120 \r\n  \r\n (617) 343 - 6660",
-        "status": null,
+        "communication": "Dear Requester, \r\n  \r\n Thank you for submitting a Police Department Requests on 11/05/2026. \r\n  \r\n Your Request Reference Number is: Request Number: B-2026-3279 and your Security Key is: F3388C1B. \r\n  \r\n Please have this information available when communicating with our staff regarding your request. \r\n  \r\n  \r\n Thank you,  \r\n  \r\n \r\nBoston Police Department \r\n  \r\n 1 Schroeder Plaza\r\nBoston, MA 02120 \r\n  \r\n (617) 343 - 6660",
+        "status": "processed",
         "likely_foia": null,
         "files": [],
-        "delivered": "email"
+        "delivered": "portal"
       }
     ]
   },
@@ -670,7 +702,7 @@
     "datetime_updated": "2026-11-04T21:28:16.521637",
     "date_due": "2026-11-19",
     "date_embargo": null,
-    "date_followup": "2027-02-02",
+    "date_followup": "2027-02-03",
     "days_until_due": null,
     "disable_autofollowups": false,
     "price": "0.00",
@@ -703,11 +735,11 @@
         "autogenerated": false,
         "thanks": false,
         "full_html": false,
-        "communication": "Dear Requester, \r\n  \r\n Thank you for submitting a Police Department Requests on 11/05/2026. \r\n  \r\n Your Request Reference Number is: Request Number: B-2026-3278 and your Security Key is: 269CD669. \r\n  \r\n Please have this information available when communicating with our staff regarding your request. \r\n  \r\n  \n Thank you,  \r\n  \r\n \r\nBoston Police Department \r\n  \r\n 1 Schroeder Plaza\r\nBoston, MA 02120 \r\n  \r\n (617) 343 - 6660",
-        "status": null,
+        "communication": "Dear Requester, \r\n  \r\n Thank you for submitting a Police Department Requests on 11/05/2026. \r\n  \r\n Your Request Reference Number is: Request Number: B-2026-3278 and your Security Key is: 269CD669. \r\n  \r\n Please have this information available when communicating with our staff regarding your request. \r\n  \r\n  \r\n Thank you,  \r\n  \r\n \r\nBoston Police Department \r\n  \r\n 1 Schroeder Plaza\r\nBoston, MA 02120 \r\n  \r\n (617) 343 - 6660",
+        "status": "processed",
         "likely_foia": null,
         "files": [],
-        "delivered": "email"
+        "delivered": "portal"
       }
     ]
   },
@@ -726,7 +758,7 @@
     "datetime_updated": "2026-11-04T21:20:10.600642",
     "date_due": "2026-11-19",
     "date_embargo": null,
-    "date_followup": "2027-02-02",
+    "date_followup": "2027-02-03",
     "days_until_due": null,
     "disable_autofollowups": false,
     "price": "0.00",
@@ -759,11 +791,11 @@
         "autogenerated": false,
         "thanks": false,
         "full_html": false,
-        "communication": "Dear Requester, \r\n  \r\n Thank you for submitting a Police Department Requests on 11/05/2026. \r\n  \r\n Your Request Reference Number is: Request Number: B-2026-3277 and your Security Key is: 5D2CD445. \r\n  \r\n Please have this information available when communicating with our staff regarding your request. \r\n  \r\n  \n Thank you,  \r\n  \r\n \r\nBoston Police Department \r\n  \r\n 1 Schroeder Plaza\r\nBoston, MA 02120 \r\n  \r\n (617) 343 - 6660",
-        "status": null,
+        "communication": "Dear Requester, \r\n  \r\n Thank you for submitting a Police Department Requests on 11/05/2026. \r\n  \r\n Your Request Reference Number is: Request Number: B-2026-3277 and your Security Key is: 5D2CD445. \r\n  \r\n Please have this information available when communicating with our staff regarding your request. \r\n  \r\n  \r\n Thank you,  \r\n  \r\n \r\nBoston Police Department \r\n  \r\n 1 Schroeder Plaza\r\nBoston, MA 02120 \r\n  \r\n (617) 343 - 6660",
+        "status": "processed",
         "likely_foia": null,
         "files": [],
-        "delivered": "email"
+        "delivered": "portal"
       }
     ]
   },
@@ -782,7 +814,7 @@
     "datetime_updated": "2026-11-04T21:19:18.103315",
     "date_due": "2026-11-19",
     "date_embargo": null,
-    "date_followup": "2027-02-02",
+    "date_followup": "2027-02-03",
     "days_until_due": null,
     "disable_autofollowups": false,
     "price": "0.00",
@@ -815,11 +847,11 @@
         "autogenerated": false,
         "thanks": false,
         "full_html": false,
-        "communication": "Dear Requester, \r\n  \r\n Thank you for submitting a Police Department Requests on 11/05/2026. \r\n  \r\n Your Request Reference Number is: Request Number: B-2026-3276 and your Security Key is: 8DD3DD1B. \r\n  \r\n Please have this information available when communicating with our staff regarding your request. \r\n  \r\n  \n Thank you,  \r\n  \r\n \r\nBoston Police Department \r\n  \r\n 1 Schroeder Plaza\r\nBoston, MA 02120 \r\n  \r\n (617) 343 - 6660",
-        "status": null,
+        "communication": "Dear Requester, \r\n  \r\n Thank you for submitting a Police Department Requests on 11/05/2026. \r\n  \r\n Your Request Reference Number is: Request Number: B-2026-3276 and your Security Key is: 8DD3DD1B. \r\n  \r\n Please have this information available when communicating with our staff regarding your request. \r\n  \r\n  \r\n Thank you,  \r\n  \r\n \r\nBoston Police Department \r\n  \r\n 1 Schroeder Plaza\r\nBoston, MA 02120 \r\n  \r\n (617) 343 - 6660",
+        "status": "processed",
         "likely_foia": null,
         "files": [],
-        "delivered": "email"
+        "delivered": "portal"
       }
     ]
   },
@@ -838,7 +870,7 @@
     "datetime_updated": "2026-11-04T21:17:20.876791",
     "date_due": "2026-11-19",
     "date_embargo": null,
-    "date_followup": "2027-02-02",
+    "date_followup": "2027-02-03",
     "days_until_due": null,
     "disable_autofollowups": false,
     "price": "0.00",
@@ -871,11 +903,11 @@
         "autogenerated": false,
         "thanks": false,
         "full_html": false,
-        "communication": "Dear Requester, \r\n  \r\n Thank you for submitting a Police Department Requests on 11/05/2026. \r\n  \r\n Your Request Reference Number is: Request Number: B-2026-3275 and your Security Key is: 1F66B53E. \r\n  \r\n Please have this information available when communicating with our staff regarding your request. \r\n  \r\n  \n Thank you,  \r\n  \r\n \r\nBoston Police Department \r\n  \r\n 1 Schroeder Plaza\r\nBoston, MA 02120 \r\n  \r\n (617) 343 - 6660",
-        "status": null,
+        "communication": "Dear Requester, \r\n  \r\n Thank you for submitting a Police Department Requests on 11/05/2026. \r\n  \r\n Your Request Reference Number is: Request Number: B-2026-3275 and your Security Key is: 1F66B53E. \r\n  \r\n Please have this information available when communicating with our staff regarding your request. \r\n  \r\n  \r\n Thank you,  \r\n  \r\n \r\nBoston Police Department \r\n  \r\n 1 Schroeder Plaza\r\nBoston, MA 02120 \r\n  \r\n (617) 343 - 6660",
+        "status": "processed",
         "likely_foia": null,
         "files": [],
-        "delivered": "email"
+        "delivered": "portal"
       }
     ]
   },
@@ -894,7 +926,7 @@
     "datetime_updated": "2026-11-04T21:16:17.449906",
     "date_due": "2026-11-19",
     "date_embargo": null,
-    "date_followup": "2027-02-02",
+    "date_followup": "2027-02-03",
     "days_until_due": null,
     "disable_autofollowups": false,
     "price": "0.00",
@@ -927,11 +959,11 @@
         "autogenerated": false,
         "thanks": false,
         "full_html": false,
-        "communication": "Dear Requester, \r\n  \r\n Thank you for submitting a Police Department Requests on 11/05/2026. \r\n  \r\n Your Request Reference Number is: Request Number: B-2026-3274 and your Security Key is: E0930391. \r\n  \r\n Please have this information available when communicating with our staff regarding your request. \r\n  \r\n  \n Thank you,  \r\n  \r\n \r\nBoston Police Department \r\n  \r\n 1 Schroeder Plaza\r\nBoston, MA 02120 \r\n  \r\n (617) 343 - 6660",
-        "status": null,
+        "communication": "Dear Requester, \r\n  \r\n Thank you for submitting a Police Department Requests on 11/05/2026. \r\n  \r\n Your Request Reference Number is: Request Number: B-2026-3274 and your Security Key is: E0930391. \r\n  \r\n Please have this information available when communicating with our staff regarding your request. \r\n  \r\n  \r\n Thank you,  \r\n  \r\n \r\nBoston Police Department \r\n  \r\n 1 Schroeder Plaza\r\nBoston, MA 02120 \r\n  \r\n (617) 343 - 6660",
+        "status": "processed",
         "likely_foia": null,
         "files": [],
-        "delivered": "email"
+        "delivered": "portal"
       }
     ]
   },
@@ -1006,7 +1038,7 @@
     "datetime_updated": "2026-11-04T21:13:14.925698",
     "date_due": "2026-11-19",
     "date_embargo": null,
-    "date_followup": "2027-02-02",
+    "date_followup": "2027-02-03",
     "days_until_due": null,
     "disable_autofollowups": false,
     "price": "0.00",
@@ -1039,11 +1071,11 @@
         "autogenerated": false,
         "thanks": false,
         "full_html": false,
-        "communication": "Dear Requester, \r\n  \r\n Thank you for submitting a Police Department Requests on 11/05/2026. \r\n  \r\n Your Request Reference Number is: Request Number: B-2026-3272 and your Security Key is: 60281221. \r\n  \r\n Please have this information available when communicating with our staff regarding your request. \r\n  \r\n  \n Thank you,  \r\n  \r\n \r\nBoston Police Department \r\n  \r\n 1 Schroeder Plaza\r\nBoston, MA 02120 \r\n  \r\n (617) 343 - 6660",
-        "status": null,
+        "communication": "Dear Requester, \r\n  \r\n Thank you for submitting a Police Department Requests on 11/05/2026. \r\n  \r\n Your Request Reference Number is: Request Number: B-2026-3272 and your Security Key is: 60281221. \r\n  \r\n Please have this information available when communicating with our staff regarding your request. \r\n  \r\n  \r\n Thank you,  \r\n  \r\n \r\nBoston Police Department \r\n  \r\n 1 Schroeder Plaza\r\nBoston, MA 02120 \r\n  \r\n (617) 343 - 6660",
+        "status": "processed",
         "likely_foia": null,
         "files": [],
-        "delivered": "email"
+        "delivered": "portal"
       }
     ]
   },
@@ -1062,7 +1094,7 @@
     "datetime_updated": "2026-11-04T21:12:13.131688",
     "date_due": "2026-11-19",
     "date_embargo": null,
-    "date_followup": "2027-02-02",
+    "date_followup": "2027-02-03",
     "days_until_due": null,
     "disable_autofollowups": false,
     "price": "0.00",
@@ -1095,11 +1127,11 @@
         "autogenerated": false,
         "thanks": false,
         "full_html": false,
-        "communication": "Dear Requester, \r\n  \r\n Thank you for submitting a Police Department Requests on 11/05/2026. \r\n  \r\n Your Request Reference Number is: Request Number: B-2026-3271 and your Security Key is: 14147F2E. \r\n  \r\n Please have this information available when communicating with our staff regarding your request. \r\n  \r\n  \n Thank you,  \r\n  \r\n \r\nBoston Police Department \r\n  \r\n 1 Schroeder Plaza\r\nBoston, MA 02120 \r\n  \r\n (617) 343 - 6660",
-        "status": null,
+        "communication": "Dear Requester, \r\n  \r\n Thank you for submitting a Police Department Requests on 11/05/2026. \r\n  \r\n Your Request Reference Number is: Request Number: B-2026-3271 and your Security Key is: 14147F2E. \r\n  \r\n Please have this information available when communicating with our staff regarding your request. \r\n  \r\n  \r\n Thank you,  \r\n  \r\n \r\nBoston Police Department \r\n  \r\n 1 Schroeder Plaza\r\nBoston, MA 02120 \r\n  \r\n (617) 343 - 6660",
+        "status": "processed",
         "likely_foia": null,
         "files": [],
-        "delivered": "email"
+        "delivered": "portal"
       }
     ]
   },
@@ -1118,7 +1150,7 @@
     "datetime_updated": "2026-11-04T21:11:13.079869",
     "date_due": "2026-11-19",
     "date_embargo": null,
-    "date_followup": "2027-02-02",
+    "date_followup": "2027-02-03",
     "days_until_due": null,
     "disable_autofollowups": false,
     "price": "0.00",
@@ -1151,11 +1183,11 @@
         "autogenerated": false,
         "thanks": false,
         "full_html": false,
-        "communication": "Dear Requester, \r\n  \r\n Thank you for submitting a Police Department Requests on 11/05/2026. \r\n  \r\n Your Request Reference Number is: Request Number: B-2026-3270 and your Security Key is: 12809FEF. \r\n  \r\n Please have this information available when communicating with our staff regarding your request. \r\n  \r\n  \n Thank you,  \r\n  \r\n \r\nBoston Police Department \r\n  \r\n 1 Schroeder Plaza\r\nBoston, MA 02120 \r\n  \r\n (617) 343 - 6660",
-        "status": null,
+        "communication": "Dear Requester, \r\n  \r\n Thank you for submitting a Police Department Requests on 11/05/2026. \r\n  \r\n Your Request Reference Number is: Request Number: B-2026-3270 and your Security Key is: 12809FEF. \r\n  \r\n Please have this information available when communicating with our staff regarding your request. \r\n  \r\n  \r\n Thank you,  \r\n  \r\n \r\nBoston Police Department \r\n  \r\n 1 Schroeder Plaza\r\nBoston, MA 02120 \r\n  \r\n (617) 343 - 6660",
+        "status": "processed",
         "likely_foia": null,
         "files": [],
-        "delivered": "email"
+        "delivered": "portal"
       }
     ]
   },
@@ -1174,7 +1206,7 @@
     "datetime_updated": "2026-11-04T21:09:15.608386",
     "date_due": "2026-11-19",
     "date_embargo": null,
-    "date_followup": "2027-02-02",
+    "date_followup": "2027-02-03",
     "days_until_due": null,
     "disable_autofollowups": false,
     "price": "0.00",
@@ -1207,11 +1239,11 @@
         "autogenerated": false,
         "thanks": false,
         "full_html": false,
-        "communication": "Dear Requester, \r\n  \r\n Thank you for submitting a Police Department Requests on 11/05/2026. \r\n  \r\n Your Request Reference Number is: Request Number: B-2026-3269 and your Security Key is: A2B1D836. \r\n  \r\n Please have this information available when communicating with our staff regarding your request. \r\n  \r\n  \n Thank you,  \r\n  \r\n \r\nBoston Police Department \r\n  \r\n 1 Schroeder Plaza\r\nBoston, MA 02120 \r\n  \r\n (617) 343 - 6660",
-        "status": null,
+        "communication": "Dear Requester, \r\n  \r\n Thank you for submitting a Police Department Requests on 11/05/2026. \r\n  \r\n Your Request Reference Number is: Request Number: B-2026-3269 and your Security Key is: A2B1D836. \r\n  \r\n Please have this information available when communicating with our staff regarding your request. \r\n  \r\n  \r\n Thank you,  \r\n  \r\n \r\nBoston Police Department \r\n  \r\n 1 Schroeder Plaza\r\nBoston, MA 02120 \r\n  \r\n (617) 343 - 6660",
+        "status": "processed",
         "likely_foia": null,
         "files": [],
-        "delivered": "email"
+        "delivered": "portal"
       }
     ]
   },
@@ -1377,7 +1409,7 @@
     "datetime_updated": "2026-11-04T21:00:18.141763",
     "date_due": null,
     "date_embargo": null,
-    "date_followup": "2027-02-02",
+    "date_followup": "2027-02-03",
     "days_until_due": null,
     "disable_autofollowups": false,
     "price": "0.00",
@@ -1410,11 +1442,11 @@
         "autogenerated": false,
         "thanks": false,
         "full_html": false,
-        "communication": "Dear Requestor,\r\n\r\nThank you for your submission. This message serves as formal acknowledgment of your public records request.  \r\n  \r\n In accordance with F.S.S. 119.07(1)(c), reasonable efforts will be made to determine whether the requested record exists and, if so, where it can be accessed, including consultation with relevant personnel.  \r\n  \r\n Requests are assessed in the order received. Following this assessment, and prior to fulfillment, you will be provided with an invoice if any applicable fees are identified in accordance with F.S.S. 119.07(4).  \r\n  \r\n Please note that depending on the volume and nature of requests received, your request could take a minimum of six (6) weeks before the assessment of your request begins.  \r\n  \r\n Your request reference number is Request Number: PRR-2026-4884. \r\n Your security key is C00AC231.\r\n\r\nPlease have the security key and reference number available when communicating with our staff regarding your request. \r\n \r\nThank you, \r\n  \r\n \r\n\r\nWalton County Sheriff's Office\r\n10 Sheriff Circle\r\nDefuniak Springs, FL 32433\r\n(850) 892-8186\r\n\r\n\r\nFull Request Details:\r\nField NameResponse \r\n NameMattias Jussila \r\n Email226081-84279813@requests.muckrock.com \r\n Phone844-644-5762 \r\n IAmDropdownCitizen \r\n IAmRequestingDropdownGeneral Request \r\n PreferredDeliveryMethodElectronic \r\n DescriptionTo Whom It May Concern: Pursuant to the Florida Sunshine Law, I hereby request the following records: All body-worn camera and in-car camera video recorded by Walton County Sheriff's Office deputies on Sunday, June 29, 2025, when a beachgoer reported and deputies recovered 25 bricks of suspected cocaine (marked \"Yosemite Sam\") that had washed ashore on a Walton County beach, as announced by the Sheriff's Office that day. I also request the incident report and any photographs of the packages. Digital video files are preferred. Please provide an estimate of any fees before processing if they exceed $50. The requested documents will be made available to the general public, and this request is not being made for commercial purposes. In the event that there are fees, I would be grateful if you would inform me of the total charges in advance of fulfilling my request. I would prefer the request filled electronically, by e-mail attachment if available or CD-ROM if not. Thank you in advance for your anticipated cooperation in this matter. I look forward to receiving your response to this request within 10 business days. Sincerely, Mattias Jussila Upload documents directly: https://url4102.request.justfoia.com/ls/click?upn=u001.nrfdmL-2B1UhWpB4V2ArB2sX-2FUeO8LEWs7vXOgof-2Bk4pCECoEQylsuXqVknGcRYiuHbajpk8RT-2FPqo9JgEw4VkWA-3D-3DgyRe_p5kEoXXqjGcY8Ctwwqu2tPUFIQTQwdjixsPE-2FDG-2FhsHBBjttllaVPRAerSvBlFSHvEV01Qs8aSzdcWZ9LZyaR1sVouISIvaQ6UoYZxODAysMrTlq-2Buy7lc1ZLWmP6yOldca84eMNuI5htH7f9rMgDWKjhIC6mgLG62xJeuNHriJFvCcgK12tD4hLK1ZQdEP-2BO9ZpzVN1rPDNiCEWWaQmMSKzAnhIqYMzEMGFufYpS4je-2BOY-2BZ1izLHQGt-2FwvwLyxeHmNp4Xzr5AZGX3SMcJVhBSOFcp8FOcYWKZ3N9qyq3m-2Fl-2FP71u9r75icxek0MaKx\n",
-        "status": null,
+        "communication": "Dear Requestor,\r\n\r\nThank you for your submission. This message serves as formal acknowledgment of your public records request.  \r\n  \r\n In accordance with F.S.S. 119.07(1)(c), reasonable efforts will be made to determine whether the requested record exists and, if so, where it can be accessed, including consultation with relevant personnel.  \r\n  \r\n Requests are assessed in the order received. Following this assessment, and prior to fulfillment, you will be provided with an invoice if any applicable fees are identified in accordance with F.S.S. 119.07(4).  \r\n  \r\n Please note that depending on the volume and nature of requests received, your request could take a minimum of six (6) weeks before the assessment of your request begins.  \r\n  \r\n Your request reference number is Request Number: PRR-2026-4884. \r\n Your security key is C00AC231.\r\n\r\nPlease have the security key and reference number available when communicating with our staff regarding your request. \r\n \r\nThank you, \r\n  \r\n \r\n\r\nWalton County Sheriff's Office\r\n10 Sheriff Circle\r\nDefuniak Springs, FL 32433\r\n(850) 892-8186\r\n\r\n\r\nFull Request Details:\r\nField NameResponse \r\n NameMattias Jussila \r\n Email226081-84279813@requests.muckrock.com \r\n Phone844-644-5762 \r\n IAmDropdownCitizen \r\n IAmRequestingDropdownGeneral Request \r\n PreferredDeliveryMethodElectronic \r\n DescriptionTo Whom It May Concern: Pursuant to the Florida Sunshine Law, I hereby request the following records: All body-worn camera and in-car camera video recorded by Walton County Sheriff's Office deputies on Sunday, June 29, 2025, when a beachgoer reported and deputies recovered 25 bricks of suspected cocaine (marked \"Yosemite Sam\") that had washed ashore on a Walton County beach, as announced by the Sheriff's Office that day. I also request the incident report and any photographs of the packages. Digital video files are preferred. Please provide an estimate of any fees before processing if they exceed $50. The requested documents will be made available to the general public, and this request is not being made for commercial purposes. In the event that there are fees, I would be grateful if you would inform me of the total charges in advance of fulfilling my request. I would prefer the request filled electronically, by e-mail attachment if available or CD-ROM if not. Thank you in advance for your anticipated cooperation in this matter. I look forward to receiving your response to this request within 10 business days. Sincerely, Mattias Jussila Upload documents directly: https://url4102.request.justfoia.com/ls/click?upn=u001.nrfdmL-2B1UhWpB4V2ArB2sX-2FUeO8LEWs7vXOgof-2Bk4pCECoEQylsuXqVknGcRYiuHbajpk8RT-2FPqo9JgEw4VkWA-3D-3DgyRe_p5kEoXXqjGcY8Ctwwqu2tPUFIQTQwdjixsPE-2FDG-2FhsHBBjttllaVPRAerSvBlFSHvEV01Qs8aSzdcWZ9LZyaR1sVouISIvaQ6UoYZxODAysMrTlq-2Buy7lc1ZLWmP6yOldca84eMNuI5htH7f9rMgDWKjhIC6mgLG62xJeuNHriJFvCcgK12tD4hLK1ZQdEP-2BO9ZpzVN1rPDNiCEWWaQmMSKzAnhIqYMzEMGFufYpS4je-2BOY-2BZ1izLHQGt-2FwvwLyxeHmNp4Xzr5AZGX3SMcJVhBSOFcp8FOcYWKZ3N9qyq3m-2Fl-2FP71u9r75icxek0MaKx",
+        "status": "processed",
         "likely_foia": null,
         "files": [],
-        "delivered": "email"
+        "delivered": "portal"
       }
     ]
   },
@@ -1577,7 +1609,7 @@
     "datetime_updated": "2026-11-04T20:59:11.203578",
     "date_due": "2026-11-18",
     "date_embargo": null,
-    "date_followup": "2027-02-02",
+    "date_followup": "2027-02-03",
     "days_until_due": null,
     "disable_autofollowups": false,
     "price": "0.00",
@@ -1610,11 +1642,11 @@
         "autogenerated": false,
         "thanks": false,
         "full_html": false,
-        "communication": "Dear Requester, \r\n  \r\n Thank you for submitting a Police Department Requests on 11/05/2026. \r\n  \r\n Your Request Reference Number is: Request Number: B-2026-3268 and your Security Key is: 2F650562. \r\n  \r\n Please have this information available when communicating with our staff regarding your request. \r\n  \r\n  \n Thank you,  \r\n  \r\n \r\nBoston Police Department \r\n  \r\n 1 Schroeder Plaza\r\nBoston, MA 02120 \r\n  \r\n (617) 343 - 6660",
-        "status": null,
+        "communication": "Dear Requester, \r\n  \r\n Thank you for submitting a Police Department Requests on 11/05/2026. \r\n  \r\n Your Request Reference Number is: Request Number: B-2026-3268 and your Security Key is: 2F650562. \r\n  \r\n Please have this information available when communicating with our staff regarding your request. \r\n  \r\n  \r\n Thank you,  \r\n  \r\n \r\nBoston Police Department \r\n  \r\n 1 Schroeder Plaza\r\nBoston, MA 02120 \r\n  \r\n (617) 343 - 6660",
+        "status": "processed",
         "likely_foia": null,
         "files": [],
-        "delivered": "email"
+        "delivered": "portal"
       }
     ]
   },
@@ -1633,7 +1665,7 @@
     "datetime_updated": "2026-11-04T20:57:17.118075",
     "date_due": "2026-11-18",
     "date_embargo": null,
-    "date_followup": "2027-02-02",
+    "date_followup": "2027-02-03",
     "days_until_due": null,
     "disable_autofollowups": false,
     "price": "0.00",
@@ -1666,11 +1698,11 @@
         "autogenerated": false,
         "thanks": false,
         "full_html": false,
-        "communication": "Dear Requester, \r\n  \r\n Thank you for submitting a Police Department Requests on 11/05/2026. \r\n  \r\n Your Request Reference Number is: Request Number: B-2026-3267 and your Security Key is: 8DEDE634. \r\n  \r\n Please have this information available when communicating with our staff regarding your request. \r\n  \r\n  \n Thank you,  \r\n  \r\n \r\nBoston Police Department \r\n  \r\n 1 Schroeder Plaza\r\nBoston, MA 02120 \r\n  \r\n (617) 343 - 6660",
-        "status": null,
+        "communication": "Dear Requester, \r\n  \r\n Thank you for submitting a Police Department Requests on 11/05/2026. \r\n  \r\n Your Request Reference Number is: Request Number: B-2026-3267 and your Security Key is: 8DEDE634. \r\n  \r\n Please have this information available when communicating with our staff regarding your request. \r\n  \r\n  \r\n Thank you,  \r\n  \r\n \r\nBoston Police Department \r\n  \r\n 1 Schroeder Plaza\r\nBoston, MA 02120 \r\n  \r\n (617) 343 - 6660",
+        "status": "processed",
         "likely_foia": null,
         "files": [],
-        "delivered": "email"
+        "delivered": "portal"
       }
     ]
   },
@@ -1689,7 +1721,7 @@
     "datetime_updated": "2026-11-04T20:56:14.322072",
     "date_due": "2026-11-18",
     "date_embargo": null,
-    "date_followup": "2027-02-02",
+    "date_followup": "2027-02-03",
     "days_until_due": null,
     "disable_autofollowups": false,
     "price": "0.00",
@@ -1722,11 +1754,11 @@
         "autogenerated": false,
         "thanks": false,
         "full_html": false,
-        "communication": "Dear Requester, \r\n  \r\n Thank you for submitting a Police Department Requests on 11/05/2026. \r\n  \r\n Your Request Reference Number is: Request Number: B-2026-3266 and your Security Key is: 4EBF3C55. \r\n  \r\n Please have this information available when communicating with our staff regarding your request. \r\n  \r\n  \n Thank you,  \r\n  \r\n \r\nBoston Police Department \r\n  \r\n 1 Schroeder Plaza\r\nBoston, MA 02120 \r\n  \r\n (617) 343 - 6660",
-        "status": null,
+        "communication": "Dear Requester, \r\n  \r\n Thank you for submitting a Police Department Requests on 11/05/2026. \r\n  \r\n Your Request Reference Number is: Request Number: B-2026-3266 and your Security Key is: 4EBF3C55. \r\n  \r\n Please have this information available when communicating with our staff regarding your request. \r\n  \r\n  \r\n Thank you,  \r\n  \r\n \r\nBoston Police Department \r\n  \r\n 1 Schroeder Plaza\r\nBoston, MA 02120 \r\n  \r\n (617) 343 - 6660",
+        "status": "processed",
         "likely_foia": null,
         "files": [],
-        "delivered": "email"
+        "delivered": "portal"
       }
     ]
   },
@@ -1745,7 +1777,7 @@
     "datetime_updated": "2026-11-04T20:55:17.350187",
     "date_due": "2026-11-18",
     "date_embargo": null,
-    "date_followup": "2027-02-02",
+    "date_followup": "2027-02-03",
     "days_until_due": null,
     "disable_autofollowups": false,
     "price": "0.00",
@@ -1778,11 +1810,11 @@
         "autogenerated": false,
         "thanks": false,
         "full_html": false,
-        "communication": "Dear Requester, \r\n  \r\n Thank you for submitting a Police Department Requests on 11/05/2026. \r\n  \r\n Your Request Reference Number is: Request Number: B-2026-3265 and your Security Key is: 8F2F3801. \r\n  \r\n Please have this information available when communicating with our staff regarding your request. \r\n  \r\n  \n Thank you,  \r\n  \r\n \r\nBoston Police Department \r\n  \r\n 1 Schroeder Plaza\r\nBoston, MA 02120 \r\n  \r\n (617) 343 - 6660",
-        "status": null,
+        "communication": "Dear Requester, \r\n  \r\n Thank you for submitting a Police Department Requests on 11/05/2026. \r\n  \r\n Your Request Reference Number is: Request Number: B-2026-3265 and your Security Key is: 8F2F3801. \r\n  \r\n Please have this information available when communicating with our staff regarding your request. \r\n  \r\n  \r\n Thank you,  \r\n  \r\n \r\nBoston Police Department \r\n  \r\n 1 Schroeder Plaza\r\nBoston, MA 02120 \r\n  \r\n (617) 343 - 6660",
+        "status": "processed",
         "likely_foia": null,
         "files": [],
-        "delivered": "email"
+        "delivered": "portal"
       }
     ]
   },
@@ -1801,7 +1833,7 @@
     "datetime_updated": "2026-11-04T20:53:14.758479",
     "date_due": "2026-11-18",
     "date_embargo": null,
-    "date_followup": "2027-02-02",
+    "date_followup": "2027-02-03",
     "days_until_due": null,
     "disable_autofollowups": false,
     "price": "0.00",
@@ -1834,11 +1866,11 @@
         "autogenerated": false,
         "thanks": false,
         "full_html": false,
-        "communication": "Dear Requester, \r\n  \r\n Thank you for submitting a Police Department Requests on 11/05/2026. \r\n  \r\n Your Request Reference Number is: Request Number: B-2026-3264 and your Security Key is: AD971F3C. \r\n  \r\n Please have this information available when communicating with our staff regarding your request. \r\n  \r\n  \n Thank you,  \r\n  \r\n \r\nBoston Police Department \r\n  \r\n 1 Schroeder Plaza\r\nBoston, MA 02120 \r\n  \r\n (617) 343 - 6660",
-        "status": null,
+        "communication": "Dear Requester, \r\n  \r\n Thank you for submitting a Police Department Requests on 11/05/2026. \r\n  \r\n Your Request Reference Number is: Request Number: B-2026-3264 and your Security Key is: AD971F3C. \r\n  \r\n Please have this information available when communicating with our staff regarding your request. \r\n  \r\n  \r\n Thank you,  \r\n  \r\n \r\nBoston Police Department \r\n  \r\n 1 Schroeder Plaza\r\nBoston, MA 02120 \r\n  \r\n (617) 343 - 6660",
+        "status": "processed",
         "likely_foia": null,
         "files": [],
-        "delivered": "email"
+        "delivered": "portal"
       }
     ]
   },
@@ -1857,7 +1889,7 @@
     "datetime_updated": "2026-11-04T20:52:18.760954",
     "date_due": "2026-11-18",
     "date_embargo": null,
-    "date_followup": "2027-02-02",
+    "date_followup": "2027-02-03",
     "days_until_due": null,
     "disable_autofollowups": false,
     "price": "0.00",
@@ -1890,11 +1922,11 @@
         "autogenerated": false,
         "thanks": false,
         "full_html": false,
-        "communication": "Dear Requester, \r\n  \r\n Thank you for submitting a Police Department Requests on 11/05/2026. \r\n  \r\n Your Request Reference Number is: Request Number: B-2026-3263 and your Security Key is: 37218EBF. \r\n  \r\n Please have this information available when communicating with our staff regarding your request. \r\n  \r\n  \n Thank you,  \r\n  \r\n \r\nBoston Police Department \r\n  \r\n 1 Schroeder Plaza\r\nBoston, MA 02120 \r\n  \r\n (617) 343 - 6660",
-        "status": null,
+        "communication": "Dear Requester, \r\n  \r\n Thank you for submitting a Police Department Requests on 11/05/2026. \r\n  \r\n Your Request Reference Number is: Request Number: B-2026-3263 and your Security Key is: 37218EBF. \r\n  \r\n Please have this information available when communicating with our staff regarding your request. \r\n  \r\n  \r\n Thank you,  \r\n  \r\n \r\nBoston Police Department \r\n  \r\n 1 Schroeder Plaza\r\nBoston, MA 02120 \r\n  \r\n (617) 343 - 6660",
+        "status": "processed",
         "likely_foia": null,
         "files": [],
-        "delivered": "email"
+        "delivered": "portal"
       }
     ]
   },
@@ -1913,7 +1945,7 @@
     "datetime_updated": "2026-11-04T20:51:16.094961",
     "date_due": "2026-11-18",
     "date_embargo": null,
-    "date_followup": "2027-02-02",
+    "date_followup": "2027-02-03",
     "days_until_due": null,
     "disable_autofollowups": false,
     "price": "0.00",
@@ -1946,11 +1978,11 @@
         "autogenerated": false,
         "thanks": false,
         "full_html": false,
-        "communication": "Dear Requester, \r\n  \r\n Thank you for submitting a Police Department Requests on 11/05/2026. \r\n  \r\n Your Request Reference Number is: Request Number: B-2026-3262 and your Security Key is: 0577AC1F. \r\n  \r\n Please have this information available when communicating with our staff regarding your request. \r\n  \r\n  \n Thank you,  \r\n  \r\n \r\nBoston Police Department \r\n  \r\n 1 Schroeder Plaza\r\nBoston, MA 02120 \r\n  \r\n (617) 343 - 6660",
-        "status": null,
+        "communication": "Dear Requester, \r\n  \r\n Thank you for submitting a Police Department Requests on 11/05/2026. \r\n  \r\n Your Request Reference Number is: Request Number: B-2026-3262 and your Security Key is: 0577AC1F. \r\n  \r\n Please have this information available when communicating with our staff regarding your request. \r\n  \r\n  \r\n Thank you,  \r\n  \r\n \r\nBoston Police Department \r\n  \r\n 1 Schroeder Plaza\r\nBoston, MA 02120 \r\n  \r\n (617) 343 - 6660",
+        "status": "processed",
         "likely_foia": null,
         "files": [],
-        "delivered": "email"
+        "delivered": "portal"
       }
     ]
   },
@@ -1969,7 +2001,7 @@
     "datetime_updated": "2026-11-04T20:49:16.137942",
     "date_due": "2026-11-18",
     "date_embargo": null,
-    "date_followup": "2027-02-02",
+    "date_followup": "2027-02-03",
     "days_until_due": null,
     "disable_autofollowups": false,
     "price": "0.00",
@@ -2002,11 +2034,11 @@
         "autogenerated": false,
         "thanks": false,
         "full_html": false,
-        "communication": "Dear Requester, \r\n  \r\n Thank you for submitting a Police Department Requests on 11/05/2026. \r\n  \r\n Your Request Reference Number is: Request Number: B-2026-3261 and your Security Key is: 480BF397. \r\n  \r\n Please have this information available when communicating with our staff regarding your request. \r\n  \r\n  \n Thank you,  \r\n  \r\n \r\nBoston Police Department \r\n  \r\n 1 Schroeder Plaza\r\nBoston, MA 02120 \r\n  \r\n (617) 343 - 6660",
-        "status": null,
+        "communication": "Dear Requester, \r\n  \r\n Thank you for submitting a Police Department Requests on 11/05/2026. \r\n  \r\n Your Request Reference Number is: Request Number: B-2026-3261 and your Security Key is: 480BF397. \r\n  \r\n Please have this information available when communicating with our staff regarding your request. \r\n  \r\n  \r\n Thank you,  \r\n  \r\n \r\nBoston Police Department \r\n  \r\n 1 Schroeder Plaza\r\nBoston, MA 02120 \r\n  \r\n (617) 343 - 6660",
+        "status": "processed",
         "likely_foia": null,
         "files": [],
-        "delivered": "email"
+        "delivered": "portal"
       }
     ]
   },
@@ -2025,7 +2057,7 @@
     "datetime_updated": "2026-11-04T20:48:15.216669",
     "date_due": "2026-11-18",
     "date_embargo": null,
-    "date_followup": "2027-02-02",
+    "date_followup": "2027-02-03",
     "days_until_due": null,
     "disable_autofollowups": false,
     "price": "0.00",
@@ -2058,11 +2090,11 @@
         "autogenerated": false,
         "thanks": false,
         "full_html": false,
-        "communication": "Dear Requester, \r\n  \r\n Thank you for submitting a Police Department Requests on 11/05/2026. \r\n  \r\n Your Request Reference Number is: Request Number: B-2026-3260 and your Security Key is: 85DF6AFC. \r\n  \r\n Please have this information available when communicating with our staff regarding your request. \r\n  \r\n  \n Thank you,  \r\n  \r\n \r\nBoston Police Department \r\n  \r\n 1 Schroeder Plaza\r\nBoston, MA 02120 \r\n  \r\n (617) 343 - 6660",
-        "status": null,
+        "communication": "Dear Requester, \r\n  \r\n Thank you for submitting a Police Department Requests on 11/05/2026. \r\n  \r\n Your Request Reference Number is: Request Number: B-2026-3260 and your Security Key is: 85DF6AFC. \r\n  \r\n Please have this information available when communicating with our staff regarding your request. \r\n  \r\n  \r\n Thank you,  \r\n  \r\n \r\nBoston Police Department \r\n  \r\n 1 Schroeder Plaza\r\nBoston, MA 02120 \r\n  \r\n (617) 343 - 6660",
+        "status": "processed",
         "likely_foia": null,
         "files": [],
-        "delivered": "email"
+        "delivered": "portal"
       }
     ]
   },
@@ -2137,7 +2169,7 @@
     "datetime_updated": "2026-11-04T19:25:17.179912",
     "date_due": "2026-11-18",
     "date_embargo": null,
-    "date_followup": "2027-02-02",
+    "date_followup": "2027-02-03",
     "days_until_due": null,
     "disable_autofollowups": false,
     "price": "0.00",
@@ -2170,11 +2202,11 @@
         "autogenerated": false,
         "thanks": false,
         "full_html": false,
-        "communication": "Dear Requester, \r\n  \r\n Thank you for submitting a Police Department Requests on 11/05/2026. \r\n  \r\n Your Request Reference Number is: Request Number: B-2026-3258 and your Security Key is: 94F17163. \r\n  \r\n Please have this information available when communicating with our staff regarding your request. \r\n  \r\n  \n Thank you,  \r\n  \r\n \r\nBoston Police Department \r\n  \r\n 1 Schroeder Plaza\r\nBoston, MA 02120 \r\n  \r\n (617) 343 - 6660",
-        "status": null,
+        "communication": "Dear Requester, \r\n  \r\n Thank you for submitting a Police Department Requests on 11/05/2026. \r\n  \r\n Your Request Reference Number is: Request Number: B-2026-3258 and your Security Key is: 94F17163. \r\n  \r\n Please have this information available when communicating with our staff regarding your request. \r\n  \r\n  \r\n Thank you,  \r\n  \r\n \r\nBoston Police Department \r\n  \r\n 1 Schroeder Plaza\r\nBoston, MA 02120 \r\n  \r\n (617) 343 - 6660",
+        "status": "processed",
         "likely_foia": null,
         "files": [],
-        "delivered": "email"
+        "delivered": "portal"
       }
     ]
   },
@@ -2249,7 +2281,7 @@
     "datetime_updated": "2026-11-04T19:22:22.208432",
     "date_due": "2026-11-18",
     "date_embargo": null,
-    "date_followup": "2027-02-02",
+    "date_followup": "2027-02-03",
     "days_until_due": null,
     "disable_autofollowups": false,
     "price": "0.00",
@@ -2282,11 +2314,11 @@
         "autogenerated": false,
         "thanks": false,
         "full_html": false,
-        "communication": "Dear Requester, \r\n  \r\n Thank you for submitting a Police Department Requests on 11/05/2026. \r\n  \r\n Your Request Reference Number is: Request Number: B-2026-3256 and your Security Key is: EBBCDE25. \r\n  \r\n Please have this information available when communicating with our staff regarding your request. \r\n  \r\n  \n Thank you,  \r\n  \r\n \r\nBoston Police Department \r\n  \r\n 1 Schroeder Plaza\r\nBoston, MA 02120 \r\n  \r\n (617) 343 - 6660",
-        "status": null,
+        "communication": "Dear Requester, \r\n  \r\n Thank you for submitting a Police Department Requests on 11/05/2026. \r\n  \r\n Your Request Reference Number is: Request Number: B-2026-3256 and your Security Key is: EBBCDE25. \r\n  \r\n Please have this information available when communicating with our staff regarding your request. \r\n  \r\n  \r\n Thank you,  \r\n  \r\n \r\nBoston Police Department \r\n  \r\n 1 Schroeder Plaza\r\nBoston, MA 02120 \r\n  \r\n (617) 343 - 6660",
+        "status": "processed",
         "likely_foia": null,
         "files": [],
-        "delivered": "email"
+        "delivered": "portal"
       }
     ]
   },
@@ -2417,7 +2449,7 @@
     "datetime_updated": "2026-11-04T19:17:22.000266",
     "date_due": "2026-11-18",
     "date_embargo": null,
-    "date_followup": "2027-02-02",
+    "date_followup": "2027-02-03",
     "days_until_due": null,
     "disable_autofollowups": false,
     "price": "0.00",
@@ -2450,11 +2482,11 @@
         "autogenerated": false,
         "thanks": false,
         "full_html": false,
-        "communication": "Dear Requester, \r\n  \r\n Thank you for submitting a Police Department Requests on 11/05/2026. \r\n  \r\n Your Request Reference Number is: Request Number: B-2026-3253 and your Security Key is: 5E735928. \r\n  \r\n Please have this information available when communicating with our staff regarding your request. \r\n  \r\n  \n Thank you,  \r\n  \r\n \r\nBoston Police Department \r\n  \r\n 1 Schroeder Plaza\r\nBoston, MA 02120 \r\n  \r\n (617) 343 - 6660",
-        "status": null,
+        "communication": "Dear Requester, \r\n  \r\n Thank you for submitting a Police Department Requests on 11/05/2026. \r\n  \r\n Your Request Reference Number is: Request Number: B-2026-3253 and your Security Key is: 5E735928. \r\n  \r\n Please have this information available when communicating with our staff regarding your request. \r\n  \r\n  \r\n Thank you,  \r\n  \r\n \r\nBoston Police Department \r\n  \r\n 1 Schroeder Plaza\r\nBoston, MA 02120 \r\n  \r\n (617) 343 - 6660",
+        "status": "processed",
         "likely_foia": null,
         "files": [],
-        "delivered": "email"
+        "delivered": "portal"
       }
     ]
   },
@@ -2473,7 +2505,7 @@
     "datetime_updated": "2026-11-04T19:15:17.186508",
     "date_due": "2026-11-18",
     "date_embargo": null,
-    "date_followup": "2027-02-02",
+    "date_followup": "2027-02-03",
     "days_until_due": null,
     "disable_autofollowups": false,
     "price": "0.00",
@@ -2506,11 +2538,11 @@
         "autogenerated": false,
         "thanks": false,
         "full_html": false,
-        "communication": "Dear Requester, \r\n  \r\n Thank you for submitting a Police Department Requests on 11/05/2026. \r\n  \r\n Your Request Reference Number is: Request Number: B-2026-3252 and your Security Key is: 858A7C6F. \r\n  \r\n Please have this information available when communicating with our staff regarding your request. \r\n  \r\n  \n Thank you,  \r\n  \r\n \r\nBoston Police Department \r\n  \r\n 1 Schroeder Plaza\r\nBoston, MA 02120 \r\n  \r\n (617) 343 - 6660",
-        "status": null,
+        "communication": "Dear Requester, \r\n  \r\n Thank you for submitting a Police Department Requests on 11/05/2026. \r\n  \r\n Your Request Reference Number is: Request Number: B-2026-3252 and your Security Key is: 858A7C6F. \r\n  \r\n Please have this information available when communicating with our staff regarding your request. \r\n  \r\n  \r\n Thank you,  \r\n  \r\n \r\nBoston Police Department \r\n  \r\n 1 Schroeder Plaza\r\nBoston, MA 02120 \r\n  \r\n (617) 343 - 6660",
+        "status": "processed",
         "likely_foia": null,
         "files": [],
-        "delivered": "email"
+        "delivered": "portal"
       }
     ]
   },
@@ -2529,7 +2561,7 @@
     "datetime_updated": "2026-11-04T19:13:15.846229",
     "date_due": "2026-11-18",
     "date_embargo": null,
-    "date_followup": "2027-02-02",
+    "date_followup": "2027-02-03",
     "days_until_due": null,
     "disable_autofollowups": false,
     "price": "0.00",
@@ -2562,11 +2594,11 @@
         "autogenerated": false,
         "thanks": false,
         "full_html": false,
-        "communication": "Dear Requester, \r\n  \r\n Thank you for submitting a Police Department Requests on 11/05/2026. \r\n  \r\n Your Request Reference Number is: Request Number: B-2026-3251 and your Security Key is: DE08890D. \r\n  \r\n Please have this information available when communicating with our staff regarding your request. \r\n  \r\n  \n Thank you,  \r\n  \r\n \r\nBoston Police Department \r\n  \r\n 1 Schroeder Plaza\r\nBoston, MA 02120 \r\n  \r\n (617) 343 - 6660",
-        "status": null,
+        "communication": "Dear Requester, \r\n  \r\n Thank you for submitting a Police Department Requests on 11/05/2026. \r\n  \r\n Your Request Reference Number is: Request Number: B-2026-3251 and your Security Key is: DE08890D. \r\n  \r\n Please have this information available when communicating with our staff regarding your request. \r\n  \r\n  \r\n Thank you,  \r\n  \r\n \r\nBoston Police Department \r\n  \r\n 1 Schroeder Plaza\r\nBoston, MA 02120 \r\n  \r\n (617) 343 - 6660",
+        "status": "processed",
         "likely_foia": null,
         "files": [],
-        "delivered": "email"
+        "delivered": "portal"
       }
     ]
   },

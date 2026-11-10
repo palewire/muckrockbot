@@ -3943,6 +3943,86 @@
             "description": "",
             "doc_id": "28876060-action-item-7",
             "pages": 18
+          },
+          {
+            "id": 1445604,
+            "ffile": "https://cdn.muckrock.com/foia_files/2026/11/10/Action_Item_6.pdf",
+            "datetime": "2026-11-10T04:32:49.830377",
+            "title": "Action_Item_6",
+            "source": "Alpha Assistance",
+            "description": "",
+            "doc_id": "28878469-action_item_6",
+            "pages": 36
+          },
+          {
+            "id": 1445605,
+            "ffile": "https://cdn.muckrock.com/foia_files/2026/11/10/Action_Item_5b.pdf",
+            "datetime": "2026-11-10T04:32:51.081166",
+            "title": "Action_Item_5b",
+            "source": "Alpha Assistance",
+            "description": "",
+            "doc_id": "28878470-action_item_5b",
+            "pages": 47
+          },
+          {
+            "id": 1445606,
+            "ffile": "https://cdn.muckrock.com/foia_files/2026/11/10/Action_Item_5a.pdf",
+            "datetime": "2026-11-10T04:32:51.477376",
+            "title": "Action_Item_5a",
+            "source": "Alpha Assistance",
+            "description": "",
+            "doc_id": "28878471-action_item_5a",
+            "pages": 43
+          },
+          {
+            "id": 1445607,
+            "ffile": "https://cdn.muckrock.com/foia_files/2026/11/10/Action_Item_4.pdf",
+            "datetime": "2026-11-10T04:32:57.659069",
+            "title": "Action_Item_4",
+            "source": "Alpha Assistance",
+            "description": "",
+            "doc_id": "28878472-action_item_4",
+            "pages": 18
+          },
+          {
+            "id": 1445608,
+            "ffile": "https://cdn.muckrock.com/foia_files/2026/11/10/Action_Item_2b.pdf",
+            "datetime": "2026-11-10T04:32:58.346408",
+            "title": "Action_Item_2b",
+            "source": "Alpha Assistance",
+            "description": "",
+            "doc_id": "28878473-action_item_2b",
+            "pages": 36
+          },
+          {
+            "id": 1445609,
+            "ffile": "https://cdn.muckrock.com/foia_files/2026/11/10/Action_Item_2a.pdf",
+            "datetime": "2026-11-10T04:33:01.628868",
+            "title": "Action_Item_2a",
+            "source": "Alpha Assistance",
+            "description": "",
+            "doc_id": "28878475-action_item_2a",
+            "pages": 26
+          },
+          {
+            "id": 1445610,
+            "ffile": "https://cdn.muckrock.com/foia_files/2026/11/10/Action_Item_3.pdf",
+            "datetime": "2026-11-10T04:33:01.660734",
+            "title": "Action_Item_3",
+            "source": "Alpha Assistance",
+            "description": "",
+            "doc_id": "28878474-action_item_3",
+            "pages": 48
+          },
+          {
+            "id": 1445611,
+            "ffile": "https://cdn.muckrock.com/foia_files/2026/11/10/Action_Item_1b.pdf",
+            "datetime": "2026-11-10T04:33:06.055579",
+            "title": "Action_Item_1b",
+            "source": "Alpha Assistance",
+            "description": "",
+            "doc_id": "28878476-action_item_1b",
+            "pages": 41
           }
         ],
         "delivered": "email"

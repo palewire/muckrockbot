@@ -669,7 +669,7 @@
     "status": "done",
     "embargo_status": "public",
     "datetime_submitted": "2025-09-07T18:44:16.929737",
-    "datetime_done": "2026-11-10T15:07:43.983831",
+    "datetime_done": "2026-11-10T14:57:57.761101",
     "datetime_updated": "2026-11-10T15:07:43.983831",
     "date_due": "2025-12-08",
     "date_embargo": null,
@@ -1573,9 +1573,40 @@
         "thanks": false,
         "full_html": false,
         "communication": "*** DO NOT FORWARD ***\r\n\r\nThis is an automated message sent to you by the DOD SAFE service.\r\n\r\n\r\nMITCHELL.SUSAN.M <susan.m.mitchell16.civ@army.mil> has dropped off 3 files for you.\r\nIF YOU TRUST THE SENDER and are expecting to receive a file from them, you may choose to retrieve the Drop-off by clicking the following link (or copying and pasting it into your web browser):\r\n\r\nhttps://safe.apps.mil/pickup.php?claimID=kLkVRbt7fCFgqwft&recipCode=brdJ2q\r\n\r\nYou will be required to enter the claim passcode, which is: ZUHiZ6u5EXEMawJx\r\n\r\n** This Drop-off is encrypted. ** To download any files you must have the correct passphrase, which you can only get from the sender.\r\nYou have 7 days to retrieve the Drop-off; after that the link above will expire. If you wish to contact the sender, just reply to this email.\r\n\r\n\r\nFull information about the Drop-off:\r\nClaim ID:            kLkVRbt7fCFgqwft\r\nRecipient Code:      brdJ2q\r\nClaim Passcode:      ZUHiZ6u5EXEMawJx\r\nDrop-off Submitted:  2026-11-10 19:57:37 UTCDrop-off Completed:  2026-11-10 19:57:37 UTC\r\n\r\n-- Sender --\r\nName:                MITCHELL.SUSAN.M\r\nOrganization:        ARMY-HQDA\r\nEmail Address:       susan.m.mitchell16.civ@army.mil\r\nIP Address:          131.65.223.9  (131.65.223.9)\r\n-- Files --\r\nName:                FA-27-0027 Marritz Final Response letter.pdf\r\nSize:                150837\r\nSHA-256 Checksum:    402214D478156F430A35A65CA37EF3D09892B28D682FE013FED3681A06C13F06Content Type:        application/pdf\r\nName:                FA-27-0027 Marritz Responsive Marked_Redacted.pdf\r\nSize:                2190866\r\nSHA-256 Checksum:    D87EE5F434091E9A51F4B5294C5E6099E0BB7E85307BA02586B049D6BE23331CContent Type:        application/pdf\r\nName:                FA-27-0027 Orig Request.pdf\r\nSize:                146302\r\nSHA-256 Checksum:    F014C06ABBACDBC1264C2C613A769A4DCFBFFC87ED1063EEA7E9374FA388793FContent Type:        application/pdf\r\n\r\nNOTICE: This e-mail message is intended solely for the use of the addressee. If the reader of this message is not the intended recipient, you are hereby notified that any reading, dissemination, distribution, copying, or other use of this message or its attachments is strictly prohibited. If you have received this message in error, please notify the sender immediately.\r\n\r\nThank you.\n",
-        "status": null,
+        "status": "done",
         "likely_foia": null,
-        "files": [],
+        "files": [
+          {
+            "id": 1445856,
+            "ffile": "https://cdn.muckrock.com/foia_files/2026/11/10/FA-27-0027_Orig_Request.pdf",
+            "datetime": "2026-11-10T20:40:46.134946",
+            "title": "FA-27-0027_Orig_Request",
+            "source": "Alpha Assistance",
+            "description": "",
+            "doc_id": "28879341-fa-27-0027_orig_request",
+            "pages": 9
+          },
+          {
+            "id": 1445857,
+            "ffile": "https://cdn.muckrock.com/foia_files/2026/11/10/FA-27-0027_Marritz_Final_Response_letter.pdf",
+            "datetime": "2026-11-10T20:40:46.164247",
+            "title": "FA-27-0027_Marritz_Final_Response_letter",
+            "source": "Alpha Assistance",
+            "description": "",
+            "doc_id": "28879340-fa-27-0027_marritz_final_response_letter",
+            "pages": 3
+          },
+          {
+            "id": 1445858,
+            "ffile": "https://cdn.muckrock.com/foia_files/2026/11/10/FA-27-0027_Marritz_Responsive_Marked_Redacted.pdf",
+            "datetime": "2026-11-10T20:40:55.568016",
+            "title": "FA-27-0027_Marritz_Responsive_Marked_Redacted",
+            "source": "Alpha Assistance",
+            "description": "",
+            "doc_id": "28879342-fa-27-0027_marritz_responsive_marked_redacted",
+            "pages": 71
+          }
+        ],
         "delivered": "email"
       },
       {
@@ -1603,6 +1634,179 @@
             "pages": 0
           }
         ],
+        "delivered": "email"
+      }
+    ]
+  },
+  {
+    "id": 223640,
+    "title": "All 911 call recordings and CAD logs related to 210 Farm St",
+    "username": "eamonjcorbo",
+    "absolute_url": "https://www.muckrock.com/foi/ithaca-32/all-911-call-recordings-and-cad-logs-related-to-210-farm-st-223640/",
+    "user": 180609,
+    "agency": 3483,
+    "slug": "all-911-call-recordings-and-cad-logs-related-to-210-farm-st",
+    "status": "done",
+    "embargo_status": "public",
+    "datetime_submitted": "2026-10-13T01:03:15.039360",
+    "datetime_done": "2026-11-10T14:15:28.048162",
+    "datetime_updated": "2026-11-10T14:15:28.048162",
+    "date_due": "2026-10-20",
+    "date_embargo": null,
+    "date_followup": null,
+    "days_until_due": null,
+    "disable_autofollowups": false,
+    "price": "0.00",
+    "tracking_id": "26-1192",
+    "tags": [],
+    "communications": [
+      {
+        "foia": 223640,
+        "from_user": 180609,
+        "to_user": 9971,
+        "subject": "New York Freedom of Information Law Request: All 911 call recordings and CAD logs related to 210 Farm St",
+        "datetime": "2026-10-13T01:03:15.179838",
+        "response": false,
+        "autogenerated": false,
+        "thanks": false,
+        "full_html": false,
+        "communication": "To Whom It May Concern:\r\n\r\nPursuant to the New York Freedom of Information Law, I hereby request the following records:\r\n\r\nAll 911 call audio recordings and computer-aided dispatch (CAD) logs related to 210 Farm St on or about September 18, 2026. This includes the original 911 call recording(s), dispatcher audio, CAD event chronology with timestamps, unit assignment records, and any notes entered by dispatchers or responding officers. Please provide audio recordings in their original digital format.\r\n\r\nThe requested documents will be made available to the general public, and this request is not being made for commercial purposes.\r\n\r\nIn the event that there are fees, I would be grateful if you would inform me of the total charges in advance of fulfilling my request. I would prefer the request filled electronically, by e-mail attachment if available or CD-ROM if not.\r\n\r\nThank you in advance for your anticipated cooperation in this matter. I look forward to receiving your response to this request within 5 business days, as the statute requires.\r\n\r\nSincerely,\r\n\r\nEamon Corbo",
+        "status": null,
+        "likely_foia": null,
+        "files": [],
+        "delivered": "mail"
+      },
+      {
+        "foia": 223640,
+        "from_user": 4420,
+        "to_user": 9971,
+        "subject": "RE: New York Freedom of Information Law Request: All 911 call recordings and CAD logs related to 210 Farm St",
+        "datetime": "2026-10-20T01:00:17.395826",
+        "response": false,
+        "autogenerated": true,
+        "thanks": false,
+        "full_html": false,
+        "communication": "To Whom It May Concern:\n\nI wanted to follow up on the following New York Freedom of Information Law request, copied below, and originally submitted on Oct. 13, 2026. Please let me know when I can expect to receive a response.\n\nThanks for your help, and let me know if further clarification is needed.\n\n\n",
+        "status": null,
+        "likely_foia": null,
+        "files": [],
+        "delivered": "mail"
+      },
+      {
+        "foia": 223640,
+        "from_user": 9971,
+        "to_user": 180609,
+        "subject": "Your City of Ithaca, NY public records request #26-1192 has been submitted.",
+        "datetime": "2026-10-26T15:55:24.999162",
+        "response": true,
+        "autogenerated": false,
+        "thanks": false,
+        "full_html": false,
+        "communication": "City of Ithaca, NY\r\n\r\n************************************************************************\r\n\r\n\r\nYour record request #26-1192 has been submitted successfully.\r\n\r\nThe City of Ithaca has received your request for records pursuant to the Freedom of Information Law (FOIL). Please note that this e-mail constitutes acknowledgment of your request under NY Public Officers Law Section 89(3)(a).&nbsp;\r\n\r\n\r\n* You will receive a response to your request within twenty (20) business days of the date of this notification.\r\n\r\n\r\n* If your request requires paper copies, the City may make the paper copies available to you at a charge of $0.25 per page.&nbsp;\r\n\r\n\r\n* For your convenience, you may now submit FOIL requests online: https://cityofithaca.nextrequest.com/\r\n\r\n\r\n* If you wish to contact us about this request, please call the City Attorney's Office at 607-274-6504, or email attyfoil@cityofithaca.org.\r\n\r\n\r\n\r\n  The due date for your request may be later than usual because the office is closed on:\r\n\r\n\r\n\r\n\r\n  * November 11: Veterans Day\r\n\r\n\r\n\r\n\r\n\r\n\r\nAs the requester, you can always see the status of your\r\n                  request by signing into the City of Ithaca, NY\r\n                  portal.\r\n                  \r\n\r\n\r\n\r\n\r\n                  If you haven't already signed in, you may need to\r\n                  activate or setup your account to get started.\r\n                  Once your account is activated, you can communicate directly with the City of Ithaca, NY through NextRequest.\r\n\r\n\r\n************************************************************************                          \r\nReply to this email or sign in to contact City of Ithaca, NY.<br><br>\r\n             <a href=\"https://cityofithaca.nextrequest.com/settings?id=3360971\">Change your email settings</a> | <a href=\"https://www.civicplus.help/nextrequest/docs/requesters\">Visit our help center</a>\n",
+        "status": "processed",
+        "likely_foia": null,
+        "files": [],
+        "delivered": "email"
+      },
+      {
+        "foia": 223640,
+        "from_user": 4420,
+        "to_user": 9971,
+        "subject": "RE: New York Freedom of Information Law Request #26-1192",
+        "datetime": "2026-11-10T01:05:38.700803",
+        "response": false,
+        "autogenerated": true,
+        "thanks": false,
+        "full_html": false,
+        "communication": "To Whom It May Concern:\n\nI wanted to follow up on the following New York Freedom of Information Law request, copied below, and originally submitted on Oct. 13, 2026. Please let me know when I can expect to receive a response.  You had assigned it reference number #26-1192.\n\nThanks for your help, and let me know if further clarification is needed.\n\n\n",
+        "status": null,
+        "likely_foia": null,
+        "files": [],
+        "delivered": "email"
+      },
+      {
+        "foia": 223640,
+        "from_user": 9971,
+        "to_user": 180609,
+        "subject": "[Document Released to Requester] City of Ithaca, NY public records request #26-1192",
+        "datetime": "2026-11-10T14:13:10.092706",
+        "response": true,
+        "autogenerated": false,
+        "thanks": false,
+        "full_html": false,
+        "communication": "City of Ithaca, NY\r\n\r\n************************************************************************\r\n\r\n\r\nDocuments have been released for record request #26-1192 along with the following message:\r\n\r\nYour request has been granted in whole or in part. Records responsive to your request are now available for you to view. A separate message with additional information will be forthcoming.\r\n\r\n\r\n\r\n* Corbo001.pdf\r\n\r\n* I26-16464-redacted-no-metadata.pdf\r\n\r\n\r\n\r\nDocument links are valid for one month.\r\n                   After December 10, you will need to sign in to view the document(s).\r\n\r\n\r\n************************************************************************                          \r\n<em>Questions about your request?</em> Reply to this email or sign in to contact staff at City of Ithaca, NY.<br><br><em>Technical support:</em> See our <a href=\"https://www.civicplus.help/nextrequest/docs/requesters\">help page</a>\n",
+        "status": "done",
+        "likely_foia": null,
+        "files": [
+          {
+            "id": 1445851,
+            "ffile": "https://cdn.muckrock.com/foia_files/2026/11/10/Corbo001.pdf",
+            "datetime": "2026-11-10T20:29:11.136396",
+            "title": "Corbo001",
+            "source": "Alpha Assistance",
+            "description": "",
+            "doc_id": "28879334-corbo001",
+            "pages": 2
+          },
+          {
+            "id": 1445852,
+            "ffile": "https://cdn.muckrock.com/foia_files/2026/11/10/I26-16464-redacted-no-metadata.pdf",
+            "datetime": "2026-11-10T20:29:12.006721",
+            "title": "I26-16464-redacted-no-metadata",
+            "source": "Alpha Assistance",
+            "description": "",
+            "doc_id": "28879335-i26-16464-redacted-no-metadata",
+            "pages": 8
+          }
+        ],
+        "delivered": "email"
+      },
+      {
+        "foia": 223640,
+        "from_user": 9971,
+        "to_user": 180609,
+        "subject": "Your City of Ithaca, NY public records request #26-1192 has been closed.",
+        "datetime": "2026-11-10T14:13:22.174045",
+        "response": true,
+        "autogenerated": false,
+        "thanks": false,
+        "full_html": false,
+        "communication": "City of Ithaca, NY\r\n\r\n************************************************************************\r\n\r\n\r\nRecord request #26-1192 has been closed. The closure reason supplied was:\r\n\r\nPlease be advised that your FOIL request has been granted; however, certain records have been withheld or redacted for the following reasons:\r\n\r\n\r\n\r\nPlease be further advised, however, that portions of the reports have been withheld on the ground that disclosure would constitute an unwarranted invasion of personal privacy in accordance with \u00a787(2)(b) of the Public Officers Law.\r\n\r\n\r\n\r\nIf you wish to appeal a FOIL decision, you may do so in writing to the City Manager within thirty (30) days at 108 East Green Street, Ithaca, New York 14850. Please be advised that the City accepts FOIL appeals in hard copy only, delivered to the City Manager\u2019s office in person or regular mail, and will not process appeals sent via email or through the NextRequest platform.\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n************************************************************************                          \r\n<em>Questions about your request?</em> Reply to this email or sign in to contact staff at City of Ithaca, NY.<br><br><em>Technical support:</em> See our <a href=\"https://www.civicplus.help/nextrequest/docs/requesters\">help page</a>\n",
+        "status": "done",
+        "likely_foia": null,
+        "files": [],
+        "delivered": "email"
+      },
+      {
+        "foia": 223640,
+        "from_user": 9971,
+        "to_user": 180609,
+        "subject": "Your City of Ithaca, NY public records request #26-1192 has been reopened.",
+        "datetime": "2026-11-10T14:14:22.243280",
+        "response": true,
+        "autogenerated": false,
+        "thanks": false,
+        "full_html": false,
+        "communication": "City of Ithaca, NY\r\n\r\n************************************************************************\r\n\r\n\r\nRecord request #26-1192 has been reopened. You can see it anytime at the link below.\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n************************************************************************                          \r\n<em>Questions about your request?</em> Reply to this email or sign in to contact staff at City of Ithaca, NY.<br><br><em>Technical support:</em> See our <a href=\"https://www.civicplus.help/nextrequest/docs/requesters\">help page</a>\n",
+        "status": "processed",
+        "likely_foia": null,
+        "files": [],
+        "delivered": "email"
+      },
+      {
+        "foia": 223640,
+        "from_user": 9971,
+        "to_user": 180609,
+        "subject": "Your City of Ithaca, NY public records request #26-1192 has been closed.",
+        "datetime": "2026-11-10T14:15:28.048162",
+        "response": true,
+        "autogenerated": false,
+        "thanks": false,
+        "full_html": false,
+        "communication": "City of Ithaca, NY\r\n\r\n************************************************************************\r\n\r\n\r\nRecord request #26-1192 has been closed. The closure reason supplied was:\r\n\r\nPlease be advised that your FOIL request has been granted; however, certain records have been withheld or redacted for the following reasons:\r\n\r\n\r\n\r\nPlease be further advised, however, that portions of the reports have been withheld on the ground that disclosure would constitute an unwarranted invasion of personal privacy in accordance with \u00a787(2)(b) of the Public Officers Law.\r\n\r\n\r\n\r\nPlease be further advised that the City does not posses 911 call logs, audio recordings or dispatch records.\r\n\r\n\r\n\r\nAs a courtesy, we have included the contact information for the Tompkins County Emergency Response Center, 92 Brown Rd., Ithaca, NY 14850, (607) 257-3888, and at http://www.tompkinscountyny.gov/doer\r\n\r\n\r\n\r\nIf you wish to appeal a FOIL decision, you may do so in writing to the City Manager within thirty (30) days at 108 East Green Street, Ithaca, New York 14850. Please be advised that the City accepts FOIL appeals in hard copy only, delivered to the City Manager\u2019s office in person or regular mail, and will not process appeals sent via email or through the NextRequest platform.\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n************************************************************************                          \r\n<em>Questions about your request?</em> Reply to this email or sign in to contact staff at City of Ithaca, NY.<br><br><em>Technical support:</em> See our <a href=\"https://www.civicplus.help/nextrequest/docs/requesters\">help page</a>\n",
+        "status": "done",
+        "likely_foia": null,
+        "files": [],
         "delivered": "email"
       }
     ]
@@ -1975,11 +2179,11 @@
         "autogenerated": false,
         "thanks": false,
         "full_html": false,
-        "communication": "To Whom It May Concern:\r\n\r\nPlease know we have started processing a check for this request fee. A check will be sent out within the next couple of days to Prosecuting Attorney, Public Records Officer, 930 Tacoma Ave S, Room 946, Tacoma, WA 98402.\r\n\r\nThank you.",
+        "communication": "To Whom It May Concern:\r\n\r\nPlease find enclosed a check for $0.05 to satisfy the fee associated with the attached public records request.\r\n\r\nThank you.",
         "status": null,
         "likely_foia": null,
         "files": [],
-        "delivered": "email"
+        "delivered": "mail"
       },
       {
         "foia": 201089,
@@ -1991,11 +2195,11 @@
         "autogenerated": false,
         "thanks": false,
         "full_html": false,
-        "communication": "To Whom It May Concern:\r\n\r\nPlease find enclosed a check for $0.05 to satisfy the fee associated with the attached public records request.\r\n\r\nThank you.",
+        "communication": "To Whom It May Concern:\r\n\r\nPlease know we have started processing a check for this request fee. A check will be sent out within the next couple of days to Prosecuting Attorney, Public Records Officer, 930 Tacoma Ave S, Room 946, Tacoma, WA 98402.\r\n\r\nThank you.",
         "status": null,
         "likely_foia": null,
         "files": [],
-        "delivered": "mail"
+        "delivered": "email"
       },
       {
         "foia": 201089,
@@ -2217,11 +2421,11 @@
         "autogenerated": false,
         "thanks": false,
         "full_html": false,
-        "communication": "To Whom It May Concern:\r\n\r\nPlease find enclosed a check for $0.10 to satisfy the fee associated with the attached public records request.\r\n\r\nThank you.",
+        "communication": "To Whom It May Concern:\r\n\r\nPlease know we have started processing a check for this request fee. A check will be sent out within the next couple of days to Prosecuting Attorney, Public Records Officer, 930 Tacoma Ave S, Room 946, Tacoma, WA 98402.\r\n\r\nThank you.",
         "status": null,
         "likely_foia": null,
         "files": [],
-        "delivered": "mail"
+        "delivered": "email"
       },
       {
         "foia": 201089,
@@ -2233,11 +2437,11 @@
         "autogenerated": false,
         "thanks": false,
         "full_html": false,
-        "communication": "To Whom It May Concern:\r\n\r\nPlease know we have started processing a check for this request fee. A check will be sent out within the next couple of days to Prosecuting Attorney, Public Records Officer, 930 Tacoma Ave S, Room 946, Tacoma, WA 98402.\r\n\r\nThank you.",
+        "communication": "To Whom It May Concern:\r\n\r\nPlease find enclosed a check for $0.10 to satisfy the fee associated with the attached public records request.\r\n\r\nThank you.",
         "status": null,
         "likely_foia": null,
         "files": [],
-        "delivered": "email"
+        "delivered": "mail"
       },
       {
         "foia": 201089,
@@ -2704,11 +2908,11 @@
         "autogenerated": false,
         "thanks": false,
         "full_html": false,
-        "communication": "To Whom It May Concern:\r\n\r\nPlease find enclosed a check for $0.10 to satisfy the fee associated with the attached public records request.\r\n\r\nThank you.",
+        "communication": "To Whom It May Concern:\r\n\r\nPlease know we have started processing a check for this request fee. A check will be sent out within the next couple of days to Prosecuting Attorney, Public Records Officer, 930 Tacoma Ave S, Room 946, Tacoma, WA 98402.\r\n\r\nThank you.",
         "status": null,
         "likely_foia": null,
         "files": [],
-        "delivered": "mail"
+        "delivered": "email"
       },
       {
         "foia": 201089,
@@ -2720,11 +2924,11 @@
         "autogenerated": false,
         "thanks": false,
         "full_html": false,
-        "communication": "To Whom It May Concern:\r\n\r\nPlease know we have started processing a check for this request fee. A check will be sent out within the next couple of days to Prosecuting Attorney, Public Records Officer, 930 Tacoma Ave S, Room 946, Tacoma, WA 98402.\r\n\r\nThank you.",
+        "communication": "To Whom It May Concern:\r\n\r\nPlease find enclosed a check for $0.10 to satisfy the fee associated with the attached public records request.\r\n\r\nThank you.",
         "status": null,
         "likely_foia": null,
         "files": [],
-        "delivered": "email"
+        "delivered": "mail"
       },
       {
         "foia": 201089,
@@ -14277,137 +14481,6 @@
             "pages": 520
           }
         ],
-        "delivered": "portal"
-      }
-    ]
-  },
-  {
-    "id": 224242,
-    "title": "Marching Tar Heels",
-    "username": "camcobbin",
-    "absolute_url": "https://www.muckrock.com/foi/north-carolina-153/marching-tar-heels-224242/",
-    "user": 191796,
-    "agency": 6289,
-    "slug": "marching-tar-heels",
-    "status": "done",
-    "embargo_status": "public",
-    "datetime_submitted": "2026-10-19T16:53:25.159589",
-    "datetime_done": "2026-11-06T16:08:58.411687",
-    "datetime_updated": "2026-11-06T16:08:58.411687",
-    "date_due": null,
-    "date_embargo": null,
-    "date_followup": null,
-    "days_until_due": null,
-    "disable_autofollowups": false,
-    "price": "0.00",
-    "tracking_id": "26-1197",
-    "tags": [],
-    "communications": [
-      {
-        "foia": 224242,
-        "from_user": 191796,
-        "to_user": 19711,
-        "subject": "North Carolina Public Records Law Request: Marching Tar Heels",
-        "datetime": "2026-10-19T16:53:25.280372",
-        "response": false,
-        "autogenerated": false,
-        "thanks": false,
-        "full_html": false,
-        "communication": "To Whom It May Concern:\r\n\r\nPursuant to the North Carolina Public Records Law, I hereby request the following records:\r\n\r\nPursuant to the North Carolina Public Records Act (N.C. Gen. Stat. Chapter 132), I hereby request the following records:\r\n\r\nAny records detailing the annual operating budgets and financial allocations for the University of North Carolina at Chapel Hill's marching band, also known as the Marching Tar Heels, spanning the time frame from January 2023 through December 2026.\r\n\r\nAny records documenting funding provided to the marching band by the university's Department of Athletics or other university departments during this period.\r\n\r\nAny records detailing marching band expenditures, including uniforms, instruments, equipment, transportation, travel, lodging, meals, and other operational costs from January 2023 through October 2026.\r\n\r\nAny records of financial contributions, donations, sponsorships, or other funding sources supporting the marching band during this period.\r\n\r\nThe requested documents will be made available to the general public, and this request is not being made for commercial purposes.\r\n\r\nIn the event that there are fees, I would be grateful if you would inform me of the total charges in advance of fulfilling my request. I would prefer the request filled electronically, by e-mail attachment if available or CD-ROM if not.\r\n\r\nThank you in advance for your anticipated cooperation in this matter. I look forward to receiving your response to this request within 10 business days.\r\n\r\nSincerely,\r\n\r\nCameron Cobbin",
-        "status": "processed",
-        "likely_foia": null,
-        "files": [],
-        "delivered": "portal"
-      },
-      {
-        "foia": 224242,
-        "from_user": 19711,
-        "to_user": 191796,
-        "subject": "Your UNC-Chapel Hill public records request #26-1197 has been submitted.",
-        "datetime": "2026-10-19T22:43:32.313846",
-        "response": true,
-        "autogenerated": false,
-        "thanks": false,
-        "full_html": false,
-        "communication": "UNC-Chapel Hill\r\n\r\n************************************************************************\r\n\r\n\r\nYour record request #26-1197 has been submitted successfully.\r\n\r\nThe University&nbsp;processes requests as promptly as possible and, generally, in the order they are received.\r\n\r\n\r\n\r\nBroader and more vague requests (for example, \u201call documents,\u201d \"all names,\" or \u201call emails\u201d covering an indefinite time period) will likely receive a request for clarification prior to any collection or review of records.&nbsp;\r\n\r\n\r\n\r\nBecause of the large volume of requests and a legal mandate to review every page to protect confidential information, it often takes time before we can start processing a new request.\r\n\r\n\r\n\r\nWe post all public records requests to nextrequest.unc.edu.&nbsp;For more information about the public records process at UNC-Chapel Hill, visit https://nextrequest.unc.edu/faqs.&nbsp;\r\n\r\n&nbsp;\r\n\r\nSincerely,\r\n\r\n&nbsp;\r\n\r\nThe Public Records Office\r\n\r\nThe University of North Carolina at Chapel Hill\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n************************************************************************                          \r\nReply to this email or sign in to contact UNC-Chapel Hill.<br><br>\r\n             <a href=\"https://unc.nextrequest.com/settings?id=3335544\">Change your email settings</a> | <a href=\"https://www.civicplus.help/nextrequest/docs/requesters\">Visit our help center</a>",
-        "status": "processed",
-        "likely_foia": null,
-        "files": [],
-        "delivered": "portal"
-      },
-      {
-        "foia": 224242,
-        "from_user": 19711,
-        "to_user": 191796,
-        "subject": "[ACTION REQUIRED] Your UNC-Chapel Hill public records portal account",
-        "datetime": "2026-10-19T22:43:38.743496",
-        "response": true,
-        "autogenerated": false,
-        "thanks": false,
-        "full_html": false,
-        "communication": "Use this to confirm your account. The link is only valid for 24 hours.\r\n\r\nUNC-Chapel Hill\r\n\r\n************************************************************************\r\nHello Cameron Cobbin!\r\n************************************************************************\r\n\r\nYou can confirm your UNC-Chapel Hill public records portal account by copying and pasting the URL below into your web browser. This link is only valid for the next 24 hours.\r\n\r\nMagic link: https://unc.nextrequest.com/users/confirmation?confirmation_token=EzAEh2NnsQGk8mVhyK4_\r\n\r\n\r\n\r\n************************************************************************                          \r\nQuestions? Check out our help page (https://www.nextrequest.com/support) or email us at support@nextrequest.com.\r\n************************************************************************\r\n\r\nPowered by NextRequest (https://www.nextrequest.com).",
-        "status": "processed",
-        "likely_foia": null,
-        "files": [],
-        "delivered": "portal"
-      },
-      {
-        "foia": 224242,
-        "from_user": 19711,
-        "to_user": 191796,
-        "subject": "Your UNC-Chapel Hill public records request #26-1197 has been published.",
-        "datetime": "2026-10-20T08:52:34.085759",
-        "response": true,
-        "autogenerated": false,
-        "thanks": false,
-        "full_html": false,
-        "communication": "UNC-Chapel Hill\r\n\r\n************************************************************************\r\n\r\n\r\nRecord request #26-1197 has been published and is now available for public view.\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n************************************************************************                          \r\n<em>Questions about your request?</em> Reply to this email or sign in to contact staff at UNC-Chapel Hill.<br><br><em>Technical support:</em> See our <a href=\"https://www.civicplus.help/nextrequest/docs/requesters\">help page</a>",
-        "status": "processed",
-        "likely_foia": null,
-        "files": [],
-        "delivered": "portal"
-      },
-      {
-        "foia": 224242,
-        "from_user": 19711,
-        "to_user": 191796,
-        "subject": "[Document Released to Requester] UNC-Chapel Hill public records request #26-1197",
-        "datetime": "2026-11-06T16:08:35.364728",
-        "response": true,
-        "autogenerated": false,
-        "thanks": false,
-        "full_html": false,
-        "communication": "UNC-Chapel Hill\r\n\r\n************************************************************************\r\n\r\n\r\nA document has been released to you for record request #26-1197:\r\n\r\n\r\n\r\n* 2026.10.19 _ Cobbin _ 11.06.2026.pdf\r\n\r\n\r\n\r\n\r\n\r\n\r\n************************************************************************                          \r\n<em>Questions about your request?</em> Reply to this email or sign in to contact staff at UNC-Chapel Hill.<br><br><em>Technical support:</em> See our <a href=\"https://www.civicplus.help/nextrequest/docs/requesters\">help page</a>",
-        "status": "done",
-        "likely_foia": null,
-        "files": [
-          {
-            "id": 1444935,
-            "ffile": "https://cdn.muckrock.com/foia_files/2026/11/07/2026.10.19___Cobbin___11.06.2026.pdf",
-            "datetime": "2026-11-07T23:03:17.289840",
-            "title": "2026.10.19___Cobbin___11.06.2026",
-            "source": "Alpha Assistance",
-            "description": "",
-            "doc_id": "28875592-20261019___cobbin___11062026",
-            "pages": 5
-          }
-        ],
-        "delivered": "portal"
-      },
-      {
-        "foia": 224242,
-        "from_user": 19711,
-        "to_user": 191796,
-        "subject": "Your UNC-Chapel Hill public records request #26-1197 has been closed.",
-        "datetime": "2026-11-06T16:08:58.411687",
-        "response": true,
-        "autogenerated": false,
-        "thanks": false,
-        "full_html": false,
-        "communication": "UNC-Chapel Hill\r\n\r\n************************************************************************\r\n\r\n\r\nRecord request #26-1197 has been closed. The closure reason supplied was:\r\n\r\nNew documents have been posted to your request.  The documents are being provided to you in accordance with the North Carolina Public Records Act.&nbsp; This request has been fully processed and is closed.\r\n\r\n&nbsp;\r\n\r\nSincerely,\r\n\r\n&nbsp;\r\n\r\nThe Public Records Office\r\n\r\nThe University of North Carolina at Chapel Hill\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n************************************************************************                          \r\n<em>Questions about your request?</em> Reply to this email or sign in to contact staff at UNC-Chapel Hill.<br><br><em>Technical support:</em> See our <a href=\"https://www.civicplus.help/nextrequest/docs/requesters\">help page</a>",
-        "status": "done",
-        "likely_foia": null,
-        "files": [],
         "delivered": "portal"
       }
     ]

@@ -1655,7 +1655,7 @@
     "datetime_updated": "2026-11-13T09:32:24.652290",
     "date_due": "2026-11-21",
     "date_embargo": null,
-    "date_followup": "2026-11-23",
+    "date_followup": "2026-11-28",
     "days_until_due": null,
     "disable_autofollowups": false,
     "price": "0.00",
@@ -1689,7 +1689,7 @@
         "thanks": false,
         "full_html": false,
         "communication": "This is an acknowledgement of your request below, for public information, submitted to the Document Compliance Unit (\u201cDCU\u201d) of the Baltimore Police Department (\u201cBPD\u201d). Your request is assigned to Robert Hartlove who can be contacted directly at Robert.Hartlove2@baltimorepolice.org<mailto:Brooke.Nice2@baltimorepolice.org>. All follow-up correspondence should be submitted to your investigator.\r\n\r\n\r\n\r\nOfficer K. Rose\r\n410-396-9842\r\nBaltimore Police Department\r\nDocument Compliance Unit\r\nLegal Affairs Division\r\n242 W. 29th Street\r\nBaltimore Maryland, 21211\r\nDCU@baltimorepolice.org<mailto:DCU@baltimorepolice.org>\r\nMPIA request forms\r\nhttp://law.baltimorecity.gov/office-legal-affairs-baltimore-police-department\r\n\r\nCONFIDENTIALITY NOTICE: The information contained in or attached to this e-mail message may be a privileged and confidential attorney/client communication, or otherwise confidential, and is intended only for the use of the individual or entity to whom it is addressed. If you are not the intended recipient, or the employee or agent responsible for delivering the message to the intended recipient, you are notified that any distribution or copying of this communication is strictly prohibited. If you have received this communication in error, please notify the Legal Affairs Division immediately by telephone at 410-396-2496 and DELETE the message from your system immediately.\r\n\r\nThe materials in this e-mail are private and may contain sensitive law enforcement information. Please note that e-mail is not necessarily confidential or secure. Use of e-mail constitutes your acknowledgment of these confidentiality and security limitations. If you are not the intended recipient, be advised that any unauthorized use, disclosure, copying, distribution, or the taking of any action in reliance on the contents of this information is strictly prohibited as covered by the Electronic Communications Privacy Act, 18 U.S.C. \u00a7\u00a7 2510-2521. If you have received this e-mail in error, please immediately notify the sender via telephone or return e-mail.\n",
-        "status": null,
+        "status": "processed",
         "likely_foia": null,
         "files": [],
         "delivered": "email"

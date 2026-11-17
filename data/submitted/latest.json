@@ -1463,14 +1463,14 @@
     "user": 193912,
     "agency": 32802,
     "slug": "greenwich-traffic-stops-2021-present",
-    "status": "submitted",
+    "status": "processed",
     "embargo_status": "public",
     "datetime_submitted": "2026-11-15T19:51:23.168078",
     "datetime_done": null,
     "datetime_updated": "2026-11-15T19:51:23.286381",
     "date_due": "2026-11-19",
     "date_embargo": null,
-    "date_followup": null,
+    "date_followup": "2026-12-01",
     "days_until_due": null,
     "disable_autofollowups": false,
     "price": "0.00",
@@ -1488,10 +1488,10 @@
         "thanks": false,
         "full_html": false,
         "communication": "To Whom It May Concern:\r\n\r\nPursuant to the Connecticut Freedom of Information Act, I hereby request the following records:\r\n\r\nSpecifically, I request a structured dataset or database export (such as a CSV, Excel, or similar machine-readable file) containing the following fields for each traffic stop\r\n1. Unique Identifier: Any incident number, case number, CAD event number, or unique stop ID associated with the record.\r\n2. Date: The date the traffic stop occurred.\r\n3. Time: The time the traffic stop was initiated (and cleared, if maintained).\r\n4. Agency: The initiating or reporting agency/division.\r\n5. Problem Description: The initial call/incident nature and any updated problem description or disposition noting a deviation from a standard traffic stop.\r\n6. Responding Unit: The unit identifier(s) or badge/car number(s) assigned to or responding to the stop.\r\n7. Location: The street address, intersection, or block-level location of the stop. (Note: If exact location details raise specific statutory privacy or safety exemptions, providing the corresponding police district, beat, or sector is an acceptable alternative.)\r\n8. Reason for the Stop: The statutory violation code cited, infraction/offense code, or the generalized stop category recorded by the officer or dispatch system.\r\n\r\nI also request that, if possible and pursuant to Conn. Gen. Stat. \u00a7 1-212(d), fees be waived as I believe this request is in the public interest and not made for commercial gain. The requested documents will be made available to the public at MuckRock.com.\r\n\r\nIn the event that there are fees, I would be grateful if you would inform me of the total charges in advance of fulfilling my request. I would prefer the request filled electronically, by e-mail attachment if available or CD-ROM if not.\r\n\r\nThank you in advance for your anticipated cooperation in this matter. I look forward to receiving your response to this request within 4 business days, as the statute requires.\r\n\r\nSincerely,\r\n\r\nBrent Skalling",
-        "status": null,
+        "status": "processed",
         "likely_foia": null,
         "files": [],
-        "delivered": "none"
+        "delivered": "portal"
       }
     ]
   },

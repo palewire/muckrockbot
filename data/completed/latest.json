@@ -7871,6 +7871,46 @@
             "description": "",
             "doc_id": "28889588-bethel_records_exemption_log-key",
             "pages": 7
+          },
+          {
+            "id": 1447569,
+            "ffile": "https://cdn.muckrock.com/foia_files/2026/11/17/1._BETHEL_RECORDS_EXEMPTION_LOG.pdf",
+            "datetime": "2026-11-17T04:06:26.298585",
+            "title": "1._BETHEL_RECORDS_EXEMPTION_LOG",
+            "source": "Alpha Assistance",
+            "description": "",
+            "doc_id": "28919107-1_bethel_records_exemption_log",
+            "pages": 2
+          },
+          {
+            "id": 1447570,
+            "ffile": "https://cdn.muckrock.com/foia_files/2026/11/17/full_4_pge_Settlement_Agreement_Redacted.pdf",
+            "datetime": "2026-11-17T04:06:27.631490",
+            "title": "full_4_pge_Settlement_Agreement_Redacted",
+            "source": "Alpha Assistance",
+            "description": "",
+            "doc_id": "28919108-full_4_pge_settlement_agreement_redacted",
+            "pages": 4
+          },
+          {
+            "id": 1447571,
+            "ffile": "https://cdn.muckrock.com/foia_files/2026/11/17/393784_check_number_Redacted.pdf",
+            "datetime": "2026-11-17T04:06:32.735644",
+            "title": "393784_check_number_Redacted",
+            "source": "Alpha Assistance",
+            "description": "",
+            "doc_id": "28919109-393784_check_number_redacted",
+            "pages": 7
+          },
+          {
+            "id": 1447572,
+            "ffile": "https://cdn.muckrock.com/foia_files/2026/11/17/393782_check_number_Redacted.pdf",
+            "datetime": "2026-11-17T04:06:50.156205",
+            "title": "393782_check_number_Redacted",
+            "source": "Alpha Assistance",
+            "description": "",
+            "doc_id": "28919110-393782_check_number_redacted",
+            "pages": 5
           }
         ],
         "delivered": "portal"

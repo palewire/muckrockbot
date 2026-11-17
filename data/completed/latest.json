@@ -10,7 +10,7 @@
     "status": "done",
     "embargo_status": "public",
     "datetime_submitted": "2026-10-22T15:08:12.231207",
-    "datetime_done": "2026-11-16T19:15:28.198168",
+    "datetime_done": "2026-11-16T19:14:42.126659",
     "datetime_updated": "2026-11-16T19:15:28.198168",
     "date_due": "2026-10-29",
     "date_embargo": null,
@@ -355,7 +355,7 @@
         "thanks": false,
         "full_html": false,
         "communication": "Email 2 of 3\r\n\r\n[Business Operations logo]\r\n\r\nMatthew McDaniel CPA\r\nAssistant Superintendent/FOIA Coordinator,  Business Operations\nRochester Community Schools\r\n52585 Dequindre Rd., Rochester, MI 48307\r\n248-726-3141",
-        "status": null,
+        "status": "done",
         "likely_foia": null,
         "files": [
           {

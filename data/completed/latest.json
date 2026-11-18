@@ -1161,7 +1161,18 @@
         "communication": "Dear Requester,   \r\n  \r\n The request Request Number: PDRR2026-1480 has been completed, you will need your Security Key C63E1FCF to log into the system. Please click on the request link above to download the responsive documents that have been made available to you.  \r\n  \r\n If there are outstanding fees for your request, documents will be made available as soon as payment has been received by the City. \r\n  \r\n   \r\n  \n Thank you,\r\n\r\nCity of College Station Police Department\r\nPO Box 9973\r\nCollege Station, TX 77842\r\n979-764-3600\r\npubrequest@cstx.gov",
         "status": "done",
         "likely_foia": 212923,
-        "files": [],
+        "files": [
+          {
+            "id": 1448017,
+            "ffile": "https://cdn.muckrock.com/foia_files/2026/11/18/Records_Request_Download_PDRR2026-1480_2026-11-18--01-43-38.zip",
+            "datetime": "2026-11-18T01:45:17.330346",
+            "title": "Records_Request_Download_PDRR2026-1480_2026-11-18--01-43-38",
+            "source": "Alpha Assistance",
+            "description": "",
+            "doc_id": "",
+            "pages": 0
+          }
+        ],
         "delivered": "email"
       }
     ]

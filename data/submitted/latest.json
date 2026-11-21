@@ -778,7 +778,7 @@
     "user": 160729,
     "agency": 41737,
     "slug": "legal-invoices",
-    "status": "processed",
+    "status": "ack",
     "embargo_status": "public",
     "datetime_submitted": "2026-11-20T15:09:00.820943",
     "datetime_done": null,

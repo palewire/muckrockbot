@@ -100,34 +100,14 @@
         "likely_foia": null,
         "files": [
           {
-            "id": 1449417,
-            "ffile": "https://cdn.muckrock.com/inbound_request_attachments/OfficeoftheMayorofSanFrancisco/223787/Binder2_Redacted.pdf",
+            "id": 1449416,
+            "ffile": "https://cdn.muckrock.com/inbound_request_attachments/OfficeoftheMayorofSanFrancisco/223787/Binder1_Final.pdf",
             "datetime": "2026-11-20T18:58:08.254015",
-            "title": "Binder2_Redacted.pdf",
+            "title": "Binder1_Final.pdf",
             "source": "",
             "description": "",
-            "doc_id": "",
-            "pages": 0
-          },
-          {
-            "id": 1449414,
-            "ffile": "https://cdn.muckrock.com/inbound_request_attachments/OfficeoftheMayorofSanFrancisco/223787/2025-05_Executive_Directive.pdf",
-            "datetime": "2026-11-20T18:58:08.254015",
-            "title": "2025-05_Executive_Directive.pdf",
-            "source": "",
-            "description": "",
-            "doc_id": "",
-            "pages": 0
-          },
-          {
-            "id": 1449415,
-            "ffile": "https://cdn.muckrock.com/inbound_request_attachments/OfficeoftheMayorofSanFrancisco/223787/All_Supporting_Documents_Binder_File_No._26059.pdf",
-            "datetime": "2026-11-20T18:58:08.254015",
-            "title": "All_Supporting_Documents_Binder_File_No._26059.pdf",
-            "source": "",
-            "description": "",
-            "doc_id": "",
-            "pages": 0
+            "doc_id": "28928234-binder1_finalpdf",
+            "pages": 13
           },
           {
             "id": 1449419,
@@ -136,8 +116,38 @@
             "title": "Binder4.pdf",
             "source": "",
             "description": "",
-            "doc_id": "",
-            "pages": 0
+            "doc_id": "28928231-binder4pdf",
+            "pages": 13
+          },
+          {
+            "id": 1449417,
+            "ffile": "https://cdn.muckrock.com/inbound_request_attachments/OfficeoftheMayorofSanFrancisco/223787/Binder2_Redacted.pdf",
+            "datetime": "2026-11-20T18:58:08.254015",
+            "title": "Binder2_Redacted.pdf",
+            "source": "",
+            "description": "",
+            "doc_id": "28928232-binder2_redactedpdf",
+            "pages": 55
+          },
+          {
+            "id": 1449415,
+            "ffile": "https://cdn.muckrock.com/inbound_request_attachments/OfficeoftheMayorofSanFrancisco/223787/All_Supporting_Documents_Binder_File_No._26059.pdf",
+            "datetime": "2026-11-20T18:58:08.254015",
+            "title": "All_Supporting_Documents_Binder_File_No._26059.pdf",
+            "source": "",
+            "description": "",
+            "doc_id": "28928240-all_supporting_documents_binder_file_no_26059pdf",
+            "pages": 21
+          },
+          {
+            "id": 1449414,
+            "ffile": "https://cdn.muckrock.com/inbound_request_attachments/OfficeoftheMayorofSanFrancisco/223787/2025-05_Executive_Directive.pdf",
+            "datetime": "2026-11-20T18:58:08.254015",
+            "title": "2025-05_Executive_Directive.pdf",
+            "source": "",
+            "description": "",
+            "doc_id": "28928237-2025-05_executive_directivepdf",
+            "pages": 4
           },
           {
             "id": 1449418,
@@ -146,18 +156,8 @@
             "title": "Sunshine_R._587_Prop_G.pdf",
             "source": "",
             "description": "",
-            "doc_id": "",
-            "pages": 0
-          },
-          {
-            "id": 1449416,
-            "ffile": "https://cdn.muckrock.com/inbound_request_attachments/OfficeoftheMayorofSanFrancisco/223787/Binder1_Final.pdf",
-            "datetime": "2026-11-20T18:58:08.254015",
-            "title": "Binder1_Final.pdf",
-            "source": "",
-            "description": "",
-            "doc_id": "",
-            "pages": 0
+            "doc_id": "28928235-sunshine_r_587_prop_gpdf",
+            "pages": 1
           }
         ],
         "delivered": "web"

@@ -100,16 +100,6 @@
         "likely_foia": null,
         "files": [
           {
-            "id": 1449416,
-            "ffile": "https://cdn.muckrock.com/inbound_request_attachments/OfficeoftheMayorofSanFrancisco/223787/Binder1_Final.pdf",
-            "datetime": "2026-11-20T18:58:08.254015",
-            "title": "Binder1_Final.pdf",
-            "source": "",
-            "description": "",
-            "doc_id": "28928234-binder1_finalpdf",
-            "pages": 13
-          },
-          {
             "id": 1449419,
             "ffile": "https://cdn.muckrock.com/inbound_request_attachments/OfficeoftheMayorofSanFrancisco/223787/Binder4.pdf",
             "datetime": "2026-11-20T18:58:08.254015",
@@ -128,6 +118,16 @@
             "description": "",
             "doc_id": "28928232-binder2_redactedpdf",
             "pages": 55
+          },
+          {
+            "id": 1449418,
+            "ffile": "https://cdn.muckrock.com/inbound_request_attachments/OfficeoftheMayorofSanFrancisco/223787/Sunshine_R._587_Prop_G.pdf",
+            "datetime": "2026-11-20T18:58:08.254015",
+            "title": "Sunshine_R._587_Prop_G.pdf",
+            "source": "",
+            "description": "",
+            "doc_id": "28928235-sunshine_r_587_prop_gpdf",
+            "pages": 1
           },
           {
             "id": 1449415,
@@ -150,14 +150,14 @@
             "pages": 4
           },
           {
-            "id": 1449418,
-            "ffile": "https://cdn.muckrock.com/inbound_request_attachments/OfficeoftheMayorofSanFrancisco/223787/Sunshine_R._587_Prop_G.pdf",
+            "id": 1449416,
+            "ffile": "https://cdn.muckrock.com/inbound_request_attachments/OfficeoftheMayorofSanFrancisco/223787/Binder1_Final.pdf",
             "datetime": "2026-11-20T18:58:08.254015",
-            "title": "Sunshine_R._587_Prop_G.pdf",
+            "title": "Binder1_Final.pdf",
             "source": "",
             "description": "",
-            "doc_id": "28928235-sunshine_r_587_prop_gpdf",
-            "pages": 1
+            "doc_id": "28928234-binder1_finalpdf",
+            "pages": 13
           }
         ],
         "delivered": "web"
@@ -618,6 +618,16 @@
             "description": "",
             "doc_id": "28927063-2026-0718-response",
             "pages": 1
+          },
+          {
+            "id": 1449494,
+            "ffile": "https://cdn.muckrock.com/foia_files/2026/11/22/2026-0718-20261122T060446Z-1-001.zip",
+            "datetime": "2026-11-22T01:05:47.553489",
+            "title": "2026-0718-20261122T060446Z-1-001",
+            "source": "Alpha Assistance",
+            "description": "",
+            "doc_id": "",
+            "pages": 0
           }
         ],
         "delivered": "email"
@@ -7395,14 +7405,14 @@
         "likely_foia": null,
         "files": [
           {
-            "id": 1448295,
-            "ffile": "https://cdn.muckrock.com/inbound_request_attachments/LakeGenevaCityClerk/213145/2025-08-Fire_Chief_Report.pdf",
+            "id": 1448297,
+            "ffile": "https://cdn.muckrock.com/inbound_request_attachments/LakeGenevaCityClerk/213145/2025-10-Fire_Chief_Report.pdf",
             "datetime": "2026-11-18T14:29:13.338394",
-            "title": "2025-08-Fire_Chief_Report.pdf",
+            "title": "2025-10-Fire_Chief_Report.pdf",
             "source": "Lake Geneva City Clerk",
             "description": "",
-            "doc_id": "28923483-2025-08-fire_chief_reportpdf",
-            "pages": 11
+            "doc_id": "28923482-2025-10-fire_chief_reportpdf",
+            "pages": 18
           },
           {
             "id": 1448280,
@@ -7595,14 +7605,14 @@
             "pages": 8
           },
           {
-            "id": 1448297,
-            "ffile": "https://cdn.muckrock.com/inbound_request_attachments/LakeGenevaCityClerk/213145/2025-10-Fire_Chief_Report.pdf",
+            "id": 1448295,
+            "ffile": "https://cdn.muckrock.com/inbound_request_attachments/LakeGenevaCityClerk/213145/2025-08-Fire_Chief_Report.pdf",
             "datetime": "2026-11-18T14:29:13.338394",
-            "title": "2025-10-Fire_Chief_Report.pdf",
+            "title": "2025-08-Fire_Chief_Report.pdf",
             "source": "Lake Geneva City Clerk",
             "description": "",
-            "doc_id": "28923482-2025-10-fire_chief_reportpdf",
-            "pages": 18
+            "doc_id": "28923483-2025-08-fire_chief_reportpdf",
+            "pages": 11
           },
           {
             "id": 1448299,

@@ -2091,16 +2091,6 @@
         "likely_foia": null,
         "files": [
           {
-            "id": 1449443,
-            "ffile": "https://cdn.muckrock.com/outbound_composer_attachments/jenniferholtzclaw/191478/PAC_ExhibitC_DADenial_9-18-26_MR199925.pdf",
-            "datetime": "2026-11-21T00:17:35.120619",
-            "title": "PAC_ExhibitC_DADenial_9-18-26_MR199925.pdf",
-            "source": "Jennifer Holtzclaw",
-            "description": "",
-            "doc_id": "28928238-pac_exhibitc_dadenial_9-18-26_mr199925pdf",
-            "pages": 7
-          },
-          {
             "id": 1449445,
             "ffile": "https://cdn.muckrock.com/outbound_composer_attachments/jenniferholtzclaw/191478/PAC_ExhibitA_12_15_2025JH_ORA_2026-11-20.png",
             "datetime": "2026-11-21T00:17:35.120619",
@@ -2109,6 +2099,16 @@
             "description": "",
             "doc_id": "",
             "pages": 0
+          },
+          {
+            "id": 1449443,
+            "ffile": "https://cdn.muckrock.com/outbound_composer_attachments/jenniferholtzclaw/191478/PAC_ExhibitC_DADenial_9-18-26_MR199925.pdf",
+            "datetime": "2026-11-21T00:17:35.120619",
+            "title": "PAC_ExhibitC_DADenial_9-18-26_MR199925.pdf",
+            "source": "Jennifer Holtzclaw",
+            "description": "",
+            "doc_id": "28928238-pac_exhibitc_dadenial_9-18-26_mr199925pdf",
+            "pages": 7
           },
           {
             "id": 1449444,
@@ -2279,20 +2279,20 @@
         "likely_foia": null,
         "files": [
           {
-            "id": 1449457,
-            "ffile": "https://cdn.muckrock.com/outbound_request_attachments/jenniferholtzclaw/227600/PAC_Exhibit_J_C00073_TaylorSuggestedContacts_Rowland_NoDate.png",
+            "id": 1449456,
+            "ffile": "https://cdn.muckrock.com/outbound_request_attachments/jenniferholtzclaw/227600/PAC_Exhibit_J_C00088_TaylorSuggestedContacts_Salmon_NoDate.png",
             "datetime": "2026-11-21T01:26:35.100243",
-            "title": "PAC_Exhibit_J_C00073_TaylorSuggestedContacts_Rowland_NoDate.png",
+            "title": "PAC_Exhibit_J_C00088_TaylorSuggestedContacts_Salmon_NoDate.png",
             "source": "Jennifer Holtzclaw",
             "description": "",
             "doc_id": "",
             "pages": 0
           },
           {
-            "id": 1449456,
-            "ffile": "https://cdn.muckrock.com/outbound_request_attachments/jenniferholtzclaw/227600/PAC_Exhibit_J_C00088_TaylorSuggestedContacts_Salmon_NoDate.png",
+            "id": 1449457,
+            "ffile": "https://cdn.muckrock.com/outbound_request_attachments/jenniferholtzclaw/227600/PAC_Exhibit_J_C00073_TaylorSuggestedContacts_Rowland_NoDate.png",
             "datetime": "2026-11-21T01:26:35.100243",
-            "title": "PAC_Exhibit_J_C00088_TaylorSuggestedContacts_Salmon_NoDate.png",
+            "title": "PAC_Exhibit_J_C00073_TaylorSuggestedContacts_Rowland_NoDate.png",
             "source": "Jennifer Holtzclaw",
             "description": "",
             "doc_id": "",
@@ -2326,20 +2326,20 @@
         "likely_foia": null,
         "files": [
           {
-            "id": 1449459,
-            "ffile": "https://cdn.muckrock.com/outbound_request_attachments/jenniferholtzclaw/227600/PAC_Exhibit_J_CO2094_2016_10-28_TaylorOKCdotgov_JuryTrialNotice_FromBridgettMartinAndETReply.png",
+            "id": 1449458,
+            "ffile": "https://cdn.muckrock.com/outbound_request_attachments/jenniferholtzclaw/227600/PAC_Exhibit_J_C00007_2014-07-09_TaylorSuggestedContacts_McConnell.png",
             "datetime": "2026-11-21T01:30:31.240137",
-            "title": "PAC_Exhibit_J_CO2094_2016_10-28_TaylorOKCdotgov_JuryTrialNotice_FromBridgettMartinAndETReply.png",
+            "title": "PAC_Exhibit_J_C00007_2014-07-09_TaylorSuggestedContacts_McConnell.png",
             "source": "Jennifer Holtzclaw",
             "description": "",
             "doc_id": "",
             "pages": 0
           },
           {
-            "id": 1449458,
-            "ffile": "https://cdn.muckrock.com/outbound_request_attachments/jenniferholtzclaw/227600/PAC_Exhibit_J_C00007_2014-07-09_TaylorSuggestedContacts_McConnell.png",
+            "id": 1449459,
+            "ffile": "https://cdn.muckrock.com/outbound_request_attachments/jenniferholtzclaw/227600/PAC_Exhibit_J_CO2094_2016_10-28_TaylorOKCdotgov_JuryTrialNotice_FromBridgettMartinAndETReply.png",
             "datetime": "2026-11-21T01:30:31.240137",
-            "title": "PAC_Exhibit_J_C00007_2014-07-09_TaylorSuggestedContacts_McConnell.png",
+            "title": "PAC_Exhibit_J_CO2094_2016_10-28_TaylorOKCdotgov_JuryTrialNotice_FromBridgettMartinAndETReply.png",
             "source": "Jennifer Holtzclaw",
             "description": "",
             "doc_id": "",
@@ -2410,20 +2410,20 @@
         "likely_foia": null,
         "files": [
           {
-            "id": 1449464,
-            "ffile": "https://cdn.muckrock.com/outbound_request_attachments/jenniferholtzclaw/227600/PAC_Exhibit_K_OCK1136DupedOKC5692_2014-07-24.png",
+            "id": 1449463,
+            "ffile": "https://cdn.muckrock.com/outbound_request_attachments/jenniferholtzclaw/227600/PAC_Exhibit_K_OKC2252_2014-09-19_MuznytoGieger_reBlueSheets.png",
             "datetime": "2026-11-21T01:34:24.955386",
-            "title": "PAC_Exhibit_K_OCK1136DupedOKC5692_2014-07-24.png",
+            "title": "PAC_Exhibit_K_OKC2252_2014-09-19_MuznytoGieger_reBlueSheets.png",
             "source": "Jennifer Holtzclaw",
             "description": "",
             "doc_id": "",
             "pages": 0
           },
           {
-            "id": 1449463,
-            "ffile": "https://cdn.muckrock.com/outbound_request_attachments/jenniferholtzclaw/227600/PAC_Exhibit_K_OKC2252_2014-09-19_MuznytoGieger_reBlueSheets.png",
+            "id": 1449464,
+            "ffile": "https://cdn.muckrock.com/outbound_request_attachments/jenniferholtzclaw/227600/PAC_Exhibit_K_OCK1136DupedOKC5692_2014-07-24.png",
             "datetime": "2026-11-21T01:34:24.955386",
-            "title": "PAC_Exhibit_K_OKC2252_2014-09-19_MuznytoGieger_reBlueSheets.png",
+            "title": "PAC_Exhibit_K_OCK1136DupedOKC5692_2014-07-24.png",
             "source": "Jennifer Holtzclaw",
             "description": "",
             "doc_id": "",
@@ -2693,14 +2693,14 @@
     "user": 68079,
     "agency": 9656,
     "slug": "mo-post-data-11-6",
-    "status": "ack",
+    "status": "done",
     "embargo_status": "public",
     "datetime_submitted": "2026-11-20T19:23:36.911348",
-    "datetime_done": null,
-    "datetime_updated": "2026-11-20T19:23:37.048670",
+    "datetime_done": "2026-11-23T16:56:09.034723",
+    "datetime_updated": "2026-11-23T16:56:09.034723",
     "date_due": "2026-11-25",
     "date_embargo": null,
-    "date_followup": "2026-11-25",
+    "date_followup": null,
     "days_until_due": null,
     "disable_autofollowups": false,
     "price": "0.00",
@@ -2721,6 +2721,53 @@
         "status": null,
         "likely_foia": null,
         "files": [],
+        "delivered": "email"
+      },
+      {
+        "foia": 227594,
+        "from_user": 22945,
+        "to_user": 68079,
+        "subject": "FW: The Missouri Sunshine Law Request: MO POST Data - 11-6",
+        "datetime": "2026-11-23T16:56:09.034723",
+        "response": true,
+        "autogenerated": false,
+        "thanks": false,
+        "full_html": false,
+        "communication": "The Department of Public Safety, Office of the Director (\u201cDPS\u201d), received your records request and is only responding on behalf of DPS.  Your open records request was received on November 23, 2026. This response is being submitted within the three-day period required by the Missouri Sunshine Law. \u00a7 610.023.3, RSMo. Your request mentioned:\r\n\r\n\r\n1. Data showing all individuals who hold POST licenses, their license status, their license ID, and their employing or commissioning agencies\r\n\r\n2. Data showing all individuals who have surrendered their POST license or had it revoked and any corresponding public data\r\nThe documents requested under the Missouri Sunshine Law are attached.  This concludes our response to your request.\r\n\nSincerely,\r\n\r\nJudy Murray\r\nCustodian of Records\r\nMO Department of Public Safety\r\nOffice of the Director\r\nPO Box 749\r\nJefferson City, MO  65102",
+        "status": "done",
+        "likely_foia": null,
+        "files": [
+          {
+            "id": 1449909,
+            "ffile": "https://cdn.muckrock.com/foia_files/2026/11/23/image002.jpg",
+            "datetime": "2026-11-23T16:56:09.105661",
+            "title": "image002",
+            "source": "POST, Missouri",
+            "description": "",
+            "doc_id": "",
+            "pages": 0
+          },
+          {
+            "id": 1449910,
+            "ffile": "https://cdn.muckrock.com/foia_files/2026/11/23/All_Licensed_Peace_Officers_with_Commissioning_Agencies_-_If_Any_-_11.23.2026.xlsx",
+            "datetime": "2026-11-23T16:56:09.341946",
+            "title": "All Licensed Peace Officers with Commissioning Agencies - If Any - 11.23.2026",
+            "source": "POST, Missouri",
+            "description": "",
+            "doc_id": "",
+            "pages": 0
+          },
+          {
+            "id": 1449911,
+            "ffile": "https://cdn.muckrock.com/foia_files/2026/11/23/Revoked_and_Surrendered_-_11.23.2026.xlsx",
+            "datetime": "2026-11-23T16:56:09.417955",
+            "title": "Revoked and Surrendered - 11.23.2026",
+            "source": "POST, Missouri",
+            "description": "",
+            "doc_id": "",
+            "pages": 0
+          }
+        ],
         "delivered": "email"
       }
     ]

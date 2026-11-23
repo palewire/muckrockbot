@@ -2169,7 +2169,7 @@
     "datetime_updated": "2026-11-23T08:23:12.346628",
     "date_due": "2026-11-27",
     "date_embargo": null,
-    "date_followup": "2026-12-05",
+    "date_followup": "2026-12-08",
     "days_until_due": null,
     "disable_autofollowups": false,
     "price": "0.00",
@@ -2219,7 +2219,7 @@
         "thanks": false,
         "full_html": false,
         "communication": "Your request has been received.  I will forward to others to gather the\r\ninformation you requested.\r\n\r\nMark WInzler\n",
-        "status": null,
+        "status": "processed",
         "likely_foia": null,
         "files": [],
         "delivered": "email"

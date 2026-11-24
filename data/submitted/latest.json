@@ -174,7 +174,7 @@
     "datetime_updated": "2026-11-24T12:12:35.892625",
     "date_due": "2026-12-04",
     "date_embargo": null,
-    "date_followup": "2026-12-04",
+    "date_followup": "2026-12-09",
     "days_until_due": null,
     "disable_autofollowups": false,
     "price": "0.00",
@@ -208,7 +208,7 @@
         "thanks": false,
         "full_html": false,
         "communication": "November 24, 2026\r\n\r\nDear Ed Burton:\r\n\r\nThank you for your message. I write to confirm University of California,\r\nSanta Cruz (UCSC) received your email today.\r\n\r\nA formal request acknowledgement will be sent within the timelines\r\nprescribed under the California Public Records Act (CPRA), including a\r\ndetermination whether disclosable public records are within UCSC\u2019s\r\npossession.\r\n\r\nWe appreciate your interest in UCSC. If you have questions concerning\r\nUCSC\u2019s implementation of the CPRA please contact Information Practices via\r\nemail at pra@ucsc.edu.\r\n\r\nSincerely,\r\n\r\nInformation Practices\r\n\r\n~~~~~~~~~~~~~~~~\r\n\nInformation Practices\r\n\r\nOffice of Campus Counsel\r\n\r\nUniversity of California, Santa Cruz\r\n\r\n1156 High Street\r\n\r\nSanta Cruz, CA 95064\r\n\r\nVoice: (831) 459-4003\r\n\r\nFax: (831) 459-2760\r\n\r\nEmail: pra@ucsc.edu\r\n\r\nWeb: www.ucsc.edu\r\n\r\nhttp://infopractices.ucsc.edu\r\n\r\nMailstop: Chancellor's Office\r\n\r\n\r\nLATEST COVID-19 AND PRIVACY GUIDANCE at\r\nhttps://privacy.ucsc.edu/resources/covid-19.html",
-        "status": null,
+        "status": "processed",
         "likely_foia": null,
         "files": [],
         "delivered": "email"

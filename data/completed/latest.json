@@ -352,14 +352,14 @@
         "likely_foia": null,
         "files": [
           {
-            "id": 1441151,
-            "ffile": "https://cdn.muckrock.com/inbound_request_attachments/HendersonDistrictPublicLibraries/222093/2026-08-20_Cox_2399-00.pdf",
+            "id": 1441159,
+            "ffile": "https://cdn.muckrock.com/inbound_request_attachments/HendersonDistrictPublicLibraries/222093/FY2026_-_Form_486_EPC_Certification_Steps.pdf",
             "datetime": "2026-10-29T18:26:53.323970",
-            "title": "2026-08-20_Cox_2399-00.pdf",
+            "title": "FY2026_-_Form_486_EPC_Certification_Steps.pdf",
             "source": "Henderson District Public Libraries",
             "description": "",
-            "doc_id": "28858892-2026-08-20_cox_2399-00pdf",
-            "pages": 2
+            "doc_id": "28858888-fy2026_-_form_486_epc_certification_stepspdf",
+            "pages": 3
           },
           {
             "id": 1441152,
@@ -380,6 +380,16 @@
             "description": "",
             "doc_id": "28858899-10_fcdl_henderson_dpl_f261009299pdf",
             "pages": 8
+          },
+          {
+            "id": 1441151,
+            "ffile": "https://cdn.muckrock.com/inbound_request_attachments/HendersonDistrictPublicLibraries/222093/2026-08-20_Cox_2399-00.pdf",
+            "datetime": "2026-10-29T18:26:53.323970",
+            "title": "2026-08-20_Cox_2399-00.pdf",
+            "source": "Henderson District Public Libraries",
+            "description": "",
+            "doc_id": "28858892-2026-08-20_cox_2399-00pdf",
+            "pages": 2
           },
           {
             "id": 1441160,
@@ -470,16 +480,6 @@
             "description": "",
             "doc_id": "28858889-invoice_20247_070126pdf",
             "pages": 1
-          },
-          {
-            "id": 1441159,
-            "ffile": "https://cdn.muckrock.com/inbound_request_attachments/HendersonDistrictPublicLibraries/222093/FY2026_-_Form_486_EPC_Certification_Steps.pdf",
-            "datetime": "2026-10-29T18:26:53.323970",
-            "title": "FY2026_-_Form_486_EPC_Certification_Steps.pdf",
-            "source": "Henderson District Public Libraries",
-            "description": "",
-            "doc_id": "28858888-fy2026_-_form_486_epc_certification_stepspdf",
-            "pages": 3
           },
           {
             "id": 1441161,
@@ -586,26 +586,6 @@
         "likely_foia": null,
         "files": [
           {
-            "id": 1450467,
-            "ffile": "https://cdn.muckrock.com/inbound_request_attachments/HendersonDistrictPublicLibraries/222093/emails.2.pdf",
-            "datetime": "2026-11-24T17:30:49.449014",
-            "title": "emails.2.pdf",
-            "source": "Henderson District Public Libraries",
-            "description": "",
-            "doc_id": "28933519-emails2pdf",
-            "pages": 9
-          },
-          {
-            "id": 1450464,
-            "ffile": "https://cdn.muckrock.com/inbound_request_attachments/HendersonDistrictPublicLibraries/222093/emails.5.pdf",
-            "datetime": "2026-11-24T17:30:49.449014",
-            "title": "emails.5.pdf",
-            "source": "Henderson District Public Libraries",
-            "description": "",
-            "doc_id": "28933524-emails5pdf",
-            "pages": 858
-          },
-          {
             "id": 1450468,
             "ffile": "https://cdn.muckrock.com/inbound_request_attachments/HendersonDistrictPublicLibraries/222093/emails.3.pdf",
             "datetime": "2026-11-24T17:30:49.449014",
@@ -626,6 +606,16 @@
             "pages": 1156
           },
           {
+            "id": 1450464,
+            "ffile": "https://cdn.muckrock.com/inbound_request_attachments/HendersonDistrictPublicLibraries/222093/emails.5.pdf",
+            "datetime": "2026-11-24T17:30:49.449014",
+            "title": "emails.5.pdf",
+            "source": "Henderson District Public Libraries",
+            "description": "",
+            "doc_id": "28933524-emails5pdf",
+            "pages": 858
+          },
+          {
             "id": 1450466,
             "ffile": "https://cdn.muckrock.com/inbound_request_attachments/HendersonDistrictPublicLibraries/222093/emails.1.pdf",
             "datetime": "2026-11-24T17:30:49.449014",
@@ -644,6 +634,16 @@
             "description": "",
             "doc_id": "28933520-emails6pdf",
             "pages": 114
+          },
+          {
+            "id": 1450467,
+            "ffile": "https://cdn.muckrock.com/inbound_request_attachments/HendersonDistrictPublicLibraries/222093/emails.2.pdf",
+            "datetime": "2026-11-24T17:30:49.449014",
+            "title": "emails.2.pdf",
+            "source": "Henderson District Public Libraries",
+            "description": "",
+            "doc_id": "28933519-emails2pdf",
+            "pages": 9
           }
         ],
         "delivered": "web"
@@ -1236,6 +1236,56 @@
         "likely_foia": null,
         "files": [
           {
+            "id": 1450310,
+            "ffile": "https://cdn.muckrock.com/inbound_request_attachments/DouglasCountyClerkOfTheDistrictCourt/225836/Utilization-2023_July31_start_1.pdf",
+            "datetime": "2026-11-24T12:05:05.571299",
+            "title": "Utilization-2023_July31_start_1.pdf",
+            "source": "Douglas County Clerk Of The District Court",
+            "description": "",
+            "doc_id": "28933517-utilization-2023_july31_start_1pdf",
+            "pages": 36
+          },
+          {
+            "id": 1450308,
+            "ffile": "https://cdn.muckrock.com/inbound_request_attachments/DouglasCountyClerkOfTheDistrictCourt/225836/2023_Jan_1-July_26_-_2023_Data.pdf",
+            "datetime": "2026-11-24T12:05:05.571299",
+            "title": "2023_Jan_1-July_26_-_2023_Data.pdf",
+            "source": "Douglas County Clerk Of The District Court",
+            "description": "",
+            "doc_id": "28933518-2023_jan_1-july_26_-_2023_datapdf",
+            "pages": 3
+          },
+          {
+            "id": 1450309,
+            "ffile": "https://cdn.muckrock.com/inbound_request_attachments/DouglasCountyClerkOfTheDistrictCourt/225836/2023_Jan_1-July_26_-_JFW_Stats_2023.pdf",
+            "datetime": "2026-11-24T12:05:05.571299",
+            "title": "2023_Jan_1-July_26_-_JFW_Stats_2023.pdf",
+            "source": "Douglas County Clerk Of The District Court",
+            "description": "",
+            "doc_id": "28933516-2023_jan_1-july_26_-_jfw_stats_2023pdf",
+            "pages": 2
+          },
+          {
+            "id": 1450312,
+            "ffile": "https://cdn.muckrock.com/inbound_request_attachments/DouglasCountyClerkOfTheDistrictCourt/225836/Utilization-2025_1.pdf",
+            "datetime": "2026-11-24T12:05:05.571299",
+            "title": "Utilization-2025_1.pdf",
+            "source": "Douglas County Clerk Of The District Court",
+            "description": "",
+            "doc_id": "28933515-utilization-2025_1pdf",
+            "pages": 37
+          },
+          {
+            "id": 1450311,
+            "ffile": "https://cdn.muckrock.com/inbound_request_attachments/DouglasCountyClerkOfTheDistrictCourt/225836/Utilization-2024_1.pdf",
+            "datetime": "2026-11-24T12:05:05.571299",
+            "title": "Utilization-2024_1.pdf",
+            "source": "Douglas County Clerk Of The District Court",
+            "description": "",
+            "doc_id": "28933514-utilization-2024_1pdf",
+            "pages": 56
+          },
+          {
             "id": 1450313,
             "ffile": "https://cdn.muckrock.com/inbound_request_attachments/DouglasCountyClerkOfTheDistrictCourt/225836/Utilization-2026_1.pdf",
             "datetime": "2026-11-24T12:05:05.571299",
@@ -1284,59 +1334,170 @@
             "description": "",
             "doc_id": "28933508-jurorutilization-jul_2023-dec_2023_1pdf",
             "pages": 1
-          },
-          {
-            "id": 1450311,
-            "ffile": "https://cdn.muckrock.com/inbound_request_attachments/DouglasCountyClerkOfTheDistrictCourt/225836/Utilization-2024_1.pdf",
-            "datetime": "2026-11-24T12:05:05.571299",
-            "title": "Utilization-2024_1.pdf",
-            "source": "Douglas County Clerk Of The District Court",
-            "description": "",
-            "doc_id": "28933514-utilization-2024_1pdf",
-            "pages": 56
-          },
-          {
-            "id": 1450308,
-            "ffile": "https://cdn.muckrock.com/inbound_request_attachments/DouglasCountyClerkOfTheDistrictCourt/225836/2023_Jan_1-July_26_-_2023_Data.pdf",
-            "datetime": "2026-11-24T12:05:05.571299",
-            "title": "2023_Jan_1-July_26_-_2023_Data.pdf",
-            "source": "Douglas County Clerk Of The District Court",
-            "description": "",
-            "doc_id": "28933518-2023_jan_1-july_26_-_2023_datapdf",
-            "pages": 3
-          },
-          {
-            "id": 1450310,
-            "ffile": "https://cdn.muckrock.com/inbound_request_attachments/DouglasCountyClerkOfTheDistrictCourt/225836/Utilization-2023_July31_start_1.pdf",
-            "datetime": "2026-11-24T12:05:05.571299",
-            "title": "Utilization-2023_July31_start_1.pdf",
-            "source": "Douglas County Clerk Of The District Court",
-            "description": "",
-            "doc_id": "28933517-utilization-2023_july31_start_1pdf",
-            "pages": 36
-          },
-          {
-            "id": 1450309,
-            "ffile": "https://cdn.muckrock.com/inbound_request_attachments/DouglasCountyClerkOfTheDistrictCourt/225836/2023_Jan_1-July_26_-_JFW_Stats_2023.pdf",
-            "datetime": "2026-11-24T12:05:05.571299",
-            "title": "2023_Jan_1-July_26_-_JFW_Stats_2023.pdf",
-            "source": "Douglas County Clerk Of The District Court",
-            "description": "",
-            "doc_id": "28933516-2023_jan_1-july_26_-_jfw_stats_2023pdf",
-            "pages": 2
-          },
-          {
-            "id": 1450312,
-            "ffile": "https://cdn.muckrock.com/inbound_request_attachments/DouglasCountyClerkOfTheDistrictCourt/225836/Utilization-2025_1.pdf",
-            "datetime": "2026-11-24T12:05:05.571299",
-            "title": "Utilization-2025_1.pdf",
-            "source": "Douglas County Clerk Of The District Court",
-            "description": "",
-            "doc_id": "28933515-utilization-2025_1pdf",
-            "pages": 37
           }
         ],
         "delivered": "web"
+      }
+    ]
+  },
+  {
+    "id": 226697,
+    "title": "SOS FOIA 2025",
+    "username": "M_objJKClt",
+    "absolute_url": "https://www.muckrock.com/foi/aurora-7505/sos-foia-2025-226697/",
+    "user": 189746,
+    "agency": 7678,
+    "slug": "sos-foia-2025",
+    "status": "done",
+    "embargo_status": "public",
+    "datetime_submitted": "2026-11-11T18:38:34.695487",
+    "datetime_done": "2026-11-24T10:34:05.443264",
+    "datetime_updated": "2026-11-24T10:34:05.443264",
+    "date_due": "2026-11-18",
+    "date_embargo": null,
+    "date_followup": null,
+    "days_until_due": null,
+    "disable_autofollowups": false,
+    "price": "0.00",
+    "tracking_id": "P006105-111126",
+    "tags": [
+      "alpr",
+      "flock",
+      "flock safety",
+      "flock-audit",
+      "flocksafetyaudit2025"
+    ],
+    "communications": [
+      {
+        "foia": 226697,
+        "from_user": 189746,
+        "to_user": 11590,
+        "subject": "Illinois Freedom of Information Act. Request: SOS FOIA 2025",
+        "datetime": "2026-11-11T18:38:34.812976",
+        "response": false,
+        "autogenerated": false,
+        "thanks": false,
+        "full_html": false,
+        "communication": "To the FOIA Officer of Aurora Police Department,\r\n\r\nThis request is made under Illinois Freedom of Information Act. for the following records:\r\n\r\n1. Any Freedom of Information Act (FOIA) request or other records request received by your agency from the Office of the Illinois Secretary of State concerning Automatic License Plate Reader (ALPR) systems or 625 ILCS 5/2-130, from January 1, 2025 to the date of this request.\r\n\r\n2. All records produced by your agency in response to any request identified in Item 1, in the original electronic format in which they were produced (for example, .csv or .xlsx for audit data).\r\n\r\nThe requested documents will be made available to the general public, and this request is not being made for commercial purposes.\r\n\r\nIf any fees apply, please provide an estimate of the total charges before fulfilling this request. Electronic delivery is the preferred method of receipt.\r\n\r\nA response is anticipated within 5 business days, as the statute requires.\r\n\r\nThank you for your assistance.\r\nM",
+        "status": "processed",
+        "likely_foia": null,
+        "files": [],
+        "delivered": "portal"
+      },
+      {
+        "foia": 226697,
+        "from_user": 11590,
+        "to_user": 189746,
+        "subject": "Account Creation: City of Aurora FOIA Request System",
+        "datetime": "2026-11-11T21:13:35.024315",
+        "response": true,
+        "autogenerated": false,
+        "thanks": false,
+        "full_html": false,
+        "communication": "DO NOT REPLY TO THIS AUTOMATED EMAIL - IT WAS SENT FROM AN UNMONITORED ACCOUNT\r\n\r\nDear M M,\r\n\r\nThank you for registering with City of Aurora FOIA Request System.\r\n\r\nYour Login ID is: 226697-33414131@requests.muckrock.com\r\n\r\nIf you did not submit your request through the public portal but are receiving this e-mail, you can track and monitor the status of your request, and receive any documents in response to your request.\r\n\r\nIf you have never used this system or cannot remember your password you may request a temporary password here: \r\nRequest Temporary Password (https://u8387778.ct.sendgrid.net/ls/click?upn=u001.VEsWrlMiJDg0mXafq1mEXbIracL4ODgaqqBjSoN8HQIoTTMjjJoSkdyFP10IS2YtftNfc92p1Ac6mNTrAJjG9SVaafxEqPWkYu1b09oGWEY-3Dv3uV_oSNAB8bBGoSk0lOCR4NwBKRe9viA8jM3ylwC-2B-2BjqfWgBiVXIUVJngZ4Ps4Ixms9yQLBcAHOMc5Nhod2glzB1bp6nDwr6-2BSwV8eKGPrSWnYVkdCVIbDuBHJHHjEmQcWQeSkIng8qoiuX95qT9GkmFF-2FCKbHAs8X7OclqxhzX6HfCyiLBO8TDip7127tcjxv8MKlC94AT8zMavDdVGwsdTUT-2BJaPZHSODTCSXSb1AE5Qs-3D)\r\n\r\nPlease login to \"My Request Center\" to update your account information, track the status of your request and receive requested records when they become available.\r\n\r\nThis is an auto-generated email and has originated from an unmonitored email account. Please DO NOT REPLY",
+        "status": "processed",
+        "likely_foia": null,
+        "files": [],
+        "delivered": "portal"
+      },
+      {
+        "foia": 226697,
+        "from_user": 11590,
+        "to_user": 189746,
+        "subject": "Police FOIA Request :: P006105-111126",
+        "datetime": "2026-11-11T21:15:35.228000",
+        "response": true,
+        "autogenerated": false,
+        "thanks": false,
+        "full_html": false,
+        "communication": "\"Thank you for your interest in public records of City of Aurora. Your request has been received and is being processed in accordance with the (5 ILCS 140/) Freedom of Information Act. Your request was received in this office on 11/11/2026 and given the reference number P006105-111126 for tracking purposes.\r\n\r\nRecords Requested: To the FOIA Officer of Aurora Police Department,\r\n\r\nThis request is made under Illinois Freedom of Information Act. for the following records:\r\n\r\n1. Any Freedom of Information Act (FOIA) request or other records request received by your agency from the Office of the Illinois Secretary of State concerning Automatic License Plate Reader (ALPR) systems or 625 ILCS 5/2-130, from January 1, 2025 to the date of this request.\r\n\r\n2. All records produced by your agency in response to any request identified in Item 1, in the original electronic format in which they were produced (for example, .csv or .xlsx for audit data).\r\n\r\nThe requested documents will be made available to the general public, and this request is not being made for commercial purposes.\r\n\r\nIf any fees apply, please provide an estimate of the total charges before fulfilling this request. Electronic delivery is the preferred method of receipt.\r\n\r\nA response is anticipated within 5 business days, as the statute requires.\r\n\r\nThank you for your assistance.\r\nM\r\n\r\nUpload documents directly: https://www.muckrock.com/respond/2457574/\r\n\r\nYour request will be forwarded to the relevant department(s) to locate the information you seek and to determine the volume and any costs associated with satisfying your request. You will be contacted about the availability and/or provided with copies of the records in question. PLEASE NOTE: The Freedom of Information Act does not require a governmental body to create new information, to do legal research, or to answer questions.\r\n \r\nCity of Aurora\"",
+        "status": "processed",
+        "likely_foia": null,
+        "files": [],
+        "delivered": "portal"
+      },
+      {
+        "foia": 226697,
+        "from_user": 11590,
+        "to_user": 189746,
+        "subject": "Police FOIA Request :: P006105-111126",
+        "datetime": "2026-11-20T09:57:22.914905",
+        "response": true,
+        "autogenerated": false,
+        "thanks": false,
+        "full_html": false,
+        "communication": "--- Please respond above this line --- \r\n\r\nAccess your GovQA FOIA Request Center here: https://aurorail.govqa.us/WEBAPP/_rs/RequestEdit.aspx?rid=78016&coid= DO NOT REPLY TO THIS AUTOMATED EMAIL - IT WAS SENT FROM AN UNMONITORED ACCOUNT \r\n \r\n \r\nNovember 20, 2026 \r\nVIA: 226697-33414131@requests.muckrock.com (GovQA Email Notification) \r\nRE: Police FOIA Request of November 11, 2026, Reference # P006105-111126 \r\n\r\nDear Requester, \r\n\r\nThank you for contacting the Aurora Police Department (Department) with your request for public records pursuant to the Illinois Freedom of Information Act, (FOIA). 5 ILCS 140/1 et seq. On November 11, 2026 at 8:14 p.m., you submitted the following FOIA request: \r\nTo the FOIA Officer of Aurora Police Department, \r\n\r\nThis request is made under Illinois Freedom of Information Act. for the following records: \r\n\r\n1. Any Freedom of Information Act (FOIA) request or other records request received by your agency from the Office of the Illinois Secretary of State concerning Automatic License Plate Reader (ALPR) systems or 625 ILCS 5/2-130, from January 1, 2025 to the date of this request. \r\n\r\n2. All records produced by your agency in response to any request identified in Item 1, in the original electronic format in which they were produced (for example, .csv or .xlsx for audit data). \r\n\r\nThe requested documents will be made available to the general public, and this request is not being made for commercial purposes. \r\n\r\nIf any fees apply, please provide an estimate of the total charges before fulfilling this request. Electronic delivery is the preferred method of receipt. \r\n\r\nA response is anticipated within 5 business days, as the statute requires. \r\n\r\nThank you for your assistance. \r\n\r\nUpload documents directly: https://www.muckrock.com/respond/2457574/ \r\n\r\nPursuant to FOIA, the time for response under Section 3.(e) is extended five (5) business days from the original due date, for the following reason(s): \r\n\r\n(iv) the requested records have not been located in the course of routine search and additional efforts are being made to locate them; \r\n\r\nIn that regard, the response date is extended by five (5) business days, to\u00a0November 30, 2026.\u00a0\u00a0Should you have any additional questions or concerns, please reply to this message or contact the undersigned directly. \r\n\r\nSincerely, \r\n\r\nSarah Walsh \r\nFOIA Specialist \r\nCity of Aurora \r\n630-256-3099 \r\npublicrecords@aurora.il.us \r\nalong with \r\n\r\nChris Hayevsky \r\nFOIA Officer \r\nAurora Police Department \r\n630-256-5720 \r\nhayevskc@aurora.il.us \r\n \r\n \r\nREQUEST FOR PUBLIC RECORDS WILL BE PROCESSED IN ACCORDANCE WITH THE  ILLINOIS FOIA. \r\nAll requests for public records will be governed by the Illinois Freedom of Information Act (FOIA), 5 ILCS 140/1, and exempt information will be redacted or otherwise withheld.  You may be receiving a redacted version of the requested records.",
+        "status": "processed",
+        "likely_foia": null,
+        "files": [],
+        "delivered": "portal"
+      },
+      {
+        "foia": 226697,
+        "from_user": 11590,
+        "to_user": 189746,
+        "subject": "Police FOIA Request :: P006105-111126",
+        "datetime": "2026-11-24T10:34:05.443264",
+        "response": true,
+        "autogenerated": false,
+        "thanks": false,
+        "full_html": false,
+        "communication": "--- Please respond above this line --- \r\n\r\nAccess your GovQA FOIA Request Center here: https://aurorail.govqa.us/WEBAPP/_rs/RequestEdit.aspx?rid=78016&coid=  DO NOT REPLY TO THIS AUTOMATED EMAIL - IT WAS SENT FROM AN UNMONITORED ACCOUNT \r\n \r\n November 24, 2026 VIA: 226697-33414131@requests.muckrock.com (GovQA Email Notification) \r\nRE: FOIA Request Reference # P006105-111126 \r\n\r\nDear Requester, \r\n\r\nThank you for contacting the Aurora Police Department (Department) with your request for public records, pursuant to the Illinois Freedom of Information Act, 5 ILCS 140/1 et seq. On November 11, 2026, you requested public records as follows: \r\nTo the FOIA Officer of Aurora Police Department, \r\n\r\nThis request is made under Illinois Freedom of Information Act. for the following records: \r\n\r\n1. Any Freedom of Information Act (FOIA) request or other records request received by your agency from the Office of the Illinois Secretary of State concerning Automatic License Plate Reader (ALPR) systems or 625 ILCS 5/2-130, from January 1, 2025 to the date of this request. \r\n\r\n2. All records produced by your agency in response to any request identified in Item 1, in the original electronic format in which they were produced (for example, .csv or .xlsx for audit data). \r\n\r\nThe requested documents will be made available to the general public, and this request is not being made for commercial purposes. \r\n\r\nIf any fees apply, please provide an estimate of the total charges before fulfilling this request. Electronic delivery is the preferred method of receipt. \r\n\r\nA response is anticipated within 5 business days, as the statute requires. \r\n\r\nThank you for your assistance. \r\n\r\nUpload documents directly: https://www.muckrock.com/respond/2457574/ \r\n\r\nResponsive record(s) have been released to our online FOIA Request System. You can log into the system and download your responsive records. Some exempt information has been redacted or withheld, pursuant to the Section 7 provisions of FOIA stated herein.  To the extent that certain content is exempt from disclosure and withheld, this constitutes a partial denial.  Your request is granted in part and denied in part. \r\n\r\nWith respect to number one (1) above, see attached. \r\n\r\nWith respect to number two (2) above, see attached.  Additional records that may be responsive to this portion of your request are withheld pursuant to the exemptions cited below. \r\n\r\n7(1)(d-7).  Information gathered or records created from the use of automated license plate readers in connection with Section 2-130 of the Illinois Vehicle Code. 5ILCS 140/7(1)(d-7) \r\n\r\n7(1)(d-5). A law enforcement record created for law enforcement purposes and contained in a shared electronic record management system, in which the City only has access to the records through the shared electronic management system. \r\n\r\nTHIS IS A NOTIFICATION SENT TO YOUR EMAIL ADDRESS VIA GOVQA. YOUR RESPONSIVE RECORDS ARE ATTACHED TO YOUR FOIA REQUEST IN GOVQA. \r\n\r\nIf you interpret this partial denial response to your request reviewed by the Public Access Counselor (PAC) at the Office of the Illinois Attorney General. 5 ILCS 140/9.5(a). You can file your Request for Review with the PAC by writing to: \r\n\r\nPublic Access Counselor, Office of the Attorney General \r\n500 South 2nd Street, Springfield, Illinois 62701 \r\nPhone: 877-299-3642 \r\nE-mail: public.access@ilag.gov \r\n\r\nYou also have the right to seek judicial review by filing a lawsuit in the State of Illinois Circuit Court. If you choose to file a Request for Review with the PAC, you must do so within 60 calendar days of the date of this denial letter. Please note that you must include a copy of your original FOIA request and this denial letter when filing a Request for Review with the PAC. \r\n\r\nThank you, \r\n\r\nChris Hayevsky \r\nFOIA Officer \r\nAurora Police Department \r\n630-256-5720 \r\nhayevskc@aurora.il.us \r\n\r\n \r\n \r\nREQUEST FOR PUBLIC RECORDS WILL BE PROCESSED IN ACCORDANCE WITH THE  ILLINOIS FOIA. \r\nAll requests for public records will be governed by the Illinois Freedom of Information Act (FOIA), 5 ILCS 140/1, and exempt information will be redacted or otherwise withheld.  You may be receiving a redacted version of the requested records.",
+        "status": "done",
+        "likely_foia": null,
+        "files": [
+          {
+            "id": 1450294,
+            "ffile": "https://cdn.muckrock.com/foia_files/2026/11/24/Automated_License_Plate_Readers__ALPRs_.pdf",
+            "datetime": "2026-11-24T10:34:16.040804",
+            "title": "Automated_License_Plate_Readers__ALPRs_",
+            "source": "Aurora Police Department, Aurora, IL",
+            "description": "",
+            "doc_id": "28932112-automated_license_plate_readers__alprs",
+            "pages": 3
+          },
+          {
+            "id": 1450295,
+            "ffile": "https://cdn.muckrock.com/foia_files/2026/11/24/Flock_Declaration.png",
+            "datetime": "2026-11-24T10:34:16.056149",
+            "title": "Flock_Declaration",
+            "source": "Aurora Police Department, Aurora, IL",
+            "description": "",
+            "doc_id": "",
+            "pages": 0
+          },
+          {
+            "id": 1450297,
+            "ffile": "https://cdn.muckrock.com/foia_files/2026/11/24/GovQA_-_AURORAIL_-_FOIA_REQUEST_details.pdf",
+            "datetime": "2026-11-24T10:34:16.092420",
+            "title": "GovQA_-_AURORAIL_-_FOIA_REQUEST_details",
+            "source": "Aurora Police Department, Aurora, IL",
+            "description": "",
+            "doc_id": "28932111-govqa_-_aurorail_-_foia_request_details",
+            "pages": 5
+          },
+          {
+            "id": 1450296,
+            "ffile": "https://cdn.muckrock.com/foia_files/2026/11/24/Aurora_PD_ALPR_Agency_Declaration.pdf",
+            "datetime": "2026-11-24T10:34:16.092556",
+            "title": "Aurora_PD_ALPR_Agency_Declaration",
+            "source": "Aurora Police Department, Aurora, IL",
+            "description": "",
+            "doc_id": "28932113-aurora_pd_alpr_agency_declaration",
+            "pages": 1
+          },
+          {
+            "id": 1450298,
+            "ffile": "https://cdn.muckrock.com/foia_files/2026/11/24/Vigilant_Solutions_Report.pdf",
+            "datetime": "2026-11-24T10:34:16.156553",
+            "title": "Vigilant_Solutions_Report",
+            "source": "Aurora Police Department, Aurora, IL",
+            "description": "",
+            "doc_id": "28932114-vigilant_solutions_report",
+            "pages": 31
+          }
+        ],
+        "delivered": "portal"
       }
     ]
   },
@@ -1838,16 +1999,6 @@
         "likely_foia": null,
         "files": [
           {
-            "id": 210492,
-            "ffile": "https://cdn.muckrock.com/outbound_composer_attachments/TheEmmaBest/60117/FBI20fee20category20and20search20parameters.pdf",
-            "datetime": "2018-08-18T12:43:44.827766",
-            "title": "FBI20fee20category20and20search20parameters.pdf",
-            "source": "Emma Best",
-            "description": "",
-            "doc_id": "4776711-FBI20fee20category20and20search20parameters-pdf",
-            "pages": 1
-          },
-          {
             "id": 210491,
             "ffile": "https://cdn.muckrock.com/outbound_composer_attachments/TheEmmaBest/60117/Herbert20Sperling2C20Drug20Kingpin20Tied20to20French20Connection20Case2C20Dies20at2.pdf",
             "datetime": "2018-08-18T12:43:44.827766",
@@ -1856,6 +2007,16 @@
             "description": "",
             "doc_id": "4776709-Herbert20Sperling2C20Drug20Kingpin20Tied20to20Fren",
             "pages": 5
+          },
+          {
+            "id": 210492,
+            "ffile": "https://cdn.muckrock.com/outbound_composer_attachments/TheEmmaBest/60117/FBI20fee20category20and20search20parameters.pdf",
+            "datetime": "2018-08-18T12:43:44.827766",
+            "title": "FBI20fee20category20and20search20parameters.pdf",
+            "source": "Emma Best",
+            "description": "",
+            "doc_id": "4776711-FBI20fee20category20and20search20parameters-pdf",
+            "pages": 1
           }
         ],
         "delivered": "portal"
@@ -5188,36 +5349,6 @@
         "likely_foia": null,
         "files": [
           {
-            "id": 1449414,
-            "ffile": "https://cdn.muckrock.com/inbound_request_attachments/OfficeoftheMayorofSanFrancisco/223787/2025-05_Executive_Directive.pdf",
-            "datetime": "2026-11-20T18:58:08.254015",
-            "title": "2025-05_Executive_Directive.pdf",
-            "source": "",
-            "description": "",
-            "doc_id": "28928237-2025-05_executive_directivepdf",
-            "pages": 4
-          },
-          {
-            "id": 1449415,
-            "ffile": "https://cdn.muckrock.com/inbound_request_attachments/OfficeoftheMayorofSanFrancisco/223787/All_Supporting_Documents_Binder_File_No._26059.pdf",
-            "datetime": "2026-11-20T18:58:08.254015",
-            "title": "All_Supporting_Documents_Binder_File_No._26059.pdf",
-            "source": "",
-            "description": "",
-            "doc_id": "28928240-all_supporting_documents_binder_file_no_26059pdf",
-            "pages": 21
-          },
-          {
-            "id": 1449416,
-            "ffile": "https://cdn.muckrock.com/inbound_request_attachments/OfficeoftheMayorofSanFrancisco/223787/Binder1_Final.pdf",
-            "datetime": "2026-11-20T18:58:08.254015",
-            "title": "Binder1_Final.pdf",
-            "source": "",
-            "description": "",
-            "doc_id": "28928234-binder1_finalpdf",
-            "pages": 13
-          },
-          {
             "id": 1449418,
             "ffile": "https://cdn.muckrock.com/inbound_request_attachments/OfficeoftheMayorofSanFrancisco/223787/Sunshine_R._587_Prop_G.pdf",
             "datetime": "2026-11-20T18:58:08.254015",
@@ -5226,6 +5357,16 @@
             "description": "",
             "doc_id": "28928235-sunshine_r_587_prop_gpdf",
             "pages": 1
+          },
+          {
+            "id": 1449419,
+            "ffile": "https://cdn.muckrock.com/inbound_request_attachments/OfficeoftheMayorofSanFrancisco/223787/Binder4.pdf",
+            "datetime": "2026-11-20T18:58:08.254015",
+            "title": "Binder4.pdf",
+            "source": "",
+            "description": "",
+            "doc_id": "28928231-binder4pdf",
+            "pages": 13
           },
           {
             "id": 1449417,
@@ -5238,13 +5379,33 @@
             "pages": 55
           },
           {
-            "id": 1449419,
-            "ffile": "https://cdn.muckrock.com/inbound_request_attachments/OfficeoftheMayorofSanFrancisco/223787/Binder4.pdf",
+            "id": 1449415,
+            "ffile": "https://cdn.muckrock.com/inbound_request_attachments/OfficeoftheMayorofSanFrancisco/223787/All_Supporting_Documents_Binder_File_No._26059.pdf",
             "datetime": "2026-11-20T18:58:08.254015",
-            "title": "Binder4.pdf",
+            "title": "All_Supporting_Documents_Binder_File_No._26059.pdf",
             "source": "",
             "description": "",
-            "doc_id": "28928231-binder4pdf",
+            "doc_id": "28928240-all_supporting_documents_binder_file_no_26059pdf",
+            "pages": 21
+          },
+          {
+            "id": 1449414,
+            "ffile": "https://cdn.muckrock.com/inbound_request_attachments/OfficeoftheMayorofSanFrancisco/223787/2025-05_Executive_Directive.pdf",
+            "datetime": "2026-11-20T18:58:08.254015",
+            "title": "2025-05_Executive_Directive.pdf",
+            "source": "",
+            "description": "",
+            "doc_id": "28928237-2025-05_executive_directivepdf",
+            "pages": 4
+          },
+          {
+            "id": 1449416,
+            "ffile": "https://cdn.muckrock.com/inbound_request_attachments/OfficeoftheMayorofSanFrancisco/223787/Binder1_Final.pdf",
+            "datetime": "2026-11-20T18:58:08.254015",
+            "title": "Binder1_Final.pdf",
+            "source": "",
+            "description": "",
+            "doc_id": "28928234-binder1_finalpdf",
             "pages": 13
           }
         ],
@@ -9658,175 +9819,6 @@
         "likely_foia": null,
         "files": [],
         "delivered": "email"
-      }
-    ]
-  },
-  {
-    "id": 226751,
-    "title": "Axon Contract and Procurement Materials",
-    "username": "beryllipton",
-    "absolute_url": "https://www.muckrock.com/foi/carpentersville-7620/axon-contract-and-procurement-materials-226751/",
-    "user": 2116,
-    "agency": 8803,
-    "slug": "axon-contract-and-procurement-materials",
-    "status": "done",
-    "embargo_status": "public",
-    "datetime_submitted": "2026-11-12T17:15:35.448200",
-    "datetime_done": "2026-11-19T10:48:09.146897",
-    "datetime_updated": "2026-11-19T10:48:09.146897",
-    "date_due": "2026-11-19",
-    "date_embargo": null,
-    "date_followup": null,
-    "days_until_due": null,
-    "disable_autofollowups": false,
-    "price": "0.00",
-    "tracking_id": "W013811-111526",
-    "tags": [],
-    "communications": [
-      {
-        "foia": 226751,
-        "from_user": 2116,
-        "to_user": 11010,
-        "subject": "Illinois Freedom of Information Act. Request: Axon Contract and Procurement Materials",
-        "datetime": "2026-11-12T17:15:35.530867",
-        "response": false,
-        "autogenerated": false,
-        "thanks": false,
-        "full_html": false,
-        "communication": "To Whom It May Concern:\r\n\r\nThe Electronic Frontier Foundation (EFF) is submitting this request for records under the Illinois Freedom of Information Act. related to the acquisition and cost of services and devices provided by Axon and any of its subsidiaries and partners. \r\n\r\n*Background*\r\nAxon (also known as Axon Enterprise, Inc.) is a company that describes itself as providing \u201cpublic safety technology solutions\u201d to a variety of customers, many of which are law enforcement agencies based in the United States. For reference, Axon\u2019s website is www.axon.com. These \u201csolutions\u201d may be equipment, software, or \u201cartificial intelligence\u201d-driven analysis of video and data. Some examples of equipment, software, and services created and sold by Axon include (but are not limited to):\r\n\u2022 the TASER, a conducted energy device\r\n\u2022 body-worn cameras (often referred to as \u201cAxon Body\u201d)\r\n\u2022 Axon Fusus, a platform used to integrate cameras and other data into a \u201creal-time crime center\u201d (RTCC) \r\n\u2022 Axon 911, an AI-driven assistant platform for dispatchers\r\n\u2022 Axon Evidence, a platform to integrate evidence and other information\r\n\u2022 Axon Outpost, an automated license plate reader (ALPR) system\r\n\u2022 Axon Lightpost, an ALPR system designed for integration with streetlights\r\n\u2022 the Axon AI Era Plan, a collection of AI-driven analysis software (www.axon.com/products/axon-ai-era-plan)\r\n\u2022 Axon Vision, an AI-driven video analysis system\r\n\u2022 Axon Assistant, an AI-driven chatbot\r\n\u2022 Axon Draft One, an AI-assisted police report generation feature\r\n\u2022 Axon Records, a records management system\r\n\u2022 Axon virtual reality training\r\n\u2022 Axon Air DFR, a drone-as-first-responder platform, which may also include drones created by a company called Skydio\r\n\r\nAxon provides services or devices to the majority of policing agencies in the United States. Axon often \u201cbundles\u201d services and devices into a single contract, makes adjustments and additions to existing agreements for the provision of new goods, and is designated a \u201csole source provider\u201d during the procurement process. Contracts and agreements may be active for many years and may include \u201cescalator\u201d clauses that describe ongoing and increasing costs for the procurement over the life of the contract.\r\n\r\n*Timeframe*\r\nThe requested records are all those related to agreements with Axon active during the year 2026, as well as those agreements related to devices, services, and payments to be provided in the future. \r\n\r\n*Requested records*\r\nThis public records request is for materials related to the acquisition and cost of services and devices provided by Axon and any of its subsidiaries and partners. \r\n\r\n1. CONTRACT AND AGREEMENTS\r\nAll contracts, memorandums of understanding, and any other written agreements between this agency and Axon. Response records included all associated amendments, exhibits, and supplemental and supporting documentation for each agreement, including any amendments and materials generated subsequent to the initial contract agreement. If this agency uses any Axon product, including but not limited to the ones listed above, agreements referencing those products are responsive to this request; this includes all agreements related to \u201ctrial\u201d or \u201cfree\u201d periods of use. \r\n\r\n2. FINANCIAL AND PROCUREMENT MATERIALS\r\nAll relevant procurement and financial documents and agreements, as well as records of financial transactions, exchanges, and obligations relevant to devices and services procured from Axon. Some of these details and documents may be included as part of the Master Services and Purchasing Agreement or related quotes. \r\nResponsive materials include: \r\n\u2022 quote materials\r\n\u2022 invoices and bills\r\n\u2022 records describing specific pricing for each associated line item, including the unit price, the quantity procured of each unit, and associated pricing components. If additional products will be procured over the life of the contract, please be sure to provide records that reflect future acquisitions under the agreement and their cost. \r\n\u2022 receipts\r\n\u2022 Requests for Proposal to which Axon provided a response\r\n\u2022 bidding materials provided by Axon\r\n\u2022 justifications for sole source designation (or equivalent designation, if different terminology is used in your jurisdiction) and associated materials. Responsive materials include any letters and drafts provided by Axon, any supporting materials provided by the company, and any related resolutions and materials generated by the jurisdiction in the process of obtaining a sole source designation for Axon. If the company is not subject to competitive purchasing procedures for a reason that is not a \u201csole source designation\u201d (for example, because the agreement is part of a cooperative or collaborative purchase), please provide records sufficient to show why the company or the contract is not subject to competitive bidding. \r\n\u2022 records sufficient to show the projected ongoing cost of the agreement with Axon\r\n\u2022 records reflecting any discounts or other calculations that were figured into the costs associated with this procurement\r\n\r\n*Provision of records*\r\nWe ask that these materials be provided on a rolling basis; please provide materials to us as your office collects and reviews records. Please contact us for further discussion regarding the search and release of these materials.\r\n\r\n*Fees*\r\nIn the event that there are fees, I would be grateful if you would inform us of the total charges in advance of fulfilling my request. \r\nThis request is not being made for commercial purposes. Please assess fees appropriately in accordance with a public records request being made in the public interest for research and journalism purposes.\r\n\r\n*Format of responsive records*\r\nI request that all records be disclosed in their native, digital format and transmitted to us electronically. \r\n\r\n*Contact information*\r\nIf you need any more information in order to process the request, or cannot process a portion of the request for any reason, please respond to the email address on this request or \u201cberyl@eff.org\u201d. Please let us know if a phone call will be necessary or desirable; such contact information will be provided upon request.\r\n\r\nThank you very much for your time and help.\r\n\r\nSincerely,\r\nBeryl Lipton",
-        "status": "processed",
-        "likely_foia": null,
-        "files": [],
-        "delivered": "portal"
-      },
-      {
-        "foia": 226751,
-        "from_user": 11010,
-        "to_user": 2116,
-        "subject": "FOIA Request :: W013811-111526",
-        "datetime": "2026-11-15T23:12:07.067156",
-        "response": true,
-        "autogenerated": false,
-        "thanks": false,
-        "full_html": false,
-        "communication": "Dear Beryl : Thank you for your interest in public records of the Village of Carpentersville. Your request has been received and will be processed. The request has been given the\u00a0reference number W013811-111526 for tracking purposes. You can monitor the progress of your request by logging in and selecting \"View my Requests\" after using the following link: Village of Carpentersville FOIA Center (mailto:) \r\n You will receive another email notifying you that your request has been completed by The Village. Thank you for using the Village of Carpentersville FOIA Center. \r\n\r\nTrack the issue status and respond at: https://carpentersvilleil.mycusthelp.com/WEBAPP//_rs/RequestEdit.aspx?rid=13811",
-        "status": "processed",
-        "likely_foia": null,
-        "files": [],
-        "delivered": "portal"
-      },
-      {
-        "foia": 226751,
-        "from_user": 11010,
-        "to_user": 2116,
-        "subject": "Welcome to the Carpentersville FOIA Center",
-        "datetime": "2026-11-15T23:12:07.280629",
-        "response": true,
-        "autogenerated": false,
-        "thanks": false,
-        "full_html": false,
-        "communication": "Dear Beryl Lipton,\r\n\r\nThank you for registering with The Village of Carpentersville FOIA Center!\r\n\r\nPlease log in to the FOIA Center to track the progress of your request or to update any contact or password information.\r\n\r\nClick Here: to \r\nLogin to the Carpentersville FOIA Center. (https://carpentersvilleil.mycusthelp.com/webapp/_rs/)\r\n\r\nVillage of Carpentersville\r\n\r\nThis is an auto-generated email and has originated from an unmonitored email account. Please DO NOT REPLY.",
-        "status": "processed",
-        "likely_foia": null,
-        "files": [],
-        "delivered": "portal"
-      },
-      {
-        "foia": 226751,
-        "from_user": 11010,
-        "to_user": 2116,
-        "subject": "FOIA Request :: W013811-111526",
-        "datetime": "2026-11-19T10:48:09.146897",
-        "response": true,
-        "autogenerated": false,
-        "thanks": false,
-        "full_html": false,
-        "communication": "Attachments: \r\nVillage_FOIA_Partial_Release_Letter_for_FOIA_W013811.doc (https://u8387795.ct.sendgrid.net/ls/click?upn=u001.PYICgxP3kfgZjR-2B4e9nPlLhLkOOxkBzXmSaoVQaMrV7k6inbcdaP5sXKBB3s0KoBqZp4vPx9q2J2w8dC021K7gvLk7wMU8uwF5oxW-2BaVKu-2Fl5y4wkayZyDwQeTdSdolZL4RJogfbALOsh8P1tzi-2F0PPBsmzrGOAgbseGhBeevoHtXIKqkeXPUtZwKIWcFoYT-2FlwLAwhxQgqR2dSnpfvgPnme01xHg8dzbE22f39z48vmlsj18OTpoqiDc-2Bu-2FHHjYsNFLSunLeURxePUVyB2oiBYP-2Fu5FK-2FN-2FWfAZrXvo-2Br1rJHL6pg3jAIy-2B5sc43JEx31DQwOdBixv-2BaTnw3SzUZA-3D-3DFomS_5U9vj6rbZZPzeTfU50Mxu509mkMZkUF9J3VxbpJCjGq56yuBB5L7-2BhJlU65qVvqM-2BlS-2BYYqzqV5CR2kGxZKmxtaYC5eL-2BDg3sZtDArNbI5jz8i27BB3-2FsP-2Fdl6YDW-2B-2BelRPefPlQa7hutXVa2wHKmoXffV-2FMx5zXDn6vQjGvxJUgeAI8rbJMMHAbRzQXF0HMK5WOYm44fgKWsWVo-2BW1ar4QEgW65azNmMpI2ewUhSvHL9RX-2FvnVKaP-2BVputNrrbuyuAcmpapPyIARF2cN2SHHbooSbGQDP3pjN8glhmm7T6Nx8y1-2FBy-2FvFj1WFhBjtxbEDQl0G5K4e5xUVKKFgICA8giMS0zJ7HY2-2F0ObWdp5tnVnFPKkwcjoDHeP8kTsXU6gNgD4xaijPyAfZQN9wedWQ-3D-3D) \r\nWW013811-111526_Document_1.pdf (https://u8387795.ct.sendgrid.net/ls/click?upn=u001.PYICgxP3kfgZjR-2B4e9nPlLhLkOOxkBzXmSaoVQaMrV7k6inbcdaP5sXKBB3s0KoBqZp4vPx9q2J2w8dC021K7gvLk7wMU8uwF5oxW-2BaVKu-2Fl5y4wkayZyDwQeTdSdolZL4RJogfbALOsh8P1tzi-2F0PPBsmzrGOAgbseGhBeevoFnzMGbHuxA-2FCmuTPfVkffB9DpK9ihMPl6RVn1t7UJo4iAd0BTobljq3NfcEGYAqC2brIPwhIZFekmF6mAJYj4B7L3a2JmBz-2BoyN-2BZpGY88OHIKHLFuiqL-2BlfgO7GeeUB7xGEEb8NGy3rGTD6IMIpbE1DGSGDAzyGAUtmAdntNTUg-3D-3D5eE8_5U9vj6rbZZPzeTfU50Mxu509mkMZkUF9J3VxbpJCjGq56yuBB5L7-2BhJlU65qVvqM-2BlS-2BYYqzqV5CR2kGxZKmxtaYC5eL-2BDg3sZtDArNbI5jz8i27BB3-2FsP-2Fdl6YDW-2B-2BelRPefPlQa7hutXVa2wHKmoXffV-2FMx5zXDn6vQjGvxJUgeAI8rbJMMHAbRzQXF0HMK5WOYm44fgKWsWVo-2BW1ar4QEgW65azNmMpI2ewUhSvHL9RX-2FvnVKaP-2BVputNrrbuRWkH1gCdCIFFc0eVCoWpXUiAQYbDQDjBtvrNF2S15dRZ9X3XUOftONsW1rynGLpCFGy4-2ByROJ-2F9zNr0mMVmo1yo2EIwP0bM9O4bJbzdFBv8KLZUVyEHMyC1WzVJ-2BmcK5E8haKQwiIt5uJGeamqdWZg-3D-3D) \r\nWW013811-111526_Document_2.pdf (https://u8387795.ct.sendgrid.net/ls/click?upn=u001.PYICgxP3kfgZjR-2B4e9nPlLhLkOOxkBzXmSaoVQaMrV7k6inbcdaP5sXKBB3s0KoBqZp4vPx9q2J2w8dC021K7gvLk7wMU8uwF5oxW-2BaVKu-2Fl5y4wkayZyDwQeTdSdolZL4RJogfbALOsh8P1tzi-2F0PPBsmzrGOAgbseGhBeevoFvGyNaGdHV4rV-2FHq07bEPvYELbOPrwl8fnW7-2B80JywW-2FzL3Znou-2BpyCLJfIAjcftj245IpE-2BiQuaFZD4f1azvsN0j4Ap-2B04hpKevn2qEjgIDyO8BE6viYy9-2BFWjSDdlSKbhVxHSenaXCJiS0lh6cAG5YheMGwUGnwVCDQcw69kXw-3D-3DUNyW_5U9vj6rbZZPzeTfU50Mxu509mkMZkUF9J3VxbpJCjGq56yuBB5L7-2BhJlU65qVvqM-2BlS-2BYYqzqV5CR2kGxZKmxtaYC5eL-2BDg3sZtDArNbI5jz8i27BB3-2FsP-2Fdl6YDW-2B-2BelRPefPlQa7hutXVa2wHKmoXffV-2FMx5zXDn6vQjGvxJUgeAI8rbJMMHAbRzQXF0HMK5WOYm44fgKWsWVo-2BW1ar4QEgW65azNmMpI2ewUhSvHL9RX-2FvnVKaP-2BVputNrrbu8SpeZzg2kK6VOnRL5vLNsSpEcopsHZ7u9Xx7cjURE2eRp2TBoQN1H1PVU6xiSx716z37BmLoA9QB8pmUR-2Fc6-2F8NrQzTRGhFfdPwhp3h04iNsw885EFSNE-2FwT3AayusOfe03k922l4CgY8Py1Dcf3tA-3D-3D) \r\nWW013811-111526_Document_3.pdf (https://u8387795.ct.sendgrid.net/ls/click?upn=u001.PYICgxP3kfgZjR-2B4e9nPlLhLkOOxkBzXmSaoVQaMrV7k6inbcdaP5sXKBB3s0KoBqZp4vPx9q2J2w8dC021K7gvLk7wMU8uwF5oxW-2BaVKu-2Fl5y4wkayZyDwQeTdSdolZL4RJogfbALOsh8P1tzi-2F0PPBsmzrGOAgbseGhBeevoFkw4tNCBHjfTiQP9vBrrT1gkm7C0eDRCO-2BLf3Dzsa84PtYR3PB-2FaUA1O3RbLtfObYxOkh0mEzbV5D7wnIX9lnht9M-2FQTrQdQ11j-2FAI9D3jZcdgm5xqOJMaKDygf0UKVYQHqEXsNghaVTXPmlOl8U1PRU42n9fhmVBDynurMs81Mw-3D-3DQFMA_5U9vj6rbZZPzeTfU50Mxu509mkMZkUF9J3VxbpJCjGq56yuBB5L7-2BhJlU65qVvqM-2BlS-2BYYqzqV5CR2kGxZKmxtaYC5eL-2BDg3sZtDArNbI5jz8i27BB3-2FsP-2Fdl6YDW-2B-2BelRPefPlQa7hutXVa2wHKmoXffV-2FMx5zXDn6vQjGvxJUgeAI8rbJMMHAbRzQXF0HMK5WOYm44fgKWsWVo-2BW1ar4QEgW65azNmMpI2ewUhSvHL9RX-2FvnVKaP-2BVputNrrbuO5EutKAnAavVQQ6Uyn18dqSyejLEZi02HkisvfFHDGvamQelGaN5T8x-2BtiTSQbHptwdfkdXNDC4f5j7JdFPH6iwazW1Cf5sZFdB-2FloZ3PXBrolbcucSRdU-2FpistW8Fwn8flW2lokFwJu3U8VCQNbAA-3D-3D) \r\nWW013811-111526_Document_4.pdf (https://u8387795.ct.sendgrid.net/ls/click?upn=u001.PYICgxP3kfgZjR-2B4e9nPlLhLkOOxkBzXmSaoVQaMrV7k6inbcdaP5sXKBB3s0KoBqZp4vPx9q2J2w8dC021K7gvLk7wMU8uwF5oxW-2BaVKu-2Fl5y4wkayZyDwQeTdSdolZL4RJogfbALOsh8P1tzi-2F0PPBsmzrGOAgbseGhBeevoEUi8eOGTvh55s6-2BvAXTpcuJaxuZ6R174lpUKAWHGMDFLGi9nu4O2fPF98QgY8S9LUS4uX53-2FJjnlW060MUTMZr-2BM0-2FrnmQV5A0iSr1of5oMdE5mhV8yKhSH-2BP-2FlZiz9ZgytJ2Rwd3gUkdizwXtvHbDsMwNeqVcy54ilPXYoBrWgA-3D-3DT-HF_5U9vj6rbZZPzeTfU50Mxu509mkMZkUF9J3VxbpJCjGq56yuBB5L7-2BhJlU65qVvqM-2BlS-2BYYqzqV5CR2kGxZKmxtaYC5eL-2BDg3sZtDArNbI5jz8i27BB3-2FsP-2Fdl6YDW-2B-2BelRPefPlQa7hutXVa2wHKmoXffV-2FMx5zXDn6vQjGvxJUgeAI8rbJMMHAbRzQXF0HMK5WOYm44fgKWsWVo-2BW1ar4QEgW65azNmMpI2ewUhSvHL9RX-2FvnVKaP-2BVputNrrbuZWg7HnzOwN31m9h9CpeghN00zFmywRHrpewgsLBkQJC-2BzVdbHGYUcOe7qj0OZMcAwBpAtF0JBiWbgdMkulq0mL638W-2Bt10ByXAr-2FusXPCtOH3ewSfrIRuzt-2BdeGGqNeX1BNOpeqTKF6yuv14ASNJow-3D-3D) \r\nWW013811-111526_Document_5.pdf (https://u8387795.ct.sendgrid.net/ls/click?upn=u001.PYICgxP3kfgZjR-2B4e9nPlLhLkOOxkBzXmSaoVQaMrV7k6inbcdaP5sXKBB3s0KoBqZp4vPx9q2J2w8dC021K7gvLk7wMU8uwF5oxW-2BaVKu-2Fl5y4wkayZyDwQeTdSdolZL4RJogfbALOsh8P1tzi-2F0PPBsmzrGOAgbseGhBeevoFlPoBWWLLCoPX8oQaTCTLhr42wFZQhGGauTKxz3RCyqxaF5Aryx7kpA4k07Bi9D9lvz2b-2FZYoDe1GPsSxhesPUt-2BBghrfdqxRgx3wTy9XaWXWj8rTzwWrFVtQNQwXu2AX6N6kXBnf2-2FP-2BSluLXasChWQW-2FfhVdN-2FGq9I-2FcwXQN9Q-3D-3D5lVb_5U9vj6rbZZPzeTfU50Mxu509mkMZkUF9J3VxbpJCjGq56yuBB5L7-2BhJlU65qVvqM-2BlS-2BYYqzqV5CR2kGxZKmxtaYC5eL-2BDg3sZtDArNbI5jz8i27BB3-2FsP-2Fdl6YDW-2B-2BelRPefPlQa7hutXVa2wHKmoXffV-2FMx5zXDn6vQjGvxJUgeAI8rbJMMHAbRzQXF0HMK5WOYm44fgKWsWVo-2BW1ar4QEgW65azNmMpI2ewUhSvHL9RX-2FvnVKaP-2BVputNrrbu2o98zOk-2FBp0mqeXqPxjKh8QvFoTEKjwRgkalaqRW0ry3h73jmlqFpBp-2BtZzamjwme-2FWkGqdduBdTq3v-2Btfp-2BEayMNRH3V6dvPvk3RGQz3yl4zlVpYlggrKoHvfUFdBadYND0djU5bBSpI0evfKYk2A-3D-3D) \r\nWW013811-111526_Document_6.pdf (https://u8387795.ct.sendgrid.net/ls/click?upn=u001.PYICgxP3kfgZjR-2B4e9nPlLhLkOOxkBzXmSaoVQaMrV7k6inbcdaP5sXKBB3s0KoBqZp4vPx9q2J2w8dC021K7gvLk7wMU8uwF5oxW-2BaVKu-2Fl5y4wkayZyDwQeTdSdolZL4RJogfbALOsh8P1tzi-2F0PPBsmzrGOAgbseGhBeevoGJ1pruCANdQs10xtgG6qI-2BhTTmGR6vhti9yWUmclp1LZu-2Ffb9gF7xIsAbM7206BlQSwEv61iVFkQSfG-2BgXH2IiurHtqlIGcXcS2LN3hiDHBxsmQ2-2B1HVToMCHbYaj2ovrmAOxLSF5G0gIMCIpenWVN8GxtKninX6be0oXEDJQQEA-3D-3DURFH_5U9vj6rbZZPzeTfU50Mxu509mkMZkUF9J3VxbpJCjGq56yuBB5L7-2BhJlU65qVvqM-2BlS-2BYYqzqV5CR2kGxZKmxtaYC5eL-2BDg3sZtDArNbI5jz8i27BB3-2FsP-2Fdl6YDW-2B-2BelRPefPlQa7hutXVa2wHKmoXffV-2FMx5zXDn6vQjGvxJUgeAI8rbJMMHAbRzQXF0HMK5WOYm44fgKWsWVo-2BW1ar4QEgW65azNmMpI2ewUhSvHL9RX-2FvnVKaP-2BVputNrrbuq4N5eOfxTlaiujbQ48Ia0Fc4GUAl2v8V-2BU9ip8E6Onh0YvFmXPHTpyemEANxfVtPz-2FLiZb7q5gtZAOIv2H25vQ-2BBzej-2Bf-2BhEPA90SiljPiJODs-2F-2BULkuNfFO9p3gmfVjTFgxy-2FciHD1qBGfk4Luj9A-3D-3D) \r\nWW013811-111526_Document_7.pdf (https://u8387795.ct.sendgrid.net/ls/click?upn=u001.PYICgxP3kfgZjR-2B4e9nPlLhLkOOxkBzXmSaoVQaMrV7k6inbcdaP5sXKBB3s0KoBqZp4vPx9q2J2w8dC021K7gvLk7wMU8uwF5oxW-2BaVKu-2Fl5y4wkayZyDwQeTdSdolZL4RJogfbALOsh8P1tzi-2F0PPBsmzrGOAgbseGhBeevoEa9XApN-2BA-2FIh53wra5t9Uvkx-2BdmBoihNGteZTxfJQOj9KzLR04WdfmKWBKLzl0et-2FbCvEo6lTokAh8IhTominf-2BTnVe2R9GkjPsJFzjmorxeAD3FlDAzoV74kr1ir0RgMrU-2B5jjI-2FR6QXlj5AJ-2F64cIKiSDfEEf-2FsRpjkxqfJ7uQ-3D-3DF9RJ_5U9vj6rbZZPzeTfU50Mxu509mkMZkUF9J3VxbpJCjGq56yuBB5L7-2BhJlU65qVvqM-2BlS-2BYYqzqV5CR2kGxZKmxtaYC5eL-2BDg3sZtDArNbI5jz8i27BB3-2FsP-2Fdl6YDW-2B-2BelRPefPlQa7hutXVa2wHKmoXffV-2FMx5zXDn6vQjGvxJUgeAI8rbJMMHAbRzQXF0HMK5WOYm44fgKWsWVo-2BW1ar4QEgW65azNmMpI2ewUhSvHL9RX-2FvnVKaP-2BVputNrrbuKRIHX-2FBDDIDZYxePM23adFODSeu3S-2Fq-2Ft9dcl3wC9RoChjfK2egFIKC-2FkMr-2B0RwmkUPxrwAS-2Fk1vYTH-2BRisHbXAJ-2BUG6OlEg9FQxhOQzeQRLY4EW47CIjgUiW5naNOZsjdvnunb-2Ftftxcvd4ltHJOA-3D-3D) \r\n\r\n--- Please respond above this line --- \r\n\r\nHello Beryl, \r\nThank you for your FOIA request. Please see the attached documents fulfilling your request. \r\nThank you, \r\nCindy Puckett \r\nFOIA Officer",
-        "status": "done",
-        "likely_foia": null,
-        "files": [
-          {
-            "id": 1448742,
-            "ffile": "https://cdn.muckrock.com/foia_files/2026/11/19/WW013811-111526_Document_3.pdf",
-            "datetime": "2026-11-19T10:48:16.150467",
-            "title": "WW013811-111526_Document_3",
-            "source": "Carpentersville Police Department, Carpentersville, IL",
-            "description": "",
-            "doc_id": "28924790-ww013811-111526_document_3",
-            "pages": 11
-          },
-          {
-            "id": 1448743,
-            "ffile": "https://cdn.muckrock.com/foia_files/2026/11/19/WW013811-111526_Document_6.pdf",
-            "datetime": "2026-11-19T10:48:16.191212",
-            "title": "WW013811-111526_Document_6",
-            "source": "Carpentersville Police Department, Carpentersville, IL",
-            "description": "",
-            "doc_id": "28924793-ww013811-111526_document_6",
-            "pages": 77
-          },
-          {
-            "id": 1448744,
-            "ffile": "https://cdn.muckrock.com/foia_files/2026/11/19/WW013811-111526_Document_7.pdf",
-            "datetime": "2026-11-19T10:48:16.198181",
-            "title": "WW013811-111526_Document_7",
-            "source": "Carpentersville Police Department, Carpentersville, IL",
-            "description": "",
-            "doc_id": "28924791-ww013811-111526_document_7",
-            "pages": 9
-          },
-          {
-            "id": 1448745,
-            "ffile": "https://cdn.muckrock.com/foia_files/2026/11/19/WW013811-111526_Document_4.pdf",
-            "datetime": "2026-11-19T10:48:16.221393",
-            "title": "WW013811-111526_Document_4",
-            "source": "Carpentersville Police Department, Carpentersville, IL",
-            "description": "",
-            "doc_id": "28924792-ww013811-111526_document_4",
-            "pages": 17
-          },
-          {
-            "id": 1448746,
-            "ffile": "https://cdn.muckrock.com/foia_files/2026/11/19/WW013811-111526_Document_2.pdf",
-            "datetime": "2026-11-19T10:48:16.239689",
-            "title": "WW013811-111526_Document_2",
-            "source": "Carpentersville Police Department, Carpentersville, IL",
-            "description": "",
-            "doc_id": "28924794-ww013811-111526_document_2",
-            "pages": 16
-          },
-          {
-            "id": 1448747,
-            "ffile": "https://cdn.muckrock.com/foia_files/2026/11/19/WW013811-111526_Document_5.pdf",
-            "datetime": "2026-11-19T10:48:16.348116",
-            "title": "WW013811-111526_Document_5",
-            "source": "Carpentersville Police Department, Carpentersville, IL",
-            "description": "",
-            "doc_id": "28924795-ww013811-111526_document_5",
-            "pages": 13
-          },
-          {
-            "id": 1448748,
-            "ffile": "https://cdn.muckrock.com/foia_files/2026/11/19/Village_FOIA_Partial_Release_Letter_for_FOIA_W013811.doc",
-            "datetime": "2026-11-19T10:48:16.764402",
-            "title": "Village_FOIA_Partial_Release_Letter_for_FOIA_W013811",
-            "source": "Carpentersville Police Department, Carpentersville, IL",
-            "description": "",
-            "doc_id": "28924796-village_foia_partial_release_letter_for_foia_w013811",
-            "pages": 5
-          },
-          {
-            "id": 1448749,
-            "ffile": "https://cdn.muckrock.com/foia_files/2026/11/19/WW013811-111526_Document_1.pdf",
-            "datetime": "2026-11-19T10:48:16.860410",
-            "title": "WW013811-111526_Document_1",
-            "source": "Carpentersville Police Department, Carpentersville, IL",
-            "description": "",
-            "doc_id": "28924797-ww013811-111526_document_1",
-            "pages": 3
-          }
-        ],
-        "delivered": "portal"
       }
     ]
   }

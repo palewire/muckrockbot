@@ -352,6 +352,36 @@
         "likely_foia": null,
         "files": [
           {
+            "id": 1441159,
+            "ffile": "https://cdn.muckrock.com/inbound_request_attachments/HendersonDistrictPublicLibraries/222093/FY2026_-_Form_486_EPC_Certification_Steps.pdf",
+            "datetime": "2026-10-29T18:26:53.323970",
+            "title": "FY2026_-_Form_486_EPC_Certification_Steps.pdf",
+            "source": "Henderson District Public Libraries",
+            "description": "",
+            "doc_id": "28858888-fy2026_-_form_486_epc_certification_stepspdf",
+            "pages": 3
+          },
+          {
+            "id": 1441161,
+            "ffile": "https://cdn.muckrock.com/inbound_request_attachments/HendersonDistrictPublicLibraries/222093/21190280-USAC_FCC_FORM_471_APPLICATION_261009299_CERTIFIED.pdf",
+            "datetime": "2026-10-29T18:26:53.323970",
+            "title": "21190280-USAC_FCC_FORM_471_APPLICATION_261009299_CERTIFIED.pdf",
+            "source": "Henderson District Public Libraries",
+            "description": "",
+            "doc_id": "28858886-21190280-usac_fcc_form_471_application_261009299_certifiedpdf",
+            "pages": 28
+          },
+          {
+            "id": 1441152,
+            "ffile": "https://cdn.muckrock.com/inbound_request_attachments/HendersonDistrictPublicLibraries/222093/2026-09-21_Cox_2399-00.pdf",
+            "datetime": "2026-10-29T18:26:53.323970",
+            "title": "2026-09-21_Cox_2399-00.pdf",
+            "source": "Henderson District Public Libraries",
+            "description": "",
+            "doc_id": "28858896-2026-09-21_cox_2399-00pdf",
+            "pages": 2
+          },
+          {
             "id": 1441157,
             "ffile": "https://cdn.muckrock.com/inbound_request_attachments/HendersonDistrictPublicLibraries/222093/10_FCDL_Henderson_DPL_F261009299.pdf",
             "datetime": "2026-10-29T18:26:53.323970",
@@ -460,36 +490,6 @@
             "description": "",
             "doc_id": "28858889-invoice_20247_070126pdf",
             "pages": 1
-          },
-          {
-            "id": 1441159,
-            "ffile": "https://cdn.muckrock.com/inbound_request_attachments/HendersonDistrictPublicLibraries/222093/FY2026_-_Form_486_EPC_Certification_Steps.pdf",
-            "datetime": "2026-10-29T18:26:53.323970",
-            "title": "FY2026_-_Form_486_EPC_Certification_Steps.pdf",
-            "source": "Henderson District Public Libraries",
-            "description": "",
-            "doc_id": "28858888-fy2026_-_form_486_epc_certification_stepspdf",
-            "pages": 3
-          },
-          {
-            "id": 1441161,
-            "ffile": "https://cdn.muckrock.com/inbound_request_attachments/HendersonDistrictPublicLibraries/222093/21190280-USAC_FCC_FORM_471_APPLICATION_261009299_CERTIFIED.pdf",
-            "datetime": "2026-10-29T18:26:53.323970",
-            "title": "21190280-USAC_FCC_FORM_471_APPLICATION_261009299_CERTIFIED.pdf",
-            "source": "Henderson District Public Libraries",
-            "description": "",
-            "doc_id": "28858886-21190280-usac_fcc_form_471_application_261009299_certifiedpdf",
-            "pages": 28
-          },
-          {
-            "id": 1441152,
-            "ffile": "https://cdn.muckrock.com/inbound_request_attachments/HendersonDistrictPublicLibraries/222093/2026-09-21_Cox_2399-00.pdf",
-            "datetime": "2026-10-29T18:26:53.323970",
-            "title": "2026-09-21_Cox_2399-00.pdf",
-            "source": "Henderson District Public Libraries",
-            "description": "",
-            "doc_id": "28858896-2026-09-21_cox_2399-00pdf",
-            "pages": 2
           }
         ],
         "delivered": "web"
@@ -586,6 +586,16 @@
         "likely_foia": null,
         "files": [
           {
+            "id": 1450464,
+            "ffile": "https://cdn.muckrock.com/inbound_request_attachments/HendersonDistrictPublicLibraries/222093/emails.5.pdf",
+            "datetime": "2026-11-24T17:30:49.449014",
+            "title": "emails.5.pdf",
+            "source": "Henderson District Public Libraries",
+            "description": "",
+            "doc_id": "",
+            "pages": 0
+          },
+          {
             "id": 1450469,
             "ffile": "https://cdn.muckrock.com/inbound_request_attachments/HendersonDistrictPublicLibraries/222093/emails.4.pdf",
             "datetime": "2026-11-24T17:30:49.449014",
@@ -634,19 +644,108 @@
             "description": "",
             "doc_id": "",
             "pages": 0
-          },
-          {
-            "id": 1450464,
-            "ffile": "https://cdn.muckrock.com/inbound_request_attachments/HendersonDistrictPublicLibraries/222093/emails.5.pdf",
-            "datetime": "2026-11-24T17:30:49.449014",
-            "title": "emails.5.pdf",
-            "source": "Henderson District Public Libraries",
-            "description": "",
-            "doc_id": "",
-            "pages": 0
           }
         ],
         "delivered": "web"
+      }
+    ]
+  },
+  {
+    "id": 226641,
+    "title": "Public Order Training Participants | Q4 2026 | Atlanta Regional Commission",
+    "username": "countersousveillance",
+    "absolute_url": "https://www.muckrock.com/foi/atlanta-325/public-order-training-participants-q4-2026-atlanta-regional-commission-226641/",
+    "user": 185307,
+    "agency": 45798,
+    "slug": "public-order-training-participants-q4-2026-atlanta-regional-commission",
+    "status": "done",
+    "embargo_status": "public",
+    "datetime_submitted": "2026-11-11T10:38:15.966363",
+    "datetime_done": "2026-11-24T14:02:34.339414",
+    "datetime_updated": "2026-11-24T14:02:34.339414",
+    "date_due": "2026-11-16",
+    "date_embargo": null,
+    "date_followup": null,
+    "days_until_due": null,
+    "disable_autofollowups": false,
+    "price": "0.00",
+    "tracking_id": "",
+    "tags": [],
+    "communications": [
+      {
+        "foia": 226641,
+        "from_user": 185307,
+        "to_user": 183936,
+        "subject": "Georgia Open Records Act Request: Public Order Training Participants | Q4 2026 | Atlanta Regional Commission",
+        "datetime": "2026-11-11T10:38:16.133016",
+        "response": false,
+        "autogenerated": false,
+        "thanks": false,
+        "full_html": false,
+        "communication": "To Whom It May Concern:\r\n\r\nPursuant to the Georgia Open Records Act, I hereby request the following records:\r\n\r\nA participant list and line-item breakdown of the Atlanta Regional Commission's contract with Survival Edge Tactical Systems Inc., for \"Public Order Training\" valued at $415,100. In particular, please provide a list of participating officers and the training in which they participated, including but not limited to Advanced Level One Foundation Training, Advanced Level One Recertification and Development Training, Advanced Public Safety Strategic Commanders Course, and Advanced Level One Specialist Development Training.\r\n\r\nThe requested documents will be made available to the general public, and this request is not being made for commercial purposes.\r\n\r\nIn the event that there are fees, I would be grateful if you would inform me of the total charges in advance of fulfilling my request. I would prefer the request filled electronically, by e-mail attachment if available or CD-ROM if not.\r\n\r\nThank you in advance for your anticipated cooperation in this matter. I look forward to receiving your response to this request within 3 business days, as the statute requires.\r\n\r\nSincerely,\r\n\r\na",
+        "status": null,
+        "likely_foia": null,
+        "files": [],
+        "delivered": "email"
+      },
+      {
+        "foia": 226641,
+        "from_user": 4420,
+        "to_user": 183936,
+        "subject": "RE: Georgia Open Records Act Request: Public Order Training Participants | Q4 2026 | Atlanta Regional Commission",
+        "datetime": "2026-11-16T02:25:24.890172",
+        "response": false,
+        "autogenerated": true,
+        "thanks": false,
+        "full_html": false,
+        "communication": "To Whom It May Concern:\n\nI wanted to follow up on the following Georgia Open Records Act request, copied below, and originally submitted on Nov. 11, 2026. Please let me know when I can expect to receive a response.\n\nThanks for your help, and let me know if further clarification is needed.\n\n\n",
+        "status": null,
+        "likely_foia": null,
+        "files": [],
+        "delivered": "email"
+      },
+      {
+        "foia": 226641,
+        "from_user": 183936,
+        "to_user": 185307,
+        "subject": "RE: Georgia Open Records Act Request: Public Order Training Participants | Q4 2026 | Atlanta Regional Commission",
+        "datetime": "2026-11-18T18:13:46.988341",
+        "response": true,
+        "autogenerated": false,
+        "thanks": false,
+        "full_html": false,
+        "communication": "Dear Requestor,\r\n\r\nThis email is in response to your Georgia Open Records request received by the Atlanta Regional Commission (ARC) on November 12, 2026. Although dated November 11, 2026, ARC was not open for business on that day due to the Veteran\u2019s Day holiday.\r\n\r\nPursuant to the Georgia Open Records Act, O.C.G.A. \u00a7 50-18-71(b)(1)(A), the Atlanta Regional Commission (ARC) is providing this response to acknowledge receipt of your request and to advise you of the anticipated timeline for production.\r\n\r\nARC anticipates providing any records we have in our custody and control responsive to your request, or a further status update regarding the time, by November 24, 2026.\r\n\r\nThank you,\r\nRhea L. Thomas\n",
+        "status": "processed",
+        "likely_foia": null,
+        "files": [],
+        "delivered": "email"
+      },
+      {
+        "foia": 226641,
+        "from_user": 183936,
+        "to_user": 185307,
+        "subject": "RE: Georgia Open Records Act Request: Public Order Training Participants | Q4 2026 | Atlanta Regional Commission",
+        "datetime": "2026-11-24T14:02:34.339414",
+        "response": true,
+        "autogenerated": false,
+        "thanks": false,
+        "full_html": false,
+        "communication": "Dear Requester,\r\n\r\nThis email is a follow-up to our previous communication on November 18, 2026.\r\n\r\nPursuant to Georgia\u2019s Open Records Act, O.C.G.A. \u00a7 50-18-70 et seq., please find records responsive to your request at the following link: https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:6222e17f-8aa5-4d6a-b24f-d6919852b939. This concludes ARC\u2019s response to your request.\r\n\r\nIf you experience any issues accessing the records using the link or have any questions regarding the response, feel free to let us know.\r\n\r\nThank you,\r\nRhea L. Thomas\n",
+        "status": "done",
+        "likely_foia": null,
+        "files": [
+          {
+            "id": 1450503,
+            "ffile": "https://cdn.muckrock.com/foia_files/2026/11/24/MuckRock_-_Training_Participants_Response_FINAL.pdf",
+            "datetime": "2026-11-24T22:06:31.659900",
+            "title": "MuckRock_-_Training_Participants_Response_FINAL",
+            "source": "Alpha Assistance",
+            "description": "",
+            "doc_id": "28932993-muckrock_-_training_participants_response_final",
+            "pages": 101
+          }
+        ],
+        "delivered": "email"
       }
     ]
   },
@@ -960,16 +1059,6 @@
         "likely_foia": null,
         "files": [
           {
-            "id": 1450317,
-            "ffile": "https://cdn.muckrock.com/inbound_request_attachments/DouglasCountyClerkOfTheDistrictCourt/225836/JurorUtilization-Jul_2023-Dec_2023_1.pdf",
-            "datetime": "2026-11-24T12:05:05.571299",
-            "title": "JurorUtilization-Jul_2023-Dec_2023_1.pdf",
-            "source": "Douglas County Clerk Of The District Court",
-            "description": "",
-            "doc_id": "",
-            "pages": 0
-          },
-          {
             "id": 1450316,
             "ffile": "https://cdn.muckrock.com/inbound_request_attachments/DouglasCountyClerkOfTheDistrictCourt/225836/JurorUtilization-2026_1.pdf",
             "datetime": "2026-11-24T12:05:05.571299",
@@ -1010,16 +1099,6 @@
             "pages": 0
           },
           {
-            "id": 1450312,
-            "ffile": "https://cdn.muckrock.com/inbound_request_attachments/DouglasCountyClerkOfTheDistrictCourt/225836/Utilization-2025_1.pdf",
-            "datetime": "2026-11-24T12:05:05.571299",
-            "title": "Utilization-2025_1.pdf",
-            "source": "Douglas County Clerk Of The District Court",
-            "description": "",
-            "doc_id": "",
-            "pages": 0
-          },
-          {
             "id": 1450311,
             "ffile": "https://cdn.muckrock.com/inbound_request_attachments/DouglasCountyClerkOfTheDistrictCourt/225836/Utilization-2024_1.pdf",
             "datetime": "2026-11-24T12:05:05.571299",
@@ -1054,6 +1133,26 @@
             "ffile": "https://cdn.muckrock.com/inbound_request_attachments/DouglasCountyClerkOfTheDistrictCourt/225836/2023_Jan_1-July_26_-_2023_Data.pdf",
             "datetime": "2026-11-24T12:05:05.571299",
             "title": "2023_Jan_1-July_26_-_2023_Data.pdf",
+            "source": "Douglas County Clerk Of The District Court",
+            "description": "",
+            "doc_id": "",
+            "pages": 0
+          },
+          {
+            "id": 1450312,
+            "ffile": "https://cdn.muckrock.com/inbound_request_attachments/DouglasCountyClerkOfTheDistrictCourt/225836/Utilization-2025_1.pdf",
+            "datetime": "2026-11-24T12:05:05.571299",
+            "title": "Utilization-2025_1.pdf",
+            "source": "Douglas County Clerk Of The District Court",
+            "description": "",
+            "doc_id": "",
+            "pages": 0
+          },
+          {
+            "id": 1450317,
+            "ffile": "https://cdn.muckrock.com/inbound_request_attachments/DouglasCountyClerkOfTheDistrictCourt/225836/JurorUtilization-Jul_2023-Dec_2023_1.pdf",
+            "datetime": "2026-11-24T12:05:05.571299",
+            "title": "JurorUtilization-Jul_2023-Dec_2023_1.pdf",
             "source": "Douglas County Clerk Of The District Court",
             "description": "",
             "doc_id": "",
@@ -4922,34 +5021,14 @@
             "pages": 4
           },
           {
-            "id": 1449415,
-            "ffile": "https://cdn.muckrock.com/inbound_request_attachments/OfficeoftheMayorofSanFrancisco/223787/All_Supporting_Documents_Binder_File_No._26059.pdf",
+            "id": 1449419,
+            "ffile": "https://cdn.muckrock.com/inbound_request_attachments/OfficeoftheMayorofSanFrancisco/223787/Binder4.pdf",
             "datetime": "2026-11-20T18:58:08.254015",
-            "title": "All_Supporting_Documents_Binder_File_No._26059.pdf",
+            "title": "Binder4.pdf",
             "source": "",
             "description": "",
-            "doc_id": "28928240-all_supporting_documents_binder_file_no_26059pdf",
-            "pages": 21
-          },
-          {
-            "id": 1449416,
-            "ffile": "https://cdn.muckrock.com/inbound_request_attachments/OfficeoftheMayorofSanFrancisco/223787/Binder1_Final.pdf",
-            "datetime": "2026-11-20T18:58:08.254015",
-            "title": "Binder1_Final.pdf",
-            "source": "",
-            "description": "",
-            "doc_id": "28928234-binder1_finalpdf",
+            "doc_id": "28928231-binder4pdf",
             "pages": 13
-          },
-          {
-            "id": 1449418,
-            "ffile": "https://cdn.muckrock.com/inbound_request_attachments/OfficeoftheMayorofSanFrancisco/223787/Sunshine_R._587_Prop_G.pdf",
-            "datetime": "2026-11-20T18:58:08.254015",
-            "title": "Sunshine_R._587_Prop_G.pdf",
-            "source": "",
-            "description": "",
-            "doc_id": "28928235-sunshine_r_587_prop_gpdf",
-            "pages": 1
           },
           {
             "id": 1449417,
@@ -4962,14 +5041,34 @@
             "pages": 55
           },
           {
-            "id": 1449419,
-            "ffile": "https://cdn.muckrock.com/inbound_request_attachments/OfficeoftheMayorofSanFrancisco/223787/Binder4.pdf",
+            "id": 1449418,
+            "ffile": "https://cdn.muckrock.com/inbound_request_attachments/OfficeoftheMayorofSanFrancisco/223787/Sunshine_R._587_Prop_G.pdf",
             "datetime": "2026-11-20T18:58:08.254015",
-            "title": "Binder4.pdf",
+            "title": "Sunshine_R._587_Prop_G.pdf",
             "source": "",
             "description": "",
-            "doc_id": "28928231-binder4pdf",
+            "doc_id": "28928235-sunshine_r_587_prop_gpdf",
+            "pages": 1
+          },
+          {
+            "id": 1449416,
+            "ffile": "https://cdn.muckrock.com/inbound_request_attachments/OfficeoftheMayorofSanFrancisco/223787/Binder1_Final.pdf",
+            "datetime": "2026-11-20T18:58:08.254015",
+            "title": "Binder1_Final.pdf",
+            "source": "",
+            "description": "",
+            "doc_id": "28928234-binder1_finalpdf",
             "pages": 13
+          },
+          {
+            "id": 1449415,
+            "ffile": "https://cdn.muckrock.com/inbound_request_attachments/OfficeoftheMayorofSanFrancisco/223787/All_Supporting_Documents_Binder_File_No._26059.pdf",
+            "datetime": "2026-11-20T18:58:08.254015",
+            "title": "All_Supporting_Documents_Binder_File_No._26059.pdf",
+            "source": "",
+            "description": "",
+            "doc_id": "28928240-all_supporting_documents_binder_file_no_26059pdf",
+            "pages": 21
           }
         ],
         "delivered": "web"
@@ -9934,189 +10033,6 @@
             "description": "",
             "doc_id": "28924789-695",
             "pages": 1
-          }
-        ],
-        "delivered": "email"
-      }
-    ]
-  },
-  {
-    "id": 225059,
-    "title": "Correctional Healthcare Contracting Documents (2001-2025)",
-    "username": "ehe28",
-    "absolute_url": "https://www.muckrock.com/foi/west-virginia-304/correctional-healthcare-contracting-documents-2001-2025-225059/",
-    "user": 193589,
-    "agency": 4004,
-    "slug": "correctional-healthcare-contracting-documents-2001-2025",
-    "status": "done",
-    "embargo_status": "public",
-    "datetime_submitted": "2026-10-23T12:55:26.699075",
-    "datetime_done": "2026-11-19T09:46:20.666016",
-    "datetime_updated": "2026-11-19T09:46:20.666016",
-    "date_due": "2026-10-30",
-    "date_embargo": null,
-    "date_followup": null,
-    "days_until_due": null,
-    "disable_autofollowups": false,
-    "price": "0.00",
-    "tracking_id": "",
-    "tags": [],
-    "communications": [
-      {
-        "foia": 225059,
-        "from_user": 193589,
-        "to_user": 14187,
-        "subject": "West Virginia Freedom of Information Act Request: Correctional Healthcare Contracting Documents (2001-2025)",
-        "datetime": "2026-10-23T12:55:26.814579",
-        "response": false,
-        "autogenerated": false,
-        "thanks": false,
-        "full_html": false,
-        "communication": "To Whom It May Concern:\r\n\r\nPursuant to the West Virginia Freedom of Information Act, I hereby request the following records:\r\n\r\nAll available contracting and procurement documents and communications, including requests for proposals (RFPs) and/or requests for quotes (RFQs); all bids and proposals; all executed contracts with amendments, extensions, and supportive materials (active and expired); and any related agreements between West Virginia Corrections Department and/or West Virginia State Government and private healthcare contracting corporations that were active or published between January 1, 2001 and December 31, 2025. This includes any documents related to contracts from before 2001, but active during the period of interest.        \r\n\r\nTo assist in your search, below is a partial list of documents that we believe should be included in this request:      \r\n- RFP COR61566\r\n\r\nIf healthcare operations for incarcerated individuals in West Virginia State Prisons were contracted to entities other than private healthcare contracting corporations (ex. Universities), we request the same available documents active or published between January 1, 2001 and December 31, 2025.\r\n\r\nThe requested documents will be made available to the general public, and this request is not being made for commercial purposes.\r\n\r\nIn the event that there are fees, I would be grateful if you would inform me of the total charges in advance of fulfilling my request. I would prefer the request filled electronically, by e-mail attachment if available or CD-ROM if not.\r\n\r\nThank you in advance for your anticipated cooperation in this matter. I look forward to receiving your response to this request within 5 business days, as the statute requires.\r\n\r\nSincerely,\r\n\r\nElizabeth Evans-Ralston",
-        "status": null,
-        "likely_foia": null,
-        "files": [],
-        "delivered": "email"
-      },
-      {
-        "foia": 225059,
-        "from_user": 4420,
-        "to_user": 14187,
-        "subject": "RE: West Virginia Freedom of Information Act Request: Correctional Healthcare Contracting Documents (2001-2025)",
-        "datetime": "2026-10-30T01:00:35.435411",
-        "response": false,
-        "autogenerated": true,
-        "thanks": false,
-        "full_html": false,
-        "communication": "To Whom It May Concern:\n\nI wanted to follow up on the following West Virginia Freedom of Information Act request, copied below, and originally submitted on Oct. 23, 2026. Please let me know when I can expect to receive a response.\n\nThanks for your help, and let me know if further clarification is needed.\n\n\n",
-        "status": null,
-        "likely_foia": null,
-        "files": [],
-        "delivered": "email"
-      },
-      {
-        "foia": 225059,
-        "from_user": 14187,
-        "to_user": 193589,
-        "subject": "2026-11-04 DCR response to Evans-Ralston, Elizabeth (MuckRock) FOIA request DCR healthcare contracts 2001-2005",
-        "datetime": "2026-11-05T16:45:12.421594",
-        "response": true,
-        "autogenerated": false,
-        "thanks": false,
-        "full_html": false,
-        "communication": "The West Virginia Division of Corrections and Rehabilitation response to\r\nyour Freedom of Information Act request is attached hereto.\n",
-        "status": "done",
-        "likely_foia": null,
-        "files": [
-          {
-            "id": 1444324,
-            "ffile": "https://cdn.muckrock.com/foia_files/2026/11/05/2026-11-04_responsive_recs_on_cd.pdf",
-            "datetime": "2026-11-05T16:45:12.519684",
-            "title": "2026-11-04 responsive recs on cd",
-            "source": "Division of Corrections, West Virginia",
-            "description": "",
-            "doc_id": "28868196-2026-11-04-responsive-recs-on-cd",
-            "pages": 1
-          },
-          {
-            "id": 1444325,
-            "ffile": "https://cdn.muckrock.com/foia_files/2026/11/05/2026-11-04_DCR_response_to_Evans-Ralston_Elizabeth_MuckRock_FOIA_request_DCR_healthcare_contracts_2001-2005.pdf",
-            "datetime": "2026-11-05T16:45:12.800679",
-            "title": "2026-11-04 DCR response to Evans-Ralston, Elizabeth (MuckRock) FOIA request DCR healthcare contracts 2001-2005",
-            "source": "Division of Corrections, West Virginia",
-            "description": "",
-            "doc_id": "28868197-2026-11-04-dcr-response-to-evans-ralston-elizabeth-muckrock-foia-request-dcr-healthcare-contracts-2001-2005",
-            "pages": 2
-          }
-        ],
-        "delivered": "email"
-      },
-      {
-        "foia": 225059,
-        "from_user": 14187,
-        "to_user": 193589,
-        "subject": "",
-        "datetime": "2026-11-17T02:00:24.437213",
-        "response": true,
-        "autogenerated": false,
-        "thanks": false,
-        "full_html": false,
-        "communication": "A copy of documents responsive to the request.",
-        "status": "done",
-        "likely_foia": null,
-        "files": [
-          {
-            "id": 1447542,
-            "ffile": "https://cdn.muckrock.com/foia_files/2026/11/17/11-6-26_MR225059.zip",
-            "datetime": "2026-11-17T02:00:24.437213",
-            "title": "Responsive Documents",
-            "source": "Division of Corrections, West Virginia",
-            "description": "",
-            "doc_id": "",
-            "pages": 0
-          }
-        ],
-        "delivered": "mail"
-      },
-      {
-        "foia": 225059,
-        "from_user": 193589,
-        "to_user": 14187,
-        "subject": "RE: West Virginia Freedom of Information Act Request: Correctional Healthcare Contracting Documents (2001-2025)",
-        "datetime": "2026-11-18T17:24:01.512297",
-        "response": false,
-        "autogenerated": false,
-        "thanks": true,
-        "full_html": false,
-        "communication": "Hi,\r\n\r\nThanks so much for your help with this request! I really appreciate it.\r\n\r\nSincerely,\r\nElizabeth Evans-Ralston\r\n                ",
-        "status": null,
-        "likely_foia": null,
-        "files": [],
-        "delivered": "email"
-      },
-      {
-        "foia": 225059,
-        "from_user": 14187,
-        "to_user": 193589,
-        "subject": "Re: West Virginia Freedom of Information Act Request: Correctional Healthcare Contracting Documents (2001-2025)",
-        "datetime": "2026-11-19T09:46:20.666016",
-        "response": true,
-        "autogenerated": false,
-        "thanks": false,
-        "full_html": false,
-        "communication": "Your response was emailed and sent by US Mail on November 5, 2026.\n",
-        "status": "done",
-        "likely_foia": null,
-        "files": [
-          {
-            "id": 1448715,
-            "ffile": "https://cdn.muckrock.com/foia_files/2026/11/19/2026-11-05_email_response_sent_Evans-Ralston_Elizabeth_MuckRock_DCR_healthcare_contracts_2001-2005.pdf",
-            "datetime": "2026-11-19T09:46:20.745996",
-            "title": "2026-11-05 email response sent Evans-Ralston, Elizabeth (MuckRock) DCR healthcare contracts 2001-2005",
-            "source": "Division of Corrections, West Virginia",
-            "description": "",
-            "doc_id": "28924772-2026-11-05-email-response-sent-evans-ralston-elizabeth-muckrock-dcr-healthcare-contracts-2001-2005",
-            "pages": 1
-          },
-          {
-            "id": 1448716,
-            "ffile": "https://cdn.muckrock.com/foia_files/2026/11/19/2026-11-04_responsive_recs_on_cd.pdf",
-            "datetime": "2026-11-19T09:46:21.129529",
-            "title": "2026-11-04 responsive recs on cd",
-            "source": "Division of Corrections, West Virginia",
-            "description": "",
-            "doc_id": "28924773-2026-11-04-responsive-recs-on-cd",
-            "pages": 1
-          },
-          {
-            "id": 1448717,
-            "ffile": "https://cdn.muckrock.com/foia_files/2026/11/19/2026-11-04_DCR_response_to_Evans-Ralston_Elizabeth_MuckRock_FOIA_request_DCR_healthcare_contracts_2001-2005.pdf",
-            "datetime": "2026-11-19T09:46:21.186475",
-            "title": "2026-11-04 DCR response to Evans-Ralston, Elizabeth (MuckRock) FOIA request DCR healthcare contracts 2001-2005",
-            "source": "Division of Corrections, West Virginia",
-            "description": "",
-            "doc_id": "28924774-2026-11-04-dcr-response-to-evans-ralston-elizabeth-muckrock-foia-request-dcr-healthcare-contracts-2001-2005",
-            "pages": 2
           }
         ],
         "delivered": "email"

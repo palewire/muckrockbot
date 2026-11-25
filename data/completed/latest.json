@@ -586,6 +586,36 @@
         "likely_foia": null,
         "files": [
           {
+            "id": 1450466,
+            "ffile": "https://cdn.muckrock.com/inbound_request_attachments/HendersonDistrictPublicLibraries/222093/emails.1.pdf",
+            "datetime": "2026-11-24T17:30:49.449014",
+            "title": "emails.1.pdf",
+            "source": "Henderson District Public Libraries",
+            "description": "",
+            "doc_id": "28933521-emails1pdf",
+            "pages": 290
+          },
+          {
+            "id": 1450467,
+            "ffile": "https://cdn.muckrock.com/inbound_request_attachments/HendersonDistrictPublicLibraries/222093/emails.2.pdf",
+            "datetime": "2026-11-24T17:30:49.449014",
+            "title": "emails.2.pdf",
+            "source": "Henderson District Public Libraries",
+            "description": "",
+            "doc_id": "28933519-emails2pdf",
+            "pages": 9
+          },
+          {
+            "id": 1450464,
+            "ffile": "https://cdn.muckrock.com/inbound_request_attachments/HendersonDistrictPublicLibraries/222093/emails.5.pdf",
+            "datetime": "2026-11-24T17:30:49.449014",
+            "title": "emails.5.pdf",
+            "source": "Henderson District Public Libraries",
+            "description": "",
+            "doc_id": "28933524-emails5pdf",
+            "pages": 858
+          },
+          {
             "id": 1450468,
             "ffile": "https://cdn.muckrock.com/inbound_request_attachments/HendersonDistrictPublicLibraries/222093/emails.3.pdf",
             "datetime": "2026-11-24T17:30:49.449014",
@@ -606,26 +636,6 @@
             "pages": 1156
           },
           {
-            "id": 1450464,
-            "ffile": "https://cdn.muckrock.com/inbound_request_attachments/HendersonDistrictPublicLibraries/222093/emails.5.pdf",
-            "datetime": "2026-11-24T17:30:49.449014",
-            "title": "emails.5.pdf",
-            "source": "Henderson District Public Libraries",
-            "description": "",
-            "doc_id": "28933524-emails5pdf",
-            "pages": 858
-          },
-          {
-            "id": 1450466,
-            "ffile": "https://cdn.muckrock.com/inbound_request_attachments/HendersonDistrictPublicLibraries/222093/emails.1.pdf",
-            "datetime": "2026-11-24T17:30:49.449014",
-            "title": "emails.1.pdf",
-            "source": "Henderson District Public Libraries",
-            "description": "",
-            "doc_id": "28933521-emails1pdf",
-            "pages": 290
-          },
-          {
             "id": 1450465,
             "ffile": "https://cdn.muckrock.com/inbound_request_attachments/HendersonDistrictPublicLibraries/222093/emails.6.pdf",
             "datetime": "2026-11-24T17:30:49.449014",
@@ -634,16 +644,6 @@
             "description": "",
             "doc_id": "28933520-emails6pdf",
             "pages": 114
-          },
-          {
-            "id": 1450467,
-            "ffile": "https://cdn.muckrock.com/inbound_request_attachments/HendersonDistrictPublicLibraries/222093/emails.2.pdf",
-            "datetime": "2026-11-24T17:30:49.449014",
-            "title": "emails.2.pdf",
-            "source": "Henderson District Public Libraries",
-            "description": "",
-            "doc_id": "28933519-emails2pdf",
-            "pages": 9
           }
         ],
         "delivered": "web"
@@ -1236,14 +1236,14 @@
         "likely_foia": null,
         "files": [
           {
-            "id": 1450310,
-            "ffile": "https://cdn.muckrock.com/inbound_request_attachments/DouglasCountyClerkOfTheDistrictCourt/225836/Utilization-2023_July31_start_1.pdf",
+            "id": 1450313,
+            "ffile": "https://cdn.muckrock.com/inbound_request_attachments/DouglasCountyClerkOfTheDistrictCourt/225836/Utilization-2026_1.pdf",
             "datetime": "2026-11-24T12:05:05.571299",
-            "title": "Utilization-2023_July31_start_1.pdf",
+            "title": "Utilization-2026_1.pdf",
             "source": "Douglas County Clerk Of The District Court",
             "description": "",
-            "doc_id": "28933517-utilization-2023_july31_start_1pdf",
-            "pages": 36
+            "doc_id": "28933513-utilization-2026_1pdf",
+            "pages": 43
           },
           {
             "id": 1450308,
@@ -1254,6 +1254,16 @@
             "description": "",
             "doc_id": "28933518-2023_jan_1-july_26_-_2023_datapdf",
             "pages": 3
+          },
+          {
+            "id": 1450310,
+            "ffile": "https://cdn.muckrock.com/inbound_request_attachments/DouglasCountyClerkOfTheDistrictCourt/225836/Utilization-2023_July31_start_1.pdf",
+            "datetime": "2026-11-24T12:05:05.571299",
+            "title": "Utilization-2023_July31_start_1.pdf",
+            "source": "Douglas County Clerk Of The District Court",
+            "description": "",
+            "doc_id": "28933517-utilization-2023_july31_start_1pdf",
+            "pages": 36
           },
           {
             "id": 1450309,
@@ -1284,16 +1294,6 @@
             "description": "",
             "doc_id": "28933514-utilization-2024_1pdf",
             "pages": 56
-          },
-          {
-            "id": 1450313,
-            "ffile": "https://cdn.muckrock.com/inbound_request_attachments/DouglasCountyClerkOfTheDistrictCourt/225836/Utilization-2026_1.pdf",
-            "datetime": "2026-11-24T12:05:05.571299",
-            "title": "Utilization-2026_1.pdf",
-            "source": "Douglas County Clerk Of The District Court",
-            "description": "",
-            "doc_id": "28933513-utilization-2026_1pdf",
-            "pages": 43
           },
           {
             "id": 1450315,
@@ -1495,6 +1495,196 @@
             "description": "",
             "doc_id": "28932114-vigilant_solutions_report",
             "pages": 31
+          }
+        ],
+        "delivered": "portal"
+      }
+    ]
+  },
+  {
+    "id": 225081,
+    "title": "Parole Board Member Salaries 2026",
+    "username": "jacobwourms",
+    "absolute_url": "https://www.muckrock.com/foi/rhode-island-82/parole-board-member-salaries-2026-225081/",
+    "user": 102869,
+    "agency": 2357,
+    "slug": "parole-board-member-salaries-2026",
+    "status": "done",
+    "embargo_status": "public",
+    "datetime_submitted": "2026-10-23T16:40:13.891846",
+    "datetime_done": "2026-11-24T09:07:25.177588",
+    "datetime_updated": "2026-11-24T09:07:25.177588",
+    "date_due": "2026-11-06",
+    "date_embargo": null,
+    "date_followup": null,
+    "days_until_due": null,
+    "disable_autofollowups": false,
+    "price": "0.00",
+    "tracking_id": "26-336",
+    "tags": [],
+    "communications": [
+      {
+        "foia": 225081,
+        "from_user": 102869,
+        "to_user": 28814,
+        "subject": "Rhode Island Access to Public Records Act Request: Parole Board Member Salaries 2026",
+        "datetime": "2026-10-23T16:40:14.050927",
+        "response": false,
+        "autogenerated": false,
+        "thanks": false,
+        "full_html": false,
+        "communication": "To Whom It May Concern:\r\n\r\nPursuant to the Rhode Island Access to Public Records Act, I hereby request the following records:\r\n\r\n-the annual salary / total compensation for each Parole Board member for 2026\r\n\r\nI am making this request for research purposes and am not a journalist.\r\n\r\nThe requested documents will be made available to the general public, and this request is not being made for commercial purposes.\r\n\r\nIn the event that there are fees, I would be grateful if you would inform me of the total charges in advance of fulfilling my request. I would prefer the request filled electronically, by e-mail attachment if available or CD-ROM if not.\r\n\r\nThank you in advance for your anticipated cooperation in this matter. I look forward to receiving your response to this request within 10 business days, as the statute requires.\r\n\r\nSincerely,\r\n\r\nJacob Wourms",
+        "status": "processed",
+        "likely_foia": null,
+        "files": [],
+        "delivered": "portal"
+      },
+      {
+        "foia": 225081,
+        "from_user": 28814,
+        "to_user": 102869,
+        "subject": "Your RI Department of Administration public records request #26-336 has been submitted.",
+        "datetime": "2026-10-25T20:59:16.364785",
+        "response": true,
+        "autogenerated": false,
+        "thanks": false,
+        "full_html": false,
+        "communication": "RI Department of Administration\r\n\r\n************************************************************************\r\n\r\n\r\nYour record request #26-336 has been submitted successfully.\r\n\r\nThank you for your submission. The Department of Administration (\"Department\") has received your Access to Public Records Act (\"APRA\") request. The Department will respond formally to your request on or before ten (10) business days from the receipt of your request in accordance with APRA and the Department's APRA regulations, available at https://rules.sos.ri.gov/Regulations/Part/220-50-05-1\r\n\r\n\r\n\r\nPlease note that requests received after business hours are considered received the following business day. Additionally, please note that for voluminous or time-consuming requests or for other good cause, the Department may extend the time to respond for an additional twenty (20) business days and/or may estimate and request prepayment of search and retrieval charges ($15 per hour with the first hour free) before proceeding with the request.\r\n\r\n\r\n\r\nThank you.\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n************************************************************************                          \r\nReply to this email or sign in to contact RI Department of Administration.<br><br>\r\n             <a href=\"https://rhodeisland.nextrequest.com/settings?id=3357257\">Change your email settings</a> | <a href=\"https://www.civicplus.help/nextrequest/docs/requesters\">Visit our help center</a>",
+        "status": "processed",
+        "likely_foia": null,
+        "files": [],
+        "delivered": "portal"
+      },
+      {
+        "foia": 225081,
+        "from_user": 28814,
+        "to_user": 102869,
+        "subject": "[ACTION REQUIRED] Your RI Department of Administration public records portal account",
+        "datetime": "2026-10-25T20:59:22.437041",
+        "response": true,
+        "autogenerated": false,
+        "thanks": false,
+        "full_html": false,
+        "communication": "Use this to confirm your account. The link is only valid for 24 hours.\r\n\r\nRI Department of Administration\r\n\r\n************************************************************************\r\nHello Jacob Wourms!\r\n************************************************************************\r\n\r\nYou can confirm your RI Department of Administration public records portal account by copying and pasting the URL below into your web browser. This link is only valid for the next 24 hours.\r\n\r\nMagic link: https://rhodeisland.nextrequest.com/users/confirmation?confirmation_token=dQmeovs_h6tFS59rdMH7\r\n\r\n\r\n\r\n************************************************************************                          \r\nQuestions? Check out our help page (https://www.nextrequest.com/support) or email us at support@nextrequest.com.\r\n************************************************************************\r\n\r\nPowered by NextRequest (https://www.nextrequest.com).",
+        "status": "processed",
+        "likely_foia": null,
+        "files": [],
+        "delivered": "portal"
+      },
+      {
+        "foia": 225081,
+        "from_user": 28814,
+        "to_user": 102869,
+        "subject": "[External Message Added] RI Department of Administration public records request #26-336",
+        "datetime": "2026-11-04T10:25:41.003240",
+        "response": true,
+        "autogenerated": false,
+        "thanks": false,
+        "full_html": false,
+        "communication": "RI Department of Administration\r\n\r\n************************************************************************\r\n\r\n\r\nA message was sent to you regarding record request #26-336:\r\n\r\nDear Requestor:\r\n\r\n\r\n\r\nThe Rhode Island Department of Administration (\u201cDepartment\u201d) is responding to your public records request for: \r\n\r\n\r\n\r\nPursuant to the Rhode Island Access to Public Records Act, I hereby request the following records:\r\n\r\n\r\n\r\n\t-the annual salary / total compensation for each Parole Board member for 2026\r\n\r\n\r\n\r\nI am making this request for research purposes and am not a journalist.\r\n\r\nThe requested documents will be made available to the general public, and this request is not being made for commercial purposes.\r\n\r\n\r\n\r\nYour request is governed by the Rhode Island Access to Public Records Act (\u201cAPRA\u201d) contained in R.I. Gen. Laws \u00a7 38-2-1&nbsp;et seq.&nbsp;This response is solely on behalf of the Department and not any other agency or branch of government.&nbsp;&nbsp;\r\n\r\n\r\n\r\nThe Department has reached out to the Division of Human Resources to conduct a search for any responsive records. This information is being provided to you via a separate cover. The Department has determined that the records are not exempt from disclosure in accordance with the provisions of APRA. Therefore, the records are being provided to you in their entirety.\r\n\r\n\r\n\r\nIf you would like to appeal any portion of this response you may do so in accordance with the provisions of R.I. Gen. Laws \u00a7 38-2-8 to the Chief Administrative Officer at the Department (Director, Department of Administration, One Capitol Hill, 4th Floor, Providence, Rhode Island 02908), to the Rhode Island Attorney General, or in the Superior Court through judicial action.&nbsp;\r\n\r\n\r\n\r\nThank you.&nbsp;\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n************************************************************************                          \r\n<em>Questions about your request?</em> Reply to this email or sign in to contact staff at RI Department of Administration.<br><br><em>Technical support:</em> See our <a href=\"https://www.civicplus.help/nextrequest/docs/requesters\">help page</a>",
+        "status": "done",
+        "likely_foia": null,
+        "files": [],
+        "delivered": "portal"
+      },
+      {
+        "foia": 225081,
+        "from_user": 28814,
+        "to_user": 102869,
+        "subject": "[Document Released to Requester] RI Department of Administration public records request #26-336",
+        "datetime": "2026-11-04T10:26:04.842313",
+        "response": true,
+        "autogenerated": false,
+        "thanks": false,
+        "full_html": false,
+        "communication": "RI Department of Administration\r\n\r\n************************************************************************\r\n\r\n\r\nA document has been released for record request #26-336 along with the following message:\r\n\r\nsee attached\r\n\r\n\r\n\r\n* Parole Board Base Pay Report_kg.xlsx\r\n\r\n\r\n\r\nDocument links are valid for one month.\r\n                   After December 4, you will need to sign in to view the document(s).\r\n\r\n\r\n************************************************************************                          \r\n<em>Questions about your request?</em> Reply to this email or sign in to contact staff at RI Department of Administration.<br><br><em>Technical support:</em> See our <a href=\"https://www.civicplus.help/nextrequest/docs/requesters\">help page</a>",
+        "status": "done",
+        "likely_foia": null,
+        "files": [
+          {
+            "id": 1443984,
+            "ffile": "https://cdn.muckrock.com/foia_files/2026/11/04/Parole_Board_Base_Pay_Report_kg.xlsx",
+            "datetime": "2026-11-04T23:00:42.439609",
+            "title": "Parole_Board_Base_Pay_Report_kg",
+            "source": "Alpha Assistance",
+            "description": "",
+            "doc_id": "",
+            "pages": 0
+          }
+        ],
+        "delivered": "portal"
+      },
+      {
+        "foia": 225081,
+        "from_user": 28814,
+        "to_user": 102869,
+        "subject": "Your RI Department of Administration public records request #26-336 has been closed.",
+        "datetime": "2026-11-04T10:26:23.253018",
+        "response": true,
+        "autogenerated": false,
+        "thanks": false,
+        "full_html": false,
+        "communication": "RI Department of Administration\r\n\r\n************************************************************************\r\n\r\n\r\nRecord request #26-336 has been closed. The closure reason supplied was:\r\n\r\nDear Requestor:\r\n\r\n\r\n\r\nYour request is governed by the Rhode Island Access to Public Records Act (\u201cAPRA\u201d) contained in R.I. Gen. Laws \u00a7 38-2-1&nbsp;et seq.&nbsp;\r\n\r\n\r\n\r\nThe Department has responded to your request and provided records under a separate cover. The Department now considers your request closed.\r\n\r\n&nbsp;\r\n\r\nIf you would like to appeal any portion of Department's response, you may do so in accordance with the provisions of R.I. Gen. Laws \u00a7 38-2-8 to the Chief Administrative Officer at the Department (Director, Department of Administration, One Capitol Hill, 4th Floor, Providence, Rhode Island 02908), to the Rhode Island Attorney General, or in the Superior Court through judicial action.&nbsp;\r\n\r\n\r\n\r\nThank you.&nbsp;\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n************************************************************************                          \r\n<em>Questions about your request?</em> Reply to this email or sign in to contact staff at RI Department of Administration.<br><br><em>Technical support:</em> See our <a href=\"https://www.civicplus.help/nextrequest/docs/requesters\">help page</a>",
+        "status": "done",
+        "likely_foia": null,
+        "files": [],
+        "delivered": "portal"
+      },
+      {
+        "foia": 225081,
+        "from_user": 102869,
+        "to_user": 28814,
+        "subject": "RE: Rhode Island Access to Public Records Act Request #26-336",
+        "datetime": "2026-11-10T11:23:07.766868",
+        "response": false,
+        "autogenerated": false,
+        "thanks": false,
+        "full_html": false,
+        "communication": "Hi there,\r\n\r\nThank you so much for this spreadsheet with salary amounts. \r\n\r\nOne clarifying question: the board website currently lists seven members, but this spreadsheet only includes five names. Assuming they are still board members, could you please provide the salary amounts for Ms. Tonya Glantz and Ms. Jill Harrison? Alternatively, if they are still board members, can you confirm they receive the same $35,462 base salary as the other part-time members? \r\n\r\nVery grateful for your help,\r\nJacob",
+        "status": "processed",
+        "likely_foia": null,
+        "files": [],
+        "delivered": "portal"
+      },
+      {
+        "foia": 225081,
+        "from_user": 28814,
+        "to_user": 102869,
+        "subject": "[External Message Added] RI Department of Administration public records request #26-336",
+        "datetime": "2026-11-24T09:06:54.364143",
+        "response": true,
+        "autogenerated": false,
+        "thanks": false,
+        "full_html": false,
+        "communication": "RI Department of Administration\r\n\r\n************************************************************************\r\n\r\n\r\nA message was sent to you regarding record request #26-336:\r\n\r\nDear Requestor:&nbsp;\r\n\r\n\r\n\r\nThe Rhode Island Department of Administration (\u201cDepartment\u201d) is responding to your message.\r\n\r\n\r\n\r\nYour request is governed by the Rhode Island Access to Public Records Act (\u201cAPRA\u201d) contained in R.I. Gen. Laws \u00a7 38-2-1&nbsp;et seq.&nbsp;This response is solely on behalf of the Department and not any other agency or branch of government.&nbsp;\r\n\r\n\r\n\r\nWe have released a updated version of the Parole Board Base Pay Report, which includes Tonya Glantz and Jill Harrison. \r\n\r\n\r\n\r\nThank you.\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n************************************************************************                          \r\n<em>Questions about your request?</em> Reply to this email or sign in to contact staff at RI Department of Administration.<br><br><em>Technical support:</em> See our <a href=\"https://www.civicplus.help/nextrequest/docs/requesters\">help page</a>",
+        "status": "done",
+        "likely_foia": null,
+        "files": [],
+        "delivered": "portal"
+      },
+      {
+        "foia": 225081,
+        "from_user": 28814,
+        "to_user": 102869,
+        "subject": "[Document Released to Requester] RI Department of Administration public records request #26-336",
+        "datetime": "2026-11-24T09:07:25.177588",
+        "response": true,
+        "autogenerated": false,
+        "thanks": false,
+        "full_html": false,
+        "communication": "RI Department of Administration\r\n\r\n************************************************************************\r\n\r\n\r\nA document has been released for record request #26-336 along with the following message:\r\n\r\nsee attached \r\n\r\n\r\n\r\n* Parole Board Base Pay Report_v2_kg.xlsx\r\n\r\n\r\n\r\nDocument links are valid for one month.\r\n                   After December 24, you will need to sign in to view the document(s).\r\n\r\n\r\n************************************************************************                          \r\n<em>Questions about your request?</em> Reply to this email or sign in to contact staff at RI Department of Administration.<br><br><em>Technical support:</em> See our <a href=\"https://www.civicplus.help/nextrequest/docs/requesters\">help page</a>",
+        "status": "done",
+        "likely_foia": null,
+        "files": [
+          {
+            "id": 1450551,
+            "ffile": "https://cdn.muckrock.com/foia_files/2026/11/25/Parole_Board_Base_Pay_Report_v2_kg.xlsx",
+            "datetime": "2026-11-25T02:37:15.511729",
+            "title": "Parole_Board_Base_Pay_Report_v2_kg",
+            "source": "Alpha Assistance",
+            "description": "",
+            "doc_id": "",
+            "pages": 0
           }
         ],
         "delivered": "portal"
@@ -5349,14 +5539,14 @@
         "likely_foia": null,
         "files": [
           {
-            "id": 1449418,
-            "ffile": "https://cdn.muckrock.com/inbound_request_attachments/OfficeoftheMayorofSanFrancisco/223787/Sunshine_R._587_Prop_G.pdf",
+            "id": 1449417,
+            "ffile": "https://cdn.muckrock.com/inbound_request_attachments/OfficeoftheMayorofSanFrancisco/223787/Binder2_Redacted.pdf",
             "datetime": "2026-11-20T18:58:08.254015",
-            "title": "Sunshine_R._587_Prop_G.pdf",
+            "title": "Binder2_Redacted.pdf",
             "source": "",
             "description": "",
-            "doc_id": "28928235-sunshine_r_587_prop_gpdf",
-            "pages": 1
+            "doc_id": "28928232-binder2_redactedpdf",
+            "pages": 55
           },
           {
             "id": 1449419,
@@ -5367,16 +5557,6 @@
             "description": "",
             "doc_id": "28928231-binder4pdf",
             "pages": 13
-          },
-          {
-            "id": 1449417,
-            "ffile": "https://cdn.muckrock.com/inbound_request_attachments/OfficeoftheMayorofSanFrancisco/223787/Binder2_Redacted.pdf",
-            "datetime": "2026-11-20T18:58:08.254015",
-            "title": "Binder2_Redacted.pdf",
-            "source": "",
-            "description": "",
-            "doc_id": "28928232-binder2_redactedpdf",
-            "pages": 55
           },
           {
             "id": 1449415,
@@ -5407,6 +5587,16 @@
             "description": "",
             "doc_id": "28928234-binder1_finalpdf",
             "pages": 13
+          },
+          {
+            "id": 1449418,
+            "ffile": "https://cdn.muckrock.com/inbound_request_attachments/OfficeoftheMayorofSanFrancisco/223787/Sunshine_R._587_Prop_G.pdf",
+            "datetime": "2026-11-20T18:58:08.254015",
+            "title": "Sunshine_R._587_Prop_G.pdf",
+            "source": "",
+            "description": "",
+            "doc_id": "28928235-sunshine_r_587_prop_gpdf",
+            "pages": 1
           }
         ],
         "delivered": "web"
@@ -9645,180 +9835,6 @@
         "likely_foia": null,
         "files": [],
         "delivered": "portal"
-      }
-    ]
-  },
-  {
-    "id": 166161,
-    "title": "Indianapolis ShotSpotter Contract",
-    "username": "jacobwourms",
-    "absolute_url": "https://www.muckrock.com/foi/indianapolis-160/indianapolis-shotspotter-contract-166161/",
-    "user": 102869,
-    "agency": 660,
-    "slug": "indianapolis-shotspotter-contract",
-    "status": "done",
-    "embargo_status": "public",
-    "datetime_submitted": "2024-06-25T13:44:38.642772",
-    "datetime_done": "2026-11-19T13:48:08.337646",
-    "datetime_updated": "2026-11-19T13:48:08.337646",
-    "date_due": null,
-    "date_embargo": "2024-08-28",
-    "date_followup": null,
-    "days_until_due": -15,
-    "disable_autofollowups": false,
-    "price": "0.00",
-    "tracking_id": "U068828-071124",
-    "tags": [],
-    "communications": [
-      {
-        "foia": 166161,
-        "from_user": 135488,
-        "to_user": 9816,
-        "subject": "Indiana Access to Public Records Act Request: Indianapolis ShotSpotter Contract",
-        "datetime": "2024-06-25T13:44:38.772225",
-        "response": false,
-        "autogenerated": false,
-        "thanks": false,
-        "full_html": false,
-        "communication": "To Whom It May Concern:\r\n\r\nPursuant to the Indiana Access to Public Records Act, I hereby request the following records:\r\n\r\nThe most recent contract (i.e. council resolution, contract extension, contract amendments, cure notices, or other revisions to agreements) between the city and SoundThinking, Inc., formerly ShotSpotter, Inc.. This document(s) should include the total cost over the life of the contract and the current expiration date.\r\n\r\nThe requested documents will be made available to the general public, and this request is not being made for commercial purposes.\r\n\r\nIn the event that there are fees, I would be grateful if you would inform me of the total charges in advance of fulfilling my request. I would prefer the request filled electronically, by e-mail attachment if available or CD-ROM if not.\r\n\r\nThank you in advance for your anticipated cooperation in this matter. I look forward to receiving your response to this request within 7 business days, as the statute requires.\r\n\r\nSincerely,\r\n\r\nSophia Ludt",
-        "status": "processed",
-        "likely_foia": null,
-        "files": [],
-        "delivered": "portal"
-      },
-      {
-        "foia": 166161,
-        "from_user": 9816,
-        "to_user": 135488,
-        "subject": "City of Indianapolis/Marion County Public Records Request - Justice & Public Safety Records :: P039210-062524",
-        "datetime": "2024-06-25T22:00:08.328695",
-        "response": true,
-        "autogenerated": false,
-        "thanks": false,
-        "full_html": false,
-        "communication": "Thank you for your interest in public records of the City of Indianapolis and Marion County. \n \nThis message acknowledges your request has been received and is being processed in accordance with the Indiana Access to Public Records Act, Indiana Code chapter 5-14-3-1, et. seq (\"APRA\"). Your request was received in this office on 6/25/2024 and given the reference number P039210-062524 for tracking purposes. \nYou requested the following records: \"To Whom It May Concern:\n\nPursuant to the Indiana Access to Public Records Act, I hereby request the following records:\n\nThe most recent contract (i.e. council resolution, contract extension, contract amendments, cure notices, or other revisions to agreements) between the city and SoundThinking, Inc., formerly ShotSpotter, Inc.. This document(s) should include the total cost over the life of the contract and the current expiration date.\n\nThe requested documents will be made available to the general public, and this request is not being made for commercial purposes.\n\nIn the event that there are fees, I would be grateful if you would inform me of the total charges in advance of fulfilling my request. I would prefer the request filled electronically, by e-mail attachment if available or CD-ROM if not.\n\nThank you in advance for your anticipated cooperation in this matter. I look forward to receiving your response to this request within 7 business days, as the statute requires.\n\nSincerely,\n\nSophia Ludt\n\nUpload documents directly: https://accounts.muckrock.com/accounts/login/?next=https%3A%2F%2Fwww.muckrock.com%2Faccounts%2Flogin%2F%3Fnext%3D%252Faccounts%252Fagency_login%252Findianapolis-police-department-660%252Findianapolis-shotspotter-contract-166161%252F%253Femail%253DIMPDRecordsRequest%252540indy.gov&url_auth_token=AAARlcjhVTOdu_O3ZOzcydkluP4%3A1sMHv5%3Ah6anCN6rM-FmdnmUqAPaS6PPEHcjAQzY9rqkgnxhh2g\" \nYour request will be forwarded to the relevant city or county agency for review and a determination of whether there are public records responsive to your request and, if so, whether those public records are disclosable to you. The city or county agency will contact you concerning your request and inform you whether there are public records responsive to your request, if all or part of those public records are not disclosable to you, and the statutory basis for any denial. Information pertaining to any copying fees that may be related to obtaining copies will be provided. \nPlease Note:\u00a0 With respect to public records requests that include e-mail communications, we want to make you aware that these requests generally take longer than requests for other types of information.\u00a0 First, the City/County receives a large number of requests for email communications, not just public records requests but also related to legal proceedings.\u00a0 We rely upon our information technology agency to perform these searches and that agency runs these searches (based\u00a0 upon reasonably particular search terms as set forth by the State Public Access Counselor) in the order in which the requests are received.\u00a0 Once the email search is completed, there must also be a review of the content of the email communications to ensure that they are not only responsive to your request but also disclosable.\u00a0 Finally, disclosable email communications will be produced after this review and if we do not disclose all or part of these email communications, we will provide the statutory bases for such denials as required under the APRA. \nThe APRA requires public agencies to produce responsive and disclosable public records, should they exist, within a reasonable time based upon the circumstances.\u00a0 \u00a0Please allow the agency time to review and process your request. \nWhile there is no fixed due date for a response, if more than 30 days have passed since your last communication with the agency, feel free to contact the Public Access Counselor to check the status. \nYou may reach the Public Access Counselor at 317.327.4055 or PAC@indy.gov. \nThank you, \nCity of Indianapolis and Marion County\n",
-        "status": "processed",
-        "likely_foia": null,
-        "files": [],
-        "delivered": "email"
-      },
-      {
-        "foia": 166161,
-        "from_user": 4420,
-        "to_user": 9816,
-        "subject": "RE: Indiana Access to Public Records Act Request #P039210-062524",
-        "datetime": "2024-07-11T01:00:19.648874",
-        "response": false,
-        "autogenerated": true,
-        "thanks": false,
-        "full_html": false,
-        "communication": "To Whom It May Concern:\n\nI wanted to follow up on the following Indiana Access to Public Records Act request, copied below, and originally submitted on June 25, 2024. Please let me know when I can expect to receive a response.  You had assigned it reference number #P039210-062524.\n\nThanks for your help, and let me know if further clarification is needed.\n\n\n",
-        "status": null,
-        "likely_foia": null,
-        "files": [],
-        "delivered": "email"
-      },
-      {
-        "foia": 166161,
-        "from_user": 9816,
-        "to_user": 135488,
-        "subject": "NOTICE: Regarding your Indiana Access to Public Records Act request:: U068828-071124",
-        "datetime": "2024-07-11T01:01:08.330637",
-        "response": true,
-        "autogenerated": false,
-        "thanks": false,
-        "full_html": false,
-        "communication": "Thank you for your interest in public records of the City of Indianapolis and Marion County. \nThis email is in regards to your recent Access to Public Records Act request, U068828-071124. \nUnfortunately, your request for a public record was not processed. \nPlease re-submit your request at the My.Indy.Gov Request a Public Record\u00a0service. (https://u8387795.ct.sendgrid.net/ls/click?upn=u001.PYICgxP3kfgZjR-2B4e9nPlD-2BI7BbNTLM1ZuRNBjxvVGQtsMAdY8UExOiLLSaUwUHTnxfeDREuvoryZcyH4eaXMg-3D-3Dpb-z_ZDi6qohQ0ayU-2FuQmfTO4rcUbxZMmXDZKTITPJS0mCPNWsNvBFpndsBXAAa9n-2FcXcqf-2B0rZiEl0OfZXy-2BVD-2F2dy8gfsALcXGPiXLz4C5Sb5eXJTDhlbdRuJn8-2F3mmbjRqUuXFIU9Ak8PO1eJUZxSb8Hlou3xUvgNQ3SkOS2Y6pBQNKVSUzfp70AEav9sibkHWeDdFaXZy3Fbn8tHG-2FHWYeTgONAf1yavTz5ExEIZvv735VI3ssUhRg2gI5wDPdkdiQ-2BlM2qJq-2BUuWDhUAnl8OaTxvhLQJPlG1zUbhr6RO-2B-2BB9llrYM2X7imFtOkprVSuxEnqYs0zukqeEp5cFCaJ-2B6C1-2BzIsD7rTA8SLx26W2kBZv6sYUZr4-2BEZ4Tz5jTzdBU) \nIf you have any questions, you may contact the Public Access Counselor at 317.327.4055 or PAC@indy.gov. (mailto:PAC@indy.gov) \n \nThank you, \nCity of Indianapolis and Marion County \n \n PLEASE DO NOT REPLY TO THIS EMAIL.\u00a0 This is an auto-generated email and has originated from an unmonitored email account.\n",
-        "status": "fix",
-        "likely_foia": null,
-        "files": [],
-        "delivered": "email"
-      },
-      {
-        "foia": 166161,
-        "from_user": 9816,
-        "to_user": 135488,
-        "subject": "RE: Indiana Access to Public Records Act Request #P039210-062524",
-        "datetime": "2024-07-11T09:00:59.203751",
-        "response": true,
-        "autogenerated": false,
-        "thanks": false,
-        "full_html": false,
-        "communication": "Good morning,\r\n\r\nYour request has been assigned to the Indianapolis Metropolitan Police Department and is still pending. Unfortunately, we cannot provide an estimated timeframe for this request.  Response time depends on the complexity of the request, staff capacity, and volume of other requests, among other factors.\r\n\r\nYou should hear from the by email once they\u2019ve been able to address the request.\r\n\r\nPAC-DMS\n",
-        "status": "processed",
-        "likely_foia": null,
-        "files": [
-          {
-            "id": 1196844,
-            "ffile": "https://cdn.muckrock.com/foia_files/2024/07/11/WRD0000_u0H31v7.jpg",
-            "datetime": "2024-07-11T09:00:59.276363",
-            "title": "~WRD0000",
-            "source": "Indianapolis Metropolitan Police Department, Indianapolis, IN",
-            "description": "",
-            "doc_id": "",
-            "pages": 0
-          }
-        ],
-        "delivered": "email"
-      },
-      {
-        "foia": 166161,
-        "from_user": 4420,
-        "to_user": 9816,
-        "subject": "RE: Indiana Access to Public Records Act Request #U068828-071124",
-        "datetime": "2024-07-26T01:00:34.740824",
-        "response": false,
-        "autogenerated": true,
-        "thanks": false,
-        "full_html": false,
-        "communication": "To Whom It May Concern:\n\nI wanted to follow up on the following Indiana Access to Public Records Act request, copied below, and originally submitted on June 25, 2024. Please let me know when I can expect to receive a response.  You had assigned it reference number #U068828-071124.\n\nThanks for your help, and let me know if further clarification is needed.\n\n\n",
-        "status": null,
-        "likely_foia": null,
-        "files": [],
-        "delivered": "email"
-      },
-      {
-        "foia": 166161,
-        "from_user": 9816,
-        "to_user": 135488,
-        "subject": "RE: Indiana Access to Public Records Act Request #U068828-071124",
-        "datetime": "2024-07-26T09:23:00.147951",
-        "response": true,
-        "autogenerated": false,
-        "thanks": false,
-        "full_html": false,
-        "communication": "Good morning,\r\n\r\nI have copied the email sent when you first made the request on July 11, 2024 stating your request was not processed.  When your request is successfully entered you should receive a request reference number starting with an S or P followed by six digits.\r\n\r\nPAC-DMS\r\n\r\nOn 7/11/2024 1:00:51 AM, System Generated Message to 166161-41687794@requests.muckrock.com:Body:\r\n[GovQA logo]\r\nThank you for your interest in public records of the City of Indianapolis and Marion County.\r\nThis email is in regards to your recent Access to Public Records Act request, U068828-071124.\r\nUnfortunately, your request for a public record was not processed.\r\nPlease re-submit your request at the My.Indy.Gov Request a Public Record<https://my.indy.gov/activity/request-a-public-record> service.\r\nIf you have any questions, you may contact the Public Access Counselor at 317.327.4055 or PAC@indy.gov<mailto:PAC@indy.gov>.\r\nThank you,\r\nCity of Indianapolis and Marion County\r\n\r\nPLEASE DO NOT REPLY TO THIS EMAIL.  This is an auto-generated email and has originated from an unmonitored email account.\n",
-        "status": "fix",
-        "likely_foia": null,
-        "files": [
-          {
-            "id": 1202707,
-            "ffile": "https://cdn.muckrock.com/foia_files/2024/07/26/image001_aKP6RIs.png",
-            "datetime": "2024-07-26T09:23:00.270727",
-            "title": "image001",
-            "source": "Indianapolis Metropolitan Police Department, Indianapolis, IN",
-            "description": "",
-            "doc_id": "",
-            "pages": 0
-          }
-        ],
-        "delivered": "email"
-      },
-      {
-        "foia": 166161,
-        "from_user": 9816,
-        "to_user": 102869,
-        "subject": "[Records Center] Public Records Request - Justice & Public Safety Records :: P039210-062524",
-        "datetime": "2026-11-19T13:48:08.337646",
-        "response": true,
-        "autogenerated": false,
-        "thanks": false,
-        "full_html": false,
-        "communication": "Attachments: \nShotspotter_MOU.pdf (https://u8387795.ct.sendgrid.net/ls/click?upn=u001.PYICgxP3kfgZjR-2B4e9nPlMoYAKuwPNttudI-2BX4pawDpKgUC9-2BujW4z-2BtdJ4MGqm-2BodnjHkBlvf2Rcw-2BrRGShyUKyaLwwDO8z3aJbXo7e-2BvtRpBG2vfR0lleGdXtrWlv0-2B5-2BawvVAqTwwj7bi-2BZTY3Pu37o5z-2BDQ8Yzw6T6WueeoJxWcf6r2ndMxVCzni1qlCBNuAG7m1i1PNyBtoOmG95MX3EnHBJqqElIl7eR3lATZQDgdnhCasdYl-2BhLrubdlyDSgx1aHzzNHrQHO0Bk8-2FFuGmdEvg9EIx9EHCsCw7JC5EP4BPmIK-2BBRLzmHtsL3jT5yUF_ZDi6qohQ0ayU-2FuQmfTO4rcUbxZMmXDZKTITPJS0mCPNWsNvBFpndsBXAAa9n-2FcXcqf-2B0rZiEl0OfZXy-2BVD-2F2d79iKdnYJm2DIuu6fcH6k5XtJ1mPlhXSBR8omsHiUnV3GQ0ZldWLKka5poPP6PwoeihyYLiR7IMONFZWwvQ-2BrRoA1e0VnJFG00dqoXipzb53x8wnMQ6zDY81lPcIkR2jQlWgQALI5EiPEfs5w0sq4gRxtHr-2FQ4BgHj5-2Bp0ihnkxCtlqEK0UyaWV7bU-2F35Y4yFhFxLt114UbpNFhqP5ChYv1mRdS7n03YphLY1R4zK0SPccHYdcPQHvVUhGAh8v2T8ekKhuEXC0C-2BdgezgTR5D-2Fm2c07wvUOKuIXKWLczAtFZ) \n\n--- Please respond above this line --- \nGood Afternoon, \n\nPlease see the attached document responsive to your request. \n\nThank you! \nKayla Williams \nParalegal, IMPD Legal Unit \nOffice of the Chief \nkayla.williams2@indy.gov\n",
-        "status": "done",
-        "likely_foia": null,
-        "files": [],
-        "delivered": "email"
       }
     ]
   }

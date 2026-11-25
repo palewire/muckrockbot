@@ -352,24 +352,14 @@
         "likely_foia": null,
         "files": [
           {
-            "id": 1441159,
-            "ffile": "https://cdn.muckrock.com/inbound_request_attachments/HendersonDistrictPublicLibraries/222093/FY2026_-_Form_486_EPC_Certification_Steps.pdf",
+            "id": 1441151,
+            "ffile": "https://cdn.muckrock.com/inbound_request_attachments/HendersonDistrictPublicLibraries/222093/2026-08-20_Cox_2399-00.pdf",
             "datetime": "2026-10-29T18:26:53.323970",
-            "title": "FY2026_-_Form_486_EPC_Certification_Steps.pdf",
+            "title": "2026-08-20_Cox_2399-00.pdf",
             "source": "Henderson District Public Libraries",
             "description": "",
-            "doc_id": "28858888-fy2026_-_form_486_epc_certification_stepspdf",
-            "pages": 3
-          },
-          {
-            "id": 1441161,
-            "ffile": "https://cdn.muckrock.com/inbound_request_attachments/HendersonDistrictPublicLibraries/222093/21190280-USAC_FCC_FORM_471_APPLICATION_261009299_CERTIFIED.pdf",
-            "datetime": "2026-10-29T18:26:53.323970",
-            "title": "21190280-USAC_FCC_FORM_471_APPLICATION_261009299_CERTIFIED.pdf",
-            "source": "Henderson District Public Libraries",
-            "description": "",
-            "doc_id": "28858886-21190280-usac_fcc_form_471_application_261009299_certifiedpdf",
-            "pages": 28
+            "doc_id": "28858892-2026-08-20_cox_2399-00pdf",
+            "pages": 2
           },
           {
             "id": 1441152,
@@ -390,16 +380,6 @@
             "description": "",
             "doc_id": "28858899-10_fcdl_henderson_dpl_f261009299pdf",
             "pages": 8
-          },
-          {
-            "id": 1441151,
-            "ffile": "https://cdn.muckrock.com/inbound_request_attachments/HendersonDistrictPublicLibraries/222093/2026-08-20_Cox_2399-00.pdf",
-            "datetime": "2026-10-29T18:26:53.323970",
-            "title": "2026-08-20_Cox_2399-00.pdf",
-            "source": "Henderson District Public Libraries",
-            "description": "",
-            "doc_id": "28858892-2026-08-20_cox_2399-00pdf",
-            "pages": 2
           },
           {
             "id": 1441160,
@@ -490,6 +470,26 @@
             "description": "",
             "doc_id": "28858889-invoice_20247_070126pdf",
             "pages": 1
+          },
+          {
+            "id": 1441159,
+            "ffile": "https://cdn.muckrock.com/inbound_request_attachments/HendersonDistrictPublicLibraries/222093/FY2026_-_Form_486_EPC_Certification_Steps.pdf",
+            "datetime": "2026-10-29T18:26:53.323970",
+            "title": "FY2026_-_Form_486_EPC_Certification_Steps.pdf",
+            "source": "Henderson District Public Libraries",
+            "description": "",
+            "doc_id": "28858888-fy2026_-_form_486_epc_certification_stepspdf",
+            "pages": 3
+          },
+          {
+            "id": 1441161,
+            "ffile": "https://cdn.muckrock.com/inbound_request_attachments/HendersonDistrictPublicLibraries/222093/21190280-USAC_FCC_FORM_471_APPLICATION_261009299_CERTIFIED.pdf",
+            "datetime": "2026-10-29T18:26:53.323970",
+            "title": "21190280-USAC_FCC_FORM_471_APPLICATION_261009299_CERTIFIED.pdf",
+            "source": "Henderson District Public Libraries",
+            "description": "",
+            "doc_id": "28858886-21190280-usac_fcc_form_471_application_261009299_certifiedpdf",
+            "pages": 28
           }
         ],
         "delivered": "web"
@@ -586,24 +586,24 @@
         "likely_foia": null,
         "files": [
           {
+            "id": 1450467,
+            "ffile": "https://cdn.muckrock.com/inbound_request_attachments/HendersonDistrictPublicLibraries/222093/emails.2.pdf",
+            "datetime": "2026-11-24T17:30:49.449014",
+            "title": "emails.2.pdf",
+            "source": "Henderson District Public Libraries",
+            "description": "",
+            "doc_id": "28933519-emails2pdf",
+            "pages": 9
+          },
+          {
             "id": 1450464,
             "ffile": "https://cdn.muckrock.com/inbound_request_attachments/HendersonDistrictPublicLibraries/222093/emails.5.pdf",
             "datetime": "2026-11-24T17:30:49.449014",
             "title": "emails.5.pdf",
             "source": "Henderson District Public Libraries",
             "description": "",
-            "doc_id": "",
-            "pages": 0
-          },
-          {
-            "id": 1450469,
-            "ffile": "https://cdn.muckrock.com/inbound_request_attachments/HendersonDistrictPublicLibraries/222093/emails.4.pdf",
-            "datetime": "2026-11-24T17:30:49.449014",
-            "title": "emails.4.pdf",
-            "source": "Henderson District Public Libraries",
-            "description": "",
-            "doc_id": "",
-            "pages": 0
+            "doc_id": "28933524-emails5pdf",
+            "pages": 858
           },
           {
             "id": 1450468,
@@ -612,18 +612,18 @@
             "title": "emails.3.pdf",
             "source": "Henderson District Public Libraries",
             "description": "",
-            "doc_id": "",
-            "pages": 0
+            "doc_id": "28933523-emails3pdf",
+            "pages": 704
           },
           {
-            "id": 1450467,
-            "ffile": "https://cdn.muckrock.com/inbound_request_attachments/HendersonDistrictPublicLibraries/222093/emails.2.pdf",
+            "id": 1450469,
+            "ffile": "https://cdn.muckrock.com/inbound_request_attachments/HendersonDistrictPublicLibraries/222093/emails.4.pdf",
             "datetime": "2026-11-24T17:30:49.449014",
-            "title": "emails.2.pdf",
+            "title": "emails.4.pdf",
             "source": "Henderson District Public Libraries",
             "description": "",
-            "doc_id": "",
-            "pages": 0
+            "doc_id": "28933522-emails4pdf",
+            "pages": 1156
           },
           {
             "id": 1450466,
@@ -632,8 +632,8 @@
             "title": "emails.1.pdf",
             "source": "Henderson District Public Libraries",
             "description": "",
-            "doc_id": "",
-            "pages": 0
+            "doc_id": "28933521-emails1pdf",
+            "pages": 290
           },
           {
             "id": 1450465,
@@ -642,11 +642,188 @@
             "title": "emails.6.pdf",
             "source": "Henderson District Public Libraries",
             "description": "",
+            "doc_id": "28933520-emails6pdf",
+            "pages": 114
+          }
+        ],
+        "delivered": "web"
+      }
+    ]
+  },
+  {
+    "id": 227368,
+    "title": "Police incident and arrest log, last 30 days (Reno-Tahoe Airport Authority Police)",
+    "username": "Tidalfield",
+    "absolute_url": "https://www.muckrock.com/foi/reno-8962/police-incident-and-arrest-log-last-30-days-reno-tahoe-airport-authority-police-227368/",
+    "user": 194557,
+    "agency": 33245,
+    "slug": "police-incident-and-arrest-log-last-30-days-reno-tahoe-airport-authority-police",
+    "status": "done",
+    "embargo_status": "public",
+    "datetime_submitted": "2026-11-18T19:25:13.389329",
+    "datetime_done": "2026-11-24T15:23:18.604006",
+    "datetime_updated": "2026-11-24T15:23:18.604006",
+    "date_due": "2026-11-25",
+    "date_embargo": null,
+    "date_followup": null,
+    "days_until_due": null,
+    "disable_autofollowups": false,
+    "price": "0.00",
+    "tracking_id": "",
+    "tags": [
+      "multido",
+      "rr-vcky1y"
+    ],
+    "communications": [
+      {
+        "foia": 227368,
+        "from_user": 194557,
+        "to_user": 103644,
+        "subject": "Nevada Public Records Act Request: Police incident and arrest log, last 30 days (Reno-Tahoe Airport Authority Police)",
+        "datetime": "2026-11-18T19:25:13.574360",
+        "response": false,
+        "autogenerated": false,
+        "thanks": false,
+        "full_html": false,
+        "communication": "Hi,\n\nWe'd love a copy of the following records, under the Nevada public records law:\n\nThe Airport Authority Police incident log and arrest log for the last 30 days, in any electronic export that is easy for you: date and time, incident or case number, offense, location and disposition. We would be glad to narrow this, for example to arrests only or to a shorter period. If there is a fee, could you let us know first? Thank you so much for your help.\n\nThis covers October 19, 2026 through November 18, 2026.\n\nA CSV or spreadsheet sent by reply would be perfect, and a daily file would be wonderful if these update.\n\nIf you have an email list or regular report we could join, we'd happily use that instead.\n\nIf a fee waiver is possible, we'd appreciate it, since the records help inform the public.\n\nIf any part can't be shared, the rest would still help.\n\nAll the best",
+        "status": null,
+        "likely_foia": null,
+        "files": [],
+        "delivered": "email"
+      },
+      {
+        "foia": 227368,
+        "from_user": null,
+        "to_user": null,
+        "subject": "RE: Nevada Public Records Act Request: Police incident and arrest log, last 30 days (Reno-Tahoe Airport Authority Police)",
+        "datetime": "2026-11-20T12:43:56.845083",
+        "response": true,
+        "autogenerated": false,
+        "thanks": false,
+        "full_html": false,
+        "communication": "This office no longer handles these matters for the Reno-Tahoe International Airport.  I have forwarded your request to the appropriate people at the RTAA.\r\n\r\n\r\nDebbie Sorensen, she/her\r\nOffice Manager/Legal Administrative Assistant\r\n7800 Rancharrah Pkwy, Reno, NV 89511\r\nT:775.788.2240\r\ndsorensen@fennemorelaw.com\r\n\r\nLegal Administrative Assistant to:\r\nWade Beavers, Leslie Bryan Hart, Colleen A. Dolan\r\n\r\n\r\n\r\nCONFIDENTIALITY NOTICE:\r\nThe information contained in this message may be protected by the attorney-client privilege. \r\nIf you believe that it has been sent to you in error, do not read it. Please immediately reply \r\nto the sender that you have received the message in error. Then delete it. \r\nThank you.\n",
+        "status": "fix",
+        "likely_foia": 227368,
+        "files": [
+          {
+            "id": 1449206,
+            "ffile": "https://cdn.muckrock.com/foia_files/2026/11/20/WRD0002_DhmFGF5.jpg",
+            "datetime": "2026-11-20T12:43:56.884673",
+            "title": "~WRD0002",
+            "source": "Reno-tahoe Airport Authority, Reno, NV",
+            "description": "",
+            "doc_id": "",
+            "pages": 0
+          },
+          {
+            "id": 1449207,
+            "ffile": "https://cdn.muckrock.com/foia_files/2026/11/20/0.png",
+            "datetime": "2026-11-20T12:43:57.300145",
+            "title": "0",
+            "source": "Reno-tahoe Airport Authority, Reno, NV",
+            "description": "",
+            "doc_id": "",
+            "pages": 0
+          },
+          {
+            "id": 1449208,
+            "ffile": "https://cdn.muckrock.com/foia_files/2026/11/20/1.png",
+            "datetime": "2026-11-20T12:43:57.351450",
+            "title": "1",
+            "source": "Reno-tahoe Airport Authority, Reno, NV",
+            "description": "",
+            "doc_id": "",
+            "pages": 0
+          },
+          {
+            "id": 1449209,
+            "ffile": "https://cdn.muckrock.com/foia_files/2026/11/20/2.png",
+            "datetime": "2026-11-20T12:43:57.400466",
+            "title": "2",
+            "source": "Reno-tahoe Airport Authority, Reno, NV",
+            "description": "",
+            "doc_id": "",
+            "pages": 0
+          },
+          {
+            "id": 1449210,
+            "ffile": "https://cdn.muckrock.com/foia_files/2026/11/20/3.png",
+            "datetime": "2026-11-20T12:43:57.452314",
+            "title": "3",
+            "source": "Reno-tahoe Airport Authority, Reno, NV",
+            "description": "",
             "doc_id": "",
             "pages": 0
           }
         ],
-        "delivered": "web"
+        "delivered": "email"
+      },
+      {
+        "foia": 227368,
+        "from_user": null,
+        "to_user": null,
+        "subject": "Nevada Public Records Act Request: Police incident and arrest log, last 30 days (Reno-Tahoe Airport Authority Police)",
+        "datetime": "2026-11-24T15:23:18.604006",
+        "response": true,
+        "autogenerated": false,
+        "thanks": false,
+        "full_html": false,
+        "communication": "Good afternoon,\r\nThe public records request below was directed to an incorrect entity.  In the future, for any public records request to the Reno-Tahoe Airport Authority, please use this link:  Public Records Request Page - Reno-Tahoe International Airport<https://www.renoairport.com/airport-authority/public-meetings/request-public-records/>.\r\nIn the interest of time, we have gathered the documents requested and they are attached hereto.  Please let me know if you have any questions.\r\n\nLori Corkery      \u2708\ufe0f\r\nExecutive Assistant\r\nP: 775.328.6402\r\nwww.RenoAirport.com<http://www.renoairport.com/>\r\n[Logo  Description automatically generated]",
+        "status": "done",
+        "likely_foia": 227368,
+        "files": [
+          {
+            "id": 1450410,
+            "ffile": "https://cdn.muckrock.com/foia_files/2026/11/24/image007.jpg",
+            "datetime": "2026-11-24T15:23:18.641802",
+            "title": "image007",
+            "source": "Reno-tahoe Airport Authority, Reno, NV",
+            "description": "",
+            "doc_id": "",
+            "pages": 0
+          },
+          {
+            "id": 1450411,
+            "ffile": "https://cdn.muckrock.com/foia_files/2026/11/24/image001_HuVaYSG.png",
+            "datetime": "2026-11-24T15:23:18.877668",
+            "title": "image001",
+            "source": "Reno-tahoe Airport Authority, Reno, NV",
+            "description": "",
+            "doc_id": "",
+            "pages": 0
+          },
+          {
+            "id": 1450412,
+            "ffile": "https://cdn.muckrock.com/foia_files/2026/11/24/IncidentResults_GridExport.csv",
+            "datetime": "2026-11-24T15:23:18.951029",
+            "title": "IncidentResults_GridExport",
+            "source": "Reno-tahoe Airport Authority, Reno, NV",
+            "description": "",
+            "doc_id": "",
+            "pages": 0
+          },
+          {
+            "id": 1450413,
+            "ffile": "https://cdn.muckrock.com/foia_files/2026/11/24/CaseResults_GridExport.csv",
+            "datetime": "2026-11-24T15:23:19.013599",
+            "title": "CaseResults_GridExport",
+            "source": "Reno-tahoe Airport Authority, Reno, NV",
+            "description": "",
+            "doc_id": "",
+            "pages": 0
+          },
+          {
+            "id": 1450414,
+            "ffile": "https://cdn.muckrock.com/foia_files/2026/11/24/ArrestResults_GridExport.csv",
+            "datetime": "2026-11-24T15:23:19.076118",
+            "title": "ArrestResults_GridExport",
+            "source": "Reno-tahoe Airport Authority, Reno, NV",
+            "description": "",
+            "doc_id": "",
+            "pages": 0
+          }
+        ],
+        "delivered": "email"
       }
     ]
   },
@@ -1059,14 +1236,14 @@
         "likely_foia": null,
         "files": [
           {
-            "id": 1450316,
-            "ffile": "https://cdn.muckrock.com/inbound_request_attachments/DouglasCountyClerkOfTheDistrictCourt/225836/JurorUtilization-2026_1.pdf",
+            "id": 1450313,
+            "ffile": "https://cdn.muckrock.com/inbound_request_attachments/DouglasCountyClerkOfTheDistrictCourt/225836/Utilization-2026_1.pdf",
             "datetime": "2026-11-24T12:05:05.571299",
-            "title": "JurorUtilization-2026_1.pdf",
+            "title": "Utilization-2026_1.pdf",
             "source": "Douglas County Clerk Of The District Court",
             "description": "",
-            "doc_id": "",
-            "pages": 0
+            "doc_id": "28933513-utilization-2026_1pdf",
+            "pages": 43
           },
           {
             "id": 1450315,
@@ -1075,8 +1252,18 @@
             "title": "JurorUtilization-2025_1.pdf",
             "source": "Douglas County Clerk Of The District Court",
             "description": "",
-            "doc_id": "",
-            "pages": 0
+            "doc_id": "28933511-jurorutilization-2025_1pdf",
+            "pages": 2
+          },
+          {
+            "id": 1450316,
+            "ffile": "https://cdn.muckrock.com/inbound_request_attachments/DouglasCountyClerkOfTheDistrictCourt/225836/JurorUtilization-2026_1.pdf",
+            "datetime": "2026-11-24T12:05:05.571299",
+            "title": "JurorUtilization-2026_1.pdf",
+            "source": "Douglas County Clerk Of The District Court",
+            "description": "",
+            "doc_id": "28933510-jurorutilization-2026_1pdf",
+            "pages": 2
           },
           {
             "id": 1450314,
@@ -1085,68 +1272,8 @@
             "title": "JurorUtilization-2024_1.pdf",
             "source": "Douglas County Clerk Of The District Court",
             "description": "",
-            "doc_id": "",
-            "pages": 0
-          },
-          {
-            "id": 1450313,
-            "ffile": "https://cdn.muckrock.com/inbound_request_attachments/DouglasCountyClerkOfTheDistrictCourt/225836/Utilization-2026_1.pdf",
-            "datetime": "2026-11-24T12:05:05.571299",
-            "title": "Utilization-2026_1.pdf",
-            "source": "Douglas County Clerk Of The District Court",
-            "description": "",
-            "doc_id": "",
-            "pages": 0
-          },
-          {
-            "id": 1450311,
-            "ffile": "https://cdn.muckrock.com/inbound_request_attachments/DouglasCountyClerkOfTheDistrictCourt/225836/Utilization-2024_1.pdf",
-            "datetime": "2026-11-24T12:05:05.571299",
-            "title": "Utilization-2024_1.pdf",
-            "source": "Douglas County Clerk Of The District Court",
-            "description": "",
-            "doc_id": "",
-            "pages": 0
-          },
-          {
-            "id": 1450310,
-            "ffile": "https://cdn.muckrock.com/inbound_request_attachments/DouglasCountyClerkOfTheDistrictCourt/225836/Utilization-2023_July31_start_1.pdf",
-            "datetime": "2026-11-24T12:05:05.571299",
-            "title": "Utilization-2023_July31_start_1.pdf",
-            "source": "Douglas County Clerk Of The District Court",
-            "description": "",
-            "doc_id": "",
-            "pages": 0
-          },
-          {
-            "id": 1450309,
-            "ffile": "https://cdn.muckrock.com/inbound_request_attachments/DouglasCountyClerkOfTheDistrictCourt/225836/2023_Jan_1-July_26_-_JFW_Stats_2023.pdf",
-            "datetime": "2026-11-24T12:05:05.571299",
-            "title": "2023_Jan_1-July_26_-_JFW_Stats_2023.pdf",
-            "source": "Douglas County Clerk Of The District Court",
-            "description": "",
-            "doc_id": "",
-            "pages": 0
-          },
-          {
-            "id": 1450308,
-            "ffile": "https://cdn.muckrock.com/inbound_request_attachments/DouglasCountyClerkOfTheDistrictCourt/225836/2023_Jan_1-July_26_-_2023_Data.pdf",
-            "datetime": "2026-11-24T12:05:05.571299",
-            "title": "2023_Jan_1-July_26_-_2023_Data.pdf",
-            "source": "Douglas County Clerk Of The District Court",
-            "description": "",
-            "doc_id": "",
-            "pages": 0
-          },
-          {
-            "id": 1450312,
-            "ffile": "https://cdn.muckrock.com/inbound_request_attachments/DouglasCountyClerkOfTheDistrictCourt/225836/Utilization-2025_1.pdf",
-            "datetime": "2026-11-24T12:05:05.571299",
-            "title": "Utilization-2025_1.pdf",
-            "source": "Douglas County Clerk Of The District Court",
-            "description": "",
-            "doc_id": "",
-            "pages": 0
+            "doc_id": "28933509-jurorutilization-2024_1pdf",
+            "pages": 2
           },
           {
             "id": 1450317,
@@ -1155,8 +1282,58 @@
             "title": "JurorUtilization-Jul_2023-Dec_2023_1.pdf",
             "source": "Douglas County Clerk Of The District Court",
             "description": "",
-            "doc_id": "",
-            "pages": 0
+            "doc_id": "28933508-jurorutilization-jul_2023-dec_2023_1pdf",
+            "pages": 1
+          },
+          {
+            "id": 1450311,
+            "ffile": "https://cdn.muckrock.com/inbound_request_attachments/DouglasCountyClerkOfTheDistrictCourt/225836/Utilization-2024_1.pdf",
+            "datetime": "2026-11-24T12:05:05.571299",
+            "title": "Utilization-2024_1.pdf",
+            "source": "Douglas County Clerk Of The District Court",
+            "description": "",
+            "doc_id": "28933514-utilization-2024_1pdf",
+            "pages": 56
+          },
+          {
+            "id": 1450308,
+            "ffile": "https://cdn.muckrock.com/inbound_request_attachments/DouglasCountyClerkOfTheDistrictCourt/225836/2023_Jan_1-July_26_-_2023_Data.pdf",
+            "datetime": "2026-11-24T12:05:05.571299",
+            "title": "2023_Jan_1-July_26_-_2023_Data.pdf",
+            "source": "Douglas County Clerk Of The District Court",
+            "description": "",
+            "doc_id": "28933518-2023_jan_1-july_26_-_2023_datapdf",
+            "pages": 3
+          },
+          {
+            "id": 1450310,
+            "ffile": "https://cdn.muckrock.com/inbound_request_attachments/DouglasCountyClerkOfTheDistrictCourt/225836/Utilization-2023_July31_start_1.pdf",
+            "datetime": "2026-11-24T12:05:05.571299",
+            "title": "Utilization-2023_July31_start_1.pdf",
+            "source": "Douglas County Clerk Of The District Court",
+            "description": "",
+            "doc_id": "28933517-utilization-2023_july31_start_1pdf",
+            "pages": 36
+          },
+          {
+            "id": 1450309,
+            "ffile": "https://cdn.muckrock.com/inbound_request_attachments/DouglasCountyClerkOfTheDistrictCourt/225836/2023_Jan_1-July_26_-_JFW_Stats_2023.pdf",
+            "datetime": "2026-11-24T12:05:05.571299",
+            "title": "2023_Jan_1-July_26_-_JFW_Stats_2023.pdf",
+            "source": "Douglas County Clerk Of The District Court",
+            "description": "",
+            "doc_id": "28933516-2023_jan_1-july_26_-_jfw_stats_2023pdf",
+            "pages": 2
+          },
+          {
+            "id": 1450312,
+            "ffile": "https://cdn.muckrock.com/inbound_request_attachments/DouglasCountyClerkOfTheDistrictCourt/225836/Utilization-2025_1.pdf",
+            "datetime": "2026-11-24T12:05:05.571299",
+            "title": "Utilization-2025_1.pdf",
+            "source": "Douglas County Clerk Of The District Court",
+            "description": "",
+            "doc_id": "28933515-utilization-2025_1pdf",
+            "pages": 37
           }
         ],
         "delivered": "web"
@@ -5021,34 +5198,14 @@
             "pages": 4
           },
           {
-            "id": 1449419,
-            "ffile": "https://cdn.muckrock.com/inbound_request_attachments/OfficeoftheMayorofSanFrancisco/223787/Binder4.pdf",
+            "id": 1449415,
+            "ffile": "https://cdn.muckrock.com/inbound_request_attachments/OfficeoftheMayorofSanFrancisco/223787/All_Supporting_Documents_Binder_File_No._26059.pdf",
             "datetime": "2026-11-20T18:58:08.254015",
-            "title": "Binder4.pdf",
+            "title": "All_Supporting_Documents_Binder_File_No._26059.pdf",
             "source": "",
             "description": "",
-            "doc_id": "28928231-binder4pdf",
-            "pages": 13
-          },
-          {
-            "id": 1449417,
-            "ffile": "https://cdn.muckrock.com/inbound_request_attachments/OfficeoftheMayorofSanFrancisco/223787/Binder2_Redacted.pdf",
-            "datetime": "2026-11-20T18:58:08.254015",
-            "title": "Binder2_Redacted.pdf",
-            "source": "",
-            "description": "",
-            "doc_id": "28928232-binder2_redactedpdf",
-            "pages": 55
-          },
-          {
-            "id": 1449418,
-            "ffile": "https://cdn.muckrock.com/inbound_request_attachments/OfficeoftheMayorofSanFrancisco/223787/Sunshine_R._587_Prop_G.pdf",
-            "datetime": "2026-11-20T18:58:08.254015",
-            "title": "Sunshine_R._587_Prop_G.pdf",
-            "source": "",
-            "description": "",
-            "doc_id": "28928235-sunshine_r_587_prop_gpdf",
-            "pages": 1
+            "doc_id": "28928240-all_supporting_documents_binder_file_no_26059pdf",
+            "pages": 21
           },
           {
             "id": 1449416,
@@ -5061,14 +5218,34 @@
             "pages": 13
           },
           {
-            "id": 1449415,
-            "ffile": "https://cdn.muckrock.com/inbound_request_attachments/OfficeoftheMayorofSanFrancisco/223787/All_Supporting_Documents_Binder_File_No._26059.pdf",
+            "id": 1449418,
+            "ffile": "https://cdn.muckrock.com/inbound_request_attachments/OfficeoftheMayorofSanFrancisco/223787/Sunshine_R._587_Prop_G.pdf",
             "datetime": "2026-11-20T18:58:08.254015",
-            "title": "All_Supporting_Documents_Binder_File_No._26059.pdf",
+            "title": "Sunshine_R._587_Prop_G.pdf",
             "source": "",
             "description": "",
-            "doc_id": "28928240-all_supporting_documents_binder_file_no_26059pdf",
-            "pages": 21
+            "doc_id": "28928235-sunshine_r_587_prop_gpdf",
+            "pages": 1
+          },
+          {
+            "id": 1449417,
+            "ffile": "https://cdn.muckrock.com/inbound_request_attachments/OfficeoftheMayorofSanFrancisco/223787/Binder2_Redacted.pdf",
+            "datetime": "2026-11-20T18:58:08.254015",
+            "title": "Binder2_Redacted.pdf",
+            "source": "",
+            "description": "",
+            "doc_id": "28928232-binder2_redactedpdf",
+            "pages": 55
+          },
+          {
+            "id": 1449419,
+            "ffile": "https://cdn.muckrock.com/inbound_request_attachments/OfficeoftheMayorofSanFrancisco/223787/Binder4.pdf",
+            "datetime": "2026-11-20T18:58:08.254015",
+            "title": "Binder4.pdf",
+            "source": "",
+            "description": "",
+            "doc_id": "28928231-binder4pdf",
+            "pages": 13
           }
         ],
         "delivered": "web"
@@ -9650,392 +9827,6 @@
           }
         ],
         "delivered": "portal"
-      }
-    ]
-  },
-  {
-    "id": 207748,
-    "title": "911 Calls to Alexandria Staging Facility",
-    "username": "mariannedhe",
-    "absolute_url": "https://www.muckrock.com/foi/louisiana-233/911-calls-to-alexandria-staging-facility-207748/",
-    "user": 168669,
-    "agency": 45490,
-    "slug": "911-calls-to-alexandria-staging-facility",
-    "status": "done",
-    "embargo_status": "public",
-    "datetime_submitted": "2026-03-30T07:43:10.868128",
-    "datetime_done": "2026-11-19T10:46:15.315534",
-    "datetime_updated": "2026-11-19T10:46:15.315534",
-    "date_due": null,
-    "date_embargo": "2026-07-23",
-    "date_followup": null,
-    "days_until_due": -103,
-    "disable_autofollowups": false,
-    "price": "227.00",
-    "tracking_id": "",
-    "tags": [],
-    "communications": [
-      {
-        "foia": 207748,
-        "from_user": 168669,
-        "to_user": 181936,
-        "subject": "Louisiana Public Records Law Request: 911 Calls to Alexandria Staging Facility",
-        "datetime": "2026-03-30T07:43:11.001414",
-        "response": false,
-        "autogenerated": false,
-        "thanks": false,
-        "full_html": false,
-        "communication": "To Whom It May Concern:\r\n\r\nPursuant to the Louisiana Public Records Law, I hereby request the following records:\r\n\r\nRecords of 911 emergency calls to the Alexandria Staging Facility, 96 George Thompson Road, Alexandria, LA 71303, from January 20, 2025, to the date of this request. Responsive records should include, but not be limited to, audio recordings of all emergency calls, CAD incident notes, call taker notes, dispatch logs, and response priority classifications.\r\n\r\nI am a member of the media, and the documents will be used in the course of reporting. The request is not being made for commercial purposes. If there are fees that you determine cannot be waived for members of the media, please inform me of the total charges in advance. I would prefer the request be filled electronically, via e-mail attachment if available, or on a CD-ROM if not.\r\n\r\nThanks in advance. I look forward to receiving your response to this request within 3 business days, as the statute requires, as the statute requires.\r\n\r\nSincerely,\r\n\r\nMarianne Dhenin",
-        "status": null,
-        "likely_foia": null,
-        "files": [],
-        "delivered": "mail"
-      },
-      {
-        "foia": 207748,
-        "from_user": 4420,
-        "to_user": 181936,
-        "subject": "RE: Louisiana Public Records Law Request: 911 Calls to Alexandria Staging Facility",
-        "datetime": "2026-04-02T01:00:10.114593",
-        "response": false,
-        "autogenerated": true,
-        "thanks": false,
-        "full_html": false,
-        "communication": "To Whom It May Concern:\n\nI wanted to follow up on the following Louisiana Public Records Law request, copied below, and originally submitted on March 31, 2026. Please let me know when I can expect to receive a response.\n\nThanks for your help, and let me know if further clarification is needed.\n\n\n",
-        "status": null,
-        "likely_foia": null,
-        "files": [],
-        "delivered": "mail"
-      },
-      {
-        "foia": 207748,
-        "from_user": null,
-        "to_user": null,
-        "subject": "Records Request, 96 George Thompson",
-        "datetime": "2026-04-16T16:58:27.071809",
-        "response": true,
-        "autogenerated": false,
-        "thanks": false,
-        "full_html": false,
-        "communication": "Ms. Dhenin,\r\n\r\nThis email will acknowledge receipt of your public records request. We will work to secure all documents requested and will need to review each record to redact any information that is exempt from the Louisiana Public Records law. I anticipate that it will take approximately 30 days to perform this review.\r\n\r\nAdditionally, to answer your question relating to the follow-up request, please note that La. R.S. 44:32(D) provides for 5 days from the date of receipt, excluding Saturdays, Sundays and legal holidays, to respond. We received your initial request on April 10, 2026.\r\n\r\n\r\nRespectfully,\r\n\nAngie Branton, Director\r\nRapides Parish Communications District (911)\r\nRapides Parish OHSEP\r\n318-545-3810 (O)",
-        "status": "processed",
-        "likely_foia": 207748,
-        "files": [],
-        "delivered": "email"
-      },
-      {
-        "foia": 207748,
-        "from_user": 4420,
-        "to_user": 181936,
-        "subject": "RE: Louisiana Public Records Law Request: 911 Calls to Alexandria Staging Facility",
-        "datetime": "2026-05-01T01:00:03.687581",
-        "response": false,
-        "autogenerated": true,
-        "thanks": false,
-        "full_html": false,
-        "communication": "To Whom It May Concern:\n\nI'm following up on the following Louisiana Public Records Law request, copied below, and originally submitted on March 31, 2026. You had previously indicated that it would be completed on April 10, 2026. I wanted to check on the status of my request, and to see if there was a new estimated completion date.\n\nThanks for your help, and let me know if further clarification is needed.\n\n\n",
-        "status": null,
-        "likely_foia": null,
-        "files": [],
-        "delivered": "email"
-      },
-      {
-        "foia": 207748,
-        "from_user": 4420,
-        "to_user": 181936,
-        "subject": "RE: Louisiana Public Records Law Request: 911 Calls to Alexandria Staging Facility",
-        "datetime": "2026-05-18T01:00:06.138533",
-        "response": false,
-        "autogenerated": true,
-        "thanks": false,
-        "full_html": false,
-        "communication": "To Whom It May Concern:\n\nI'm following up on the following Louisiana Public Records Law request, copied below, and originally submitted on March 31, 2026. You had previously indicated that it would be completed on April 10, 2026. I wanted to check on the status of my request, and to see if there was a new estimated completion date.\n\nThanks for your help, and let me know if further clarification is needed.\n\n\n",
-        "status": null,
-        "likely_foia": null,
-        "files": [],
-        "delivered": "email"
-      },
-      {
-        "foia": 207748,
-        "from_user": 181936,
-        "to_user": 168669,
-        "subject": "RE: Louisiana Public Records Law Request: 911 Calls to Alexandria Staging Facility",
-        "datetime": "2026-05-28T14:36:38.723664",
-        "response": true,
-        "autogenerated": false,
-        "thanks": false,
-        "full_html": false,
-        "communication": "Mr. Dhenin,\r\nAll documented calls received at the Rapides Parish Communications District (911) during the time period of Jan 20, 2025 through April 10, 2026 for incidents at 96 George Thompson, the Alexandria Staging area, have been pulled along with initial notifications.\r\n\r\nThe audio has been put on a USB drive and the paper records are printed.\r\n\r\nThere are approx. 149 files on the USB.  Each file folder contains the audio for that precise call and it is saved by date.\r\n\r\nThere are 299 pages of  paper records  and the dates coincide with the file folders so that you can follow.\r\n\r\nThe cost associated with this request is $277.00 and the attached invoice is being submitted for payment.\r\n\r\nThe cost includes a fee to mail certified and will require a signature on your end.\r\nPlease send me the exact address you want these records mailed to and once I have that I can get in the mail that same day, if possible.\r\n\r\nThanks and will be waiting to hear from you\nAngie\r\n\r\nAngie Branton, Director\r\nRapides Parish Communications District (911)\r\nRapides Parish OHSEP\r\n318-545-3810 (O)",
-        "status": "payment",
-        "likely_foia": null,
-        "files": [
-          {
-            "id": 1390958,
-            "ffile": "https://cdn.muckrock.com/foia_files/2026/05/28/WRD0000_Jb3V9Tb.jpg",
-            "datetime": "2026-05-28T14:36:38.798992",
-            "title": "~WRD0000",
-            "source": "Rapides Parish Communication District, Louisiana",
-            "description": "",
-            "doc_id": "",
-            "pages": 0
-          },
-          {
-            "id": 1390959,
-            "ffile": "https://cdn.muckrock.com/foia_files/2026/05/28/695.pdf",
-            "datetime": "2026-05-28T14:36:39.043083",
-            "title": "695",
-            "source": "Rapides Parish Communication District, Louisiana",
-            "description": "",
-            "doc_id": "28170458-695",
-            "pages": 1
-          }
-        ],
-        "delivered": "email"
-      },
-      {
-        "foia": 207748,
-        "from_user": 181936,
-        "to_user": 168669,
-        "subject": "FW: Louisiana Public Records Law Request: 911 Calls to Alexandria Staging Facility",
-        "datetime": "2026-06-01T10:36:32.523204",
-        "response": true,
-        "autogenerated": false,
-        "thanks": false,
-        "full_html": false,
-        "communication": "Gentle reminder that I need a response in order to get these records in the mail to you.\nThank you,\r\nAngie\r\n\r\nAngie Branton, Director\r\nRapides Parish Communications District (911)\r\nRapides Parish OHSEP\r\n318-545-3810 (O)",
-        "status": "payment",
-        "likely_foia": null,
-        "files": [
-          {
-            "id": 1391713,
-            "ffile": "https://cdn.muckrock.com/foia_files/2026/06/01/WRD0000_W213JU8.jpg",
-            "datetime": "2026-06-01T10:36:32.622281",
-            "title": "~WRD0000",
-            "source": "Rapides Parish Communication District, Louisiana",
-            "description": "",
-            "doc_id": "",
-            "pages": 0
-          },
-          {
-            "id": 1391714,
-            "ffile": "https://cdn.muckrock.com/foia_files/2026/06/01/695.pdf",
-            "datetime": "2026-06-01T10:36:33.204948",
-            "title": "695",
-            "source": "Rapides Parish Communication District, Louisiana",
-            "description": "",
-            "doc_id": "28179875-695",
-            "pages": 1
-          }
-        ],
-        "delivered": "email"
-      },
-      {
-        "foia": 207748,
-        "from_user": 181936,
-        "to_user": 168669,
-        "subject": "FW: Louisiana Public Records Law Request: 911 Calls to Alexandria Staging Facility",
-        "datetime": "2026-06-04T16:05:08.347337",
-        "response": true,
-        "autogenerated": false,
-        "thanks": false,
-        "full_html": false,
-        "communication": "We are approaching the end of the week and I would like to get these records in the mail to you tomorrow if possible.\r\nThe hold up is a response to this email so that I know what address to mail the records (certified signature receipt) to.\r\n\r\nI respectfully request either a response to this email or you can reach me at my contact information below.\nThanks\r\nAngie\r\n\r\nAngie Branton, Director\r\nRapides Parish Communications District (911)\r\nRapides Parish OHSEP\r\n318-545-3810 (O)",
-        "status": "payment",
-        "likely_foia": null,
-        "files": [
-          {
-            "id": 1393068,
-            "ffile": "https://cdn.muckrock.com/foia_files/2026/06/04/WRD0000_hki9d9P.jpg",
-            "datetime": "2026-06-04T16:05:08.412809",
-            "title": "~WRD0000",
-            "source": "Rapides Parish Communication District, Louisiana",
-            "description": "",
-            "doc_id": "",
-            "pages": 0
-          },
-          {
-            "id": 1393069,
-            "ffile": "https://cdn.muckrock.com/foia_files/2026/06/04/695.pdf",
-            "datetime": "2026-06-04T16:05:08.873011",
-            "title": "695",
-            "source": "Rapides Parish Communication District, Louisiana",
-            "description": "",
-            "doc_id": "28195449-695",
-            "pages": 1
-          }
-        ],
-        "delivered": "email"
-      },
-      {
-        "foia": 207748,
-        "from_user": 181936,
-        "to_user": 168669,
-        "subject": "FW: Louisiana Public Records Law Request: 911 Calls to Alexandria Staging Facility",
-        "datetime": "2026-06-04T16:05:09.159167",
-        "response": true,
-        "autogenerated": false,
-        "thanks": false,
-        "full_html": false,
-        "communication": "We are approaching the end of the week and I would like to get these records in the mail to you tomorrow if possible.\r\nThe hold up is a response to this email so that I know what address to mail the records (certified signature receipt) to.\r\n\r\nI respectfully request either a response to this email or you can reach me at my contact information below.\nThanks\r\nAngie\r\n\r\nAngie Branton, Director\r\nRapides Parish Communications District (911)\r\nRapides Parish OHSEP\r\n318-545-3810 (O)",
-        "status": "fix",
-        "likely_foia": null,
-        "files": [
-          {
-            "id": 1393070,
-            "ffile": "https://cdn.muckrock.com/foia_files/2026/06/04/WRD0000_b6tqMgJ.jpg",
-            "datetime": "2026-06-04T16:05:09.209945",
-            "title": "~WRD0000",
-            "source": "Rapides Parish Communication District, Louisiana",
-            "description": "",
-            "doc_id": "",
-            "pages": 0
-          },
-          {
-            "id": 1393071,
-            "ffile": "https://cdn.muckrock.com/foia_files/2026/06/04/695_D46Eafx.pdf",
-            "datetime": "2026-06-04T16:05:09.335766",
-            "title": "695",
-            "source": "Rapides Parish Communication District, Louisiana",
-            "description": "",
-            "doc_id": "28195450-695",
-            "pages": 1
-          }
-        ],
-        "delivered": "email"
-      },
-      {
-        "foia": 207748,
-        "from_user": 9535,
-        "to_user": 181936,
-        "subject": "RE: Louisiana Public Records Law Request: 911 Calls to Alexandria Staging Facility",
-        "datetime": "2026-06-15T04:24:10.641412",
-        "response": false,
-        "autogenerated": false,
-        "thanks": false,
-        "full_html": false,
-        "communication": "Hello,\r\n\r\nThank you for your continued support on this request. Please use the following mailing address:\r\n\r\nMuckRock News DEPT MR#207748\r\n263 Huntington Ave\r\nBoston, MA 02115\r\n\r\nLet me know if you have any other questions.",
-        "status": null,
-        "likely_foia": null,
-        "files": [],
-        "delivered": "email"
-      },
-      {
-        "foia": 207748,
-        "from_user": 181936,
-        "to_user": 168669,
-        "subject": "",
-        "datetime": "2026-06-23T02:00:06.418717",
-        "response": true,
-        "autogenerated": false,
-        "thanks": false,
-        "full_html": false,
-        "communication": "A copy of documents responsive to the request.",
-        "status": "done",
-        "likely_foia": null,
-        "files": [
-          {
-            "id": 1397475,
-            "ffile": "https://cdn.muckrock.com/foia_files/2026/06/23/6-15-26_MR207748_P1.zip",
-            "datetime": "2026-06-23T02:00:06.418717",
-            "title": "Responsive Documents",
-            "source": "Rapides Parish Communication District, Louisiana",
-            "description": "",
-            "doc_id": "",
-            "pages": 0
-          }
-        ],
-        "delivered": "mail"
-      },
-      {
-        "foia": 207748,
-        "from_user": 181936,
-        "to_user": 168669,
-        "subject": "",
-        "datetime": "2026-06-23T02:00:08.665660",
-        "response": true,
-        "autogenerated": false,
-        "thanks": false,
-        "full_html": false,
-        "communication": "A copy of documents responsive to the request.",
-        "status": "done",
-        "likely_foia": null,
-        "files": [
-          {
-            "id": 1397476,
-            "ffile": "https://cdn.muckrock.com/foia_files/2026/06/23/6-15-26_MR207748.pdf",
-            "datetime": "2026-06-23T02:00:08.665660",
-            "title": "Responsive Documents",
-            "source": "Rapides Parish Communication District, Louisiana",
-            "description": "",
-            "doc_id": "28305014-6-15-26-mr207748",
-            "pages": 302
-          }
-        ],
-        "delivered": "mail"
-      },
-      {
-        "foia": 207748,
-        "from_user": 181936,
-        "to_user": 168669,
-        "subject": "",
-        "datetime": "2026-09-15T02:00:08.565759",
-        "response": true,
-        "autogenerated": false,
-        "thanks": false,
-        "full_html": false,
-        "communication": "A letter stating the requester must agree to or prepay assessed or estimated fees in order for the agency to continue processing the request.",
-        "status": "payment",
-        "likely_foia": null,
-        "files": [
-          {
-            "id": 1424303,
-            "ffile": "https://cdn.muckrock.com/foia_files/2026/09/15/9-3-26_MR207748.pdf",
-            "datetime": "2026-09-15T02:00:08.565759",
-            "title": "Payment Required",
-            "source": "Rapides Parish Communication District, Louisiana",
-            "description": "",
-            "doc_id": "28623432-9-3-26-mr207748",
-            "pages": 1
-          }
-        ],
-        "delivered": "mail"
-      },
-      {
-        "foia": 207748,
-        "from_user": 181936,
-        "to_user": 168669,
-        "subject": "RE: Louisiana Public Records Law Request: 911 Calls to Alexandria Staging Facility",
-        "datetime": "2026-11-19T10:46:15.315534",
-        "response": true,
-        "autogenerated": false,
-        "thanks": false,
-        "full_html": false,
-        "communication": "All records were provided to you in May of 2026 however, as of this email, the attached invoice has not been paid.\r\nCan you please set in line for payment?\nThanks\r\n\r\nAngie Branton, Director\r\nRapides Parish Communications District (911)\r\nRapides Parish OHSEP\r\n318-545-3810 (O)",
-        "status": "done",
-        "likely_foia": null,
-        "files": [
-          {
-            "id": 1448739,
-            "ffile": "https://cdn.muckrock.com/foia_files/2026/11/19/WRD3061.jpg",
-            "datetime": "2026-11-19T10:46:15.416857",
-            "title": "~WRD3061",
-            "source": "Rapides Parish Communication District, Louisiana",
-            "description": "",
-            "doc_id": "",
-            "pages": 0
-          },
-          {
-            "id": 1448740,
-            "ffile": "https://cdn.muckrock.com/foia_files/2026/11/19/695.pdf",
-            "datetime": "2026-11-19T10:46:15.753783",
-            "title": "695",
-            "source": "Rapides Parish Communication District, Louisiana",
-            "description": "",
-            "doc_id": "28924789-695",
-            "pages": 1
-          }
-        ],
-        "delivered": "email"
       }
     ]
   }
